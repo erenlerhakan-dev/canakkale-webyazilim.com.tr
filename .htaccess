@@ -1,36 +1,49 @@
 Options -Indexes
 
+# Hassas dosyalara erişimi engelle
 <FilesMatch "^(\.htaccess|\.htpasswd|\.ini|\.phps|\.bak|\.config|\.sql|\.log|composer\.json|composer\.lock)$">
     Require all denied
 </FilesMatch>
 
-RewriteRule "(^|/)\." - [F]
-
+# ----------------------------------------------------------------------
+# 2. MOD_REWRITE İŞLEMLERİ (HTTPS, WWW, PHP TEMİZLİĞİ)
+# ----------------------------------------------------------------------
 <IfModule mod_rewrite.c>
     RewriteEngine On
     RewriteBase /
+
+    # Gizli dosyalara (.git, .env vb.) erişimi yasakla
+    RewriteRule "(^|/)\." - [F]
+
+    # www ve HTTPS yönlendirmesi
     RewriteCond %{HTTPS} off [OR]
     RewriteCond %{HTTP_HOST} !^www\. [NC]
     RewriteRule ^ https://www.canakkale-webyazilim.com.tr%{REQUEST_URI} [L,R=301]
-    RewriteCond % {THE_REQUEST} ^[A-Z]{3,}\s/+(.*)\.php[\s?] [NC]
+
+    # .php uzantısını URL'den kaldır (301 Yönlendirmesi)
+    RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s/+(.*)\.php[\s?] [NC]
     RewriteRule ^(.*)\.php$ /$1 [R=301,L]
+
+    # Uzantısız gelen talebi arka planda .php'ye yönlendir
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteCond %{REQUEST_FILENAME}\.php -f
     RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+    # Temel saldırı engelleme (SQL/Script Injection)
+    RewriteCond %{QUERY_STRING} (<|%3C).*script.*(>|%3E) [NC,OR]
+    RewriteCond %{QUERY_STRING} GLOBALS(=|\[|\%[0-9A-Z]{0,2}) [OR]
+    RewriteCond %{QUERY_STRING} _REQUEST(=|\[|\%[0-9A-Z]{0,2})
+    RewriteRule ^(.*)$ index.php [F,L]
 </IfModule>
 
+# ----------------------------------------------------------------------
+# 3. GÜVENLİK BAŞLIKLARI VE PERFORMANS
+# ----------------------------------------------------------------------
 <IfModule mod_headers.c>
     Header set X-Frame-Options "SAMEORIGIN"
     Header set X-XSS-Protection "1; mode=block"
     Header set X-Content-Type-Options "nosniff"
     Header set Referrer-Policy "strict-origin-when-cross-origin"
-</IfModule>
-
-<IfModule mod_rewrite.c>
-    RewriteCond %{QUERY_STRING} (<|%3C).*script.*(>|%3E) [NC,OR]
-    RewriteCond %{QUERY_STRING} GLOBALS(=|\[|\%[0-9A-Z]{0,2}) [OR]
-    RewriteCond %{QUERY_STRING} _REQUEST(=|\[|\%[0-9A-Z]{0,2})
-    RewriteRule ^(.*)$ index.php [F,L]
 </IfModule>
 
 <IfModule mod_expires.c>
