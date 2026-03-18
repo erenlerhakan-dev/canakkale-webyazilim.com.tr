@@ -2,7 +2,7 @@
 $date1  = "2025-08-20";
 $date2  = "2025-08-20";
 $name   = "2026 İçin Gelişmiş SEO Optimizasyon Stratejileri";
-$title  = "2026’da Modern Web Geliştirme Trendleri | Çanakkale Web Tasarım";
+$title  = "2026 İçin Gelişmiş SEO Optimizasyon Stratejileri | Çanakkale Web Tasarım";
 $desc1  = "2026 yılı SEO trendleri ve gelişmiş optimizasyon stratejilerini keşfedin. Çanakkale web yazılım çözümleri ile web sitenizin görünürlüğünü artırın.";
 $desc2  = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
 $ogdesc = "Çanakkale web yazılım çözümleri ile 2026 SEO trendleri ve gelişmiş optimizasyon stratejilerini uygulayın, web sitenizi görünür kılın.";
