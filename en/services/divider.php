@@ -4,14 +4,14 @@
 
 <div class="col-xl-8 col-lg-7">
 <div class="cta-content md-text-center">
-<h3 class="heading text-white">İşinizi Dijitalleştirmenin Kolay Yolu. <span class="text-color-secondary"> Çözüm Cloud</span></h3>
+<h3 class="heading text-white">The Easy Way to Digitize Your Business. <span class="text-color-secondary"> Çözüm Cloud</span></h3>
 </div>
 </div>
 
 <div class="col-xl-4 col-lg-5">
 <div class="cta-button-group--two text-center">
-<a href="tel:+905347922531" class="btn btn--white btn-one"><span class="btn-icon me-2"><i class="fa fa-phone"></i></span> Telefon</a>
-<a href="https://canakkale-webyazilim.com.tr/contact-us.php" class="btn btn--secondary btn-two "><span class="btn-icon me-2"><i class="fas fa-info-circle"></i></span> İletişim</a>
+<a href="tel:+905347922531" class="btn btn--white btn-one"><span class="btn-icon me-2"><i class="fa fa-phone"></i></span> Phone</a>
+<a href="https://canakkale-webyazilim.com.tr/contact-us.php" class="btn btn--secondary btn-two "><span class="btn-icon me-2"><i class="fas fa-info-circle"></i></span> Contact</a>
 </div>
 </div>
 
