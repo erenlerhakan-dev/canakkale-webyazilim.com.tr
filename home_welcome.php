@@ -11,10 +11,10 @@
 </div>
 
 <div class="row">
-<div class="col-4">
+<div class="col-6">
 <a class="btn btn--white" href="https://www.canakkale-webyazilim.com.tr/iletisim" style="width: 90%;">İletişim</a>
 </div>
-<div class="col-4">
+<div class="col-6">
 <a class="btn btn--secondary" href="https://www.canakkale-webyazilim.com.tr/hizmetler" style="width: 90%;">Hizmetler</a>
 </div>
 </div>

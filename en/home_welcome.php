@@ -11,10 +11,10 @@
 </div>
 
 <div class="row">
-<div class="col-4">
+<div class="col-6">
 <a class="btn btn--white" href="https://www.canakkale-webyazilim.com.tr/en/contact-us" style="width: 90%;">Contact Us</a>
 </div>
-<div class="col-4">
+<div class="col-6">
 <a class="btn btn--secondary" href="https://www.canakkale-webyazilim.com.tr/en/our-services" style="width: 90%;">Services</a>
 </div>
 </div>
