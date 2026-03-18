@@ -15,10 +15,10 @@
 <link rel="stylesheet" href="/assets/css/style.css">
 <link rel="stylesheet" href="/assets/css/nice-select.css">
 
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.canakkale-webyazilim.com.tr/images/logo.png">
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.canakkale-webyazilim.com.tr/images/logo.png">
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.canakkale-webyazilim.com.tr/images/logo.png">
-<link rel="apple-touch-icon-precomposed" href="https://www.canakkale-webyazilim.com.tr/images/logo.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.canakkale-webyazilim.com.tr/images/cozum-cloud-logo.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.canakkale-webyazilim.com.tr/images/cozum-cloud-logo.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.canakkale-webyazilim.com.tr/images/cozum-cloud-logo.png">
+<link rel="apple-touch-icon-precomposed" href="https://www.canakkale-webyazilim.com.tr/images/cozum-cloud-logo.png">
 
 <meta name="google-site-verification" content="" />
 <meta name="msvalidate.01" content="" />

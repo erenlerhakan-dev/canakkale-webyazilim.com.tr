@@ -24,7 +24,7 @@
  },
  "mainEntityOfPage": {
  "@type": "WebPage",
- "@id": "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/yazilim-performans-optimizasyonu.php"
+ "@id": "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/yazilim-performans-optimizasyonu"
  }
 }
 </script>

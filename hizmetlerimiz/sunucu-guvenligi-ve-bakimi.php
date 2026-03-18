@@ -24,7 +24,7 @@
  },
  "mainEntityOfPage": {
    "@type": "WebPage",
-   "@id": "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/server-guvenlik-bakim.php"
+   "@id": "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/server-guvenlik-bakim"
  }
 }
 </script>

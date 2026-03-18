@@ -24,7 +24,7 @@
  },
  "mainEntityOfPage": {
  "@type": "WebPage",
- "@id": "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/teknik-danismanlik.php"
+ "@id": "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/teknik-danismanlik"
  }
 }
 </script>

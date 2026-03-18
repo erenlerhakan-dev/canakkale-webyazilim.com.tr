@@ -24,7 +24,7 @@
  },
  "mainEntityOfPage": {
  "@type": "WebPage",
- "@id": "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/crm-sistemleri.php"
+ "@id": "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/crm-sistemleri"
  }
 }
 </script>
