@@ -81,7 +81,7 @@
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">API Development Servicesi</h1>
+<h1 class="mb-15 text-white">API Development Service</h1>
 <h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>
@@ -95,7 +95,7 @@
 <div class="row">
 <div class="col-lg-4">
 <div class="modern-number-01">
-<h3 class="heading mt-30">Profesyonel <span class="text-color-primary"> API <br> Geliştirme</span> Servicesi</h3>
+<h3 class="heading mt-30">Professional <span class="text-color-primary"> API <br> Development</span> Service</h3>
 </div>
 </div>
 <div class="col-lg-7 offset-lg-1">
