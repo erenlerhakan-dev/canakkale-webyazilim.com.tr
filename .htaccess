@@ -4,6 +4,8 @@ Options -Indexes
     Require all denied
 </FilesMatch>
 
+RewriteRule ^sitemap.xml$ sitemap.php [L,NC]
+
 <IfModule mod_rewrite.c>
     RewriteEngine On
     RewriteBase /
