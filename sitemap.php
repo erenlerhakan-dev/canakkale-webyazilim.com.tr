@@ -10,7 +10,7 @@ echo '
 
 echo '
 <url>
-<loc>'; echo SITE_URL; echo '</loc>
+<loc>'; echo "https://www.canakkale-webyazilim.com.tr"; echo '</loc>
 <lastmod>'; echo date("m"); echo '</lastmod>
 <changefreq>weekly</changefreq>
 <priority>1.0</priority>
@@ -19,7 +19,7 @@ echo '
 
 echo '
 <url>
-<loc>'; echo SITE_URL; echo 'dovme-hakkinda-sik-sorulan-sorular.php</loc>
+<loc>'; echo "https://www.canakkale-webyazilim.com.tr"; echo 'dovme-hakkinda-sik-sorulan-sorular.php</loc>
 <lastmod>'; echo date("m"); echo '</lastmod>
 <changefreq>weekly</changefreq>
 <priority>1.0</priority>
@@ -28,7 +28,7 @@ echo '
 
 echo '
 <url>
-<loc>'; echo SITE_URL; echo 'hizmetler/index.php</loc>
+<loc>'; echo "https://www.canakkale-webyazilim.com.tr"; echo 'hizmetler/index.php</loc>
 <lastmod>'; echo date("m"); echo '</lastmod>
 <changefreq>weekly</changefreq>
 <priority>1.0</priority>
@@ -37,7 +37,7 @@ echo '
 
 echo '
 <url>
-<loc>'; echo SITE_URL; echo 'blog/index.php</loc>
+<loc>'; echo "https://www.canakkale-webyazilim.com.tr"; echo 'blog/index.php</loc>
 <lastmod>'; echo date("m"); echo '</lastmod>
 <changefreq>weekly</changefreq>
 <priority>1.0</priority>
