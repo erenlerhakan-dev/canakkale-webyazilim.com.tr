@@ -1,6 +1,6 @@
 <?php
-$date1  = "2025-11-05";
-$date2  = "2025-11-05";
+$date1  = "2025-08-10";
+$date2  = "2025-08-10";
 $name   = "Web Erişebilirliği: WCAG Yönergelerini Uygulama";
 $title  = "Web Erişebilirliği: WCAG Yönergelerini Uygulama | Çanakkale Web Tasarım";
 $desc1  = "Web erişilebilirliği ve WCAG yönergeleri rehberi. Çanakkale web yazılım çözümleri ile herkes için kullanılabilir web siteleri oluşturun.";

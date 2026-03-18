@@ -1,6 +1,6 @@
 <?php
-$date1  = "2025-11-05";
-$date2  = "2025-11-05";
+$date1  = "2025-06-25";
+$date2  = "2025-06-25";
 $name   = "Web Uygulamaları İçin Siber Güvenlik En İyi Uygulamaları";
 $title  = "Web Uygulamaları İçin Siber Güvenlik En İyi Uygulamaları | Çanakkale Web Tasarım";
 $desc1  = "Web uygulamaları için siber güvenlik rehberi. Çanakkale web yazılım çözümleri ile güvenli ve korunmuş web uygulamaları geliştirin ve veri ihlallerini önleyin.";

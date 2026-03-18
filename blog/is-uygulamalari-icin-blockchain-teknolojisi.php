@@ -1,6 +1,6 @@
 <?php
-$date1  = "2025-11-05";
-$date2  = "2025-11-05";
+$date1  = "2025-06-10";
+$date2  = "2025-06-10";
 $name   = "İş Uygulamaları İçin Blockchain Teknolojisi";
 $title  = "İş Uygulamaları İçin Blockchain Teknolojisi | Çanakkale Web Tasarım";
 $desc1  = "İş uygulamalarında blockchain teknolojisi rehberi. Çanakkale web yazılım çözümleri ile güvenli, şeffaf ve izlenebilir iş süreçleri oluşturun.";

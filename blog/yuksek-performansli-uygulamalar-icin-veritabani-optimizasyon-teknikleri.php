@@ -1,6 +1,6 @@
 <?php
-$date1  = "2025-11-05";
-$date2  = "2025-11-05";
+$date1  = "2025-10-10";
+$date2  = "2025-10-10";
 $name   = "Yüksek Performanslı Uygulamalar İçin Veritabanı Optimizasyon Teknikleri";
 $title  = "Yüksek Performanslı Uygulamalar İçin Veritabanı Optimizasyon Teknikleri | Çanakkale Web Tasarım";
 $desc1  = "Yüksek performanslı web uygulamaları için veritabanı optimizasyon tekniklerini keşfedin. Çanakkale web yazılım çözümleri ile hızlı ve ölçeklenebilir uygulamalar geliştirin.";

@@ -1,6 +1,6 @@
 <?php
-$date1  = "2025-11-05";
-$date2  = "2025-11-05";
+$date1  = "2025-08-05";
+$date2  = "2025-08-05";
 $name   = "E-Ticaret Platformları İçin Ödeme Geçidi Entegrasyonu";
 $title  = "E-Ticaret Platformları İçin Ödeme Geçidi Entegrasyonu | Çanakkale Web Tasarım";
 $desc1  = "E-ticaret siteleri için ödeme arayüzü entegrasyonu rehberi. Çanakkale web yazılım çözümleri ile güvenli ve hızlı ödeme sistemleri oluşturun.";

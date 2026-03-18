@@ -1,6 +1,6 @@
 <?php
-$date1  = "2025-11-05";
-$date2  = "2025-11-05";
+$date1  = "2025-11-01";
+$date2  = "2025-11-01";
 $name   = "Türk İşletmeleri için Özel CRM Sistemlerinin Faydaları";
 $title  = "Türk İşletmeleri için Özel CRM Sistemlerinin Faydaları | Çanakkale Web Tasarım";
 $desc1  = "Türk işletmeleri için özel CRM yazılımının avantajlarını keşfedin. Müşteri yönetimi, satış takibi ve iş süreçlerini kolaylaştıran CRM çözümleri ile işletmenizi büyütün.";

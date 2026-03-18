@@ -1,6 +1,6 @@
 <?php
-$date1  = "2025-11-05";
-$date2  = "2025-11-05";
+$date1  = "2025-10-01";
+$date2  = "2025-10-01";
 $name   = "Web Uygulamaları İçin API Güvenliği En İyi Uygulamaları";
 $title  = "Web Uygulamaları İçin API Güvenliği En İyi Uygulamaları | Çanakkale Web Tasarım";
 $desc1  = "Web uygulamalarında API güvenliği için en iyi uygulamaları keşfedin. Çanakkale web yazılım çözümleri ile güvenli ve ölçeklenebilir API entegrasyonları oluşturun.";

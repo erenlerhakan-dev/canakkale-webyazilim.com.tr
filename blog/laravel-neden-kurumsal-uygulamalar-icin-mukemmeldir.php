@@ -1,6 +1,6 @@
 <?php
-$date1  = "2025-11-05";
-$date2  = "2025-11-05";
+$date1  = "2025-10-20";
+$date2  = "2025-10-20";
 $name   = "Laravel Neden Kurumsal Uygulamalar İçin Mükemmeldir";
 $title  = "Laravel Neden Kurumsal Uygulamalar İçin Mükemmeldir | Çanakkale Web Tasarım";
 $desc1  = "Laravel framework neden kurumsal web uygulamaları için tercih edilir? Güvenlik, performans, ölçeklenebilirlik ve modern yazılım mimarisi ile Laravel'in avantajlarını keşfedin.";

@@ -1,6 +1,6 @@
 <?php
-$date1  = "2025-11-05";
-$date2  = "2025-11-05";
+$date1  = "2025-09-25";
+$date2  = "2025-09-25";
 $name   = "Bulut Hosting Çözümlerine Eksiksiz Rehber";
 $title  = "Bulut Hosting Çözümlerine Eksiksiz Rehber | Çanakkale Web Tasarım";
 $desc1  = "Bulut hosting çözümlerini keşfedin. Çanakkale web yazılım hizmetleri ile hızlı, güvenli ve ölçeklenebilir bulut hosting stratejilerini öğrenin.";

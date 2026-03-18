@@ -1,6 +1,6 @@
 <?php
-$date1  = "2025-11-05";
-$date2  = "2025-11-05";
+$date1  = "2025-07-01";
+$date2  = "2025-07-01";
 $name   = "B2B Platform Geliştirme: Özellikler ve En İyi Uygulamalar";
 $title  = "B2B Platform Geliştirme: Özellikler ve En İyi Uygulamalar | Çanakkale Web Tasarım";
 $desc1  = "B2B platform geliştirme rehberi. Çanakkale web yazılım çözümleri ile işletmeniz için güçlü, ölçeklenebilir ve güvenli B2B platformlar geliştirin.";

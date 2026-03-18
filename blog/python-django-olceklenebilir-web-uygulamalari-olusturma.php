@@ -1,6 +1,6 @@
 <?php
-$date1  = "2025-11-05";
-$date2  = "2025-11-05";
+$date1  = "2025-09-10";
+$date2  = "2025-09-10";
 $name   = "Python Django: Ölçeklenebilir Web Uygulamaları Oluşturma";
 $title  = "Python Django: Ölçeklenebilir Web Uygulamaları Oluşturma | Çanakkale Web Tasarım";
 $desc1  = "Python Django ile ölçeklenebilir web uygulamaları geliştirme rehberi. Çanakkale web yazılım çözümleri ile güvenli, hızlı ve performanslı projeler oluşturun.";

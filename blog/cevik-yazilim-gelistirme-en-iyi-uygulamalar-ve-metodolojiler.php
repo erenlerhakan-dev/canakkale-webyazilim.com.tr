@@ -1,6 +1,6 @@
 <?php
-$date1  = "2025-11-05";
-$date2  = "2025-11-05";
+$date1  = "2025-08-15";
+$date2  = "2025-08-15";
 $name   = "Çevik Yazılım Geliştirme: En İyi Uygulamalar ve Metodolojiler";
 $title  = "Çevik Yazılım Geliştirme: En İyi Uygulamalar ve Metodolojiler | Çanakkale Web Tasarım";
 $desc1  = "Çevik yazılım geliştirme metodolojileri ve en iyi uygulamalar rehberi. Çanakkale web yazılım çözümleri ile projelerinizi hızlı ve verimli yönetin.";

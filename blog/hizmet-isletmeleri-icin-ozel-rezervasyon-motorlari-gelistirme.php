@@ -1,6 +1,6 @@
 <?php
-$date1  = "2025-11-05";
-$date2  = "2025-11-05";
+$date1  = "2025-09-01";
+$date2  = "2025-09-01";
 $name   = "Hizmet İşletmeleri İçin Özel Rezervasyon Motorları Geliştirme";
 $title  = "Hizmet İşletmeleri İçin Özel Rezervasyon Motorları Geliştirme | Çanakkale Web Tasarım";
 $desc1  = "Hizmet işletmeleri için özel rezervasyon motorları geliştirme rehberi. Çanakkale web yazılım çözümleri ile online rezervasyon süreçlerinizi optimize edin.";

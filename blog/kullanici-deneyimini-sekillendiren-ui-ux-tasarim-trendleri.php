@@ -1,6 +1,6 @@
 <?php
-$date1  = "2025-11-05";
-$date2  = "2025-11-05";
+$date1  = "2025-09-05";
+$date2  = "2025-09-05";
 $name   = "Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri";
 $title  = "Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri | Çanakkale Web Tasarım";
 $desc1  = "2026 yılında UI/UX tasarım trendlerini keşfedin. Çanakkale web yazılım çözümleri ile kullanıcı deneyimini artıracak modern tasarım stratejilerini öğrenin.";

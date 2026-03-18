@@ -1,6 +1,6 @@
 <?php
-$date1  = "2025-11-05";
-$date2  = "2025-11-05";
+$date1  = "2025-07-05";
+$date2  = "2025-07-05";
 $name   = "Verimli Dağıtım İçin DevOps ve CI/CD Pipeline'ları";
 $title  = "Verimli Dağıtım İçin DevOps ve CI/CD Pipeline'ları | Çanakkale Web Tasarım";
 $desc1  = "DevOps ve CI/CD pipeline kullanımı ile yazılım dağıtım süreçlerinizi optimize edin. Çanakkale web yazılım çözümleri ile hızlı ve güvenli yazılım teslimi sağlayın.";

@@ -1,6 +1,6 @@
 <?php
-$date1  = "2025-11-05";
-$date2  = "2025-11-05";
+$date1  = "2025-07-25";
+$date2  = "2025-07-25";
 $name   = "İşletmeniz İçin Doğru CMS Platformunu Seçmek";
 $title  = "İşletmeniz İçin Doğru CMS Platformunu Seçmek | Çanakkale Web Tasarım";
 $desc1  = "Doğru CMS platformu seçimi rehberi. Çanakkale web yazılım çözümleri ile işletmeniz için en uygun içerik yönetim sistemini belirleyin ve verimli web siteleri oluşturun.";

@@ -1,6 +1,6 @@
 <?php
-$date1  = "2025-11-05";
-$date2  = "2025-11-05";
+$date1  = "2025-09-15";
+$date2  = "2025-09-15";
 $name   = "İlerici Web Uygulamaları: Web Geliştirmenin Geleceği";
 $title  = "İlerici Web Uygulamaları: Web Geliştirmenin Geleceği | Çanakkale Web Tasarım";
 $desc1  = "İlerici web uygulamaları (Progressive Web Apps) ile modern web geliştirme trendlerini keşfedin. Çanakkale web yazılım çözümleri ile geleceğe uygun web uygulamaları oluşturun.";

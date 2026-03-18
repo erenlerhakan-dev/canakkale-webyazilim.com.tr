@@ -1,6 +1,6 @@
 <?php
-$date1  = "2025-11-05";
-$date2  = "2025-11-05";
+$date1  = "2025-06-15";
+$date2  = "2025-06-15";
 $name   = "İş Uygulamaları İçin Yapay Zeka ve Makine Öğrenimi";
 $title  = "İş Uygulamaları İçin Yapay Zeka ve Makine Öğrenimi | Çanakkale Web Tasarım";
 $desc1  = "İş uygulamalarında yapay zeka ve makine öğrenimi kullanımı rehberi. Çanakkale web yazılım çözümleri ile işletmenizde verimlilik ve otomasyon sağlayın.";

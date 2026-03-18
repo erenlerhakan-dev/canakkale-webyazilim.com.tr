@@ -1169,7 +1169,7 @@
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
-<div class="post-date"><span class="far fa-calendar meta-icon"></span>5 Temmuz 2025</div>
+<div class="post-date"><span class="far fa-calendar meta-icon"></span>1 Temmuz 2025</div>
 <div class="post-view"><span class="fa fa-list meta-icon"></span>B2B</div>
 </div>
 
@@ -1213,7 +1213,7 @@
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
-<div class="post-date"><span class="far fa-calendar meta-icon"></span>1 Temmuz 2025</div>
+<div class="post-date"><span class="far fa-calendar meta-icon"></span>25 Haziran 2025</div>
 <div class="post-view"><span class="fa fa-list meta-icon"></span>Güvenlik</div>
 </div>
 

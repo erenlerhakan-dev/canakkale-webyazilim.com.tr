@@ -1,6 +1,6 @@
 <?php
-$date1  = "2025-11-05";
-$date2  = "2025-11-05";
+$date1  = "2025-08-20";
+$date2  = "2025-08-20";
 $name   = "2026 İçin Gelişmiş SEO Optimizasyon Stratejileri";
 $title  = "2026’da Modern Web Geliştirme Trendleri | Çanakkale Web Tasarım";
 $desc1  = "2026 yılı SEO trendleri ve gelişmiş optimizasyon stratejilerini keşfedin. Çanakkale web yazılım çözümleri ile web sitenizin görünürlüğünü artırın.";

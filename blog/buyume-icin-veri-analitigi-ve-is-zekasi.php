@@ -1,6 +1,6 @@
 <?php
-$date1  = "2025-11-05";
-$date2  = "2025-11-05";
+$date1  = "2025-07-15";
+$date2  = "2025-07-15";
 $name   = "Büyüme İçin Veri Analitiği ve İş Zekası";
 $title  = "Büyüme İçin Veri Analitiği ve İş Zekası | Çanakkale Web Tasarım";
 $desc1  = "Veri analitiği ve iş zekası ile işletmenizin büyümesini hızlandırın. Çanakkale web yazılım çözümleri ile veriye dayalı kararlar alın ve rekabette öne geçin.";

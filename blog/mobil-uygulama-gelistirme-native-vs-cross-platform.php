@@ -1,6 +1,6 @@
 <?php
-$date1  = "2025-11-05";
-$date2  = "2025-11-05";
+$date1  = "2025-07-10";
+$date2  = "2025-07-10";
 $name   = "Mobil Uygulama Geliştirme: Native vs Cross-Platform";
 $title  = "Mobil Uygulama Geliştirme: Native vs Cross-Platform | Çanakkale Web Tasarım";
 $desc1  = "Native ve Cross-Platform mobil uygulama geliştirme rehberi. Çanakkale web yazılım çözümleri ile işletmeniz için doğru mobil geliştirme yöntemini seçin.";

@@ -1,6 +1,6 @@
 <?php
-$date1  = "2025-11-05";
-$date2  = "2025-11-05";
+$date1  = "2025-06-20";
+$date2  = "2025-06-20";
 $name   = "Web Sitesi Performans Optimizasyon Teknikleri";
 $title  = "Web Sitesi Performans Optimizasyon Teknikleri | Çanakkale Web Tasarım";
 $desc1  = "Web sitesi performansını artırmak için etkili optimizasyon teknikleri. Çanakkale web yazılım çözümleri ile hızlı ve verimli web siteleri oluşturun.";

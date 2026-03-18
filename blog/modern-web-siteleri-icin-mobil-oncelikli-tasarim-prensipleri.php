@@ -1,6 +1,6 @@
 <?php
-$date1  = "2025-11-05";
-$date2  = "2025-11-05";
+$date1  = "2025-10-05";
+$date2  = "2025-10-05";
 $name   = "Modern Web Siteleri İçin Mobil Öncelikli Tasarım Prensipleri";
 $title  = "Modern Web Siteleri İçin Mobil Öncelikli Tasarım Prensipleri | Çanakkale Web Tasarım";
 $desc1  = "Modern web siteleri için mobil öncelikli tasarım prensiplerini öğrenin. Çanakkale web tasarım çözümleri ile kullanıcı deneyimini artırın ve SEO performansınızı yükseltin.";

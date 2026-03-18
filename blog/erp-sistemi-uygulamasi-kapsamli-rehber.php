@@ -1,6 +1,6 @@
 <?php
-$date1  = "2025-11-05";
-$date2  = "2025-11-05";
+$date1  = "2025-09-20";
+$date2  = "2025-09-20";
 $name   = "ERP Sistemi Uygulaması: Kapsamlı Rehber";
 $title  = "ERP Sistemi Uygulaması: Kapsamlı Rehber | Çanakkale Web Tasarım";
 $desc1  = "ERP sistemi uygulamaları hakkında kapsamlı rehber. Çanakkale web yazılım çözümleri ile kurumsal yazılımlarınızı optimize edin ve süreçlerinizi hızlandırın.";

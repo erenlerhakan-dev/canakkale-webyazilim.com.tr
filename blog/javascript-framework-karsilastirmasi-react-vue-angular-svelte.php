@@ -1,6 +1,6 @@
 <?php
-$date1  = "2025-11-05";
-$date2  = "2025-11-05";
+$date1  = "2025-07-20";
+$date2  = "2025-07-20";
 $name   = "JavaScript Framework Karşılaştırması: React, Vue, Angular, Svelte";
 $title  = "JavaScript Framework Karşılaştırması: React, Vue, Angular, Svelte | Çanakkale Web Tasarım";
 $desc1  = "React, Vue, Angular ve Svelte karşılaştırması rehberi. Çanakkale web yazılım çözümleri ile doğru JavaScript framework'ünü seçin ve modern web uygulamaları geliştirin.";

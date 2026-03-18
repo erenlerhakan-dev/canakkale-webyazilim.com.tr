@@ -1,6 +1,6 @@
 <?php
-$date1  = "2025-11-05";
-$date2  = "2025-11-05";
+$date1  = "2025-08-25";
+$date2  = "2025-08-25";
 $name   = "Mikroservis Mimarisi: Faydalar ve Zorluklar";
 $title  = "Mikroservis Mimarisi: Faydalar ve Zorluklar | Çanakkale Web Tasarım";
 $desc1  = "Mikroservis mimarisi ile ölçeklenebilir ve esnek web uygulamaları geliştirin. Çanakkale web yazılım çözümleri ile avantajlar ve zorlukları keşfedin.";

@@ -1,6 +1,6 @@
 <?php
-$date1  = "2025-11-05";
-$date2  = "2025-11-05";
+$date1  = "2025-08-01";
+$date2  = "2025-08-01";
 $name   = "Modern Uygulamalar İçin Docker Konteynerizasyonu";
 $title  = "Modern Uygulamalar İçin Docker Konteynerizasyonu | Çanakkale Web Tasarım";
 $desc1  = "Docker konteynerizasyonu ile modern uygulamaları hızlı, taşınabilir ve ölçeklenebilir hale getirin. Çanakkale web yazılım çözümleri ile projelerinizi optimize edin.";

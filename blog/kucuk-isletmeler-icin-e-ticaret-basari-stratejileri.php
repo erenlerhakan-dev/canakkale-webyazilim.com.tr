@@ -1,6 +1,6 @@
 <?php
-$date1  = "2025-11-05";
-$date2  = "2025-11-05";
+$date1  = "2025-10-25";
+$date2  = "2025-10-25";
 $name   = "Küçük İşletmeler için E-Ticaret Başarı Stratejileri";
 $title  = "Küçük İşletmeler için E-Ticaret Başarı Stratejileri | Çanakkale Web Tasarım";
 $desc1  = "Küçük işletmeler için e-ticaret başarı stratejileri. Online satışları artırmak, müşteri kazanmak ve dijital pazarda büyümek için etkili e-ticaret yöntemlerini keşfedin.";

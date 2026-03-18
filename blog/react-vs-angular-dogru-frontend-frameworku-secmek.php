@@ -1,6 +1,6 @@
 <?php
-$date1  = "2025-11-05";
-$date2  = "2025-11-05";
+$date1  = "2025-10-15";
+$date2  = "2025-10-15";
 $name   = "React vs Angular: Doğru Frontend Framework'ü Seçmek";
 $title  = "React vs Angular: Doğru Frontend Framework'ü Seçmek | Çanakkale Web Tasarım";
 $desc1  = "React ve Angular arasındaki farkları keşfedin. Modern web uygulamaları için hangi frontend framework'ün daha uygun olduğunu öğrenin.";
