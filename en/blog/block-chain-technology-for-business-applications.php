@@ -76,9 +76,7 @@
 
 <div class="post-info lg-blog-post-info">
 
-<div class="post-categories text-center">
-<a href="javascript:void(0);">Blockchain, Business Applications, Canakkale Web Development</a>
-</div>
+<div class="post-categories text-center">Blockchain, Business Applications, Canakkale Web Development</div>
 
 <h3 class="post-title text-center">
 <a href="javascript:void(0);">

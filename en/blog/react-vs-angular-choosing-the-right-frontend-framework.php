@@ -77,10 +77,7 @@
 
 <div class="post-info lg-blog-post-info">
 
-<div class="post-categories text-center">
-<a href="#">Frontend</a>, 
-<a href="#">Web Geliştirme</a>
-</div>
+<div class="post-categories text-center">Frontend, Web Geliştirme</div>
 
 <h1 class="post-title text-center">
 React vs Angular: Doğru Frontend Framework'ü Seçmek

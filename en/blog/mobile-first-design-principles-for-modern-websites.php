@@ -76,9 +76,7 @@
 
 <div class="post-info lg-blog-post-info">
 
-<div class="post-categories text-center">
-<a href="javascript:void(0);">Web Tasarım, Mobil Tasarım</a>
-</div>
+<div class="post-categories text-center">Web Tasarım, Mobil Tasarım</div>
 
 <h3 class="post-title text-center">
 <a href="javascript:void(0);">

@@ -77,14 +77,9 @@
 
 <div class="post-info lg-blog-post-info">
 
-<div class="post-categories text-center">
-<a href="#">E-Ticaret</a>, 
-<a href="#">Dijital Pazarlama</a>
-</div>
+<div class="post-categories text-center">E-Ticaret, Dijital Pazarlama</div>
 
-<h1 class="post-title text-center">
-Küçük İşletmeler için E-Ticaret Başarı Stratejileri
-</h1>
+<h1 class="post-title text-center">Küçük İşletmeler için E-Ticaret Başarı Stratejileri</h1>
 
 <div class="post-excerpt mt-15">
 

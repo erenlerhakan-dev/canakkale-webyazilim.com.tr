@@ -76,9 +76,7 @@
 
 <div class="post-info lg-blog-post-info">
 
-<div class="post-categories text-center">
-<a href="javascript:void(0);">Docker, DevOps, Web Geliştirme</a>
-</div>
+<div class="post-categories text-center">Docker, DevOps, Web Geliştirme</div>
 
 <h3 class="post-title text-center">
 <a href="javascript:void(0);">

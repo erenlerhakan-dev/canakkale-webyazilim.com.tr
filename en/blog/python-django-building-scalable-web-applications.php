@@ -76,9 +76,7 @@
 
 <div class="post-info lg-blog-post-info">
 
-<div class="post-categories text-center">
-<a href="javascript:void(0);">Python, Django, Web Geliştirme</a>
-</div>
+<div class="post-categories text-center">Python, Django, Web Geliştirme</div>
 
 <h3 class="post-title text-center">
 <a href="javascript:void(0);">

@@ -76,15 +76,9 @@
 
 <div class="post-info lg-blog-post-info">
 
-<div class="post-categories text-center">
-<a href="javascript:void(0);">SEO, Web Development</a>
-</div>
+<div class="post-categories text-center">SEO, Web Development</div>
 
-<h3 class="post-title text-center">
-<a href="javascript:void(0);">
-Advanced SEO Optimization Strategies for 2026
-</a>
-</h3>
+<h1 class="post-title text-center">Advanced SEO Optimization Strategies for 2026</h1>
 
 <div class="post-excerpt mt-15">
 

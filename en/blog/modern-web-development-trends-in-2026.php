@@ -80,10 +80,7 @@
 
 <div class="post-info lg-blog-post-info">
 
-<div class="post-categories text-center">
-<a href="#">Web Tasarım</a>, 
-<a href="#">Çanakkale Web Tasarım</a>
-</div>
+<div class="post-categories text-center">Web Tasarım, Çanakkale Web Tasarım</div>
 
 <h1 class="post-title text-center">
 2026’ta Modern Web Geliştirme Trendleri: Çanakkale Web Tasarım Dünyasında Yeni Teknolojiler

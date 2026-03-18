@@ -77,9 +77,7 @@
 
 <div class="post-info lg-blog-post-info">
 
-<div class="post-categories text-center">
-<a href="#">CRM Software, Business Software</a>
-</div>
+<div class="post-categories text-center">CRM Software, Business Software</div>
 
 <h1 class="post-title text-center">
 Benefits of Customized CRM Systems for Turkish Businesses

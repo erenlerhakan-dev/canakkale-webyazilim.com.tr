@@ -76,9 +76,7 @@
 
 <div class="post-info lg-blog-post-info">
 
-<div class="post-categories text-center">
-<a href="javascript:void(0);">UI/UX, Web Tasarım</a>
-</div>
+<div class="post-categories text-center">UI/UX, Web Tasarım</div>
 
 <h3 class="post-title text-center">
 <a href="javascript:void(0);">

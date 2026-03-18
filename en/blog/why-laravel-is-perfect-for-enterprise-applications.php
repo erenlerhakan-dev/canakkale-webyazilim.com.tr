@@ -77,10 +77,7 @@
 
 <div class="post-info lg-blog-post-info">
 
-<div class="post-categories text-center">
-<a href="#">Laravel</a>, 
-<a href="#">Web Yazılım</a>
-</div>
+<div class="post-categories text-center">Laravel, Web Yazılım</div>
 
 <h1 class="post-title text-center">
 Laravel Neden Kurumsal Uygulamalar İçin Mükemmeldir

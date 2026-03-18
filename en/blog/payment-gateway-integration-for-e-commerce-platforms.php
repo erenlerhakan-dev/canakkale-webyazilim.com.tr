@@ -76,9 +76,7 @@
 
 <div class="post-info lg-blog-post-info">
 
-<div class="post-categories text-center">
-<a href="javascript:void(0);">E-Ticaret, Ödeme Sistemleri, Web Geliştirme</a>
-</div>
+<div class="post-categories text-center">E-Ticaret, Ödeme Sistemleri, Web Geliştirme</div>
 
 <h3 class="post-title text-center">
 <a href="javascript:void(0);">
