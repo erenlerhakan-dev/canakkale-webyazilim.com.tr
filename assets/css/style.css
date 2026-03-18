@@ -4854,7 +4854,7 @@ ul.footer-widget__horizontal-list li {
 
 .cta-bg-image_two {
   background-color: #f6f2ed;
-  background-image: url(../images/patterns/mitech-home-appointment-call-to-action-bg-image.webp);
+  background-image: url(/images/mitech-home-appointment-call-to-action-bg-image.webp);
   background-repeat: no-repeat;
   background-position: top right;
 }
