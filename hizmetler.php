@@ -18,7 +18,7 @@
 <meta name="twitter:description" content="Çanakkale Web Yazılım - Profesyonel Web Geliştirme ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Rezervasyon Sistemleri ve Laravel, React, Django ve daha fazlasıyla özel yazılım geliştirme.">
 <meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/logo.png">
 
-<script type="application/ld+json" data-rh="true">{"@context":"https://schema.org","@type":"LocalBusiness","name":"Çanakkale Web Yazılım","url":"https://canakkale-webyazilim.com.tr","logo":"https://canakkale-webyazilim.com.tr/logo.png","description":"Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri","address":{"@type":"PostalAddress","streetAddress":"Esenler Mh. Ahmet Piriştina Cd. No:19 Daire:17","addressLocality":"Çanakkale","postalCode":"17000","addressCountry":"TR"},"contactPoint":{"@type":"ContactPoint","telephone":"+90-534-792-2531","contactType":"customer service","email":"info@cozumcloud.com.tr"},"sameAs":["https://www.facebook.com/cozum.cloud/","https://x.com/cozumcloud","https://www.instagram.com/cozum.cloud/","https://www.linkedin.com/company/cozum-cloud"]}</script>
+<script type="application/ld+json" data-rh="true">{"@context":"https://schema.org","@type":"LocalBusiness","name":"Çanakkale Web Yazılım","url":"https://canakkale-webyazilim.com.tr","logo":"https://www.canakkale-webyazilim.com.tr/logo.png","description":"Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri","address":{"@type":"PostalAddress","streetAddress":"Esenler Mh. Ahmet Piriştina Cd. No:19 Daire:17","addressLocality":"Çanakkale","postalCode":"17000","addressCountry":"TR"},"contactPoint":{"@type":"ContactPoint","telephone":"+90-534-792-2531","contactType":"customer service","email":"info@cozumcloud.com.tr"},"sameAs":["https://www.facebook.com/cozum.cloud/","https://x.com/cozumcloud","https://www.instagram.com/cozum.cloud/","https://www.linkedin.com/company/cozum-cloud"]}</script>
 
 </head>
 
@@ -253,7 +253,7 @@
 <div class="col-lg-12">
 <div class="feature-list-button-box mt-30 text-center">
 <a href="tel:+905347922531" class="ht-btn ht-btn-md">Destek Ekibimiz İle Konuşun</a>
-<a href="https://canakkale-webyazilim.com.tr/iletisim" class="ht-btn ht-btn-md ht-btn--outline">Bize Yazın</a>
+<a href="https://www.canakkale-webyazilim.com.tr/iletisim" class="ht-btn ht-btn-md ht-btn--outline">Bize Yazın</a>
 </div>
 </div>
 

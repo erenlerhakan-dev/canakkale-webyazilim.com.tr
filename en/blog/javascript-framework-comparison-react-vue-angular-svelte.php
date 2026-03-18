@@ -9,8 +9,8 @@
 
 <meta property="og:title" content="JavaScript Framework Karşılaştırması: React, Vue, Angular, Svelte">
 <meta property="og:description" content="Çanakkale Web Development çözümleri ile React, Vue, Angular ve Svelte framework'lerini karşılaştırın ve işletmeniz için en uygun çözümü seçin.">
-<meta property="og:image" content="https://canakkale-webyazilim.com.tr/images/blog/javascript-framework-karsilastirmasi-react-vue-angular-svelte.webp">
-<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri">
+<meta property="og:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/javascript-framework-comparison-react-vue-angular-svelte.webp">
+<meta property="og:url" content="https://www.canakkale-webyazilim.com.tr/en/blog/javascript-framework-comparison-react-vue-angular-svelte">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:site_name" content="Çanakkale Web Development">
@@ -18,7 +18,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="JavaScript Framework Karşılaştırması: React, Vue, Angular, Svelte">
 <meta name="twitter:description" content="Çanakkale Web Development Servicesi ile React, Vue, Angular ve Svelte framework'lerini karşılaştırın ve en uygun frontend çözümünü seçin.">
-<meta name="twitter:image" content="https://canakkale-webyazilim.com.tr/images/blog/javascript-framework-karsilastirmasi-react-vue-angular-svelte.webp">
+<meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/javascript-framework-comparison-react-vue-angular-svelte.webp">
 
 <?php include_once('../head_meta.php'); ?>
 
@@ -28,7 +28,7 @@
 "@type": "Article",
 "headline": "2026’ta Modern Web Geliştirme Trendleri: Çanakkale Web Tasarım Dünyasında Yeni Teknolojiler",
 "description": "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri.",
-"image": "https://canakkale-webyazilim.com.tr/images/blog/javascript-framework-karsilastirmasi-react-vue-angular-svelte.webp",
+"image": "https://www.canakkale-webyazilim.com.tr/images/blog/javascript-framework-comparison-react-vue-angular-svelte.webp",
 "author": {
 "@type": "Person",
 "name": "Çanakkale Web Development"
@@ -38,14 +38,14 @@
 "name": "Çanakkale Web Development",
 "logo": {
 "@type": "ImageObject",
-"url": "https://canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
+"url": "https://www.canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
 }
 },
 "datePublished": "2026-03-05",
 "dateModified": "2026-03-05",
 "mainEntityOfPage": {
 "@type": "WebPage",
-"@id": "https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri"
+"@id": "https://www.canakkale-webyazilim.com.tr/en/blog/javascript-framework-comparison-react-vue-angular-svelte"
 }
 }
 </script>
@@ -66,7 +66,7 @@
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/images/blog/javascript-framework-karsilastirmasi-react-vue-angular-svelte.webp" alt="JavaScript Framework Karşılaştırması">
+<img class="img-fluid" src="/images/blog/javascript-framework-comparison-react-vue-angular-svelte.webp" alt="JavaScript Framework Karşılaştırması">
 </div>
 </div>
 

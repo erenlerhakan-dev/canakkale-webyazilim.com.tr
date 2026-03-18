@@ -9,8 +9,8 @@
 
 <meta property="og:title" content="İşletmeniz İçin Doğru CMS Platformunu Seçmek">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile işletmeniz için en uygun CMS platformunu seçin ve web sitenizi verimli ve kullanıcı dostu hale getirin.">
-<meta property="og:image" content="https://canakkale-webyazilim.com.tr/images/blog/isletmeniz-icin-dogru-cms-platformunu-secmek.webp">
-<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/isletmeniz-icin-dogru-cms-platformunu-secmek">
+<meta property="og:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/isletmeniz-icin-dogru-cms-platformunu-secmek.webp">
+<meta property="og:url" content="https://www.canakkale-webyazilim.com.tr/blog/isletmeniz-icin-dogru-cms-platformunu-secmek">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:site_name" content="Çanakkale Web Yazılım">
@@ -18,7 +18,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="İşletmeniz İçin Doğru CMS Platformunu Seçmek">
 <meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile işletmeniz için ideal CMS platformunu seçerek güçlü ve yönetilebilir web siteleri geliştirin.">
-<meta name="twitter:image" content="https://canakkale-webyazilim.com.tr/images/blog/isletmeniz-icin-dogru-cms-platformunu-secmek.webp">
+<meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/isletmeniz-icin-dogru-cms-platformunu-secmek.webp">
 
 <?php include_once('../head_meta.php'); ?>
 
@@ -28,7 +28,7 @@
 "@type": "Article",
 "headline": "2026’ta Modern Web Geliştirme Trendleri: Çanakkale Web Tasarım Dünyasında Yeni Teknolojiler",
 "description": "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri.",
-"image": "https://canakkale-webyazilim.com.tr/images/blog/isletmeniz-icin-dogru-cms-platformunu-secmek.webp",
+"image": "https://www.canakkale-webyazilim.com.tr/images/blog/isletmeniz-icin-dogru-cms-platformunu-secmek.webp",
 "author": {
 "@type": "Person",
 "name": "Çanakkale Web Yazılım"
@@ -38,14 +38,14 @@
 "name": "Çanakkale Web Yazılım",
 "logo": {
 "@type": "ImageObject",
-"url": "https://canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
+"url": "https://www.canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
 }
 },
 "datePublished": "2026-25-04",
 "dateModified": "2026-25-04",
 "mainEntityOfPage": {
 "@type": "WebPage",
-"@id": "https://canakkale-webyazilim.com.tr/blog/isletmeniz-icin-dogru-cms-platformunu-secmek"
+"@id": "https://www.canakkale-webyazilim.com.tr/blog/isletmeniz-icin-dogru-cms-platformunu-secmek"
 }
 }
 </script>

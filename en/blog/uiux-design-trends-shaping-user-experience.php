@@ -9,8 +9,8 @@
 
 <meta property="og:title" content="Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri">
 <meta property="og:description" content="UI/UX tasarım trendleri ile modern web deneyimleri oluşturun. Çanakkale Web Development Servicesi ile kullanıcı odaklı web siteleri geliştirin.">
-<meta property="og:image" content="https://canakkale-webyazilim.com.tr/images/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri.webp">
-<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri">
+<meta property="og:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/uiux-design-trends-shaping-user-experience.webp">
+<meta property="og:url" content="https://www.canakkale-webyazilim.com.tr/en/blog/uiux-design-trends-shaping-user-experience">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:site_name" content="Çanakkale Web Development">
@@ -18,7 +18,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri">
 <meta name="twitter:description" content="Çanakkale Web Development Servicesi ile modern UI/UX tasarım trendlerini kullanarak kullanıcı deneyimini optimize edin.">
-<meta name="twitter:image" content="https://canakkale-webyazilim.com.tr/images/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri.webp">
+<meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/uiux-design-trends-shaping-user-experience.webp">
 
 <?php include_once('../head_meta.php'); ?>
 
@@ -28,7 +28,7 @@
 "@type": "Article",
 "headline": "Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri | Çanakkale Web Development",
 "description": "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri.",
-"image": "https://canakkale-webyazilim.com.tr/images/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri.webp",
+"image": "https://www.canakkale-webyazilim.com.tr/images/blog/uiux-design-trends-shaping-user-experience.webp",
 "author": {
 "@type": "Person",
 "name": "Çanakkale Web Development"
@@ -38,14 +38,14 @@
 "name": "Çanakkale Web Development",
 "logo": {
 "@type": "ImageObject",
-"url": "https://canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
+"url": "https://www.canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
 }
 },
 "datePublished": "2026-01-05",
 "dateModified": "2026-01-05",
 "mainEntityOfPage": {
 "@type": "WebPage",
-"@id": "https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri"
+"@id": "https://www.canakkale-webyazilim.com.tr/en/blog/uiux-design-trends-shaping-user-experience"
 }
 }
 </script>
@@ -66,7 +66,7 @@
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/images/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri.webp" alt="UI/UX Tasarım Trendleri">
+<img class="img-fluid" src="/images/blog/uiux-design-trends-shaping-user-experience.webp" alt="UI/UX Tasarım Trendleri">
 </div>
 </div>
 

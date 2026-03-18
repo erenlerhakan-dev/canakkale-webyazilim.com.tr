@@ -27,8 +27,8 @@
 <nav class="offcanvas-navigation">
 
 <ul>
-<li><a href="https://canakkale-webyazilim.com.tr/">Ana Sayfa</a></li>
-<li><a href="https://canakkale-webyazilim.com.tr/hakkimizda">Hakkımızda</a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/">Ana Sayfa</a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/hakkimizda">Hakkımızda</a></li>
 
 <li class="has-children">
 <a href="/hizmetler">Hizmetler</a>
@@ -48,14 +48,14 @@
 </ul>
 </li>
 
-<li><a href="https://canakkale-webyazilim.com.tr/blog/index">Teknolojiler</a></li>
-<li><a href="https://canakkale-webyazilim.com.tr/iletisim">İletişim</a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/blog/index">Teknolojiler</a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/iletisim">İletişim</a></li>
 
 <li class="has-children">
 <a href="javascript:voia(0);"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-globe h-4 w-4"><circle cx="12" cy="12" r="10"></circle><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"></path><path d="M2 12h20"></path></svg> EN</a>
 <ul class="sub-menu">
-<li><a href="https://canakkale-webyazilim.com.tr/"><span>Türkçe</span></a></li>
-<li><a href="https://canakkale-webyazilim.com.tr/en/"><span>English</span></a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/"><span>Türkçe</span></a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/en/"><span>English</span></a></li>
 </ul>
 </li>
 

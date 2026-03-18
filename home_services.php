@@ -203,7 +203,7 @@
 <div class="col-lg-12">
 <div class="feature-list-button-box mt-30 text-center">
 <a href="tel:+905347922531" class="ht-btn ht-btn-md">Destek Ekibimiz İle Konuşun</a>
-<a href="https://canakkale-webyazilim.com.tr/iletisim" class="ht-btn ht-btn-md ht-btn--outline">Bize Yazın</a>
+<a href="https://www.canakkale-webyazilim.com.tr/iletisim" class="ht-btn ht-btn-md ht-btn--outline">Bize Yazın</a>
 </div>
 </div>
 

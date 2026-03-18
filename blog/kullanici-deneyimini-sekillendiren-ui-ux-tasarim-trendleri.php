@@ -9,8 +9,8 @@
 
 <meta property="og:title" content="Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri">
 <meta property="og:description" content="UI/UX tasarım trendleri ile modern web deneyimleri oluşturun. Çanakkale web yazılım hizmetleri ile kullanıcı odaklı web siteleri geliştirin.">
-<meta property="og:image" content="https://canakkale-webyazilim.com.tr/images/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri.webp">
-<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri">
+<meta property="og:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri.webp">
+<meta property="og:url" content="https://www.canakkale-webyazilim.com.tr/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:site_name" content="Çanakkale Web Yazılım">
@@ -18,7 +18,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri">
 <meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile modern UI/UX tasarım trendlerini kullanarak kullanıcı deneyimini optimize edin.">
-<meta name="twitter:image" content="https://canakkale-webyazilim.com.tr/images/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri.webp">
+<meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri.webp">
 
 <?php include_once('../head_meta.php'); ?>
 
@@ -28,7 +28,7 @@
 "@type": "Article",
 "headline": "Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri | Çanakkale Web Yazılım",
 "description": "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri.",
-"image": "https://canakkale-webyazilim.com.tr/images/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri.webp",
+"image": "https://www.canakkale-webyazilim.com.tr/images/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri.webp",
 "author": {
 "@type": "Person",
 "name": "Çanakkale Web Yazılım"
@@ -38,14 +38,14 @@
 "name": "Çanakkale Web Yazılım",
 "logo": {
 "@type": "ImageObject",
-"url": "https://canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
+"url": "https://www.canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
 }
 },
 "datePublished": "2026-15-03",
 "dateModified": "2026-15-03",
 "mainEntityOfPage": {
 "@type": "WebPage",
-"@id": "https://canakkale-webyazilim.com.tr/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri"
+"@id": "https://www.canakkale-webyazilim.com.tr/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri"
 }
 }
 </script>

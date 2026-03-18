@@ -9,8 +9,8 @@
 
 <meta property="og:title" content="Modern Web Siteleri İçin Mobil Öncelikli Tasarım Prensipleri">
 <meta property="og:description" content="Mobil öncelikli tasarım ile modern web sitelerinde kullanıcı deneyimini artırın ve performansı optimize edin.">
-<meta property="og:image" content="https://canakkale-webyazilim.com.tr/images/blog/modern-web-siteleri-icin-mobil-oncelikli-tasarim-prensipleri.webp">
-<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri">
+<meta property="og:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/mobile-first-design-principles-for-modern-websites.webp">
+<meta property="og:url" content="https://www.canakkale-webyazilim.com.tr/en/blog/mobile-first-design-principles-for-modern-websites">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:site_name" content="Çanakkale Web Development">
@@ -18,7 +18,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Modern Web Siteleri İçin Mobil Öncelikli Tasarım Prensipleri">
 <meta name="twitter:description" content="Çanakkale web tasarım Servicesi ile mobil öncelikli web sitesi tasarım prensiplerini keşfedin.">
-<meta name="twitter:image" content="https://canakkale-webyazilim.com.tr/images/blog/modern-web-siteleri-icin-mobil-oncelikli-tasarim-prensipleri.webp">
+<meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/mobile-first-design-principles-for-modern-websites.webp">
 
 <?php include_once('../head_meta.php'); ?>
 
@@ -28,7 +28,7 @@
 "@type": "Article",
 "headline": "2026’ta Modern Web Geliştirme Trendleri: Çanakkale Web Tasarım Dünyasında Yeni Teknolojiler",
 "description": "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri.",
-"image": "https://canakkale-webyazilim.com.tr/images/blog/modern-web-siteleri-icin-mobil-oncelikli-tasarim-prensipleri.webp",
+"image": "https://www.canakkale-webyazilim.com.tr/images/blog/mobile-first-design-principles-for-modern-websites.webp",
 "author": {
 "@type": "Person",
 "name": "Çanakkale Web Development"
@@ -38,14 +38,14 @@
 "name": "Çanakkale Web Development",
 "logo": {
 "@type": "ImageObject",
-"url": "https://canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
+"url": "https://www.canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
 }
 },
 "datePublished": "2026-03-05",
 "dateModified": "2026-03-05",
 "mainEntityOfPage": {
 "@type": "WebPage",
-"@id": "https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri"
+"@id": "https://www.canakkale-webyazilim.com.tr/en/blog/mobile-first-design-principles-for-modern-websites"
 }
 }
 </script>
@@ -66,7 +66,7 @@
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/images/blog/modern-web-siteleri-icin-mobil-oncelikli-tasarim-prensipleri.webp" alt="Mobil Öncelikli Tasarım">
+<img class="img-fluid" src="/images/blog/mobile-first-design-principles-for-modern-websites.webp" alt="Mobil Öncelikli Tasarım">
 </div>
 </div>
 

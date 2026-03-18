@@ -9,8 +9,8 @@
 
 <meta property="og:title" content="Hizmet İşletmeleri İçin Özel Rezervasyon Motorları Geliştirme">
 <meta property="og:description" content="Çanakkale Web Development çözümleri ile hizmet işletmeleri için özelleştirilmiş rezervasyon motorları geliştirin ve müşteri deneyimini artırın.">
-<meta property="og:image" content="https://canakkale-webyazilim.com.tr/images/blog/hizmet-isletmeleri-icin-ozel-rezervasyon-motorlari-gelistirme.webp">
-<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri">
+<meta property="og:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/development-of-custom-booking-engines-for-service-businesses.webp">
+<meta property="og:url" content="https://www.canakkale-webyazilim.com.tr/en/blog/development-of-custom-booking-engines-for-service-businesses">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:site_name" content="Çanakkale Web Development">
@@ -18,7 +18,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Hizmet İşletmeleri İçin Özel Rezervasyon Motorları Geliştirme">
 <meta name="twitter:description" content="Çanakkale Web Development Servicesi ile online rezervasyon süreçlerini hızlandıracak özel rezervasyon motorları geliştirin.">
-<meta name="twitter:image" content="https://canakkale-webyazilim.com.tr/images/blog/hizmet-isletmeleri-icin-ozel-rezervasyon-motorlari-gelistirme.webp">
+<meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/development-of-custom-booking-engines-for-service-businesses.webp">
 
 <?php include_once('../head_meta.php'); ?>
 
@@ -28,7 +28,7 @@
 "@type": "Article",
 "headline": "2026’ta Modern Web Geliştirme Trendleri: Çanakkale Web Tasarım Dünyasında Yeni Teknolojiler",
 "description": "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri.",
-"image": "https://canakkale-webyazilim.com.tr/images/blog/hizmet-isletmeleri-icin-ozel-rezervasyon-motorlari-gelistirme.webp",
+"image": "https://www.canakkale-webyazilim.com.tr/images/blog/development-of-custom-booking-engines-for-service-businesses.webp",
 "author": {
 "@type": "Person",
 "name": "Çanakkale Web Development"
@@ -38,14 +38,14 @@
 "name": "Çanakkale Web Development",
 "logo": {
 "@type": "ImageObject",
-"url": "https://canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
+"url": "https://www.canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
 }
 },
 "datePublished": "2026-03-05",
 "dateModified": "2026-03-05",
 "mainEntityOfPage": {
 "@type": "WebPage",
-"@id": "https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri"
+"@id": "https://www.canakkale-webyazilim.com.tr/en/blog/development-of-custom-booking-engines-for-service-businesses"
 }
 }
 </script>
@@ -66,7 +66,7 @@
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/images/blog/hizmet-isletmeleri-icin-ozel-rezervasyon-motorlari-gelistirme.webp" alt="Özel Rezervasyon Motorları">
+<img class="img-fluid" src="/images/blog/development-of-custom-booking-engines-for-service-businesses.webp" alt="Özel Rezervasyon Motorları">
 </div>
 </div>
 

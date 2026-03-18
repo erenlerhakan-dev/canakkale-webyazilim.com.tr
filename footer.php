@@ -17,11 +17,11 @@
 <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
 <h6 class="footer-widget__title mb-20">...</h6>
 <ul class="footer-widget__list">
-<li><a href="https://canakkale-webyazilim.com.tr/" class="hover-style-link">Ana Sayfa</a></li>
-<li><a href="https://canakkale-webyazilim.com.tr/hakkimizda" class="hover-style-link">Hakkımızda</a></li>
-<li><a href="https://canakkale-webyazilim.com.tr/hizmetler" class="hover-style-link">Hizmetler</a></li>
-<li><a href="https://canakkale-webyazilim.com.tr/blog/index" class="hover-style-link">Teknolojiler</a></li>
-<li><a href="https://canakkale-webyazilim.com.tr/iletisim" class="hover-style-link">İletişim</a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/" class="hover-style-link">Ana Sayfa</a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/hakkimizda" class="hover-style-link">Hakkımızda</a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/hizmetler" class="hover-style-link">Hizmetler</a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/blog/index" class="hover-style-link">Teknolojiler</a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/iletisim" class="hover-style-link">İletişim</a></li>
 </ul>
 </div>
 

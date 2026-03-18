@@ -9,8 +9,8 @@
 
 <meta property="og:title" content="Laravel Neden Kurumsal Uygulamalar İçin Mükemmeldir">
 <meta property="og:description" content="Laravel framework ile güvenli, hızlı ve ölçeklenebilir kurumsal web uygulamaları geliştirin.">
-<meta property="og:image" content="https://canakkale-webyazilim.com.tr/images/blog/laravel-neden-kurumsal-uygulamalar-icin-mukemmeldir.webp">
-<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri">
+<meta property="og:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/why-laravel-is-perfect-for-enterprise-applications.webp">
+<meta property="og:url" content="https://www.canakkale-webyazilim.com.tr/en/blog/why-laravel-is-perfect-for-enterprise-applications">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:site_name" content="Çanakkale Web Development">
@@ -18,7 +18,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Laravel Neden Kurumsal Uygulamalar İçin Mükemmeldir">
 <meta name="twitter:description" content="Kurumsal yazılım geliştirme için Laravel framework'ün avantajlarını keşfedin.">
-<meta name="twitter:image" content="https://canakkale-webyazilim.com.tr/images/blog/laravel-neden-kurumsal-uygulamalar-icin-mukemmeldir.webp">
+<meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/why-laravel-is-perfect-for-enterprise-applications.webp">
 
 <?php include_once('../head_meta.php'); ?>
 
@@ -28,7 +28,7 @@
 "@type": "Article",
 "headline": "2026’ta Modern Web Geliştirme Trendleri: Çanakkale Web Tasarım Dünyasında Yeni Teknolojiler",
 "description": "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri.",
-"image": "https://canakkale-webyazilim.com.tr/images/blog/laravel-neden-kurumsal-uygulamalar-icin-mukemmeldir.webp",
+"image": "https://www.canakkale-webyazilim.com.tr/images/blog/why-laravel-is-perfect-for-enterprise-applications.webp",
 "author": {
 "@type": "Person",
 "name": "Çanakkale Web Development"
@@ -38,14 +38,14 @@
 "name": "Çanakkale Web Development",
 "logo": {
 "@type": "ImageObject",
-"url": "https://canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
+"url": "https://www.canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
 }
 },
 "datePublished": "2026-03-05",
 "dateModified": "2026-03-05",
 "mainEntityOfPage": {
 "@type": "WebPage",
-"@id": "https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri"
+"@id": "https://www.canakkale-webyazilim.com.tr/en/blog/why-laravel-is-perfect-for-enterprise-applications"
 }
 }
 </script>
@@ -66,7 +66,7 @@
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/images/blog/laravel-neden-kurumsal-uygulamalar-icin-mukemmeldir.webp" alt="Laravel kurumsal web uygulama geliştirme">
+<img class="img-fluid" src="/images/blog/why-laravel-is-perfect-for-enterprise-applications.webp" alt="Laravel kurumsal web uygulama geliştirme">
 </div>
 </div>
 
