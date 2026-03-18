@@ -50,8 +50,8 @@
 <option value="B2B & B2C Çözümleri">B2B & B2C Çözümleri</option>
 <option value="Özel Yazılım Geliştirme">Özel Yazılım Geliştirme</option>
 <option value="API Geliştirme">API Geliştirme</option>
-<option value="Güvenlik ve Bakım">Güvenlik ve Bakım</option>
-<option value="Performans Optimizasyonu">Performans Optimizasyonu</option>
+<option value="Güvenlik ve Bakım">Sunucu Güvenliği ve Bakımı</option>
+<option value="Performans Optimizasyonu">Yazılım Performans Optimizasyonu</option>
 <option value="Teknik Danışmanlık">Teknik Danışmanlık</option>
 </select>
 </span>
