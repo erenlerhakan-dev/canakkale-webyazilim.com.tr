@@ -1,80 +1,45 @@
-# ----------------------------------------------------------------------
-# 1. GÜVENLİK VE ERİŞİM KONTROLÜ
-# ----------------------------------------------------------------------
-
-# Dizin listelemeyi kapat (Dosya yapısını gizler)
 Options -Indexes
 
-# Hassas dosyalara erişimi tamamen engelle
 <FilesMatch "^(\.htaccess|\.htpasswd|\.ini|\.phps|\.bak|\.config|\.sql|\.log|composer\.json|composer\.lock)$">
     Require all denied
 </FilesMatch>
 
-# Gizli dosyalara (.git, .env vb.) erişimi yasakla
 RewriteRule "(^|/)\." - [F]
 
-# ----------------------------------------------------------------------
-# 2. TEMİZ URL (PHP UZANTISINI KALDIRMA VE YÖNLENDİRME)
-# ----------------------------------------------------------------------
 <IfModule mod_rewrite.c>
     RewriteEngine On
     RewriteBase /
-
-    # www ve HTTPS yönlendirmesi (SEO için tekil URL yapısı)
     RewriteCond %{HTTPS} off [OR]
     RewriteCond %{HTTP_HOST} !^www\. [NC]
     RewriteRule ^ https://www.canakkale-webyazilim.com.tr%{REQUEST_URI} [L,R=301]
-
-    # .php uzantısı ile gelen talepleri uzantısız haline 301 ile yönlendir
     RewriteCond % {THE_REQUEST} ^[A-Z]{3,}\s/+(.*)\.php[\s?] [NC]
     RewriteRule ^(.*)\.php$ /$1 [R=301,L]
-
-    # Arka planda uzantısız talebi .php dosyasına eşle
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteCond %{REQUEST_FILENAME}\.php -f
     RewriteRule ^([^\.]+)$ $1.php [NC,L]
 </IfModule>
 
-# ----------------------------------------------------------------------
-# 3. GÜVENLİK BAŞLIKLARI (HTTP Security Headers)
-# ----------------------------------------------------------------------
 <IfModule mod_headers.c>
-    # Anti-Clickjacking
     Header set X-Frame-Options "SAMEORIGIN"
-    
-    # XSS Koruması
     Header set X-XSS-Protection "1; mode=block"
-    
-    # MIME-type Sniffing Engelleme
     Header set X-Content-Type-Options "nosniff"
-    
-    # Referrer Politikasını Sınırla
     Header set Referrer-Policy "strict-origin-when-cross-origin"
 </IfModule>
 
-# ----------------------------------------------------------------------
-# 4. SALDIRI ENGELLEME (SQL Injection & Script Injection)
-# ----------------------------------------------------------------------
 <IfModule mod_rewrite.c>
-    # Zararlı sorguları ve script enjeksiyonlarını engelle
     RewriteCond %{QUERY_STRING} (<|%3C).*script.*(>|%3E) [NC,OR]
     RewriteCond %{QUERY_STRING} GLOBALS(=|\[|\%[0-9A-Z]{0,2}) [OR]
     RewriteCond %{QUERY_STRING} _REQUEST(=|\[|\%[0-9A-Z]{0,2})
     RewriteRule ^(.*)$ index.php [F,L]
 </IfModule>
 
-# ----------------------------------------------------------------------
-# 5. PERFORMANS VE ÖNBELLEKLEME (Caching)
-# ----------------------------------------------------------------------
 <IfModule mod_expires.c>
     ExpiresActive On
     ExpiresDefault "access plus 1 month"
-    # WebP ve diğer görseller için uzun süreli cache
     ExpiresByType image/webp "access plus 1 year"
     ExpiresByType image/png "access plus 1 year"
     ExpiresByType image/jpeg "access plus 1 year"
     ExpiresByType image/x-icon "access plus 1 year"
-    # CSS ve JS için cache
     ExpiresByType text/css "access plus 1 month"
     ExpiresByType application/javascript "access plus 1 month"
 </IfModule>
