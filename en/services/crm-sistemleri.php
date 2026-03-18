@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" dir="ltr">
+
+<head>
+<title>CRM Systems | Müşteri İlişkileri Yönetimi Yazılım Çözümleri</title>
+<meta name="description" content="CRM Systems ile müşteri ilişkilerinizi yönetin, satış süreçlerinizi optimize edin ve işletmenizin verimliliğini artırın. Modern CRM yazılım çözümleri hakkında bilgi alın.">
+<meta name="keywords" content="CRM Systems, müşteri ilişkileri yönetimi, CRM yazılımı, satış yönetimi sistemi, müşteri yönetim yazılımı">
+
+<?php include_once('../head_meta.php'); ?>
+
+<script type="application/ld+json">
+{
+ "@context": "https:/schema.org",
+ "@type": "BlogPosting",
+ "headline": "CRM Systems ile Müşteri İlişkileri Yönetimi",
+ "description": "CRM Systems sayesinde işletmeler müşteri verilerini yönetebilir, satış süreçlerini optimize edebilir ve müşteri memnuniyetini artırabilir.",
+ "author": {
+ "@type": "Organization",
+ "name": "Business Software Solutions"
+ },
+ "publisher": {
+ "@type": "Organization",
+ "name": "Business Software Solutions"
+ },
+ "mainEntityOfPage": {
+ "@type": "WebPage",
+ "@id": "https://www.canakkale-webyazilim.com.tr/en/services/crm-sistemleri.php"
+ }
+}
+</script>
+
+<script type="application/ld+json">
+{
+ "@context": "https:/schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [{
+ "@type": "Question",
+ "name": "CRM sistemi nedir?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "CRM sistemi, işletmelerin müşteri ilişkilerini yönetmesini sağlayan yazılım çözümleridir. Bu sistemler müşteri bilgilerini saklar, satış süreçlerini takip eder ve müşteri deneyimini geliştirir."
+ }
+ },{
+ "@type": "Question",
+ "name": "CRM yazılımı işletmelere ne kazandırır?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "CRM yazılımları müşteri verilerini merkezi bir sistemde toplar, satış ve pazarlama süreçlerini optimize eder ve müşteri memnuniyetini artırır."
+ }
+ },{
+ "@type": "Question",
+ "name": "CRM Systems hangi sektörlerde kullanılır?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "CRM Systems e-ticaret, turizm, finans, sağlık, eğitim ve birçok farklı sektörde müşteri ilişkilerini yönetmek için kullanılmaktadır."
+ }
+ },{
+ "@type": "Question",
+ "name": "Bulut tabanlı CRM nedir?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Bulut tabanlı CRM Systems internet üzerinden çalışan ve herhangi bir kurulum gerektirmeden kullanılabilen modern müşteri yönetim yazılımlarıdır."
+ }
+ }]
+}
+</script>
+
+</head>
+
+<body>
+
+<?php include_once('../../preloader.php'); ?>
+
+<?php include_once('../header.php'); ?>
+
+<div id="main-wrapper">
+<div class="site-wrapper-reveal">
+
+<div class="about-banner-wrap banner-space bg-img" data-bg="/images/services/canakkale-crm-sistemleri.webp">
+<div class="container">
+<div class="row">
+<div class="col-lg-8 m-auto">
+<div class="about-banner-content text-center">
+<h1 class="mb-15 text-white">CRM Systems</h1>
+<h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="feature-large-images-wrapper section-space--ptb_100">
+<div class="container">
+<div class="cybersecurity-about-box">
+<div class="row">
+<div class="col-lg-4">
+<div class="modern-number-01">
+<h3 class="heading mt-30">Modern <span class="text-color-primary"> CRM <br> Sistemleri</span></h3>
+</div>
+</div>
+<div class="col-lg-7 offset-lg-1">
+<div class="conact-us-wrap-one managed-it">
+<h5 class="heading ">İşletmeler için gelişmiş <span class="text-color-primary"> CRM Systems</span> geliştiriyoruz. Müşteri ilişkilerini yönetmenizi sağlayan yazılım çözümleri ile satış, pazarlama ve müşteri Servicesi süreçlerinizi daha verimli hale getiriyoruz.</h5>
+
+<div class="sub-heading">CRM yazılım çözümleri sayesinde müşteri verilerinizi tek bir platformda yönetebilir, satış fırsatlarını takip edebilir ve işletmenizin büyümesini destekleyebilirsiniz. Detaillı analiz ve sistem planlaması için bizimle iletişime geçebilirsiniz.</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+
+<div class="accordion-wrapper section-space--pb_100">
+<div class="container">
+<div class="row ">
+
+<div class="col-lg-6 pe-5">
+<div class="faq-two-wrapper section-space--mt_40">
+<div id="accordion_two">
+
+<div class="card">
+<div class="card-header" id="heading__10">
+<h5 class="mb-0 font-weight--bold">
+<button class="btn-link" data-bs-toggle="collapse" data-bs-target="#tab__10" aria-expanded="true" aria-controls="tab__10">
+CRM Sistemi Nedir? <span>
+<i class="fas fa-chevron-circle-down"></i>
+<i class="fas fa-chevron-circle-right"></i> </span>
+</button>
+</h5>
+</div>
+<div id="tab__10" class="show" aria-labelledby="heading__10" data-bs-parent="#accordion_two">
+<div class="card-body">
+<p>CRM (Customer Relationship Management) sistemi, işletmelerin müşterileriyle olan ilişkilerini yönetmelerini sağlayan yazılım platformudur. CRM Systems müşteri verilerini merkezi bir veritabanında toplar, satış süreçlerini takip eder ve müşteri iletişimini kolaylaştırır.</p>
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading__11">
+<h5 class="mb-0">
+<button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__11" aria-expanded="false" aria-controls="collapse__11">
+CRM Yazılımının Avantajları<span>
+<i class="fas fa-chevron-circle-down"></i>
+<i class="fas fa-chevron-circle-right"></i> </span>
+</button>
+</h5>
+</div>
+<div id="collapse__11" class="collapse" aria-labelledby="heading__11" data-bs-parent="#accordion_two">
+<div class="card-body">
+<p>CRM yazılımları müşteri verilerini organize ederek işletmelerin daha stratejik kararlar almasına yardımcı olur. Satış fırsatlarının takibi, müşteri taleplerinin yönetimi ve pazarlama kampanyalarının planlanması gibi süreçler CRM Systems sayesinde kolayca yönetilebilir.</p>
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading__12">
+<h5 class="mb-0">
+<button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__12" aria-expanded="false" aria-controls="collapse__12">
+Bulut Tabanlı CRM Systems<span><i class="fas fa-chevron-circle-down"></i>
+<i class="fas fa-chevron-circle-right"></i> </span>
+</button>
+</h5>
+</div>
+<div id="collapse__12" class="collapse" aria-labelledby="heading__12" data-bs-parent="#accordion_two">
+<div class="card-body">
+<p>Bulut tabanlı CRM Systems internet üzerinden erişilebilen modern yazılım çözümleridir. Bu sistemler herhangi bir kurulum gerektirmez ve farklı cihazlardan kolayca kullanılabilir. Bu sayede ekipler müşteri verilerine her yerden erişebilir.</p>
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading__13">
+<h5 class="mb-0">
+<button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__13" aria-expanded="false" aria-controls="collapse__13">
+CRM Systems Neden Önemlidir? <span><i class="fas fa-chevron-circle-down"></i>
+<i class="fas fa-chevron-circle-right"></i> </span>
+</button>
+</h5>
+</div>
+<div id="collapse__13" class="collapse" aria-labelledby="heading__13" data-bs-parent="#accordion_two">
+<div class="card-body">
+<p>CRM Systems müşteri ilişkilerini güçlendirir, satış süreçlerini daha verimli hale getirir ve müşteri memnuniyetini artırır. Modern işletmeler için CRM çözümleri müşteri odaklı büyüme stratejilerinin temelini oluşturur.</p>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="col-lg-6">
+<img src="/images/services/crm-sistemleri.webp" alt="CRM Systems" class="img-fluid">
+</div>
+
+</div>
+</div>
+</div>
+
+<?php include_once('divider.php'); ?>
+
+</div>
+
+<?php include_once('../footer.php'); ?>
+
+</div>
+
+<a href="#" class="scroll-top" id="scroll-top">
+<i class="arrow-top fas fa-chevron-up"></i>
+<i class="arrow-bottom fas fa-chevron-up"></i>
+</a>
+
+<?php include_once('../mobile_menu.php'); ?>
+
+<?php include_once('../../footer_scripts.php'); ?>
+
+</body>
+
+</html>
