@@ -11635,7 +11635,7 @@ blockquote {
 .processing-hero-bg {
   background-color: transparent;
   background-repeat: no-repeat;
-  background-image: url("/images/hero/slider-processing-slide-01-bg.webp");
+  background-image: url("/images/slider-processing-slide-01-bg.webp");
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -12038,7 +12038,7 @@ blockquote {
 .appointment-hero-bg {
   background-color: transparent;
   background-repeat: no-repeat;
-  background-image: url("/images/hero/home-appointment-hero-bg-image.webp");
+  background-image: url("/images/home-appointment-hero-bg-image.webp");
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -12097,7 +12097,7 @@ blockquote {
 .service-hero-bg {
   background-color: transparent;
   background-repeat: no-repeat;
-  background-image: url("/images/hero/home-services-hero-bg.webp");
+  background-image: url("/images/home-services-hero-bg.webp");
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -12373,7 +12373,7 @@ blockquote {
 .resolutions-hero-bg {
   background-color: transparent;
   background-repeat: no-repeat;
-  background-image: url("/images/hero/home-resolutions-hero-bg-image.webp");
+  background-image: url("/images/home-resolutions-hero-bg-image.webp");
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -12469,7 +12469,7 @@ blockquote {
 .resolutions-hero-bg-2 {
   background-color: transparent;
   background-repeat: no-repeat;
-  background-image: url("/images/hero/home-resolutions-hero-bg-image.webp");
+  background-image: url("/images/home-resolutions-hero-bg-image.webp");
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -13277,7 +13277,7 @@ blockquote {
 }
 
 .preview-hero-bg {
-  background: url(/images/hero/mitech-landing-main-slider-bg.webp);
+  background: url(/images/mitech-landing-main-slider-bg.webp);
   background-size: cover;
   background-position: 50% 50%;
   background-color: transparent;
@@ -13771,7 +13771,7 @@ blockquote {
 =         36. Processing Hero Css             =
 =============================================*/
 .machine-learning-hero-bg {
-  background-image: url("/images/hero/new-slider-bg.webp");
+  background-image: url("/images/new-slider-bg.webp");
   background-color: #072a83;
   background-size: cover;
   background-repeat: no-repeat;
