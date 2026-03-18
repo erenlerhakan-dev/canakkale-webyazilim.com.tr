@@ -52,7 +52,7 @@
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/modern-web-development-trends-in-2026">
+<a href="/en/blog/modern-web-development-trends-in-2026">
 <img class="img-fluid" src="/images/blog/modern-web-development-trends-in-2026.webp" alt="Modern Web Development Trends in 2026">
 </a>
 </div>
@@ -64,7 +64,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/modern-web-development-trends-in-2026">Modern Web Development Trends in 2026</a>
+<a href="/en/blog/modern-web-development-trends-in-2026">Modern Web Development Trends in 2026</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -79,7 +79,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/modern-web-development-trends-in-2026" class="ht-btn ht-btn-md">Read More </a>
+<a href="/en/blog/modern-web-development-trends-in-2026" class="ht-btn ht-btn-md">Read More </a>
 </div>
 </div>
 
@@ -96,7 +96,7 @@
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/benefits-of-customized-crm-systems-for-turkish-businesses">
+<a href="/en/blog/benefits-of-customized-crm-systems-for-turkish-businesses">
 <img class="img-fluid" src="/images/blog/benefits-of-customized-crm-systems-for-turkish-businesses.webp" alt="Benefits of Customized CRM Systems for Turkish Businesses">
 </a>
 </div>
@@ -108,7 +108,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/benefits-of-customized-crm-systems-for-turkish-businesses">Benefits of Customized CRM Systems for Turkish Businesses</a>
+<a href="/en/blog/benefits-of-customized-crm-systems-for-turkish-businesses">Benefits of Customized CRM Systems for Turkish Businesses</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -123,7 +123,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/benefits-of-customized-crm-systems-for-turkish-businesses" class="ht-btn ht-btn-md">Read More </a>
+<a href="/en/blog/benefits-of-customized-crm-systems-for-turkish-businesses" class="ht-btn ht-btn-md">Read More </a>
 </div>
 </div>
 
@@ -140,7 +140,7 @@
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/e-commerce-success-strategies-for-small-businesses">
+<a href="/en/blog/e-commerce-success-strategies-for-small-businesses">
 <img class="img-fluid" src="/images/blog/e-commerce-success-strategies-for-small-businesses.webp" alt="E-commerce Success Strategies for Small Businesses">
 </a>
 </div>
@@ -152,7 +152,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/e-commerce-success-strategies-for-small-businesses">E-commerce Success Strategies for Small Businesses</a>
+<a href="/en/blog/e-commerce-success-strategies-for-small-businesses">E-commerce Success Strategies for Small Businesses</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -167,7 +167,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/e-commerce-success-strategies-for-small-businesses" class="ht-btn ht-btn-md">Read More </a>
+<a href="/en/blog/e-commerce-success-strategies-for-small-businesses" class="ht-btn ht-btn-md">Read More </a>
 </div>
 </div>
 
@@ -184,7 +184,7 @@
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/why-laravel-is-perfect-for-enterprise-applications">
+<a href="/en/blog/why-laravel-is-perfect-for-enterprise-applications">
 <img class="img-fluid" src="/images/blog/why-laravel-is-perfect-for-enterprise-applications.webp" alt="Why Laravel is Perfect for Enterprise Applications">
 </a>
 </div>
@@ -196,7 +196,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/why-laravel-is-perfect-for-enterprise-applications">Why Laravel is Perfect for Enterprise Applications</a>
+<a href="/en/blog/why-laravel-is-perfect-for-enterprise-applications">Why Laravel is Perfect for Enterprise Applications</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -211,7 +211,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/why-laravel-is-perfect-for-enterprise-applications" class="ht-btn ht-btn-md">Read More </a>
+<a href="/en/blog/why-laravel-is-perfect-for-enterprise-applications" class="ht-btn ht-btn-md">Read More </a>
 </div>
 </div>
 
@@ -228,7 +228,7 @@
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/react-vs-angular-choosing-the-right-frontend-framework">
+<a href="/en/blog/react-vs-angular-choosing-the-right-frontend-framework">
 <img class="img-fluid" src="/images/blog/react-vs-angular-choosing-the-right-frontend-framework.webp" alt="React vs Angular: Choosing the Right Frontend Framework">
 </a>
 </div>
@@ -240,7 +240,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/react-vs-angular-choosing-the-right-frontend-framework">React vs Angular: Choosing the Right Frontend Framework</a>
+<a href="/en/blog/react-vs-angular-choosing-the-right-frontend-framework">React vs Angular: Choosing the Right Frontend Framework</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -255,7 +255,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/react-vs-angular-choosing-the-right-frontend-framework" class="ht-btn ht-btn-md">Read More </a>
+<a href="/en/blog/react-vs-angular-choosing-the-right-frontend-framework" class="ht-btn ht-btn-md">Read More </a>
 </div>
 </div>
 
@@ -272,7 +272,7 @@
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/database-optimization-techniques-for-high-performance-applications">
+<a href="/en/blog/database-optimization-techniques-for-high-performance-applications">
 <img class="img-fluid" src="/images/blog/database-optimization-techniques-for-high-performance-applications.webp" alt="Database Optimization Techniques for High-Performance Applications">
 </a>
 </div>
@@ -284,7 +284,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/database-optimization-techniques-for-high-performance-applications">Database Optimization Techniques for High-Performance Applications</a>
+<a href="/en/blog/database-optimization-techniques-for-high-performance-applications">Database Optimization Techniques for High-Performance Applications</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -299,7 +299,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/database-optimization-techniques-for-high-performance-applications" class="ht-btn ht-btn-md">Read More </a>
+<a href="/en/blog/database-optimization-techniques-for-high-performance-applications" class="ht-btn ht-btn-md">Read More </a>
 </div>
 </div>
 
@@ -316,7 +316,7 @@
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/mobile-first-design-principles-for-modern-websites">
+<a href="/en/blog/mobile-first-design-principles-for-modern-websites">
 <img class="img-fluid" src="/images/blog/mobile-first-design-principles-for-modern-websites.webp" alt="Mobile-First Design Principles for Modern Websites">
 </a>
 </div>
@@ -328,7 +328,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/mobile-first-design-principles-for-modern-websites">Mobile-First Design Principles for Modern Websites</a>
+<a href="/en/blog/mobile-first-design-principles-for-modern-websites">Mobile-First Design Principles for Modern Websites</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -343,7 +343,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/mobile-first-design-principles-for-modern-websites" class="ht-btn ht-btn-md">Read More </a>
+<a href="/en/blog/mobile-first-design-principles-for-modern-websites" class="ht-btn ht-btn-md">Read More </a>
 </div>
 </div>
 
@@ -360,7 +360,7 @@
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/api-security-best-practices-for-web-applications">
+<a href="/en/blog/api-security-best-practices-for-web-applications">
 <img class="img-fluid" src="/images/blog/api-security-best-practices-for-web-applications.webp" alt="API Security Best Practices for Web Applications">
 </a>
 </div>
@@ -372,7 +372,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/api-security-best-practices-for-web-applications">API Security Best Practices for Web Applications</a>
+<a href="/en/blog/api-security-best-practices-for-web-applications">API Security Best Practices for Web Applications</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -387,7 +387,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/api-security-best-practices-for-web-applications" class="ht-btn ht-btn-md">Read More </a>
+<a href="/en/blog/api-security-best-practices-for-web-applications" class="ht-btn ht-btn-md">Read More </a>
 </div>
 </div>
 
@@ -404,7 +404,7 @@
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/a-complete-guide-to-cloud-hosting-solutions">
+<a href="/en/blog/a-complete-guide-to-cloud-hosting-solutions">
 <img class="img-fluid" src="/images/blog/a-complete-guide-to-cloud-hosting-solutions.webp" alt="A Complete Guide to Cloud Hosting Solutions">
 </a>
 </div>
@@ -416,7 +416,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/a-complete-guide-to-cloud-hosting-solutions">A Complete Guide to Cloud Hosting Solutions</a>
+<a href="/en/blog/a-complete-guide-to-cloud-hosting-solutions">A Complete Guide to Cloud Hosting Solutions</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -431,7 +431,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/a-complete-guide-to-cloud-hosting-solutions" class="ht-btn ht-btn-md">Read More </a>
+<a href="/en/blog/a-complete-guide-to-cloud-hosting-solutions" class="ht-btn ht-btn-md">Read More </a>
 </div>
 </div>
 
@@ -448,7 +448,7 @@
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/erp-system-implementation-a-comprehensive-guide">
+<a href="/en/blog/erp-system-implementation-a-comprehensive-guide">
 <img class="img-fluid" src="/images/blog/erp-system-implementation-a-comprehensive-guide.webp" alt="ERP System Implementation: A Comprehensive Guide">
 </a>
 </div>
@@ -460,7 +460,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/erp-system-implementation-a-comprehensive-guide">ERP System Implementation: A Comprehensive Guide</a>
+<a href="/en/blog/erp-system-implementation-a-comprehensive-guide">ERP System Implementation: A Comprehensive Guide</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -475,7 +475,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/erp-system-implementation-a-comprehensive-guide" class="ht-btn ht-btn-md">Read More </a>
+<a href="/en/blog/erp-system-implementation-a-comprehensive-guide" class="ht-btn ht-btn-md">Read More </a>
 </div>
 </div>
 
@@ -492,7 +492,7 @@
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/progressive-web-applications-the-future-of-web-development">
+<a href="/en/blog/progressive-web-applications-the-future-of-web-development">
 <img class="img-fluid" src="/images/blog/progressive-web-applications-the-future-of-web-development.webp" alt="Progressive Web Applications: The Future of Web Development">
 </a>
 </div>
@@ -504,7 +504,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/progressive-web-applications-the-future-of-web-development">Progressive Web Applications: The Future of Web Development</a>
+<a href="/en/blog/progressive-web-applications-the-future-of-web-development">Progressive Web Applications: The Future of Web Development</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -519,7 +519,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/progressive-web-applications-the-future-of-web-development" class="ht-btn ht-btn-md">Read More </a>
+<a href="/en/blog/progressive-web-applications-the-future-of-web-development" class="ht-btn ht-btn-md">Read More </a>
 </div>
 </div>
 
@@ -536,7 +536,7 @@
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/python-django-building-scalable-web-applications">
+<a href="/en/blog/python-django-building-scalable-web-applications">
 <img class="img-fluid" src="/images/blog/python-django-building-scalable-web-applications.webp" alt="Python Django: Building Scalable Web Applications">
 </a>
 </div>
@@ -548,7 +548,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/python-django-building-scalable-web-applications">Python Django: Building Scalable Web Applications</a>
+<a href="/en/blog/python-django-building-scalable-web-applications">Python Django: Building Scalable Web Applications</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -563,7 +563,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/python-django-building-scalable-web-applications" class="ht-btn ht-btn-md">Read More </a>
+<a href="/en/blog/python-django-building-scalable-web-applications" class="ht-btn ht-btn-md">Read More </a>
 </div>
 </div>
 
@@ -580,7 +580,7 @@
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/uiux-design-trends-shaping-user-experience">
+<a href="/en/blog/uiux-design-trends-shaping-user-experience">
 <img class="img-fluid" src="/images/blog/uiux-design-trends-shaping-user-experience.webp" alt="UI/UX Design Trends Shaping User Experience">
 </a>
 </div>
@@ -592,7 +592,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/uiux-design-trends-shaping-user-experience">UI/UX Design Trends Shaping User Experience</a>
+<a href="/en/blog/uiux-design-trends-shaping-user-experience">UI/UX Design Trends Shaping User Experience</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -607,7 +607,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/uiux-design-trends-shaping-user-experience" class="ht-btn ht-btn-md">Read More </a>
+<a href="/en/blog/uiux-design-trends-shaping-user-experience" class="ht-btn ht-btn-md">Read More </a>
 </div>
 </div>
 
@@ -624,7 +624,7 @@
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/development-of-custom-booking-engines-for-service-businesses">
+<a href="/en/blog/development-of-custom-booking-engines-for-service-businesses">
 <img class="img-fluid" src="/images/blog/development-of-custom-booking-engines-for-service-businesses.webp" alt="Development of Custom Booking Engines for Service Businesses">
 </a>
 </div>
@@ -636,7 +636,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/development-of-custom-booking-engines-for-service-businesses">Development of Custom Booking Engines for Service Businesses</a>
+<a href="/en/blog/development-of-custom-booking-engines-for-service-businesses">Development of Custom Booking Engines for Service Businesses</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -651,7 +651,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/development-of-custom-booking-engines-for-service-businesses" class="ht-btn ht-btn-md">Read More </a>
+<a href="/en/blog/development-of-custom-booking-engines-for-service-businesses" class="ht-btn ht-btn-md">Read More </a>
 </div>
 </div>
 
@@ -668,7 +668,7 @@
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/microservice-architecture-benefits-and-challenges">
+<a href="/en/blog/microservice-architecture-benefits-and-challenges">
 <img class="img-fluid" src="/images/blog/microservice-architecture-benefits-and-challenges.webp" alt="Microservice Architecture: Benefits and Challenges">
 </a>
 </div>
@@ -680,7 +680,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/microservice-architecture-benefits-and-challenges">Micro-service Architecture: Benefits and Challenges</a>
+<a href="/en/blog/microservice-architecture-benefits-and-challenges">Micro-service Architecture: Benefits and Challenges</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -695,7 +695,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/microservice-architecture-benefits-and-challenges" class="ht-btn ht-btn-md">Read More </a>
+<a href="/en/blog/microservice-architecture-benefits-and-challenges" class="ht-btn ht-btn-md">Read More </a>
 </div>
 </div>
 
@@ -712,7 +712,7 @@
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/advanced-seo-optimization-strategies-for-2026">
+<a href="/en/blog/advanced-seo-optimization-strategies-for-2026">
 <img class="img-fluid" src="/images/blog/advanced-seo-optimization-strategies-for-2026.webp" alt="Advanced SEO Optimization Strategies for 2026">
 </a>
 </div>
@@ -724,7 +724,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/advanced-seo-optimization-strategies-for-2026">Advanced SEO Optimization Strategies for 2026</a>
+<a href="/en/blog/advanced-seo-optimization-strategies-for-2026">Advanced SEO Optimization Strategies for 2026</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -739,7 +739,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/advanced-seo-optimization-strategies-for-2026" class="ht-btn ht-btn-md">Read More </a>
+<a href="/en/blog/advanced-seo-optimization-strategies-for-2026" class="ht-btn ht-btn-md">Read More </a>
 </div>
 </div>
 
@@ -756,7 +756,7 @@
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/agile-software-development-best-practices-and-methodologies">
+<a href="/en/blog/agile-software-development-best-practices-and-methodologies">
 <img class="img-fluid" src="/images/blog/agile-software-development-best-practices-and-methodologies.webp" alt="Agile Software Development: Best Practices and Methodologies">
 </a>
 </div>
@@ -768,7 +768,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/agile-software-development-best-practices-and-methodologies">Agile Software Development: Best Practices and Methodologies</a>
+<a href="/en/blog/agile-software-development-best-practices-and-methodologies">Agile Software Development: Best Practices and Methodologies</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -783,7 +783,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/agile-software-development-best-practices-and-methodologies" class="ht-btn ht-btn-md">Read More </a>
+<a href="/en/blog/agile-software-development-best-practices-and-methodologies" class="ht-btn ht-btn-md">Read More </a>
 </div>
 </div>
 
@@ -800,7 +800,7 @@
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/web-accessibility-implementing-wcag-guidelines">
+<a href="/en/blog/web-accessibility-implementing-wcag-guidelines">
 <img class="img-fluid" src="/images/blog/web-accessibility-implementing-wcag-guidelines.webp" alt="Web Accessibility: Implementing WCAG Guidelines">
 </a>
 </div>
@@ -812,7 +812,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/web-accessibility-implementing-wcag-guidelines">Web Accessibility: Implementing WCAG Guidelines</a>
+<a href="/en/blog/web-accessibility-implementing-wcag-guidelines">Web Accessibility: Implementing WCAG Guidelines</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -827,7 +827,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/web-accessibility-implementing-wcag-guidelines" class="ht-btn ht-btn-md">Read More </a>
+<a href="/en/blog/web-accessibility-implementing-wcag-guidelines" class="ht-btn ht-btn-md">Read More </a>
 </div>
 </div>
 
@@ -844,7 +844,7 @@
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/payment-gateway-integration-for-e-commerce-platforms">
+<a href="/en/blog/payment-gateway-integration-for-e-commerce-platforms">
 <img class="img-fluid" src="/images/blog/payment-gateway-integration-for-e-commerce-platforms.webp" alt="Payment Gateway Integration for E-commerce Platforms">
 </a>
 </div>
@@ -856,7 +856,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/payment-gateway-integration-for-e-commerce-platforms">Payment Gateway Integration for E-commerce Platforms</a>
+<a href="/en/blog/payment-gateway-integration-for-e-commerce-platforms">Payment Gateway Integration for E-commerce Platforms</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -871,7 +871,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/payment-gateway-integration-for-e-commerce-platforms" class="ht-btn ht-btn-md">Read More </a>
+<a href="/en/blog/payment-gateway-integration-for-e-commerce-platforms" class="ht-btn ht-btn-md">Read More </a>
 </div>
 </div>
 
@@ -888,7 +888,7 @@
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/docker-containerization-for-modern-applications">
+<a href="/en/blog/docker-containerization-for-modern-applications">
 <img class="img-fluid" src="/images/blog/docker-containerization-for-modern-applications.webp" alt="Docker Containerization for Modern Applications">
 </a>
 </div>
@@ -900,7 +900,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/docker-containerization-for-modern-applications">Docker Containerization for Modern Applications</a>
+<a href="/en/blog/docker-containerization-for-modern-applications">Docker Containerization for Modern Applications</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -915,7 +915,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/docker-containerization-for-modern-applications" class="ht-btn ht-btn-md">Read More </a>
+<a href="/en/blog/docker-containerization-for-modern-applications" class="ht-btn ht-btn-md">Read More </a>
 </div>
 </div>
 
@@ -932,7 +932,7 @@
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/choosing-the-right-cms-platform-for-your-business">
+<a href="/en/blog/choosing-the-right-cms-platform-for-your-business">
 <img class="img-fluid" src="/images/blog/choosing-the-right-cms-platform-for-your-business.webp" alt="Choosing the Right CMS Platform for Your Business">
 </a>
 </div>
@@ -944,7 +944,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/choosing-the-right-cms-platform-for-your-business">Choosing the Right CMS Platform for Your Business</a>
+<a href="/en/blog/choosing-the-right-cms-platform-for-your-business">Choosing the Right CMS Platform for Your Business</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -959,7 +959,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/choosing-the-right-cms-platform-for-your-business" class="ht-btn ht-btn-md">Read More </a>
+<a href="/en/blog/choosing-the-right-cms-platform-for-your-business" class="ht-btn ht-btn-md">Read More </a>
 </div>
 </div>
 
@@ -976,7 +976,7 @@
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/javascript-framework-comparison-react-vue-angular-svelte">
+<a href="/en/blog/javascript-framework-comparison-react-vue-angular-svelte">
 <img class="img-fluid" src="/images/blog/javascript-framework-comparison-react-vue-angular-svelte.webp" alt="JavaScript Framework Comparison: React, Vue, Angular, Svelte">
 </a>
 </div>
@@ -988,7 +988,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/javascript-framework-comparison-react-vue-angular-svelte">JavaScript Framework Comparison: React, Vue, Angular, Svelte</a>
+<a href="/en/blog/javascript-framework-comparison-react-vue-angular-svelte">JavaScript Framework Comparison: React, Vue, Angular, Svelte</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -1003,7 +1003,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/javascript-framework-comparison-react-vue-angular-svelte" class="ht-btn ht-btn-md">Read More </a>
+<a href="/en/blog/javascript-framework-comparison-react-vue-angular-svelte" class="ht-btn ht-btn-md">Read More </a>
 </div>
 </div>
 
@@ -1020,7 +1020,7 @@
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/data-analytics-and-business-intelligence-for-growth">
+<a href="/en/blog/data-analytics-and-business-intelligence-for-growth">
 <img class="img-fluid" src="/images/blog/data-analytics-and-business-intelligence-for-growth.webp" alt="Data Analytics and Business Intelligence for Growth">
 </a>
 </div>
@@ -1032,7 +1032,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/data-analytics-and-business-intelligence-for-growth">Data Analytics and Business Intelligence for Growth</a>
+<a href="/en/blog/data-analytics-and-business-intelligence-for-growth">Data Analytics and Business Intelligence for Growth</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -1047,7 +1047,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/data-analytics-and-business-intelligence-for-growth" class="ht-btn ht-btn-md">Read More </a>
+<a href="/en/blog/data-analytics-and-business-intelligence-for-growth" class="ht-btn ht-btn-md">Read More </a>
 </div>
 </div>
 
@@ -1064,7 +1064,7 @@
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/mobile-application-development-native-vs-cross-platform">
+<a href="/en/blog/mobile-application-development-native-vs-cross-platform">
 <img class="img-fluid" src="/images/blog/mobile-application-development-native-vs-cross-platform.webp" alt="Mobile Application Development: Native vs Cross-Platform">
 </a>
 </div>
@@ -1076,7 +1076,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/mobile-application-development-native-vs-cross-platform">Mobile Application Development: Native vs Cross-Platform</a>
+<a href="/en/blog/mobile-application-development-native-vs-cross-platform">Mobile Application Development: Native vs Cross-Platform</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -1091,7 +1091,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/mobile-application-development-native-vs-cross-platform" class="ht-btn ht-btn-md">Read More </a>
+<a href="/en/blog/mobile-application-development-native-vs-cross-platform" class="ht-btn ht-btn-md">Read More </a>
 </div>
 </div>
 
@@ -1108,7 +1108,7 @@
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/devops-and-cicd-pipelines-for-efficient-deployment">
+<a href="/en/blog/devops-and-cicd-pipelines-for-efficient-deployment">
 <img class="img-fluid" src="/images/blog/devops-and-cicd-pipelines-for-efficient-deployment.webp" alt="DevOps and CI/CD Pipelines for Efficient Deployment">
 </a>
 </div>
@@ -1120,7 +1120,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/devops-and-cicd-pipelines-for-efficient-deployment">DevOps and CI/CD Pipelines for Efficient Deployment</a>
+<a href="/en/blog/devops-and-cicd-pipelines-for-efficient-deployment">DevOps and CI/CD Pipelines for Efficient Deployment</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -1135,7 +1135,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/devops-and-cicd-pipelines-for-efficient-deployment" class="ht-btn ht-btn-md">Read More </a>
+<a href="/en/blog/devops-and-cicd-pipelines-for-efficient-deployment" class="ht-btn ht-btn-md">Read More </a>
 </div>
 </div>
 
@@ -1152,7 +1152,7 @@
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/b2b-platform-development-features-and-best-practices">
+<a href="/en/blog/b2b-platform-development-features-and-best-practices">
 <img class="img-fluid" src="/images/blog/b2b-platform-development-features-and-best-practices.webp" alt="B2B Platform Development: Features and Best Practices">
 </a>
 </div>
@@ -1164,7 +1164,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/b2b-platform-development-features-and-best-practices">B2B Platform Development: Features and Best Practices</a>
+<a href="/en/blog/b2b-platform-development-features-and-best-practices">B2B Platform Development: Features and Best Practices</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -1179,7 +1179,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/b2b-platform-development-features-and-best-practices" class="ht-btn ht-btn-md">Read More </a>
+<a href="/en/blog/b2b-platform-development-features-and-best-practices" class="ht-btn ht-btn-md">Read More </a>
 </div>
 </div>
 
@@ -1196,7 +1196,7 @@
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/cybersecurity-best-practices-for-web-applications">
+<a href="/en/blog/cybersecurity-best-practices-for-web-applications">
 <img class="img-fluid" src="/images/blog/cybersecurity-best-practices-for-web-applications.webp" alt="Cybersecurity Best Practices for Web Applications">
 </a>
 </div>
@@ -1208,7 +1208,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/cybersecurity-best-practices-for-web-applications">Cybersecurity Best Practices for Web Applications</a>
+<a href="/en/blog/cybersecurity-best-practices-for-web-applications">Cybersecurity Best Practices for Web Applications</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -1223,7 +1223,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/cybersecurity-best-practices-for-web-applications" class="ht-btn ht-btn-md">Read More </a>
+<a href="/en/blog/cybersecurity-best-practices-for-web-applications" class="ht-btn ht-btn-md">Read More </a>
 </div>
 </div>
 
@@ -1240,7 +1240,7 @@
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/website-performance-optimization-techniques">
+<a href="/en/blog/website-performance-optimization-techniques">
 <img class="img-fluid" src="/images/blog/website-performance-optimization-techniques.webp" alt="Website Performance Optimization Techniques">
 </a>
 </div>
@@ -1252,7 +1252,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/website-performance-optimization-techniques">Website Performance Optimization Techniques</a>
+<a href="/en/blog/website-performance-optimization-techniques">Website Performance Optimization Techniques</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -1267,7 +1267,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/website-performance-optimization-techniques" class="ht-btn ht-btn-md">Read More </a>
+<a href="/en/blog/website-performance-optimization-techniques" class="ht-btn ht-btn-md">Read More </a>
 </div>
 </div>
 
@@ -1284,7 +1284,7 @@
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/artificial-intelligence-and-machine-learning-for-business-applications">
+<a href="/en/blog/artificial-intelligence-and-machine-learning-for-business-applications">
 <img class="img-fluid" src="/images/blog/artificial-intelligence-and-machine-learning-for-business-applications.webp" alt="Artificial Intelligence and Machine Learning for Business Applications">
 </a>
 </div>
@@ -1296,7 +1296,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/artificial-intelligence-and-machine-learning-for-business-applications">Artificial Intelligence and Machine Learning for Business Applications</a>
+<a href="/en/blog/artificial-intelligence-and-machine-learning-for-business-applications">Artificial Intelligence and Machine Learning for Business Applications</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -1311,7 +1311,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/artificial-intelligence-and-machine-learning-for-business-applications" class="ht-btn ht-btn-md">Read More </a>
+<a href="/en/blog/artificial-intelligence-and-machine-learning-for-business-applications" class="ht-btn ht-btn-md">Read More </a>
 </div>
 </div>
 
@@ -1328,7 +1328,7 @@
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/block-chain-technology-for-business-applications">
+<a href="/en/blog/block-chain-technology-for-business-applications">
 <img class="img-fluid" src="/images/blog/block-chain-technology-for-business-applications.webp" alt="Blockchain Technology for Business Applications">
 </a>
 </div>
@@ -1340,7 +1340,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/block-chain-technology-for-business-applications">Block-chain Technology for Business Applications</a>
+<a href="/en/blog/block-chain-technology-for-business-applications">Block-chain Technology for Business Applications</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -1355,7 +1355,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/block-chain-technology-for-business-applications" class="ht-btn ht-btn-md">Read More </a>
+<a href="/en/blog/block-chain-technology-for-business-applications" class="ht-btn ht-btn-md">Read More </a>
 </div>
 </div>
 
