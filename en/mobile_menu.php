@@ -7,8 +7,8 @@
 
 <div class="col-md-6 col-8">
 <div class="logo">
-<a href="/index">
-<img src="/assets/images/logo/logo-dark.webp" class="img-fluid" Çanakkale Web Tasarım>
+<a href="/en/index">
+<img src="/assets/images/logo/logo-dark.webp" class="img-fluid" alt="Çanakkale Web Tasarım">
 </a>
 </div>
 </div>

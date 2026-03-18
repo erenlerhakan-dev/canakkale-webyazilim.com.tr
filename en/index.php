@@ -8,7 +8,7 @@
 <?php include_once('head_meta.php'); ?>
 
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.canakkale-webyazilim.com.tr">
+<meta property="og:url" content="https://www.canakkale-webyazilim.com.tr/en/">
 <meta property="og:title" content="Canakkale Web Development - Professional Web Development and Software Solutions">
 <meta property="og:description" content="Canakkale Web Development - Professional Web Development and Software Solutions. Professional web development and software solutions in Çanakkale, Türkiye. CRM, ERP, E-commerce, Reservation Systems and Custom Software Development with Laravel, React, Django and more.">
 <meta property="og:image" content="https://www.canakkale-webyazilim.com.tr/images/logo.png">
