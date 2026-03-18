@@ -3,21 +3,21 @@
 
 <head>
 
-<title>Çanakkale Web Yazılım - Profesyonel Web Development ve Yazılım Çözümleri</title>
+<title>Çanakkale Web Yazılım - Profesyonel Web Geliştirme ve Yazılım Çözümleri</title>
 
-<meta name="description" content="Çanakkale Web Yazılım - Profesyonel Web Development ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Rezervasyon Sistemleri ve Laravel, React, Django ve daha fazlasıyla özel yazılım geliştirme.">
+<meta name="description" content="Çanakkale Web Yazılım - Profesyonel Web Geliştirme ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Rezervasyon Sistemleri ve Laravel, React, Django ve daha fazlasıyla özel yazılım geliştirme.">
 
 <?php include_once('../head_meta.php'); ?>
 
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.canakkale-webyazilim.com.tr">
-<meta property="og:title" content="Çanakkale Web Yazılım - Profesyonel Web Development ve Yazılım Çözümleri">
-<meta property="og:description" content="Çanakkale Web Yazılım - Profesyonel Web Development ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Rezervasyon Sistemleri ve Laravel, React, Django ve daha fazlasıyla özel yazılım geliştirme.">
+<meta property="og:title" content="Çanakkale Web Yazılım - Profesyonel Web Geliştirme ve Yazılım Çözümleri">
+<meta property="og:description" content="Çanakkale Web Yazılım - Profesyonel Web Geliştirme ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Rezervasyon Sistemleri ve Laravel, React, Django ve daha fazlasıyla özel yazılım geliştirme.">
 <meta property="og:image" content="https://www.canakkale-webyazilim.com.tr/images/logo.png">
 
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Çanakkale Web Yazılım - Profesyonel Web Development ve Yazılım Çözümleri">
-<meta name="twitter:description" content="Çanakkale Web Yazılım - Profesyonel Web Development ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Rezervasyon Sistemleri ve Laravel, React, Django ve daha fazlasıyla özel yazılım geliştirme.">
+<meta name="twitter:title" content="Çanakkale Web Yazılım - Profesyonel Web Geliştirme ve Yazılım Çözümleri">
+<meta name="twitter:description" content="Çanakkale Web Yazılım - Profesyonel Web Geliştirme ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Rezervasyon Sistemleri ve Laravel, React, Django ve daha fazlasıyla özel yazılım geliştirme.">
 <meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/logo.png">
 
 <script type="application/ld+json" data-rh="true">{"@context":"https://schema.org","@type":"LocalBusiness","name":"Çanakkale Web Yazılım","url":"https://canakkale-webyazilim.com.tr","logo":"https://canakkale-webyazilim.com.tr/logo.png","description":"Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri","address":{"@type":"PostalAddress","streetAddress":"Esenler Mh. Ahmet Piriştina Cd. No:19 Daire:17","addressLocality":"Çanakkale","postalCode":"17000","addressCountry":"TR"},"contactPoint":{"@type":"ContactPoint","telephone":"+90-534-792-2531","contactType":"customer service","email":"info@cozumcloud.com.tr"},"sameAs":["https://www.facebook.com/cozum.cloud/","https://x.com/cozumcloud","https://www.instagram.com/cozum.cloud/","https://www.linkedin.com/company/cozum-cloud"]}</script>
@@ -53,7 +53,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/2026da-modern-web-gelistirme-trendleri">
-<img class="img-fluid" src="/images/blog/2026da-modern-web-gelistirme-trendleri.webp" alt="2026'te Modern Web Development Trendleri">
+<img class="img-fluid" src="/images/blog/2026da-modern-web-gelistirme-trendleri.webp" alt="2026'te Modern Web Geliştirme Trendleri">
 </a>
 </div>
 
@@ -64,22 +64,22 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/2026da-modern-web-gelistirme-trendleri">Modern Web Development Trends in 2026</a>
+<a href="/blog/2026da-modern-web-gelistirme-trendleri">2026'da Modern Web Geliştirme Trendleri</a>
 </h4>
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
 <div class="post-date"><span class="far fa-calendar meta-icon"></span>15 Ocak 2026</div>
-<div class="post-view"><span class="fa fa-list meta-icon"></span>Web Development</div>
+<div class="post-view"><span class="fa fa-list meta-icon"></span>Web Geliştirme</div>
 </div>
 
 <div class="post-excerpt mt-15">
-<p>Discover the latest trends shaping web development, from AI integration to Progressive Web Applications.</p>
+<p>Web geliştirmeyi şekillendiren son trendleri keşfedin, yapay zeka entegrasyonundan ilerici web uygulamalarına kadar.</p>
 </div>
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/2026da-modern-web-gelistirme-trendleri" class="ht-btn ht-btn-md">Read More </a>
+<a href="/blog/2026da-modern-web-gelistirme-trendleri" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -108,7 +108,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari">Benefits of Customized CRM Systems for Turkish Businesses</a>
+<a href="/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari">Türk İşletmeleri için Özel CRM Sistemlerinin Faydaları</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -118,12 +118,12 @@
 </div>
 
 <div class="post-excerpt mt-15">
-<p>Discover how customized CRM solutions can transform your business operations and customer relationships.</p>
+<p>Özel CRM çözümlerinin işletme operasyonlarınızı ve müşteri ilişkilerinizi nasıl dönüştürebileceğini keşfedin.</p>
 </div>
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari" class="ht-btn ht-btn-md">Read More </a>
+<a href="/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -141,7 +141,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/kucuk-isletmeler-icin-e-ticaret-basari-stratejileri">
-<img class="img-fluid" src="/images/blog/kucuk-isletmeler-icin-e-ticaret-basari-stratejileri.webp" alt="Küçük İşletmeler için E-commerce Başarı Stratejileri">
+<img class="img-fluid" src="/images/blog/kucuk-isletmeler-icin-e-ticaret-basari-stratejileri.webp" alt="Küçük İşletmeler için E-Ticaret Başarı Stratejileri">
 </a>
 </div>
 
@@ -152,22 +152,22 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/kucuk-isletmeler-icin-e-ticaret-basari-stratejileri">E-commerce Success Strategies for Small Businesses</a>
+<a href="/blog/kucuk-isletmeler-icin-e-ticaret-basari-stratejileri">Küçük İşletmeler için E-Ticaret Başarı Stratejileri</a>
 </h4>
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
 <div class="post-date"><span class="far fa-calendar meta-icon"></span>25 Ocak 2026</div>
-<div class="post-view"><span class="fa fa-list meta-icon"></span>E-commerce</div>
+<div class="post-view"><span class="fa fa-list meta-icon"></span>E-Ticaret</div>
 </div>
 
 <div class="post-excerpt mt-15">
-<p>Essential strategies for building and growing a successful e-commerce platform in the Turkish market.</p>
+<p>Türkiye pazarında başarılı bir e-ticaret platformu oluşturmak ve büyütmek için temel stratejiler.</p>
 </div>
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/kucuk-isletmeler-icin-e-ticaret-basari-stratejileri" class="ht-btn ht-btn-md">Read More </a>
+<a href="/blog/kucuk-isletmeler-icin-e-ticaret-basari-stratejileri" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -196,22 +196,22 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/laravel-neden-kurumsal-uygulamalar-icin-mukemmeldir">Why Laravel is Perfect for Enterprise Applications</a>
+<a href="/blog/laravel-neden-kurumsal-uygulamalar-icin-mukemmeldir">Laravel Neden Kurumsal Uygulamalar İçin Mükemmeldir</a>
 </h4>
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
 <div class="post-date"><span class="far fa-calendar meta-icon"></span>1 Şubat 2026</div>
-<div class="post-view"><span class="fa fa-list meta-icon"></span>Development</div>
+<div class="post-view"><span class="fa fa-list meta-icon"></span>Geliştirme</div>
 </div>
 
 <div class="post-excerpt mt-15">
-<p>Understand the powerful features that make Laravel ideal for enterprise-level software development.</p>
+<p>Laravel'in kurumsal düzeyde yazılım geliştirme için ideal kılan güçlü özelliklerini anlayın.</p>
 </div>
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/laravel-neden-kurumsal-uygulamalar-icin-mukemmeldir" class="ht-btn ht-btn-md">Read More </a>
+<a href="/blog/laravel-neden-kurumsal-uygulamalar-icin-mukemmeldir" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -240,7 +240,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/react-vs-angular-dogru-frontend-frameworku-secmek">React vs Angular: Choosing the Right Frontend Framework</a>
+<a href="/blog/react-vs-angular-dogru-frontend-frameworku-secmek">React vs Angular: Doğru Frontend Framework'ü Seçmek</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -250,12 +250,12 @@
 </div>
 
 <div class="post-excerpt mt-15">
-<p>A comprehensive comparison to help you choose the best frontend framework for your project.</p>
+<p>Projeniz için en iyi frontend framework'ünü seçmenize yardımcı olacak kapsamlı karşılaştırma.</p>
 </div>
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/react-vs-angular-dogru-frontend-frameworku-secmek" class="ht-btn ht-btn-md">Read More </a>
+<a href="/blog/react-vs-angular-dogru-frontend-frameworku-secmek" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -273,7 +273,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/yuksek-performansli-uygulamalar-icin-veritabani-optimizasyon-teknikleri">
-<img class="img-fluid" src="/images/blog/yuksek-performansli-uygulamalar-icin-veritabani-optimizasyon-teknikleri.webp" alt="Yüksek Performanslı Uygulamalar İçin Database Optimizasyon Teknikleri">
+<img class="img-fluid" src="/images/blog/yuksek-performansli-uygulamalar-icin-veritabani-optimizasyon-teknikleri.webp" alt="Yüksek Performanslı Uygulamalar İçin Veritabanı Optimizasyon Teknikleri">
 </a>
 </div>
 
@@ -284,22 +284,22 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/yuksek-performansli-uygulamalar-icin-veritabani-optimizasyon-teknikleri">Database Optimization Techniques for High-Performance Applications</a>
+<a href="/blog/yuksek-performansli-uygulamalar-icin-veritabani-optimizasyon-teknikleri">Yüksek Performanslı Uygulamalar İçin Veritabanı Optimizasyon Teknikleri</a>
 </h4>
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
 <div class="post-date"><span class="far fa-calendar meta-icon"></span>10 Şubat 2026</div>
-<div class="post-view"><span class="fa fa-list meta-icon"></span>Database</div>
+<div class="post-view"><span class="fa fa-list meta-icon"></span>Veritabanı</div>
 </div>
 
 <div class="post-excerpt mt-15">
-<p>Learn fundamental database optimization strategies to improve application performance.</p>
+<p>Uygulama performansını artırmak için temel veritabanı optimizasyon stratejilerini öğrenin.</p>
 </div>
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/yuksek-performansli-uygulamalar-icin-veritabani-optimizasyon-teknikleri" class="ht-btn ht-btn-md">Read More </a>
+<a href="/blog/yuksek-performansli-uygulamalar-icin-veritabani-optimizasyon-teknikleri" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -317,7 +317,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/modern-web-siteleri-icin-mobil-oncelikli-tasarim-prensipleri">
-<img class="img-fluid" src="/images/blog/modern-web-siteleri-icin-mobil-oncelikli-tasarim-prensipleri.webp" alt="Modern Web Siteleri İçin Mobil Öncelikli Design Prensipleri">
+<img class="img-fluid" src="/images/blog/modern-web-siteleri-icin-mobil-oncelikli-tasarim-prensipleri.webp" alt="Modern Web Siteleri İçin Mobil Öncelikli Tasarım Prensipleri">
 </a>
 </div>
 
@@ -328,22 +328,22 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/modern-web-siteleri-icin-mobil-oncelikli-tasarim-prensipleri">Mobile-First Design Principles for Modern Websites</a>
+<a href="/blog/modern-web-siteleri-icin-mobil-oncelikli-tasarim-prensipleri">Modern Web Siteleri İçin Mobil Öncelikli Tasarım Prensipleri</a>
 </h4>
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
 <div class="post-date"><span class="far fa-calendar meta-icon"></span>15 Şubat 2026</div>
-<div class="post-view"><span class="fa fa-list meta-icon"></span>Design</div>
+<div class="post-view"><span class="fa fa-list meta-icon"></span>Tasarım</div>
 </div>
 
 <div class="post-excerpt mt-15">
-<p>Fundamental principles for creating responsive, mobile-optimized web experiences.</p>
+<p>Duyarlı, mobil optimize edilmiş web deneyimleri oluşturmak için temel prensipler.</p>
 </div>
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/modern-web-siteleri-icin-mobil-oncelikli-tasarim-prensipleri" class="ht-btn ht-btn-md">Read More </a>
+<a href="/blog/modern-web-siteleri-icin-mobil-oncelikli-tasarim-prensipleri" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -372,22 +372,22 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/web-uygulamalari-icin-api-guvenligi-en-iyi-uygulamalari">API Security Best Practices for Web Applications</a>
+<a href="/blog/web-uygulamalari-icin-api-guvenligi-en-iyi-uygulamalari">Web Uygulamaları İçin API Güvenliği En İyi Uygulamaları</a>
 </h4>
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
 <div class="post-date"><span class="far fa-calendar meta-icon"></span>20 Şubat 2026</div>
-<div class="post-view"><span class="fa fa-list meta-icon"></span>Security</div>
+<div class="post-view"><span class="fa fa-list meta-icon"></span>Güvenlik</div>
 </div>
 
 <div class="post-excerpt mt-15">
-<p>Protect your APIs with these basic security measures and best practices.</p>
+<p>Bu temel güvenlik önlemleri ve en iyi uygulamalarla API'lerinizi koruyun.</p>
 </div>
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/web-uygulamalari-icin-api-guvenligi-en-iyi-uygulamalari" class="ht-btn ht-btn-md">Read More </a>
+<a href="/blog/web-uygulamalari-icin-api-guvenligi-en-iyi-uygulamalari" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -405,7 +405,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/bulut-hosting-cozumlerine-eksiksiz-rehber">
-<img class="img-fluid" src="/images/blog/bulut-hosting-cozumlerine-eksiksiz-rehber.webp" alt="Cloud Hosting Çözümlerine Eksiksiz Rehber">
+<img class="img-fluid" src="/images/blog/bulut-hosting-cozumlerine-eksiksiz-rehber.webp" alt="Bulut Hosting Çözümlerine Eksiksiz Rehber">
 </a>
 </div>
 
@@ -416,22 +416,22 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/bulut-hosting-cozumlerine-eksiksiz-rehber">A Complete Guide to Cloud Hosting Solutions</a>
+<a href="/blog/bulut-hosting-cozumlerine-eksiksiz-rehber">Bulut Hosting Çözümlerine Eksiksiz Rehber</a>
 </h4>
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
 <div class="post-date"><span class="far fa-calendar meta-icon"></span>25 Şubat 2026</div>
-<div class="post-view"><span class="fa fa-list meta-icon"></span>Cloud</div>
+<div class="post-view"><span class="fa fa-list meta-icon"></span>Bulut</div>
 </div>
 
 <div class="post-excerpt mt-15">
-<p>Browse the cloud hosting environment and choose the right solution for your needs.</p>
+<p>Bulut hosting ortamında gezinin ve ihtiyaçlarınız için doğru çözümü seçin.</p>
 </div>
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/bulut-hosting-cozumlerine-eksiksiz-rehber" class="ht-btn ht-btn-md">Read More </a>
+<a href="/blog/bulut-hosting-cozumlerine-eksiksiz-rehber" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -460,22 +460,22 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/erp-sistemi-uygulamasi-kapsamli-rehber">ERP System Implementation: A Comprehensive Guide</a>
+<a href="/blog/erp-sistemi-uygulamasi-kapsamli-rehber">ERP Sistemi Uygulaması: Kapsamlı Rehber</a>
 </h4>
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
 <div class="post-date"><span class="far fa-calendar meta-icon"></span>1 Mart 2026</div>
-<div class="post-view"><span class="fa fa-list meta-icon"></span>Cloud</div>
+<div class="post-view"><span class="fa fa-list meta-icon"></span>Bulut</div>
 </div>
 
 <div class="post-excerpt mt-15">
-<p>A step-by-step guide to successfully implementing an ERP system in your organization.</p>
+<p>Kuruluşunuzda bir ERP sistemini başarılı bir şekilde uygulamak için adım adım rehber.</p>
 </div>
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/erp-sistemi-uygulamasi-kapsamli-rehber" class="ht-btn ht-btn-md">Read More </a>
+<a href="/blog/erp-sistemi-uygulamasi-kapsamli-rehber" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -493,7 +493,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/ilerici-web-uygulamalari-web-gelistirmenin-gelecegi">
-<img class="img-fluid" src="/images/blog/ilerici-web-uygulamalari-web-gelistirmenin-gelecegi.webp" alt="İlerici Web Uygulamaları: Web Developmentnin Geleceği">
+<img class="img-fluid" src="/images/blog/ilerici-web-uygulamalari-web-gelistirmenin-gelecegi.webp" alt="İlerici Web Uygulamaları: Web Geliştirmenin Geleceği">
 </a>
 </div>
 
@@ -504,22 +504,22 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/ilerici-web-uygulamalari-web-gelistirmenin-gelecegi">Progressive Web Applications: The Future of Web Development</a>
+<a href="/blog/ilerici-web-uygulamalari-web-gelistirmenin-gelecegi">İlerici Web Uygulamaları: Web Geliştirmenin Geleceği</a>
 </h4>
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
 <div class="post-date"><span class="far fa-calendar meta-icon"></span>5 Mart 2026</div>
-<div class="post-view"><span class="fa fa-list meta-icon"></span>Web Development</div>
+<div class="post-view"><span class="fa fa-list meta-icon"></span>Web Geliştirme</div>
 </div>
 
 <div class="post-excerpt mt-15">
-<p>Discover how PWAs combine the best of web and mobile applications.</p>
+<p>PWA'ların web ve mobil uygulamaların en iyisini nasıl birleştirdiğini keşfedin.</p>
 </div>
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/ilerici-web-uygulamalari-web-gelistirmenin-gelecegi" class="ht-btn ht-btn-md">Read More </a>
+<a href="/blog/ilerici-web-uygulamalari-web-gelistirmenin-gelecegi" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -548,22 +548,22 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/python-django-olceklenebilir-web-uygulamalari-olusturma">Python Django: Building Scalable Web Applications</a>
+<a href="/blog/python-django-olceklenebilir-web-uygulamalari-olusturma">Python Django: Ölçeklenebilir Web Uygulamaları Oluşturma</a>
 </h4>
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
 <div class="post-date"><span class="far fa-calendar meta-icon"></span>10 Mart 2026</div>
-<div class="post-view"><span class="fa fa-list meta-icon"></span>Web Development</div>
+<div class="post-view"><span class="fa fa-list meta-icon"></span>Web Geliştirme</div>
 </div>
 
 <div class="post-excerpt mt-15">
-<p>Why Django is the preferred framework for fast, secure web development.</p>
+<p>Django'nun neden hızlı, güvenli web geliştirme için tercih edilen framework olduğu.</p>
 </div>
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/python-django-olceklenebilir-web-uygulamalari-olusturma" class="ht-btn ht-btn-md">Read More </a>
+<a href="/blog/python-django-olceklenebilir-web-uygulamalari-olusturma" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -581,7 +581,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri">
-<img class="img-fluid" src="/images/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri.webp" alt="Kullanıcı Deneyimini Şekillendiren UI/UX Design Trendleri">
+<img class="img-fluid" src="/images/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri.webp" alt="Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri">
 </a>
 </div>
 
@@ -592,22 +592,22 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri">UI/UX Design Trends Shaping User Experience</a>
+<a href="/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri">Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri</a>
 </h4>
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
 <div class="post-date"><span class="far fa-calendar meta-icon"></span>15 Mart 2026</div>
-<div class="post-view"><span class="fa fa-list meta-icon"></span>Design</div>
+<div class="post-view"><span class="fa fa-list meta-icon"></span>Tasarım</div>
 </div>
 
 <div class="post-excerpt mt-15">
-<p>The latest design trends that enhance user engagement and satisfaction.</p>
+<p>Kullanıcı etkileşimini ve memnuniyetini artıran en son tasarım trendleri.</p>
 </div>
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri" class="ht-btn ht-btn-md">Read More </a>
+<a href="/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -625,7 +625,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/hizmet-isletmeleri-icin-ozel-rezervasyon-motorlari-gelistirme">
-<img class="img-fluid" src="/images/blog/hizmet-isletmeleri-icin-ozel-rezervasyon-motorlari-gelistirme.webp" alt="Hizmet İşletmeleri İçin Özel Rezervasyon Motorları Development">
+<img class="img-fluid" src="/images/blog/hizmet-isletmeleri-icin-ozel-rezervasyon-motorlari-gelistirme.webp" alt="Hizmet İşletmeleri İçin Özel Rezervasyon Motorları Geliştirme">
 </a>
 </div>
 
@@ -636,7 +636,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/hizmet-isletmeleri-icin-ozel-rezervasyon-motorlari-gelistirme">Development of Custom Booking Engines for Service Businesses</a>
+<a href="/blog/hizmet-isletmeleri-icin-ozel-rezervasyon-motorlari-gelistirme">Hizmet İşletmeleri İçin Özel Rezervasyon Motorları Geliştirme</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -646,12 +646,12 @@
 </div>
 
 <div class="post-excerpt mt-15">
-<p>Essential features and considerations for creating effective booking systems.</p>
+<p>Etkili rezervasyon sistemleri oluşturmak için temel özellikler ve değerlendirmeler.</p>
 </div>
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/hizmet-isletmeleri-icin-ozel-rezervasyon-motorlari-gelistirme" class="ht-btn ht-btn-md">Read More </a>
+<a href="/blog/hizmet-isletmeleri-icin-ozel-rezervasyon-motorlari-gelistirme" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -669,7 +669,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/mikroservis-mimarisi-faydalar-ve-zorluklar">
-<img class="img-fluid" src="/images/blog/mikroservis-mimarisi-faydalar-ve-zorluklar.webp" alt="Mikroservis Architecturalsi: Faydalar ve Zorluklar">
+<img class="img-fluid" src="/images/blog/mikroservis-mimarisi-faydalar-ve-zorluklar.webp" alt="Mikroservis Mimarisi: Faydalar ve Zorluklar">
 </a>
 </div>
 
@@ -680,22 +680,22 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/mikroservis-mimarisi-faydalar-ve-zorluklar">Microservice Architecture: Benefits and Challenges</a>
+<a href="/blog/mikroservis-mimarisi-faydalar-ve-zorluklar">Mikroservis Mimarisi: Faydalar ve Zorluklar</a>
 </h4>
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
 <div class="post-date"><span class="far fa-calendar meta-icon"></span>25 Mart 2026</div>
-<div class="post-view"><span class="fa fa-list meta-icon"></span>Architectural</div>
+<div class="post-view"><span class="fa fa-list meta-icon"></span>Mimari</div>
 </div>
 
 <div class="post-excerpt mt-15">
-<p>Understand when and how to implement microservices in your applications.</p>
+<p>Uygulamalarınızda mikroservisleri ne zaman ve nasıl uygulayacağınızı anlayın.</p>
 </div>
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/mikroservis-mimarisi-faydalar-ve-zorluklar" class="ht-btn ht-btn-md">Read More </a>
+<a href="/blog/mikroservis-mimarisi-faydalar-ve-zorluklar" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -724,22 +724,22 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/2026-icin-gelismis-seo-optimizasyon-stratejileri">Advanced SEO Optimization Strategies for 2026</a>
+<a href="/blog/2026-icin-gelismis-seo-optimizasyon-stratejileri">2026 İçin Gelişmiş SEO Optimizasyon Stratejileri</a>
 </h4>
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
 <div class="post-date"><span class="far fa-calendar meta-icon"></span>1 Nisan 2026</div>
-<div class="post-view"><span class="fa fa-list meta-icon"></span>Architectural</div>
+<div class="post-view"><span class="fa fa-list meta-icon"></span>Mimari</div>
 </div>
 
 <div class="post-excerpt mt-15">
-<p>Modern SEO techniques to improve your website's search engine rankings.</p>
+<p>Web sitenizin arama motoru sıralamalarını iyileştirmek için modern SEO teknikleri.</p>
 </div>
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/2026-icin-gelismis-seo-optimizasyon-stratejileri" class="ht-btn ht-btn-md">Read More </a>
+<a href="/blog/2026-icin-gelismis-seo-optimizasyon-stratejileri" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -757,7 +757,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/cevik-yazilim-gelistirme-en-iyi-uygulamalar-ve-metodolojiler">
-<img class="img-fluid" src="/images/blog/cevik-yazilim-gelistirme-en-iyi-uygulamalar-ve-metodolojiler.webp" alt="Çevik Yazılım Development: En İyi Uygulamalar ve Metodolojiler">
+<img class="img-fluid" src="/images/blog/cevik-yazilim-gelistirme-en-iyi-uygulamalar-ve-metodolojiler.webp" alt="Çevik Yazılım Geliştirme: En İyi Uygulamalar ve Metodolojiler">
 </a>
 </div>
 
@@ -768,22 +768,22 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/cevik-yazilim-gelistirme-en-iyi-uygulamalar-ve-metodolojiler">Agile Software Development: Best Practices and Methodologies</a>
+<a href="/blog/cevik-yazilim-gelistirme-en-iyi-uygulamalar-ve-metodolojiler">Çevik Yazılım Geliştirme: En İyi Uygulamalar ve Metodolojiler</a>
 </h4>
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
 <div class="post-date"><span class="far fa-calendar meta-icon"></span>5 Nisan 2026</div>
-<div class="post-view"><span class="fa fa-list meta-icon"></span>Development</div>
+<div class="post-view"><span class="fa fa-list meta-icon"></span>Geliştirme</div>
 </div>
 
 <div class="post-excerpt mt-15">
-<p>Applying agile methodologies for efficient software development.</p>
+<p>Verimli yazılım geliştirme için çevik metodolojileri uygulama.</p>
 </div>
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/cevik-yazilim-gelistirme-en-iyi-uygulamalar-ve-metodolojiler" class="ht-btn ht-btn-md">Read More </a>
+<a href="/blog/cevik-yazilim-gelistirme-en-iyi-uygulamalar-ve-metodolojiler" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -812,22 +812,22 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/web-erisebilirligi-wcag-yonergelerini-uygulama">Web Accessibility: Implementing WCAG Guidelines</a>
+<a href="/blog/web-erisebilirligi-wcag-yonergelerini-uygulama">Web Erişebilirliği: WCAG Yönergelerini Uygulama</a>
 </h4>
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
 <div class="post-date"><span class="far fa-calendar meta-icon"></span>10 Nisan 2026</div>
-<div class="post-view"><span class="fa fa-list meta-icon"></span>Accessibility</div>
+<div class="post-view"><span class="fa fa-list meta-icon"></span>Erişebilirlik</div>
 </div>
 
 <div class="post-excerpt mt-15">
-<p>Creating inclusive web experiences that work for everyone.</p>
+<p>Herkes için çalışan kapsayıcı web deneyimleri oluşturma.</p>
 </div>
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/web-erisebilirligi-wcag-yonergelerini-uygulama" class="ht-btn ht-btn-md">Read More </a>
+<a href="/blog/web-erisebilirligi-wcag-yonergelerini-uygulama" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -845,7 +845,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/e-ticaret-platformlari-icin-odeme-arayuzu-entegrasyonu">
-<img class="img-fluid" src="/images/blog/e-ticaret-platformlari-icin-odeme-arayuzu-entegrasyonu.webp" alt="E-commerce Platformları İçin Ödeme Arayüzü Entegrasyonu">
+<img class="img-fluid" src="/images/blog/e-ticaret-platformlari-icin-odeme-arayuzu-entegrasyonu.webp" alt="E-Ticaret Platformları İçin Ödeme Arayüzü Entegrasyonu">
 </a>
 </div>
 
@@ -856,22 +856,22 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/e-ticaret-platformlari-icin-odeme-arayuzu-entegrasyonu">Payment Gateway Integration for E-commerce Platforms</a>
+<a href="/blog/e-ticaret-platformlari-icin-odeme-arayuzu-entegrasyonu">E-Ticaret Platformları İçin Ödeme Geçidi Entegrasyonu</a>
 </h4>
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
 <div class="post-date"><span class="far fa-calendar meta-icon"></span>15 Nisan 2026</div>
-<div class="post-view"><span class="fa fa-list meta-icon"></span>E-commerce</div>
+<div class="post-view"><span class="fa fa-list meta-icon"></span>E-Ticaret</div>
 </div>
 
 <div class="post-excerpt mt-15">
-<p>Secure payment processing solutions for online businesses.</p>
+<p>Çevrimiçi işletmeler için güvenli ödeme işleme çözümleri.</p>
 </div>
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/e-ticaret-platformlari-icin-odeme-arayuzu-entegrasyonu" class="ht-btn ht-btn-md">Read More </a>
+<a href="/blog/e-ticaret-platformlari-icin-odeme-arayuzu-entegrasyonu" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -900,7 +900,7 @@ F
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/modern-uygulamalar-icin-docker-konteynerizasyonu">Docker Containerization for Modern Applications</a>
+<a href="/blog/modern-uygulamalar-icin-docker-konteynerizasyonu">Modern Uygulamalar İçin Docker Konteynerizasyonu</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -910,12 +910,12 @@ F
 </div>
 
 <div class="post-excerpt mt-15">
-<p>Simplify development and deployment with Docker containers.</p>
+<p>Docker konteynerları ile geliştirme ve dağıtımı kolaylaştırın.</p>
 </div>
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/modern-uygulamalar-icin-docker-konteynerizasyonu" class="ht-btn ht-btn-md">Read More </a>
+<a href="/blog/modern-uygulamalar-icin-docker-konteynerizasyonu" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -944,7 +944,7 @@ F
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/isletmeniz-icin-dogru-cms-platformunu-secmek">Choosing the Right CMS Platform for Your Business</a>
+<a href="/blog/isletmeniz-icin-dogru-cms-platformunu-secmek">İşletmeniz İçin Doğru CMS Platformunu Seçmek</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -954,12 +954,12 @@ F
 </div>
 
 <div class="post-excerpt mt-15">
-<p>Compare popular CMS platforms to find the perfect fit for your needs.</p>
+<p>İhtiyaçlarınıza mükemmel uyumu bulmak için popüler CMS platformlarını karşılaştırın.</p>
 </div>
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/isletmeniz-icin-dogru-cms-platformunu-secmek" class="ht-btn ht-btn-md">Read More </a>
+<a href="/blog/isletmeniz-icin-dogru-cms-platformunu-secmek" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -988,7 +988,7 @@ F
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/javascript-framework-karsilastirmasi-react-vue-angular-svelte">JavaScript Framework Comparison: React, Vue, Angular, Svelte</a>
+<a href="/blog/javascript-framework-karsilastirmasi-react-vue-angular-svelte">JavaScript Framework Karşılaştırması: React, Vue, Angular, Svelte</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -998,12 +998,12 @@ F
 </div>
 
 <div class="post-excerpt mt-15">
-<p>A comprehensive comparison of leading JavaScript frameworks.</p>
+<p>Önde gelen JavaScript framework'lerinin kapsamlı karşılaştırması.</p>
 </div>
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/javascript-framework-karsilastirmasi-react-vue-angular-svelte" class="ht-btn ht-btn-md">Read More </a>
+<a href="/blog/javascript-framework-karsilastirmasi-react-vue-angular-svelte" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -1032,7 +1032,7 @@ F
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/buyume-icin-veri-analitigi-ve-is-zekasi">Data Analytics and Business Intelligence for Growth</a>
+<a href="/blog/buyume-icin-veri-analitigi-ve-is-zekasi">Büyüme İçin Veri Analitiği ve İş Zekası</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -1042,12 +1042,12 @@ F
 </div>
 
 <div class="post-excerpt mt-15">
-<p>Leverage data analytics to guide business decisions and growth.</p>
+<p>İş kararlarını ve büyümeyi yönlendirmek için veri analitiğinden yararlanın.</p>
 </div>
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/buyume-icin-veri-analitigi-ve-is-zekasi" class="ht-btn ht-btn-md">Read More </a>
+<a href="/blog/buyume-icin-veri-analitigi-ve-is-zekasi" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -1065,7 +1065,7 @@ F
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/mobil-uygulama-gelistirme-native-vs-cross-platform">
-<img class="img-fluid" src="/images/blog/mobil-uygulama-gelistirme-native-vs-cross-platform.webp" alt="Mobil Uygulama Development: Native vs Cross-Platform">
+<img class="img-fluid" src="/images/blog/mobil-uygulama-gelistirme-native-vs-cross-platform.webp" alt="Mobil Uygulama Geliştirme: Native vs Cross-Platform">
 </a>
 </div>
 
@@ -1076,7 +1076,7 @@ F
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/mobil-uygulama-gelistirme-native-vs-cross-platform">Mobile Application Development: Native vs Cross-Platform</a>
+<a href="/blog/mobil-uygulama-gelistirme-native-vs-cross-platform">Mobil Uygulama Geliştirme: Native vs Cross-Platform</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -1086,12 +1086,12 @@ F
 </div>
 
 <div class="post-excerpt mt-15">
-<p>Choosing between native and cross-platform mobile development approaches.</p>
+<p>Native ve cross-platform mobil geliştirme yaklaşımları arasında karar verme.</p>
 </div>
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/mobil-uygulama-gelistirme-native-vs-cross-platform" class="ht-btn ht-btn-md">Read More </a>
+<a href="/blog/mobil-uygulama-gelistirme-native-vs-cross-platform" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -1120,7 +1120,7 @@ F
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/verimli-dagitim-icin-devops-ve-ci-cd-pipelinelari">DevOps and CI/CD Pipelines for Efficient Deployment</a>
+<a href="/blog/verimli-dagitim-icin-devops-ve-ci-cd-pipelinelari">Verimli Dağıtım İçin DevOps ve CI/CD Pipeline'ları</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -1130,12 +1130,12 @@ F
 </div>
 
 <div class="post-excerpt mt-15">
-<p>Automate your development workflow with modern DevOps practices.</p>
+<p>Modern DevOps uygulamalarıyla geliştirme iş akışınızı otomatikleştirin.</p>
 </div>
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/verimli-dagitim-icin-devops-ve-ci-cd-pipelinelari" class="ht-btn ht-btn-md">Read More </a>
+<a href="/blog/verimli-dagitim-icin-devops-ve-ci-cd-pipelinelari" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -1153,7 +1153,7 @@ F
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/b2b-platform-gelistirme-ozellikler-ve-en-iyi-uygulamalar">
-<img class="img-fluid" src="/images/blog/b2b-platform-gelistirme-ozellikler-ve-en-iyi-uygulamalar.webp" alt="B2B Platform Development: Özellikler ve En İyi Uygulamalar">
+<img class="img-fluid" src="/images/blog/b2b-platform-gelistirme-ozellikler-ve-en-iyi-uygulamalar.webp" alt="B2B Platform Geliştirme: Özellikler ve En İyi Uygulamalar">
 </a>
 </div>
 
@@ -1164,7 +1164,7 @@ F
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/b2b-platform-gelistirme-ozellikler-ve-en-iyi-uygulamalar">B2B Platform Development: Features and Best Practices</a>
+<a href="/blog/b2b-platform-gelistirme-ozellikler-ve-en-iyi-uygulamalar">B2B Platform Geliştirme: Özellikler ve En İyi Uygulamalar</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -1174,12 +1174,12 @@ F
 </div>
 
 <div class="post-excerpt mt-15">
-<p>Creating effective B2B platforms for business-to-business commerce.</p>
+<p>İşletmeden işletmeye ticaret için etkili B2B platformları oluşturma.</p>
 </div>
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/b2b-platform-gelistirme-ozellikler-ve-en-iyi-uygulamalar" class="ht-btn ht-btn-md">Read More </a>
+<a href="/blog/b2b-platform-gelistirme-ozellikler-ve-en-iyi-uygulamalar" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -1197,7 +1197,7 @@ F
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/web-uygulamalari-icin-siber-guvenlik-en-iyi-uygulamalari">
-<img class="img-fluid" src="/images/blog/web-uygulamalari-icin-siber-guvenlik-en-iyi-uygulamalari.webp" alt="Web Uygulamaları İçin Siber Security En İyi Uygulamaları">
+<img class="img-fluid" src="/images/blog/web-uygulamalari-icin-siber-guvenlik-en-iyi-uygulamalari.webp" alt="Web Uygulamaları İçin Siber Güvenlik En İyi Uygulamaları">
 </a>
 </div>
 
@@ -1208,22 +1208,22 @@ F
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/web-uygulamalari-icin-siber-guvenlik-en-iyi-uygulamalari">Cybersecurity Best Practices for Web Applications</a>
+<a href="/blog/web-uygulamalari-icin-siber-guvenlik-en-iyi-uygulamalari">Web Uygulamaları İçin Siber Güvenlik En İyi Uygulamaları</a>
 </h4>
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
 <div class="post-date"><span class="far fa-calendar meta-icon"></span>25 Mayıs 2026</div>
-<div class="post-view"><span class="fa fa-list meta-icon"></span>Security</div>
+<div class="post-view"><span class="fa fa-list meta-icon"></span>Güvenlik</div>
 </div>
 
 <div class="post-excerpt mt-15">
-<p>Basic security measures to protect your web applications..</p>
+<p>Web uygulamalarınızı korumak için temel güvenlik önlemleri.</p>
 </div>
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/web-uygulamalari-icin-siber-guvenlik-en-iyi-uygulamalari" class="ht-btn ht-btn-md">Read More </a>
+<a href="/blog/web-uygulamalari-icin-siber-guvenlik-en-iyi-uygulamalari" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -1252,7 +1252,7 @@ F
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/web-sitesi-performans-optimizasyon-teknikleri">Website Performance Optimization Techniques</a>
+<a href="/blog/web-sitesi-performans-optimizasyon-teknikleri">Web Sitesi Performans Optimizasyon Teknikleri</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -1262,12 +1262,12 @@ F
 </div>
 
 <div class="post-excerpt mt-15">
-<p>Speed ​​up your website with proven performance optimization strategies.</p>
+<p>Kanıtlanmış performans optimizasyon stratejileriyle web sitenizi hızlandırın.</p>
 </div>
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/web-sitesi-performans-optimizasyon-teknikleri" class="ht-btn ht-btn-md">Read More </a>
+<a href="/blog/web-sitesi-performans-optimizasyon-teknikleri" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -1296,7 +1296,7 @@ F
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/is-uygulamalari-icin-yapay-zeka-ve-makine-ogrenimi">Artificial Intelligence and Machine Learning for Business Applications</a>
+<a href="/blog/is-uygulamalari-icin-yapay-zeka-ve-makine-ogrenimi">İş Uygulamaları İçin Yapay Zeka ve Makine Öğrenimi</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -1306,12 +1306,12 @@ F
 </div>
 
 <div class="post-excerpt mt-15">
-<p>Use artificial intelligence and machine learning to transform your business processes.</p>
+<p>İş süreçlerinizi dönüştürmek için yapay zeka ve makine öğrenimini kullanın.</p>
 </div>
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/is-uygulamalari-icin-yapay-zeka-ve-makine-ogrenimi" class="ht-btn ht-btn-md">Read More </a>
+<a href="/blog/is-uygulamalari-icin-yapay-zeka-ve-makine-ogrenimi" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -1340,7 +1340,7 @@ F
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/is-uygulamalari-icin-blockchain-teknolojisi">Blockchain Technology for Business Applications</a>
+<a href="/blog/is-uygulamalari-icin-blockchain-teknolojisi">İş Uygulamaları İçin Blockchain Teknolojisi</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -1350,12 +1350,12 @@ F
 </div>
 
 <div class="post-excerpt mt-15">
-<p>Discover how blockchain technology can transform business processes.</p>
+<p>Blockchain teknolojisinin iş süreçlerini nasıl dönüştürebileceğini keşfedin.</p>
 </div>
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/is-uygulamalari-icin-blockchain-teknolojisi" class="ht-btn ht-btn-md">Read More </a>
+<a href="/blog/is-uygulamalari-icin-blockchain-teknolojisi" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
