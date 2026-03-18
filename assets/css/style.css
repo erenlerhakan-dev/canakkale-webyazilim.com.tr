@@ -10325,7 +10325,7 @@ ol {
 }
 
 .appointment-contact-bg {
-  background: url(../images/bg/home-appointment-contact-bg-image.webp);
+  background: url(/images/home-appointment-contact-bg-image.webp);
   background-repeat: no-repeat;
   background-position: center right;
 }
