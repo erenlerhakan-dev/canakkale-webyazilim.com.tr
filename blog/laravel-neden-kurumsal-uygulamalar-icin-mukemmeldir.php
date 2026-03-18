@@ -1,17 +1,17 @@
 <?php
-$date1 = "2025-11-05";
-$date2 = "2025-11-05";
-$name  = "Laravel Neden Kurumsal Uygulamalar İçin Mükemmeldir";
-$title = "Laravel Neden Kurumsal Uygulamalar İçin Mükemmeldir | Çanakkale Web Tasarım";
-$desc1 = "Laravel framework neden kurumsal web uygulamaları için tercih edilir? Güvenlik, performans, ölçeklenebilirlik ve modern yazılım mimarisi ile Laravel'in avantajlarını keşfedin.";
-$desc2 = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
-$lang  = "tr_TR";
-$img   = "https://www.canakkale-webyazilim.com.tr/images/blog/2026da-modern-web-gelistirme-trendleri.webp";
-$url   = "https://www.canakkale-webyazilim.com.tr/blog/2026da-modern-web-gelistirme-trendleri";
-$alt   = "";
-$cat   = "";
-
-
+$date1  = "2025-11-05";
+$date2  = "2025-11-05";
+$name   = "Laravel Neden Kurumsal Uygulamalar İçin Mükemmeldir";
+$title  = "Laravel Neden Kurumsal Uygulamalar İçin Mükemmeldir | Çanakkale Web Tasarım";
+$desc1  = "Laravel framework neden kurumsal web uygulamaları için tercih edilir? Güvenlik, performans, ölçeklenebilirlik ve modern yazılım mimarisi ile Laravel'in avantajlarını keşfedin.";
+$desc2  = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
+$ogdesc = "Laravel framework ile güvenli, hızlı ve ölçeklenebilir kurumsal web uygulamaları geliştirin.";
+$twdesc = "Kurumsal yazılım geliştirme için Laravel framework'ün avantajlarını keşfedin.";
+$lang   = "tr_TR";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/blog/laravel-neden-kurumsal-uygulamalar-icin-mukemmeldir.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/blog/laravel-neden-kurumsal-uygulamalar-icin-mukemmeldir";
+$alt    = "laravel neden kurumsal uygulamalar i̇çin mükemmeldir";
+$cat    = "Laravel, Web Yazılım";
 ?>
 
 <!DOCTYPE html>
@@ -22,56 +22,18 @@ $cat   = "";
 <title><?php echo $title; ?></title>
 <meta name="description" content="<?php echo $desc1; ?>">
 
-<meta property="og:title" content="Laravel Neden Kurumsal Uygulamalar İçin Mükemmeldir">
-<meta property="og:description" content="Laravel framework ile güvenli, hızlı ve ölçeklenebilir kurumsal web uygulamaları geliştirin.">
-<meta property="og:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/laravel-neden-kurumsal-uygulamalar-icin-mukemmeldir.webp">
-<meta property="og:url" content="https://www.canakkale-webyazilim.com.tr/blog/laravel-neden-kurumsal-uygulamalar-icin-mukemmeldir">
-<meta property="og:type" content="article">
-<meta property="og:locale" content="tr_TR">
-<meta property="og:site_name" content="Çanakkale Web Yazılım">
-
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Laravel Neden Kurumsal Uygulamalar İçin Mükemmeldir">
-<meta name="twitter:description" content="Kurumsal yazılım geliştirme için Laravel framework'ün avantajlarını keşfedin.">
-<meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/laravel-neden-kurumsal-uygulamalar-icin-mukemmeldir.webp">
-
 <?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "Article",
-"headline": "2026’ta Modern Web Geliştirme Trendleri: Çanakkale Web Tasarım Dünyasında Yeni Teknolojiler",
-"description": "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri.",
-"image": "https://www.canakkale-webyazilim.com.tr/images/blog/laravel-neden-kurumsal-uygulamalar-icin-mukemmeldir.webp",
-"author": {
-"@type": "Person",
-"name": "Çanakkale Web Yazılım"
-},
-"publisher": {
-"@type": "Organization",
-"name": "Çanakkale Web Yazılım",
-"logo": {
-"@type": "ImageObject",
-"url": "https://www.canakkale-webyazilim.com.tr/images/cozum-cloud-logo.png"
-}
-},
-"datePublished": "2026-01-02",
-"dateModified": "2026-01-02",
-"mainEntityOfPage": {
-"@type": "WebPage",
-"@id": "https://www.canakkale-webyazilim.com.tr/blog/laravel-neden-kurumsal-uygulamalar-icin-mukemmeldir"
-}
-}
-</script>
+<?php include('schema.php'); ?>
 
 </head>
 
 <body>
 
 <?php include_once('../preloader.php'); ?>
+
 <?php include_once('../header.php'); ?>
 
 <div id="main-wrapper">
@@ -83,7 +45,7 @@ $cat   = "";
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/images/blog/laravel-neden-kurumsal-uygulamalar-icin-mukemmeldir.webp" alt="Laravel kurumsal web uygulama geliştirme">
+<img class="img-fluid" src="<?php echo $img; ?>" alt="<?php echo $alt; ?>">
 </div>
 </div>
 
@@ -94,14 +56,9 @@ $cat   = "";
 
 <div class="post-info lg-blog-post-info">
 
-<div class="post-categories text-center">
-<a href="#">Laravel</a>, 
-<a href="#">Web Yazılım</a>
-</div>
+<div class="post-categories text-center"><a href="javascript:void(0);"><?php echo $cat; ?></a></div>
 
-<h1 class="post-title text-center">
-Laravel Neden Kurumsal Uygulamalar İçin Mükemmeldir
-</h1>
+<h1 class="post-title text-center"><?php echo $name; ?></h1>
 
 <div class="post-excerpt mt-15">
 

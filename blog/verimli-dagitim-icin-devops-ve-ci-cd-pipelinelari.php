@@ -1,17 +1,17 @@
 <?php
-$date1 = "2025-11-05";
-$date2 = "2025-11-05";
-$name  = "Verimli Dağıtım İçin DevOps ve CI/CD Pipeline'ları";
-$title = "Verimli Dağıtım İçin DevOps ve CI/CD Pipeline'ları | Çanakkale Web Tasarım";
-$desc1 = "DevOps ve CI/CD pipeline kullanımı ile yazılım dağıtım süreçlerinizi optimize edin. Çanakkale web yazılım çözümleri ile hızlı ve güvenli yazılım teslimi sağlayın.";
-$desc2 = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
-$lang  = "tr_TR";
-$img   = "https://www.canakkale-webyazilim.com.tr/images/blog/2026da-modern-web-gelistirme-trendleri.webp";
-$url   = "https://www.canakkale-webyazilim.com.tr/blog/2026da-modern-web-gelistirme-trendleri";
-$alt   = "";
-$cat   = "";
-
-
+$date1  = "2025-11-05";
+$date2  = "2025-11-05";
+$name   = "Verimli Dağıtım İçin DevOps ve CI/CD Pipeline'ları";
+$title  = "Verimli Dağıtım İçin DevOps ve CI/CD Pipeline'ları | Çanakkale Web Tasarım";
+$desc1  = "DevOps ve CI/CD pipeline kullanımı ile yazılım dağıtım süreçlerinizi optimize edin. Çanakkale web yazılım çözümleri ile hızlı ve güvenli yazılım teslimi sağlayın.";
+$desc2  = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
+$ogdesc = "Çanakkale web yazılım çözümleri ile DevOps ve CI/CD pipeline kullanarak yazılım dağıtım süreçlerinizi hızlandırın ve güvenli hale getirin.";
+$twdesc = "Çanakkale web yazılım hizmetleri ile DevOps ve CI/CD pipeline uygulamaları sayesinde hızlı ve güvenli yazılım dağıtımı sağlayın.";
+$lang   = "tr_TR";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/blog/verimli-dagitim-icin-devops-ve-ci-cd-pipelinelari.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/blog/verimli-dagitim-icin-devops-ve-ci-cd-pipelinelari";
+$alt    = "verimli dağıtım i̇çin devops ve ci/cd pipeline'ları";
+$cat    = "DevOps, CI/CD";
 ?>
 
 <!DOCTYPE html>
@@ -22,56 +22,18 @@ $cat   = "";
 <title><?php echo $title; ?></title>
 <meta name="description" content="<?php echo $desc1; ?>">
 
-<meta property="og:title" content="Verimli Dağıtım İçin DevOps ve CI/CD Pipeline'ları">
-<meta property="og:description" content="Çanakkale web yazılım çözümleri ile DevOps ve CI/CD pipeline kullanarak yazılım dağıtım süreçlerinizi hızlandırın ve güvenli hale getirin.">
-<meta property="og:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/verimli-dagitim-icin-devops-ve-ci-cd-pipelinelari.webp">
-<meta property="og:url" content="https://www.canakkale-webyazilim.com.tr/blog/verimli-dagitim-icin-devops-ve-ci-cd-pipelinelari">
-<meta property="og:type" content="article">
-<meta property="og:locale" content="tr_TR">
-<meta property="og:site_name" content="Çanakkale Web Yazılım">
-
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Verimli Dağıtım İçin DevOps ve CI/CD Pipeline'ları">
-<meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile DevOps ve CI/CD pipeline uygulamaları sayesinde hızlı ve güvenli yazılım dağıtımı sağlayın.">
-<meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/verimli-dagitim-icin-devops-ve-ci-cd-pipelinelari.webp">
-
 <?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "Article",
-"headline": "2026’ta Modern Web Geliştirme Trendleri: Çanakkale Web Tasarım Dünyasında Yeni Teknolojiler",
-"description": "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri.",
-"image": "https://www.canakkale-webyazilim.com.tr/images/blog/verimli-dagitim-icin-devops-ve-ci-cd-pipelinelari.webp",
-"author": {
-"@type": "Person",
-"name": "Çanakkale Web Yazılım"
-},
-"publisher": {
-"@type": "Organization",
-"name": "Çanakkale Web Yazılım",
-"logo": {
-"@type": "ImageObject",
-"url": "https://www.canakkale-webyazilim.com.tr/images/cozum-cloud-logo.png"
-}
-},
-"datePublished": "2026-15-05",
-"dateModified": "2026-15-05",
-"mainEntityOfPage": {
-"@type": "WebPage",
-"@id": "https://www.canakkale-webyazilim.com.tr/blog/verimli-dagitim-icin-devops-ve-ci-cd-pipelinelari"
-}
-}
-</script>
+<?php include('schema.php'); ?>
 
 </head>
 
 <body>
 
 <?php include_once('../preloader.php'); ?>
+
 <?php include_once('../header.php'); ?>
 
 <div id="main-wrapper">
@@ -83,25 +45,20 @@ $cat   = "";
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/images/blog/verimli-dagitim-icin-devops-ve-ci-cd-pipelinelari.webp" alt="DevOps ve CI/CD Pipeline">
+<img class="img-fluid" src="<?php echo $img; ?>" alt="<?php echo $alt; ?>">
 </div>
 </div>
 
 <div class="col-lg-8 m-auto">
 <div class="main-blog-wrap">
+
 <div class="single-blog-item wow move-up">
 
 <div class="post-info lg-blog-post-info">
 
-<div class="post-categories text-center">
-<a href="javascript:void(0);">DevOps, CI/CD, Çanakkale Web Yazılım</a>
-</div>
+<div class="post-categories text-center"><a href="javascript:void(0);"><?php echo $cat; ?></a></div>
 
-<h3 class="post-title text-center">
-<a href="javascript:void(0);">
-Verimli Dağıtım İçin DevOps ve CI/CD Pipeline'ları
-</a>
-</h3>
+<h1 class="post-title text-center"><?php echo $name; ?></h1>
 
 <div class="post-excerpt mt-15">
 

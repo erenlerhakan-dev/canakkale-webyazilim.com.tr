@@ -1,17 +1,17 @@
 <?php
-$date1 = "2025-11-05";
-$date2 = "2025-11-05";
-$name  = "2026'da Modern Web Geliştirme Trendleri";
-$title = "2026'da Modern Web Geliştirme Trendleri | Çanakkale Web Tasarım";
-$desc1 = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
-$desc2 = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
-$lang  = "tr_TR";
-$img   = "https://www.canakkale-webyazilim.com.tr/images/blog/2026da-modern-web-gelistirme-trendleri.webp";
-$url   = "https://www.canakkale-webyazilim.com.tr/blog/2026da-modern-web-gelistirme-trendleri";
-$alt   = "";
-$cat   = "";
-
-
+$date1  = "2025-11-05";
+$date2  = "2025-11-05";
+$name   = "2026'da Modern Web Geliştirme Trendleri";
+$title  = "2026'da Modern Web Geliştirme Trendleri | Çanakkale Web Tasarım";
+$desc1  = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
+$desc2  = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
+$ogdesc = "2026 yılında web geliştirme dünyasını şekillendiren trendleri keşfedin: yapay zeka, PWA, mobil öncelikli tasarım ve modern web teknolojileri.";
+$twdesc = "Modern web geliştirme trendleri ve Çanakkale web tasarım çözümleri hakkında detaylı rehber.";
+$lang   = "tr_TR";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/blog/2026da-modern-web-gelistirme-trendleri.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/blog/2026da-modern-web-gelistirme-trendleri";
+$alt    = "2026'da modern web geliştirme trendleri";
+$cat    = "Web Tasarım";
 ?>
 
 <!DOCTYPE html>
@@ -23,8 +23,6 @@ $cat   = "";
 <meta name="description" content="<?php echo $desc1; ?>">
 
 <?php include('meta.php'); ?>
-
-<link rel="canonical" href="https://www.canakkale-webyazilim.com.tr/blog/2026da-modern-web-gelistirme-trendleri">
 
 <?php include_once('../head_meta.php'); ?>
 
@@ -47,7 +45,7 @@ $cat   = "";
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/images/blog/2026da-modern-web-gelistirme-trendleri.webp" alt="2026 modern web geliştirme trendleri Çanakkale web tasarım">
+<img class="img-fluid" src="<?php echo $img; ?>" alt="<?php echo $alt; ?>">
 </div>
 </div>
 
@@ -58,13 +56,9 @@ $cat   = "";
 
 <div class="post-info lg-blog-post-info">
 
-<div class="post-categories text-center">
-<a href="#">Web Tasarım, Çanakkale Web Tasarım</a>
-</div>
+<div class="post-categories text-center"><a href="javascript:void(0);"><?php echo $cat; ?></a></div>
 
-<h1 class="post-title text-center">
-2026’da Modern Web Geliştirme Trendleri: Çanakkale Web Tasarım Dünyasında Yeni Teknolojiler
-</h1>
+<h1 class="post-title text-center"><?php echo $name; ?></h1>
 
 <div class="post-excerpt mt-15">
 

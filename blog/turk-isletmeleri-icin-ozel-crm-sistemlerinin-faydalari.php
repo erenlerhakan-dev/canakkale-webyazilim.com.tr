@@ -1,17 +1,17 @@
 <?php
-$date1 = "2025-11-05";
-$date2 = "2025-11-05";
-$name  = "Türk İşletmeleri için Özel CRM Sistemlerinin Faydaları";
-$title = "Türk İşletmeleri için Özel CRM Sistemlerinin Faydaları | Çanakkale Web Tasarım";
-$desc1 = "Türk işletmeleri için özel CRM yazılımının avantajlarını keşfedin. Müşteri yönetimi, satış takibi ve iş süreçlerini kolaylaştıran CRM çözümleri ile işletmenizi büyütün.";
-$desc2 = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
-$lang  = "tr_TR";
-$img   = "https://www.canakkale-webyazilim.com.tr/images/blog/2026da-modern-web-gelistirme-trendleri.webp";
-$url   = "https://www.canakkale-webyazilim.com.tr/blog/2026da-modern-web-gelistirme-trendleri";
-$alt   = "";
-$cat   = "";
-
-
+$date1  = "2025-11-05";
+$date2  = "2025-11-05";
+$name   = "Türk İşletmeleri için Özel CRM Sistemlerinin Faydaları";
+$title  = "Türk İşletmeleri için Özel CRM Sistemlerinin Faydaları | Çanakkale Web Tasarım";
+$desc1  = "Türk işletmeleri için özel CRM yazılımının avantajlarını keşfedin. Müşteri yönetimi, satış takibi ve iş süreçlerini kolaylaştıran CRM çözümleri ile işletmenizi büyütün.";
+$desc2  = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri.";
+$ogdesc = "Özel CRM yazılımları ile müşteri ilişkilerinizi güçlendirin ve iş süreçlerinizi optimize edin.";
+$twdesc = "CRM yazılımları işletmeler için neden önemli? Özel CRM çözümlerinin avantajlarını öğrenin.";
+$lang   = "tr_TR";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari";
+$alt    = "türk i̇şletmeleri için özel crm sistemlerinin faydaları";
+$cat    = "CRM Yazılım, İş Yazılımları";
 ?>
 
 <!DOCTYPE html>
@@ -22,56 +22,18 @@ $cat   = "";
 <title><?php echo $title; ?></title>
 <meta name="description" content="<?php echo $desc1; ?>">
 
-<meta property="og:title" content="Türk İşletmeleri için Özel CRM Sistemlerinin Faydaları">
-<meta property="og:description" content="Özel CRM yazılımları ile müşteri ilişkilerinizi güçlendirin ve iş süreçlerinizi optimize edin.">
-<meta property="og:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari.webp">
-<meta property="og:url" content="https://www.canakkale-webyazilim.com.tr/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari">
-<meta property="og:type" content="article">
-<meta property="og:locale" content="tr_TR">
-<meta property="og:site_name" content="Çanakkale Web Yazılım">
-
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Türk İşletmeleri için Özel CRM Sistemlerinin Faydaları">
-<meta name="twitter:description" content="CRM yazılımları işletmeler için neden önemli? Özel CRM çözümlerinin avantajlarını öğrenin.">
-<meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari.webp">
-
 <?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "Article",
-"headline": "2026’ta Modern Web Geliştirme Trendleri: Çanakkale Web Tasarım Dünyasında Yeni Teknolojiler",
-"description": "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri.",
-"image": "https://www.canakkale-webyazilim.com.tr/images/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari.webp",
-"author": {
-"@type": "Person",
-"name": "Çanakkale Web Yazılım"
-},
-"publisher": {
-"@type": "Organization",
-"name": "Çanakkale Web Yazılım",
-"logo": {
-"@type": "ImageObject",
-"url": "https://www.canakkale-webyazilim.com.tr/images/cozum-cloud-logo.png"
-}
-},
-"datePublished": "2026-01-20",
-"dateModified": "2026-01-20",
-"mainEntityOfPage": {
-"@type": "WebPage",
-"@id": "https://www.canakkale-webyazilim.com.tr/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari"
-}
-}
-</script>
+<?php include('schema.php'); ?>
 
 </head>
 
 <body>
 
 <?php include_once('../preloader.php'); ?>
+
 <?php include_once('../header.php'); ?>
 
 <div id="main-wrapper">
@@ -83,7 +45,7 @@ $cat   = "";
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/images/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari.webp" alt="CRM yazılımı ve müşteri yönetim sistemi">
+<img class="img-fluid" src="<?php echo $img; ?>" alt="<?php echo $alt; ?>">
 </div>
 </div>
 
@@ -94,14 +56,9 @@ $cat   = "";
 
 <div class="post-info lg-blog-post-info">
 
-<div class="post-categories text-center">
-<a href="#">CRM Yazılım</a>, 
-<a href="#">İş Yazılımları</a>
-</div>
+<div class="post-categories text-center"><a href="javascript:void(0);"><?php echo $cat; ?></a></div>
 
-<h1 class="post-title text-center">
-Türk İşletmeleri için Özel CRM Sistemlerinin Faydaları
-</h1>
+<h1 class="post-title text-center"><?php echo $name; ?></h1>
 
 <div class="post-excerpt mt-15">
 

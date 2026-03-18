@@ -1,18 +1,3 @@
-<?php
-$date1 = "2025-11-05";
-$date2 = "2025-11-05";
-$name  = "2026'da Modern Web Geliştirme Trendleri";
-$title = "2026’da Modern Web Geliştirme Trendleri | Çanakkale Web Tasarım";
-$desc  = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
-$lang  = "tr_TR";
-$img   = "https://www.canakkale-webyazilim.com.tr/images/blog/2026da-modern-web-gelistirme-trendleri.webp";
-$url   = "https://www.canakkale-webyazilim.com.tr/blog/2026da-modern-web-gelistirme-trendleri";
-$alt   = "";
-$cat   = "";
-
-
-?>
-
 <!DOCTYPE html>
 <html class="no-js" lang="tr" dir="ltr">
 

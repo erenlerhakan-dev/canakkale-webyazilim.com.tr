@@ -1,17 +1,17 @@
 <?php
-$date1 = "2025-11-05";
-$date2 = "2025-11-05";
-$name  = "Web Uygulamaları İçin API Güvenliği En İyi Uygulamaları";
-$title = "Web Uygulamaları İçin API Güvenliği En İyi Uygulamaları | Çanakkale Web Tasarım";
-$desc1 = "Web uygulamalarında API güvenliği için en iyi uygulamaları keşfedin. Çanakkale web yazılım çözümleri ile güvenli ve ölçeklenebilir API entegrasyonları oluşturun.";
-$desc2 = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
-$lang  = "tr_TR";
-$img   = "https://www.canakkale-webyazilim.com.tr/images/blog/2026da-modern-web-gelistirme-trendleri.webp";
-$url   = "https://www.canakkale-webyazilim.com.tr/blog/2026da-modern-web-gelistirme-trendleri";
-$alt   = "";
-$cat   = "";
-
-
+$date1  = "2025-11-05";
+$date2  = "2025-11-05";
+$name   = "Web Uygulamaları İçin API Güvenliği En İyi Uygulamaları";
+$title  = "Web Uygulamaları İçin API Güvenliği En İyi Uygulamaları | Çanakkale Web Tasarım";
+$desc1  = "Web uygulamalarında API güvenliği için en iyi uygulamaları keşfedin. Çanakkale web yazılım çözümleri ile güvenli ve ölçeklenebilir API entegrasyonları oluşturun.";
+$desc2  = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
+$ogdesc = "API güvenliği ile web uygulamalarınızı koruyun. Güvenli entegrasyon ve veri koruma stratejileri ile modern web uygulamalarını güçlendirin.";
+$twdesc = "Çanakkale web yazılım çözümleri ile web uygulamalarınız için API güvenliğini artırın ve veri sızıntılarını önleyin.";
+$lang   = "tr_TR";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/blog/web-uygulamalari-icin-api-guvenligi-en-iyi-uygulamalari.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/blog/web-uygulamalari-icin-api-guvenligi-en-iyi-uygulamalari";
+$alt    = "web uygulamaları i̇çin api güvenliği en i̇yi uygulamaları";
+$cat    = "API, Web Yazılım";
 ?>
 
 <!DOCTYPE html>
@@ -22,56 +22,18 @@ $cat   = "";
 <title><?php echo $title; ?></title>
 <meta name="description" content="<?php echo $desc1; ?>">
 
-<meta property="og:title" content="Web Uygulamaları İçin API Güvenliği En İyi Uygulamaları">
-<meta property="og:description" content="API güvenliği ile web uygulamalarınızı koruyun. Güvenli entegrasyon ve veri koruma stratejileri ile modern web uygulamalarını güçlendirin.">
-<meta property="og:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/web-uygulamalari-icin-api-guvenligi-en-iyi-uygulamalari.webp">
-<meta property="og:url" content="https://www.canakkale-webyazilim.com.tr/blog/web-uygulamalari-icin-api-guvenligi-en-iyi-uygulamalari">
-<meta property="og:type" content="article">
-<meta property="og:locale" content="tr_TR">
-<meta property="og:site_name" content="Çanakkale Web Yazılım">
-
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Web Uygulamaları İçin API Güvenliği En İyi Uygulamaları">
-<meta name="twitter:description" content="Çanakkale web yazılım çözümleri ile web uygulamalarınız için API güvenliğini artırın ve veri sızıntılarını önleyin.">
-<meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/web-uygulamalari-icin-api-guvenligi-en-iyi-uygulamalari.webp">
-
 <?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "Article",
-"headline": "Web Uygulamaları İçin API Güvenliği En İyi Uygulamaları | Çanakkale Web Yazılım",
-"description": "Web uygulamalarında API güvenliği için en iyi uygulamaları keşfedin. Çanakkale web yazılım çözümleri ile güvenli ve ölçeklenebilir API entegrasyonları oluşturun.",
-"image": "https://www.canakkale-webyazilim.com.tr/images/blog/web-uygulamalari-icin-api-guvenligi-en-iyi-uygulamalari.webp",
-"author": {
-"@type": "Person",
-"name": "Çanakkale Web Yazılım"
-},
-"publisher": {
-"@type": "Organization",
-"name": "Çanakkale Web Yazılım",
-"logo": {
-"@type": "ImageObject",
-"url": "https://www.canakkale-webyazilim.com.tr/images/cozum-cloud-logo.png"
-}
-},
-"datePublished": "2026-20-02",
-"dateModified": "2026-20-02",
-"mainEntityOfPage": {
-"@type": "WebPage",
-"@id": "https://www.canakkale-webyazilim.com.tr/blog/web-uygulamalari-icin-api-guvenligi-en-iyi-uygulamalari"
-}
-}
-</script>
+<?php include('schema.php'); ?>
 
 </head>
 
 <body>
 
 <?php include_once('../preloader.php'); ?>
+
 <?php include_once('../header.php'); ?>
 
 <div id="main-wrapper">
@@ -83,25 +45,20 @@ $cat   = "";
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/images/blog/web-uygulamalari-icin-api-guvenligi-en-iyi-uygulamalari.webp" alt="API Güvenliği">
+<img class="img-fluid" src="<?php echo $img; ?>" alt="<?php echo $alt; ?>">
 </div>
 </div>
 
 <div class="col-lg-8 m-auto">
 <div class="main-blog-wrap">
+
 <div class="single-blog-item wow move-up">
 
 <div class="post-info lg-blog-post-info">
 
-<div class="post-categories text-center">
-<a href="javascript:void(0);">API, Web Yazılım</a>
-</div>
+<div class="post-categories text-center"><a href="javascript:void(0);"><?php echo $cat; ?></a></div>
 
-<h3 class="post-title text-center">
-<a href="javascript:void(0);">
-Web Uygulamaları İçin API Güvenliği En İyi Uygulamaları
-</a>
-</h3>
+<h1 class="post-title text-center"><?php echo $name; ?></h1>
 
 <div class="post-excerpt mt-15">
 

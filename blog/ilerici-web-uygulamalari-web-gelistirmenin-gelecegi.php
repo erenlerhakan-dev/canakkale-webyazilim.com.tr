@@ -1,17 +1,17 @@
 <?php
-$date1 = "2025-11-05";
-$date2 = "2025-11-05";
-$name  = "İlerici Web Uygulamaları: Web Geliştirmenin Geleceği";
-$title = "İlerici Web Uygulamaları: Web Geliştirmenin Geleceği | Çanakkale Web Tasarım";
-$desc1 = "İlerici web uygulamaları (Progressive Web Apps) ile modern web geliştirme trendlerini keşfedin. Çanakkale web yazılım çözümleri ile geleceğe uygun web uygulamaları oluşturun.";
-$desc2 = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
-$lang  = "tr_TR";
-$img   = "https://www.canakkale-webyazilim.com.tr/images/blog/2026da-modern-web-gelistirme-trendleri.webp";
-$url   = "https://www.canakkale-webyazilim.com.tr/blog/2026da-modern-web-gelistirme-trendleri";
-$alt   = "";
-$cat   = "";
-
-
+$date1  = "2025-11-05";
+$date2  = "2025-11-05";
+$name   = "İlerici Web Uygulamaları: Web Geliştirmenin Geleceği";
+$title  = "İlerici Web Uygulamaları: Web Geliştirmenin Geleceği | Çanakkale Web Tasarım";
+$desc1  = "İlerici web uygulamaları (Progressive Web Apps) ile modern web geliştirme trendlerini keşfedin. Çanakkale web yazılım çözümleri ile geleceğe uygun web uygulamaları oluşturun.";
+$desc2  = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
+$ogdesc = "İlerici Web Uygulamaları ile kullanıcı deneyimini artırın. Çanakkale web yazılım hizmetleri ile modern web uygulamalarınızı geleceğe taşıyın.";
+$twdesc = "Çanakkale web yazılım hizmetleri ile modern ve ilerici web uygulamaları geliştirin. Progressive Web Apps trendlerini öğrenin.";
+$lang   = "tr_TR";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/blog/ilerici-web-uygulamalari-web-gelistirmenin-gelecegi.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/blog/ilerici-web-uygulamalari-web-gelistirmenin-gelecegi";
+$alt    = "i̇lerici web uygulamaları: web geliştirmenin geleceği";
+$cat    = "Web Geliştirme, PWA";
 ?>
 
 <!DOCTYPE html>
@@ -22,56 +22,18 @@ $cat   = "";
 <title><?php echo $title; ?></title>
 <meta name="description" content="<?php echo $desc1; ?>">
 
-<meta property="og:title" content="İlerici Web Uygulamaları: Web Geliştirmenin Geleceği">
-<meta property="og:description" content="Progressive Web Apps ile kullanıcı deneyimini artırın. Çanakkale web yazılım hizmetleri ile modern web uygulamalarınızı geleceğe taşıyın.">
-<meta property="og:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/ilerici-web-uygulamalari-web-gelistirmenin-gelecegi.webp">
-<meta property="og:url" content="https://www.canakkale-webyazilim.com.tr/blog/ilerici-web-uygulamalari-web-gelistirmenin-gelecegi">
-<meta property="og:type" content="article">
-<meta property="og:locale" content="tr_TR">
-<meta property="og:site_name" content="Çanakkale Web Yazılım">
-
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="İlerici Web Uygulamaları: Web Geliştirmenin Geleceği">
-<meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile modern ve ilerici web uygulamaları geliştirin. Progressive Web Apps trendlerini öğrenin.">
-<meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/ilerici-web-uygulamalari-web-gelistirmenin-gelecegi.webp">
-
 <?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "Article",
-"headline": "2026’ta Modern Web Geliştirme Trendleri: Çanakkale Web Tasarım Dünyasında Yeni Teknolojiler",
-"description": "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri.",
-"image": "https://www.canakkale-webyazilim.com.tr/images/blog/ilerici-web-uygulamalari-web-gelistirmenin-gelecegi.webp",
-"author": {
-"@type": "Person",
-"name": "Çanakkale Web Yazılım"
-},
-"publisher": {
-"@type": "Organization",
-"name": "Çanakkale Web Yazılım",
-"logo": {
-"@type": "ImageObject",
-"url": "https://www.canakkale-webyazilim.com.tr/images/cozum-cloud-logo.png"
-}
-},
-"datePublished": "2026-05-05",
-"dateModified": "20260503-03",
-"mainEntityOfPage": {
-"@type": "WebPage",
-"@id": "https://www.canakkale-webyazilim.com.tr/blog/ilerici-web-uygulamalari-web-gelistirmenin-gelecegi"
-}
-}
-</script>
+<?php include('schema.php'); ?>
 
 </head>
 
 <body>
 
 <?php include_once('../preloader.php'); ?>
+
 <?php include_once('../header.php'); ?>
 
 <div id="main-wrapper">
@@ -83,25 +45,20 @@ $cat   = "";
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/images/blog/ilerici-web-uygulamalari-web-gelistirmenin-gelecegi.webp" alt="İlerici Web Uygulamaları">
+<img class="img-fluid" src="<?php echo $img; ?>" alt="<?php echo $alt; ?>">
 </div>
 </div>
 
 <div class="col-lg-8 m-auto">
 <div class="main-blog-wrap">
+
 <div class="single-blog-item wow move-up">
 
 <div class="post-info lg-blog-post-info">
 
-<div class="post-categories text-center">
-<a href="javascript:void(0);">Web Geliştirme, PWA</a>
-</div>
+<div class="post-categories text-center"><a href="javascript:void(0);"><?php echo $cat; ?></a></div>
 
-<h3 class="post-title text-center">
-<a href="javascript:void(0);">
-İlerici Web Uygulamaları: Web Geliştirmenin Geleceği
-</a>
-</h3>
+<h1 class="post-title text-center"><?php echo $name; ?></h1>
 
 <div class="post-excerpt mt-15">
 

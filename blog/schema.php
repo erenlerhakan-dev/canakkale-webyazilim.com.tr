@@ -3,7 +3,7 @@
 "@context": "https://schema.org",
 "@type": "Article",
 "headline": "<?php echo $title; ?>",
-"description": "<?php echo $desc; ?>",
+"description": "<?php echo $desc2; ?>",
 "image": "<?php echo $img; ?>",
 "author": {
 "@type": "Person",
