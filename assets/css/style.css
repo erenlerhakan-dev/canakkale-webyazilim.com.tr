@@ -3569,7 +3569,7 @@ input[type=checkbox] {
   transition: all 0.7s cubic-bezier(0.645, 0.045, 0.355, 1);
   z-index: 9999;
   background: rgba(0, 0, 0, 0.7);
-  cursor: url(../images/icons/light-close.webp) 16 16, pointer;
+  cursor: url(/images/light-close.webp) 16 16, pointer;
   visibility: hidden;
   opacity: 0;
 }
@@ -10396,7 +10396,7 @@ ol {
 
 .infotechno-contact-us-bg {
   background-color: #eff2f6;
-  background-image: url(../images/bg/home-infotechno-contact-bg.webp);
+  background-image: url(/images/home-infotechno-contact-bg.webp);
   background-size: cover;
   background-repeat: no-repeat;
 }
