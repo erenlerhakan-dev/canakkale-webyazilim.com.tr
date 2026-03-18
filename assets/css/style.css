@@ -1,67 +1,3 @@
-/*============================
-    CSS Index         
-==============================
-
-    01. Default Css
-        - Breadvrumb 
-        - Preloader   
-        - Scroll top 
-        - Dividers Css 
-        - Google Map Css 
-    02. Section Spacing Css
-    03. Custom Animation Css
-    04. container Css 
-    05. Header Css 
-        - language
-        - Navigation Menu Css
-        - Multilevel Submenu Css
-        - Mega Menu Css
-        - Mobile Menu Overlay Css
-        - offset search
-        - search overlay
-    06. Footer Css
-    07. Sidebar Css
-    08. Button Css 
-    09. Accordions Css 
-    10. Call To Action Css  
-    11. Countdown Css 
-    12. Counters Css 
-    13. Box Icon Css
-    14. Box Images Css
-    15. Box Large Images Css
-    16. Brand Logo Css  
-    17. Listing Css
-    18. Gradation Process Css     
-    19. Instagram Css     
-    20. Message Box Css 
-    21. Video Popup Css
-    22. Pricing table Css
-    23. progress Bar Css 
-    24. Circle Progress Css
-    25. Row Separators Css
-    26. Social Networks Css 
-    27. Listing Css
-    29. Team Member Css 
-    30. Timeline Css
-    31. Testimonial slider Css 
-    32. Project Css 
-    33. Contact Us Css 
-    34. Blog Pages Css
-    35. Infotechno Css  
-    36. Processing Hero Css
-    37. Processing Hero Css
-    38. Resolutions home Css
-    39. Cybersecurity home Css  
-    40. About Us pages Css
-    41. Single Smart Vision Css
-    42. Redraw Css
-    43. Preview Page Css 
-
-
-/*=====  End of CSS Index  ======*/
-/*=============================================
-=             01. Default Css                 =
-=============================================*/
 *, *::after, *::before {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
@@ -751,7 +687,7 @@ input[type=checkbox] {
   background-size: cover;
   z-index: 3;
   position: relative;
-  background-image: url(../images/bg/title-bar-01-bg.webp);
+  background-image: url(/images/title-bar-01-bg.webp);
 }
 @media only screen and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
   .breadcrumb-area {
@@ -8341,7 +8277,7 @@ ol {
 }
 
 .row-separators-images {
-  background-image: url(../images/bg/home-resolutions-hero-bg-image.webp);
+  background-image: url(/images/home-resolutions-hero-bg-image.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -9984,7 +9920,7 @@ ol {
 =          32. Project Css           =
 ====================================*/
 .projectinfotechno-bg {
-  background-image: url(../images/patterns/mitech-home-infotechno-case-study-section-bg.webp);
+  background-image: url(/images/mitech-home-infotechno-case-study-section-bg.webp);
   background-repeat: no-repeat;
   background-position: bottom left;
 }
@@ -10332,14 +10268,14 @@ ol {
 
 .service-contact-bg {
   background-color: #002fa6;
-  background-image: url(../images/bg/mitech-home-services-contact-bg.webp);
+  background-image: url(/images/mitech-home-services-contact-bg.webp);
   background-repeat: no-repeat;
   background-position: left bottom;
 }
 
 .processing-contact-us-bg {
   background-color: #002fa6;
-  background-image: url(../images/bg/mitech-processing-contact-bg.webp);
+  background-image: url(/images/mitech-processing-contact-bg.webp);
   background-repeat: no-repeat;
   background-position: top right;
 }
@@ -10790,7 +10726,7 @@ ol {
           transform: translateX(-50%);
   height: 132px;
   width: 150px;
-  background: url(../images/icons/quote.webp) no-repeat;
+  background: url(/images/quote.webp) no-repeat;
 }
 .single-blog-item .post-quote .post-quote-name {
   color: #333;
@@ -11007,7 +10943,6 @@ ol {
   position: absolute;
   top: 36px;
   left: 0;
-  background: url(../images/icons/metro-quote.webp) no-repeat;
   width: 150px;
   height: 132px;
 }
@@ -11582,11 +11517,11 @@ blockquote {
     video section css
 --------------------------*/
 .infotechno-section-bg-01 {
-  background: url(../images/patterns/mitech-home-infotechno-section-company-bg.webp) top 140px left no-repeat, -webkit-linear-gradient(top, #FFF 0, #F5F5F5 100%);
+  background: url(/images/mitech-home-infotechno-section-company-bg.webp) top 140px left no-repeat, -webkit-linear-gradient(top, #FFF 0, #F5F5F5 100%);
 }
 
 .infotechno-video-bg {
-  background-image: url(../images/bg/home-infotechno-video-intro-bg.webp);
+  background-image: url(/images/home-infotechno-video-intro-bg.webp);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -11700,7 +11635,7 @@ blockquote {
 .processing-hero-bg {
   background-color: transparent;
   background-repeat: no-repeat;
-  background-image: url("../images/hero/slider-processing-slide-01-bg.webp");
+  background-image: url("/images/hero/slider-processing-slide-01-bg.webp");
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -12103,7 +12038,7 @@ blockquote {
 .appointment-hero-bg {
   background-color: transparent;
   background-repeat: no-repeat;
-  background-image: url("../images/hero/home-appointment-hero-bg-image.webp");
+  background-image: url("/images/hero/home-appointment-hero-bg-image.webp");
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -12162,7 +12097,7 @@ blockquote {
 .service-hero-bg {
   background-color: transparent;
   background-repeat: no-repeat;
-  background-image: url("../images/hero/home-services-hero-bg.webp");
+  background-image: url("/images/hero/home-services-hero-bg.webp");
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -12438,7 +12373,7 @@ blockquote {
 .resolutions-hero-bg {
   background-color: transparent;
   background-repeat: no-repeat;
-  background-image: url("../images/hero/home-resolutions-hero-bg-image.webp");
+  background-image: url("/images/hero/home-resolutions-hero-bg-image.webp");
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -12534,7 +12469,7 @@ blockquote {
 .resolutions-hero-bg-2 {
   background-color: transparent;
   background-repeat: no-repeat;
-  background-image: url("../images/hero/home-resolutions-hero-bg-image.webp");
+  background-image: url("/images/hero/home-resolutions-hero-bg-image.webp");
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -12639,7 +12574,7 @@ blockquote {
 =      40. About Us pages Css           =
 =======================================*/
 .about-us-bg {
-  background-image: url(../images/bg/contact-us-01-hero-bg.webp);
+  background-image: url(/images/contact-us-01-hero-bg.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -12740,7 +12675,7 @@ blockquote {
 .about-resources-wrapper {
   padding: 40px 0;
   background-color: #f8f8f8;
-  background-image: url(../images/bg/mitech-slider-cybersecurity-global-image.webp);
+  background-image: url(/images/mitech-slider-cybersecurity-global-image.webp);
   background-repeat: no-repeat;
   background-position: center right 40px;
 }
@@ -13342,7 +13277,7 @@ blockquote {
 }
 
 .preview-hero-bg {
-  background: url(../images/hero/mitech-landing-main-slider-bg.webp);
+  background: url(/images/hero/mitech-landing-main-slider-bg.webp);
   background-size: cover;
   background-position: 50% 50%;
   background-color: transparent;
@@ -13554,7 +13489,7 @@ blockquote {
 }
 
 .layout-section-bg {
-  background: url(../images/preview/mitech-landing-header-preview-bg.webp);
+  background: url(/images/preview/mitech-landing-header-preview-bg.webp);
   background-color: #f6f2ed;
   background-repeat: no-repeat;
   background-position: bottom right;
@@ -13597,7 +13532,7 @@ blockquote {
 }
 
 .prv-section-footer-bg {
-  background: url(../images/preview/mitech-landing-footer-bg-01.webp);
+  background: url(/images/preview/mitech-landing-footer-bg-01.webp);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -13693,7 +13628,7 @@ blockquote {
 =       Modern It Company Css       =
 ===================================*/
 .modern-it-company-top-area {
-  background-image: url("../images/bg/bg-gird-pattern-repeat-alt.webp");
+  background-image: url("/images/bg-gird-pattern-repeat-alt.webp");
   background-repeat: repeat;
 }
 
@@ -13788,7 +13723,7 @@ blockquote {
 }
 
 .modern-it-company-testimonial-bg {
-  background-image: url("../images/patterns/home-reputable-success-about-shape.webp");
+  background-image: url("/images/home-reputable-success-about-shape.webp");
   background-repeat: no-repeat;
   background-position: left 44px bottom 40px;
 }
@@ -13805,7 +13740,7 @@ blockquote {
   padding: 58px 80px;
   border-radius: 5px;
   background-color: #f6f2ed;
-  background-image: url("../images/bg/home-reputable-success-section-story-bg.webp");
+  background-image: url("/images/home-reputable-success-section-story-bg.webp");
   background-repeat: no-repeat;
   background-position: right top;
 }
@@ -13836,7 +13771,7 @@ blockquote {
 =         36. Processing Hero Css             =
 =============================================*/
 .machine-learning-hero-bg {
-  background-image: url("../images/hero/new-slider-bg.webp");
+  background-image: url("/images/hero/new-slider-bg.webp");
   background-color: #072a83;
   background-size: cover;
   background-repeat: no-repeat;
@@ -14068,14 +14003,14 @@ blockquote {
 
 .machine-learning-about-bg {
   background-color: #f8fbfe;
-  background-image: url("../images/bg/n-1-bg.webp");
+  background-image: url("/images/n-1-bg.webp");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .machine-learning-service-bg {
   background-color: #f8f8f8;
-  background-image: url("../images/bg/n-2-bg.webp");
+  background-image: url("/images/n-2-bg.webp");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -14095,7 +14030,7 @@ blockquote {
 }
 
 .machine-learning-contact-us-bg {
-  background-image: url("../images/bg/new-cta-bg.webp");
+  background-image: url("/images/new-cta-bg.webp");
   background-color: #086AD8;
   background-size: cover;
   background-repeat: no-repeat;
@@ -14103,7 +14038,7 @@ blockquote {
 
 .machine-learning-project-bg {
   background-color: #f5f5f5;
-  background-image: url("../images/bg/n-3-bg.webp");
+  background-image: url("/images/n-3-bg.webp");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -14238,7 +14173,7 @@ blockquote {
 }
 
 .software-innovation-about-bg {
-  background-image: url("../images/bg/soft-s2-bg.webp");
+  background-image: url("/images/soft-s2-bg.webp");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -14260,7 +14195,7 @@ blockquote {
 
 .technology-service-bg {
   background-color: #002fa6;
-  background-image: url("../images/bg/soft-s5-bg.webp");
+  background-image: url("/images/soft-s5-bg.webp");
   background-repeat: no-repeat;
   background-position: left center;
 }
