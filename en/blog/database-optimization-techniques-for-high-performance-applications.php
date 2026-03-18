@@ -78,11 +78,7 @@
 
 <div class="post-categories text-center">Veritabanı, Web Yazılım</div>
 
-<h3 class="post-title text-center">
-<a href="javascript:void(0);">
-Yüksek Performanslı Uygulamalar İçin Veritabanı Optimizasyon Teknikleri
-</a>
-</h3>
+<h1 class="post-title text-center">Yüksek Performanslı Uygulamalar İçin Veritabanı Optimizasyon Teknikleri</h1>
 
 <div class="post-excerpt mt-15">
 

@@ -79,9 +79,7 @@
 
 <div class="post-categories text-center">CRM Software, Business Software</div>
 
-<h1 class="post-title text-center">
-Benefits of Customized CRM Systems for Turkish Businesses
-</h1>
+<h1 class="post-title text-center">Benefits of Customized CRM Systems for Turkish Businesses</h1>
 
 <div class="post-excerpt mt-15">
 

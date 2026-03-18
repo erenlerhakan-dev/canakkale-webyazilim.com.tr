@@ -78,11 +78,7 @@
 
 <div class="post-categories text-center">Agile, Software, Web Development</div>
 
-<h3 class="post-title text-center">
-<a href="javascript:void(0);">
-Agile Software Development: Best Practices and Methodologies
-</a>
-</h3>
+<h1 class="post-title text-center">Agile Software Development: Best Practices and Methodologies</h1>
 
 <div class="post-excerpt mt-15">
 

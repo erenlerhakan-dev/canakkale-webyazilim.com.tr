@@ -78,11 +78,7 @@
 
 <div class="post-categories text-center">E-Ticaret, Ödeme Sistemleri, Web Geliştirme</div>
 
-<h3 class="post-title text-center">
-<a href="javascript:void(0);">
-E-Ticaret Platformları İçin Ödeme Arayüzü Entegrasyonu
-</a>
-</h3>
+<h1 class="post-title text-center">E-Ticaret Platformları İçin Ödeme Arayüzü Entegrasyonu</h1>
 
 <div class="post-excerpt mt-15">
 

@@ -78,11 +78,7 @@
 
 <div class="post-categories text-center">Web Tasarım, Mobil Tasarım</div>
 
-<h3 class="post-title text-center">
-<a href="javascript:void(0);">
-Modern Web Siteleri İçin Mobil Öncelikli Tasarım Prensipleri
-</a>
-</h3>
+<h1 class="post-title text-center">Modern Web Siteleri İçin Mobil Öncelikli Tasarım Prensipleri</h1>
 
 <div class="post-excerpt mt-15">
 

@@ -78,11 +78,7 @@
 
 <div class="post-categories text-center">Web Erişebilirliği, UI/UX, Web Geliştirme</div>
 
-<h3 class="post-title text-center">
-<a href="javascript:void(0);">
-Web Erişebilirliği: WCAG Yönergelerini Uygulama
-</a>
-</h3>
+<h1 class="post-title text-center">Web Erişebilirliği: WCAG Yönergelerini Uygulama</h1>
 
 <div class="post-excerpt mt-15">
 

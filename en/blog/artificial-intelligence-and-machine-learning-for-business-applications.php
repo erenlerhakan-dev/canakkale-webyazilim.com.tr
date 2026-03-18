@@ -78,11 +78,7 @@
 
 <div class="post-categories text-center">Artificial Intelligence, Machine Learning, Business Applications, Web Development in Çanakkale</div>
 
-<h3 class="post-title text-center">
-<a href="javascript:void(0);">
-Artificial Intelligence and Machine Learning for Business Applications
-</a>
-</h3>
+<h1 class="post-title text-center">Artificial Intelligence and Machine Learning for Business Applications</h1>
 
 <div class="post-excerpt mt-15">
 

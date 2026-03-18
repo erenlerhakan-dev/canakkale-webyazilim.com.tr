@@ -79,9 +79,7 @@
 
 <div class="post-categories text-center">Frontend, Web Geliştirme</div>
 
-<h1 class="post-title text-center">
-React vs Angular: Doğru Frontend Framework'ü Seçmek
-</h1>
+<h1 class="post-title text-center">React vs Angular: Doğru Frontend Framework'ü Seçmek</h1>
 
 <div class="post-excerpt mt-15">
 

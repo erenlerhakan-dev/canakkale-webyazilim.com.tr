@@ -78,11 +78,7 @@
 
 <div class="post-categories text-center">Hosting, Web Software</div>
 
-<h3 class="post-title text-center">
-<a href="javascript:void(0);">
-A Complete Guide to Cloud Hosting Solutions
-</a>
-</h3>
+<h1 class="post-title text-center">A Complete Guide to Cloud Hosting Solutions</h1>
 
 <div class="post-excerpt mt-15">
 

@@ -78,11 +78,7 @@
 
 <div class="post-categories text-center">Cybersecurity, Web Applications, Canakkale Web Development</div>
 
-<h3 class="post-title text-center">
-<a href="javascript:void(0);">
-Cybersecurity Best Practices for Web Applications
-</a>
-</h3>
+<h1 class="post-title text-center">Cybersecurity Best Practices for Web Applications</h1>
 
 <div class="post-excerpt mt-15">
 

@@ -82,9 +82,7 @@
 
 <div class="post-categories text-center">Web Tasarım, Çanakkale Web Tasarım</div>
 
-<h1 class="post-title text-center">
-2026’ta Modern Web Geliştirme Trendleri: Çanakkale Web Tasarım Dünyasında Yeni Teknolojiler
-</h1>
+<h1 class="post-title text-center">2026’ta Modern Web Geliştirme Trendleri: Çanakkale Web Tasarım Dünyasında Yeni Teknolojiler</h1>
 
 <div class="post-excerpt mt-15">
 

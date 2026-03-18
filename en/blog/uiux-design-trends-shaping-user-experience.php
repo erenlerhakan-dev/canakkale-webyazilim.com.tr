@@ -78,11 +78,7 @@
 
 <div class="post-categories text-center">UI/UX, Web Tasarım</div>
 
-<h3 class="post-title text-center">
-<a href="javascript:void(0);">
-Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri
-</a>
-</h3>
+<h1 class="post-title text-center">Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri</h1>
 
 <div class="post-excerpt mt-15">
 

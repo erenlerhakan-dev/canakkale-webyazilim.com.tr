@@ -78,11 +78,7 @@
 
 <div class="post-categories text-center">B2B, Web Development, Canakkale Web Development</div>
 
-<h3 class="post-title text-center">
-<a href="javascript:void(0);">
-B2B Platform Development: Features and Best Practices
-</a>
-</h3>
+<h1 class="post-title text-center">B2B Platform Development: Features and Best Practices</h1>
 
 <div class="post-excerpt mt-15">
 

@@ -78,11 +78,7 @@
 
 <div class="post-categories text-center">DevOps, CI/CD, Çanakkale Web Development</div>
 
-<h3 class="post-title text-center">
-<a href="javascript:void(0);">
-Verimli Dağıtım İçin DevOps ve CI/CD Pipeline'ları
-</a>
-</h3>
+<h1 class="post-title text-center">Verimli Dağıtım İçin DevOps ve CI/CD Pipeline'ları</h1>
 
 <div class="post-excerpt mt-15">
 

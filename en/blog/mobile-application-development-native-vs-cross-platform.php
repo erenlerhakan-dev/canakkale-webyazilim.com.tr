@@ -78,11 +78,7 @@
 
 <div class="post-categories text-center">Mobil Uygulama, Native, Cross-Platform, Çanakkale Web Development</div>
 
-<h3 class="post-title text-center">
-<a href="javascript:void(0);">
-Mobil Uygulama Geliştirme: Native vs Cross-Platform
-</a>
-</h3>
+<h1 class="post-title text-center">Mobil Uygulama Geliştirme: Native vs Cross-Platform</h1>
 
 <div class="post-excerpt mt-15">
 

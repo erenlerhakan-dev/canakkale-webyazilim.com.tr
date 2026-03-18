@@ -78,11 +78,7 @@
 
 <div class="post-categories text-center">ERP, Kurumsal Yazılım</div>
 
-<h3 class="post-title text-center">
-<a href="javascript:void(0);">
-ERP Sistemi Uygulaması: Kapsamlı Rehber
-</a>
-</h3>
+<h1 class="post-title text-center">ERP Sistemi Uygulaması: Kapsamlı Rehber</h1>
 
 <div class="post-excerpt mt-15">
 

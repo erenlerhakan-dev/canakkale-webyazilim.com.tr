@@ -79,9 +79,7 @@
 
 <div class="post-categories text-center">Laravel, Web Yazılım</div>
 
-<h1 class="post-title text-center">
-Laravel Neden Kurumsal Uygulamalar İçin Mükemmeldir
-</h1>
+<h1 class="post-title text-center">Laravel Neden Kurumsal Uygulamalar İçin Mükemmeldir</h1>
 
 <div class="post-excerpt mt-15">
 

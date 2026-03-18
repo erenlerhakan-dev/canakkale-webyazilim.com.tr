@@ -78,11 +78,7 @@
 
 <div class="post-categories text-center">API, Web Software</div>
 
-<h3 class="post-title text-center">
-<a href="javascript:void(0);">
-API Security Best Practices for Web Applications
-</a>
-</h3>
+<h1 class="post-title text-center">API Security Best Practices for Web Applications</h1>
 
 <div class="post-excerpt mt-15">
 

@@ -78,11 +78,7 @@
 
 <div class="post-categories text-center">Veri Analitiği, İş Zekası, Çanakkale Web Development</div>
 
-<h3 class="post-title text-center">
-<a href="javascript:void(0);">
-Büyüme İçin Veri Analitiği ve İş Zekası
-</a>
-</h3>
+<h1 class="post-title text-center">Büyüme İçin Veri Analitiği ve İş Zekası</h1>
 
 <div class="post-excerpt mt-15">
 
