@@ -10,7 +10,7 @@
 <meta property="og:title" content="Modern Web Siteleri İçin Mobil Öncelikli Tasarım Prensipleri">
 <meta property="og:description" content="Mobil öncelikli tasarım ile modern web sitelerinde kullanıcı deneyimini artırın ve performansı optimize edin.">
 <meta property="og:image" content="https://canakkale-webyazilim.com.tr/images/blog/modern-web-siteleri-icin-mobil-oncelikli-tasarim-prensipleri.webp">
-<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri">
+<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/modern-web-siteleri-icin-mobil-oncelikli-tasarim-prensipleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:site_name" content="Çanakkale Web Yazılım">
@@ -41,11 +41,11 @@
 "url": "https://canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
 }
 },
-"datePublished": "2026-03-05",
-"dateModified": "2026-03-05",
+"datePublished": "2026-15-02",
+"dateModified": "2026-15-02",
 "mainEntityOfPage": {
 "@type": "WebPage",
-"@id": "https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri"
+"@id": "https://canakkale-webyazilim.com.tr/blog/modern-web-siteleri-icin-mobil-oncelikli-tasarim-prensipleri"
 }
 }
 </script>

@@ -10,7 +10,7 @@
 <meta property="og:title" content="2026’ta Modern Web Geliştirme Trendleri | Çanakkale Web Tasarım">
 <meta property="og:description" content="2026 yılında web geliştirme dünyasını şekillendiren trendleri keşfedin: yapay zeka, PWA, mobil öncelikli tasarım ve modern web teknolojileri.">
 <meta property="og:image" content="https://canakkale-webyazilim.com.tr/images/blog/2026da-modern-web-gelistirme-trendleri.webp">
-<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri">
+<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/2026da-modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:site_name" content="Çanakkale Web Yazılım">
@@ -20,7 +20,7 @@
 <meta name="twitter:description" content="Modern web geliştirme trendleri ve Çanakkale web tasarım çözümleri hakkında detaylı rehber.">
 <meta name="twitter:image" content="https://canakkale-webyazilim.com.tr/images/blog/2026da-modern-web-gelistirme-trendleri.webp">
 
-<link rel="canonical" href="https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri">
+<link rel="canonical" href="https://canakkale-webyazilim.com.tr/blog/2026da-modern-web-gelistirme-trendleri">
 
 <?php include_once('../head_meta.php'); ?>
 
@@ -43,11 +43,11 @@
 "url": "https://canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
 }
 },
-"datePublished": "2026-03-05",
-"dateModified": "2026-03-05",
+"datePublished": "2026-01-15",
+"dateModified": "2026-01-15",
 "mainEntityOfPage": {
 "@type": "WebPage",
-"@id": "https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri"
+"@id": "https://canakkale-webyazilim.com.tr/blog/2026da-modern-web-gelistirme-trendleri"
 }
 }
 </script>

@@ -10,7 +10,7 @@
 <meta property="og:title" content="Verimli Dağıtım İçin DevOps ve CI/CD Pipeline'ları">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile DevOps ve CI/CD pipeline kullanarak yazılım dağıtım süreçlerinizi hızlandırın ve güvenli hale getirin.">
 <meta property="og:image" content="https://canakkale-webyazilim.com.tr/images/blog/verimli-dagitim-icin-devops-ve-ci-cd-pipelinelari.webp">
-<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri">
+<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/verimli-dagitim-icin-devops-ve-ci-cd-pipelinelari">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:site_name" content="Çanakkale Web Yazılım">
@@ -41,11 +41,11 @@
 "url": "https://canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
 }
 },
-"datePublished": "2026-03-05",
-"dateModified": "2026-03-05",
+"datePublished": "2026-15-05",
+"dateModified": "2026-15-05",
 "mainEntityOfPage": {
 "@type": "WebPage",
-"@id": "https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri"
+"@id": "https://canakkale-webyazilim.com.tr/blog/verimli-dagitim-icin-devops-ve-ci-cd-pipelinelari"
 }
 }
 </script>

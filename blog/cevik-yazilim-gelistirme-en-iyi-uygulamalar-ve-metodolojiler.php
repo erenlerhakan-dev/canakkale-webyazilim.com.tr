@@ -10,7 +10,7 @@
 <meta property="og:title" content="Çevik Yazılım Geliştirme: En İyi Uygulamalar ve Metodolojiler">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile çevik yazılım geliştirme metodolojilerini uygulayarak projelerinizi hızlı ve verimli yönetin.">
 <meta property="og:image" content="https://canakkale-webyazilim.com.tr/images/blog/cevik-yazilim-gelistirme-en-iyi-uygulamalar-ve-metodolojiler.webp">
-<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri">
+<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/cevik-yazilim-gelistirme-en-iyi-uygulamalar-ve-metodolojiler">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:site_name" content="Çanakkale Web Yazılım">
@@ -41,11 +41,11 @@
 "url": "https://canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
 }
 },
-"datePublished": "2026-03-05",
-"dateModified": "2026-03-05",
+"datePublished": "2026-05-04",
+"dateModified": "2026-05-04",
 "mainEntityOfPage": {
 "@type": "WebPage",
-"@id": "https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri"
+"@id": "https://canakkale-webyazilim.com.tr/blog/cevik-yazilim-gelistirme-en-iyi-uygulamalar-ve-metodolojiler"
 }
 }
 </script>

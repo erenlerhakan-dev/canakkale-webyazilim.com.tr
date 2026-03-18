@@ -41,8 +41,8 @@
 "url": "https://canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
 }
 },
-"datePublished": "2026-03-05",
-"dateModified": "2026-03-05",
+"datePublished": "2026-10-06",
+"dateModified": "2026-10-06",
 "mainEntityOfPage": {
 "@type": "WebPage",
 "@id": "https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri"

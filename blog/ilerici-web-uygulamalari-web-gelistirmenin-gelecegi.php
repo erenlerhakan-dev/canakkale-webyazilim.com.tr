@@ -10,7 +10,7 @@
 <meta property="og:title" content="İlerici Web Uygulamaları: Web Geliştirmenin Geleceği">
 <meta property="og:description" content="Progressive Web Apps ile kullanıcı deneyimini artırın. Çanakkale web yazılım hizmetleri ile modern web uygulamalarınızı geleceğe taşıyın.">
 <meta property="og:image" content="https://canakkale-webyazilim.com.tr/images/blog/ilerici-web-uygulamalari-web-gelistirmenin-gelecegi.webp">
-<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri">
+<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/ilerici-web-uygulamalari-web-gelistirmenin-gelecegi">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:site_name" content="Çanakkale Web Yazılım">
@@ -41,11 +41,11 @@
 "url": "https://canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
 }
 },
-"datePublished": "2026-03-05",
-"dateModified": "2026-03-05",
+"datePublished": "2026-05-05",
+"dateModified": "20260503-03",
 "mainEntityOfPage": {
 "@type": "WebPage",
-"@id": "https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri"
+"@id": "https://canakkale-webyazilim.com.tr/blog/ilerici-web-uygulamalari-web-gelistirmenin-gelecegi"
 }
 }
 </script>

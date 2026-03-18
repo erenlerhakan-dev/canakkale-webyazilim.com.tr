@@ -10,7 +10,7 @@
 <meta property="og:title" content="Web Erişebilirliği: WCAG Yönergelerini Uygulama">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile WCAG yönergelerine uygun, erişilebilir web siteleri oluşturun ve kullanıcı deneyimini artırın.">
 <meta property="og:image" content="https://canakkale-webyazilim.com.tr/images/blog/web-erisebilirligi-wcag-yonergelerini-uygulama.webp">
-<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri">
+<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/web-erisebilirligi-wcag-yonergelerini-uygulama">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:site_name" content="Çanakkale Web Yazılım">
@@ -41,11 +41,11 @@
 "url": "https://canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
 }
 },
-"datePublished": "2026-03-05",
-"dateModified": "2026-03-05",
+"datePublished": "2026-10-04",
+"dateModified": "2026-10-04",
 "mainEntityOfPage": {
 "@type": "WebPage",
-"@id": "https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri"
+"@id": "https://canakkale-webyazilim.com.tr/blog/web-erisebilirligi-wcag-yonergelerini-uygulama"
 }
 }
 </script>

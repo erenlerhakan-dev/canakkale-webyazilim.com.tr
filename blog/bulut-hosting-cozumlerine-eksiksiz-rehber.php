@@ -10,7 +10,7 @@
 <meta property="og:title" content="Bulut Hosting Çözümlerine Eksiksiz Rehber">
 <meta property="og:description" content="Bulut hosting nedir, avantajları ve işiniz için doğru çözümü seçmenin yolları hakkında kapsamlı rehber.">
 <meta property="og:image" content="https://canakkale-webyazilim.com.tr/images/blog/bulut-hosting-cozumlerine-eksiksiz-rehber.webp">
-<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri">
+<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/bulut-hosting-cozumlerine-eksiksiz-rehber">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:site_name" content="Çanakkale Web Yazılım">
@@ -41,11 +41,11 @@
 "url": "https://canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
 }
 },
-"datePublished": "2026-03-05",
-"dateModified": "2026-03-05",
+"datePublished": "2026-25-02",
+"dateModified": "2026-25-02",
 "mainEntityOfPage": {
 "@type": "WebPage",
-"@id": "https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri"
+"@id": "https://canakkale-webyazilim.com.tr/blog/bulut-hosting-cozumlerine-eksiksiz-rehber"
 }
 }
 </script>

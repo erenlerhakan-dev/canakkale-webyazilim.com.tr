@@ -10,7 +10,7 @@
 <meta property="og:title" content="2026 İçin Gelişmiş SEO Optimizasyon Stratejileri">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile 2026 SEO trendleri ve gelişmiş optimizasyon stratejilerini uygulayın, web sitenizi görünür kılın.">
 <meta property="og:image" content="https://canakkale-webyazilim.com.tr/images/blog/2026-icin-gelismis-seo-optimizasyon-stratejileri.webp">
-<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri">
+<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/2026-icin-gelismis-seo-optimizasyon-stratejileri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:site_name" content="Çanakkale Web Yazılım">
@@ -41,11 +41,11 @@
 "url": "https://canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
 }
 },
-"datePublished": "2026-03-05",
-"dateModified": "2026-03-05",
+"datePublished": "2026-01-04",
+"dateModified": "2026-01-04",
 "mainEntityOfPage": {
 "@type": "WebPage",
-"@id": "https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri"
+"@id": "https://canakkale-webyazilim.com.tr/blog/2026-icin-gelismis-seo-optimizasyon-stratejileri"
 }
 }
 </script>

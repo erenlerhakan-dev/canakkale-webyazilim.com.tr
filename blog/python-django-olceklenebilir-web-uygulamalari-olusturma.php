@@ -10,7 +10,7 @@
 <meta property="og:title" content="Python Django: Ölçeklenebilir Web Uygulamaları Oluşturma">
 <meta property="og:description" content="Django framework ile ölçeklenebilir ve güvenli web uygulamaları geliştirin. Çanakkale web yazılım hizmetleri ile modern projeler oluşturun.">
 <meta property="og:image" content="https://canakkale-webyazilim.com.tr/images/blog/python-django-olceklenebilir-web-uygulamalari-olusturma.webp">
-<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri">
+<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/python-django-olceklenebilir-web-uygulamalari-olusturma">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:site_name" content="Çanakkale Web Yazılım">
@@ -41,11 +41,11 @@
 "url": "https://canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
 }
 },
-"datePublished": "2026-03-05",
-"dateModified": "2026-03-05",
+"datePublished": "2026-10-03",
+"dateModified": "2026-10-03",
 "mainEntityOfPage": {
 "@type": "WebPage",
-"@id": "https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri"
+"@id": "https://canakkale-webyazilim.com.tr/blog/python-django-olceklenebilir-web-uygulamalari-olusturma"
 }
 }
 </script>

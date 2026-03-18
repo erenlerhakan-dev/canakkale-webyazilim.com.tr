@@ -10,7 +10,7 @@
 <meta property="og:title" content="Hizmet İşletmeleri İçin Özel Rezervasyon Motorları Geliştirme">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile hizmet işletmeleri için özelleştirilmiş rezervasyon motorları geliştirin ve müşteri deneyimini artırın.">
 <meta property="og:image" content="https://canakkale-webyazilim.com.tr/images/blog/hizmet-isletmeleri-icin-ozel-rezervasyon-motorlari-gelistirme.webp">
-<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri">
+<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/hizmet-isletmeleri-icin-ozel-rezervasyon-motorlari-gelistirme">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:site_name" content="Çanakkale Web Yazılım">
@@ -41,11 +41,11 @@
 "url": "https://canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
 }
 },
-"datePublished": "2026-03-05",
-"dateModified": "2026-03-05",
+"datePublished": "2026-20-03",
+"dateModified": "2026-20-03",
 "mainEntityOfPage": {
 "@type": "WebPage",
-"@id": "https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri"
+"@id": "https://canakkale-webyazilim.com.tr/blog/hizmet-isletmeleri-icin-ozel-rezervasyon-motorlari-gelistirme"
 }
 }
 </script>

@@ -10,7 +10,7 @@
 <meta property="og:title" content="Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri">
 <meta property="og:description" content="UI/UX tasarım trendleri ile modern web deneyimleri oluşturun. Çanakkale web yazılım hizmetleri ile kullanıcı odaklı web siteleri geliştirin.">
 <meta property="og:image" content="https://canakkale-webyazilim.com.tr/images/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri.webp">
-<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri">
+<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:site_name" content="Çanakkale Web Yazılım">
@@ -41,11 +41,11 @@
 "url": "https://canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
 }
 },
-"datePublished": "2026-01-05",
-"dateModified": "2026-01-05",
+"datePublished": "2026-15-03",
+"dateModified": "2026-15-03",
 "mainEntityOfPage": {
 "@type": "WebPage",
-"@id": "https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri"
+"@id": "https://canakkale-webyazilim.com.tr/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri"
 }
 }
 </script>

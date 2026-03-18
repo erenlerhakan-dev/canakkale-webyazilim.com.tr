@@ -41,8 +41,8 @@
 "url": "https://canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
 }
 },
-"datePublished": "2026-01-01",
-"dateModified": "2026-01-01",
+"datePublished": "2026-20-02",
+"dateModified": "2026-20-02",
 "mainEntityOfPage": {
 "@type": "WebPage",
 "@id": "https://canakkale-webyazilim.com.tr/blog/web-uygulamalari-icin-api-guvenligi-en-iyi-uygulamalari"

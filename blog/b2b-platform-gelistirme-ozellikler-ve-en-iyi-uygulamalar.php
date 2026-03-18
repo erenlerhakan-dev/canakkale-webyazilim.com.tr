@@ -10,7 +10,7 @@
 <meta property="og:title" content="B2B Platform Geliştirme: Özellikler ve En İyi Uygulamalar">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile B2B platform geliştirme stratejilerini keşfedin ve işletmeniz için en iyi uygulamaları kullanın.">
 <meta property="og:image" content="https://canakkale-webyazilim.com.tr/images/blog/b2b-platform-gelistirme-ozellikler-ve-en-iyi-uygulamalar.webp">
-<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri">
+<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/b2b-platform-gelistirme-ozellikler-ve-en-iyi-uygulamalar">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:site_name" content="Çanakkale Web Yazılım">
@@ -41,11 +41,11 @@
 "url": "https://canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
 }
 },
-"datePublished": "2026-03-05",
-"dateModified": "2026-03-05",
+"datePublished": "2026-20-05",
+"dateModified": "2026-20-05",
 "mainEntityOfPage": {
 "@type": "WebPage",
-"@id": "https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri"
+"@id": "https://canakkale-webyazilim.com.tr/blog/b2b-platform-gelistirme-ozellikler-ve-en-iyi-uygulamalar"
 }
 }
 </script>

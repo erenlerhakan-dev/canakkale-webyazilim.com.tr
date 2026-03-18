@@ -10,7 +10,7 @@
 <meta property="og:title" content="İş Uygulamaları İçin Yapay Zeka ve Makine Öğrenimi">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile iş uygulamalarınızda yapay zeka ve makine öğrenimi teknolojilerini kullanarak verimliliği artırın.">
 <meta property="og:image" content="https://canakkale-webyazilim.com.tr/images/blog/is-uygulamalari-icin-yapay-zeka-ve-makine-ogrenimi.webp">
-<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri">
+<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/is-uygulamalari-icin-yapay-zeka-ve-makine-ogrenimi">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:site_name" content="Çanakkale Web Yazılım">
@@ -41,11 +41,11 @@
 "url": "https://canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
 }
 },
-"datePublished": "2026-03-05",
-"dateModified": "2026-03-05",
+"datePublished": "2026-05-06",
+"dateModified": "2026-05-06",
 "mainEntityOfPage": {
 "@type": "WebPage",
-"@id": "https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri"
+"@id": "https://canakkale-webyazilim.com.tr/blog/is-uygulamalari-icin-yapay-zeka-ve-makine-ogrenimi"
 }
 }
 </script>

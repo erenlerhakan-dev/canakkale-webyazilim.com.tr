@@ -10,7 +10,7 @@
 <meta property="og:title" content="Web Sitesi Performans Optimizasyon Teknikleri">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile web sitenizi optimize edin, hızlandırın ve kullanıcı deneyimini artırın.">
 <meta property="og:image" content="https://canakkale-webyazilim.com.tr/images/blog/web-sitesi-performans-optimizasyon-teknikleri.webp">
-<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri">
+<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/web-sitesi-performans-optimizasyon-teknikleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:site_name" content="Çanakkale Web Yazılım">
@@ -41,11 +41,11 @@
 "url": "https://canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
 }
 },
-"datePublished": "2026-03-05",
-"dateModified": "2026-03-05",
+"datePublished": "2026-01-06",
+"dateModified": "2026-01-06",
 "mainEntityOfPage": {
 "@type": "WebPage",
-"@id": "https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri"
+"@id": "https://canakkale-webyazilim.com.tr/blog/web-sitesi-performans-optimizasyon-teknikleri"
 }
 }
 </script>

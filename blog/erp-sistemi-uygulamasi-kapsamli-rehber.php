@@ -10,7 +10,7 @@
 <meta property="og:title" content="ERP Sistemi Uygulaması: Kapsamlı Rehber">
 <meta property="og:description" content="ERP sistemi uygulaması ve avantajları hakkında detaylı rehber. İşletmeler için doğru ERP stratejilerini keşfedin.">
 <meta property="og:image" content="https://canakkale-webyazilim.com.tr/images/blog/erp-sistemi-uygulamasi-kapsamli-rehber.webp">
-<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri">
+<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/erp-sistemi-uygulamasi-kapsamli-rehber">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:site_name" content="Çanakkale Web Yazılım">
@@ -41,11 +41,11 @@
 "url": "https://canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
 }
 },
-"datePublished": "2026-03-05",
-"dateModified": "2026-03-05",
+"datePublished": "2026-01-03",
+"dateModified": "2026-01-03",
 "mainEntityOfPage": {
 "@type": "WebPage",
-"@id": "https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri"
+"@id": "https://canakkale-webyazilim.com.tr/blog/erp-sistemi-uygulamasi-kapsamli-rehber"
 }
 }
 </script>

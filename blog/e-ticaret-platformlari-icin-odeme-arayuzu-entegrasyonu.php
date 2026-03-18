@@ -10,7 +10,7 @@
 <meta property="og:title" content="E-Ticaret Platformları İçin Ödeme Arayüzü Entegrasyonu">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile e-ticaret sitenize güvenli ve hızlı ödeme arayüzü entegrasyonu sağlayın.">
 <meta property="og:image" content="https://canakkale-webyazilim.com.tr/images/blog/e-ticaret-platformlari-icin-odeme-arayuzu-entegrasyonu.webp">
-<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri">
+<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/e-ticaret-platformlari-icin-odeme-arayuzu-entegrasyonu">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:site_name" content="Çanakkale Web Yazılım">
@@ -41,11 +41,11 @@
 "url": "https://canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
 }
 },
-"datePublished": "2026-03-05",
-"dateModified": "2026-03-05",
+"datePublished": "2026-15-04",
+"dateModified": "2026-15-04",
 "mainEntityOfPage": {
 "@type": "WebPage",
-"@id": "https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri"
+"@id": "https://canakkale-webyazilim.com.tr/blog/e-ticaret-platformlari-icin-odeme-arayuzu-entegrasyonu"
 }
 }
 </script>

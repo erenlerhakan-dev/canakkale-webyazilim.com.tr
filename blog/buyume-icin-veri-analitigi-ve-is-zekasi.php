@@ -10,7 +10,7 @@
 <meta property="og:title" content="Büyüme İçin Veri Analitiği ve İş Zekası">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile veri analitiği ve iş zekası uygulamaları ile işletmenizin büyümesini hızlandırın.">
 <meta property="og:image" content="https://canakkale-webyazilim.com.tr/images/blog/buyume-icin-veri-analitigi-ve-is-zekasi.webp">
-<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri">
+<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/buyume-icin-veri-analitigi-ve-is-zekasi">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:site_name" content="Çanakkale Web Yazılım">
@@ -41,11 +41,11 @@
 "url": "https://canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
 }
 },
-"datePublished": "2026-03-05",
-"dateModified": "2026-03-05",
+"datePublished": "2026-05-05",
+"dateModified": "2026-05-05",
 "mainEntityOfPage": {
 "@type": "WebPage",
-"@id": "https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri"
+"@id": "https://canakkale-webyazilim.com.tr/blog/buyume-icin-veri-analitigi-ve-is-zekasi"
 }
 }
 </script>

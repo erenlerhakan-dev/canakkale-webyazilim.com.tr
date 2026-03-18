@@ -10,7 +10,7 @@
 <meta property="og:title" content="Küçük İşletmeler için E-Ticaret Başarı Stratejileri">
 <meta property="og:description" content="Küçük işletmeler için e-ticaret stratejileri ile online satışlarınızı artırın ve dijital pazarda rekabet avantajı elde edin.">
 <meta property="og:image" content="https://canakkale-webyazilim.com.tr/images/blog/kucuk-isletmeler-icin-e-ticaret-basari-stratejileri.webp">
-<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri">
+<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/kucuk-isletmeler-icin-e-ticaret-basari-stratejileri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:site_name" content="Çanakkale Web Yazılım">
@@ -41,11 +41,11 @@
 "url": "https://canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
 }
 },
-"datePublished": "2026-03-05",
-"dateModified": "2026-03-05",
+"datePublished": "2026-01-25",
+"dateModified": "2026-01-25",
 "mainEntityOfPage": {
 "@type": "WebPage",
-"@id": "https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri"
+"@id": "https://canakkale-webyazilim.com.tr/blog/kucuk-isletmeler-icin-e-ticaret-basari-stratejileri"
 }
 }
 </script>

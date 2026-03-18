@@ -10,7 +10,7 @@
 <meta property="og:title" content="JavaScript Framework Karşılaştırması: React, Vue, Angular, Svelte">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile React, Vue, Angular ve Svelte framework'lerini karşılaştırın ve işletmeniz için en uygun çözümü seçin.">
 <meta property="og:image" content="https://canakkale-webyazilim.com.tr/images/blog/javascript-framework-karsilastirmasi-react-vue-angular-svelte.webp">
-<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri">
+<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/isletmeniz-icin-dogru-cms-platformunu-sejavascript-framework-karsilastirmasi-react-vue-angular-sveltecmek">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:site_name" content="Çanakkale Web Yazılım">
@@ -41,11 +41,11 @@
 "url": "https://canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
 }
 },
-"datePublished": "2026-03-05",
-"dateModified": "2026-03-05",
+"datePublished": "2026-01-05",
+"dateModified": "2026-01-05",
 "mainEntityOfPage": {
 "@type": "WebPage",
-"@id": "https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri"
+"@id": "https://canakkale-webyazilim.com.tr/blog/isletmeniz-icin-dogru-cms-platformunu-sejavascript-framework-karsilastirmasi-react-vue-angular-sveltecmek"
 }
 }
 </script>

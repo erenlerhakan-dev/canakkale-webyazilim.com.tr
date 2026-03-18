@@ -10,7 +10,7 @@
 <meta property="og:title" content="Laravel Neden Kurumsal Uygulamalar İçin Mükemmeldir">
 <meta property="og:description" content="Laravel framework ile güvenli, hızlı ve ölçeklenebilir kurumsal web uygulamaları geliştirin.">
 <meta property="og:image" content="https://canakkale-webyazilim.com.tr/images/blog/laravel-neden-kurumsal-uygulamalar-icin-mukemmeldir.webp">
-<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri">
+<meta property="og:url" content="https://canakkale-webyazilim.com.tr/blog/laravel-neden-kurumsal-uygulamalar-icin-mukemmeldir">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:site_name" content="Çanakkale Web Yazılım">
@@ -41,11 +41,11 @@
 "url": "https://canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
 }
 },
-"datePublished": "2026-03-05",
-"dateModified": "2026-03-05",
+"datePublished": "2026-01-02",
+"dateModified": "2026-01-02",
 "mainEntityOfPage": {
 "@type": "WebPage",
-"@id": "https://canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri"
+"@id": "https://canakkale-webyazilim.com.tr/blog/laravel-neden-kurumsal-uygulamalar-icin-mukemmeldir"
 }
 }
 </script>
