@@ -69,7 +69,7 @@
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
-<div class="post-date"><span class="far fa-calendar meta-icon"></span>15 Ocak 2026</div>
+<div class="post-date"><span class="far fa-calendar meta-icon"></span>5 Kasım 2025</div>
 <div class="post-view"><span class="fa fa-list meta-icon"></span>Web Geliştirme</div>
 </div>
 
@@ -113,7 +113,7 @@
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
-<div class="post-date"><span class="far fa-calendar meta-icon"></span>20 Ocak 2026</div>
+<div class="post-date"><span class="far fa-calendar meta-icon"></span>1 Kasım 2025</div>
 <div class="post-view"><span class="fa fa-list meta-icon"></span>CRM</div>
 </div>
 
@@ -157,7 +157,7 @@
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
-<div class="post-date"><span class="far fa-calendar meta-icon"></span>25 Ocak 2026</div>
+<div class="post-date"><span class="far fa-calendar meta-icon"></span>25 Ekim 2025</div>
 <div class="post-view"><span class="fa fa-list meta-icon"></span>E-Ticaret</div>
 </div>
 
@@ -201,7 +201,7 @@
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
-<div class="post-date"><span class="far fa-calendar meta-icon"></span>1 Şubat 2026</div>
+<div class="post-date"><span class="far fa-calendar meta-icon"></span>20 Ekim 2025</div>
 <div class="post-view"><span class="fa fa-list meta-icon"></span>Geliştirme</div>
 </div>
 
@@ -245,7 +245,7 @@
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
-<div class="post-date"><span class="far fa-calendar meta-icon"></span>5 Şubat 2026</div>
+<div class="post-date"><span class="far fa-calendar meta-icon"></span>15 Ekim 2025</div>
 <div class="post-view"><span class="fa fa-list meta-icon"></span>Frontend</div>
 </div>
 
@@ -289,7 +289,7 @@
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
-<div class="post-date"><span class="far fa-calendar meta-icon"></span>10 Şubat 2026</div>
+<div class="post-date"><span class="far fa-calendar meta-icon"></span>10 Ekim 2025</div>
 <div class="post-view"><span class="fa fa-list meta-icon"></span>Veritabanı</div>
 </div>
 
@@ -333,7 +333,7 @@
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
-<div class="post-date"><span class="far fa-calendar meta-icon"></span>15 Şubat 2026</div>
+<div class="post-date"><span class="far fa-calendar meta-icon"></span>5 Ekim 2025</div>
 <div class="post-view"><span class="fa fa-list meta-icon"></span>Tasarım</div>
 </div>
 
@@ -377,7 +377,7 @@
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
-<div class="post-date"><span class="far fa-calendar meta-icon"></span>20 Şubat 2026</div>
+<div class="post-date"><span class="far fa-calendar meta-icon"></span>1 Ekim 2025</div>
 <div class="post-view"><span class="fa fa-list meta-icon"></span>Güvenlik</div>
 </div>
 
@@ -421,7 +421,7 @@
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
-<div class="post-date"><span class="far fa-calendar meta-icon"></span>25 Şubat 2026</div>
+<div class="post-date"><span class="far fa-calendar meta-icon"></span>25 Eylül 2025</div>
 <div class="post-view"><span class="fa fa-list meta-icon"></span>Bulut</div>
 </div>
 
@@ -465,7 +465,7 @@
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
-<div class="post-date"><span class="far fa-calendar meta-icon"></span>1 Mart 2026</div>
+<div class="post-date"><span class="far fa-calendar meta-icon"></span>20 Eylül 2025</div>
 <div class="post-view"><span class="fa fa-list meta-icon"></span>Bulut</div>
 </div>
 
@@ -509,7 +509,7 @@
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
-<div class="post-date"><span class="far fa-calendar meta-icon"></span>5 Mart 2026</div>
+<div class="post-date"><span class="far fa-calendar meta-icon"></span>15 Eylül 2025</div>
 <div class="post-view"><span class="fa fa-list meta-icon"></span>Web Geliştirme</div>
 </div>
 
@@ -553,7 +553,7 @@
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
-<div class="post-date"><span class="far fa-calendar meta-icon"></span>10 Mart 2026</div>
+<div class="post-date"><span class="far fa-calendar meta-icon"></span>10 Eylül 2025</div>
 <div class="post-view"><span class="fa fa-list meta-icon"></span>Web Geliştirme</div>
 </div>
 
@@ -597,7 +597,7 @@
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
-<div class="post-date"><span class="far fa-calendar meta-icon"></span>15 Mart 2026</div>
+<div class="post-date"><span class="far fa-calendar meta-icon"></span>5 Eylül 2025</div>
 <div class="post-view"><span class="fa fa-list meta-icon"></span>Tasarım</div>
 </div>
 
@@ -641,7 +641,7 @@
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
-<div class="post-date"><span class="far fa-calendar meta-icon"></span>20 Mart 2026</div>
+<div class="post-date"><span class="far fa-calendar meta-icon"></span>1 Eylül 2025</div>
 <div class="post-view"><span class="fa fa-list meta-icon"></span>Yazılım</div>
 </div>
 
@@ -685,7 +685,7 @@
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
-<div class="post-date"><span class="far fa-calendar meta-icon"></span>25 Mart 2026</div>
+<div class="post-date"><span class="far fa-calendar meta-icon"></span>25 Ağustos 2025</div>
 <div class="post-view"><span class="fa fa-list meta-icon"></span>Mimari</div>
 </div>
 
@@ -729,7 +729,7 @@
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
-<div class="post-date"><span class="far fa-calendar meta-icon"></span>1 Nisan 2026</div>
+<div class="post-date"><span class="far fa-calendar meta-icon"></span>20 Ağustos 2025</div>
 <div class="post-view"><span class="fa fa-list meta-icon"></span>Mimari</div>
 </div>
 
@@ -773,7 +773,7 @@
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
-<div class="post-date"><span class="far fa-calendar meta-icon"></span>5 Nisan 2026</div>
+<div class="post-date"><span class="far fa-calendar meta-icon"></span>15 Ağustos 2025</div>
 <div class="post-view"><span class="fa fa-list meta-icon"></span>Geliştirme</div>
 </div>
 
@@ -817,7 +817,7 @@
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
-<div class="post-date"><span class="far fa-calendar meta-icon"></span>10 Nisan 2026</div>
+<div class="post-date"><span class="far fa-calendar meta-icon"></span>10 Ağustos 2025</div>
 <div class="post-view"><span class="fa fa-list meta-icon"></span>Erişebilirlik</div>
 </div>
 
@@ -861,7 +861,7 @@
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
-<div class="post-date"><span class="far fa-calendar meta-icon"></span>15 Nisan 2026</div>
+<div class="post-date"><span class="far fa-calendar meta-icon"></span>5 Ağustos 2025</div>
 <div class="post-view"><span class="fa fa-list meta-icon"></span>E-Ticaret</div>
 </div>
 
@@ -894,7 +894,7 @@
 </div>
 
 </div>
-F
+
 <div class="col-lg-6">
 
 <div class="post-info lg-blog-post-info">
@@ -905,7 +905,7 @@ F
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
-<div class="post-date"><span class="far fa-calendar meta-icon"></span>20 Nisan 2026</div>
+<div class="post-date"><span class="far fa-calendar meta-icon"></span>1 Ağustos 2025</div>
 <div class="post-view"><span class="fa fa-list meta-icon"></span>DevOps</div>
 </div>
 
@@ -949,7 +949,7 @@ F
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
-<div class="post-date"><span class="far fa-calendar meta-icon"></span>25 Nisan 2026</div>
+<div class="post-date"><span class="far fa-calendar meta-icon"></span>25 Temmuz 2025</div>
 <div class="post-view"><span class="fa fa-list meta-icon"></span>CMS</div>
 </div>
 
@@ -993,7 +993,7 @@ F
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
-<div class="post-date"><span class="far fa-calendar meta-icon"></span>1 Mayıs 2026</div>
+<div class="post-date"><span class="far fa-calendar meta-icon"></span>20 Temmuz 2025</div>
 <div class="post-view"><span class="fa fa-list meta-icon"></span>JavaScript</div>
 </div>
 
@@ -1037,7 +1037,7 @@ F
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
-<div class="post-date"><span class="far fa-calendar meta-icon"></span>5 Mayıs 2026</div>
+<div class="post-date"><span class="far fa-calendar meta-icon"></span>15 Temmuz 2025</div>
 <div class="post-view"><span class="fa fa-list meta-icon"></span>Analitik</div>
 </div>
 
@@ -1081,7 +1081,7 @@ F
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
-<div class="post-date"><span class="far fa-calendar meta-icon"></span>10 Mayıs 2026</div>
+<div class="post-date"><span class="far fa-calendar meta-icon"></span>10 Temmuz 2025</div>
 <div class="post-view"><span class="fa fa-list meta-icon"></span>Mobil</div>
 </div>
 
@@ -1125,7 +1125,7 @@ F
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
-<div class="post-date"><span class="far fa-calendar meta-icon"></span>15 Mayıs 2026</div>
+<div class="post-date"><span class="far fa-calendar meta-icon"></span>5 Temmuz 2025</div>
 <div class="post-view"><span class="fa fa-list meta-icon"></span>DevOps</div>
 </div>
 
@@ -1169,7 +1169,7 @@ F
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
-<div class="post-date"><span class="far fa-calendar meta-icon"></span>20 Mayıs 2026</div>
+<div class="post-date"><span class="far fa-calendar meta-icon"></span>5 Temmuz 2025</div>
 <div class="post-view"><span class="fa fa-list meta-icon"></span>B2B</div>
 </div>
 
@@ -1213,7 +1213,7 @@ F
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
-<div class="post-date"><span class="far fa-calendar meta-icon"></span>25 Mayıs 2026</div>
+<div class="post-date"><span class="far fa-calendar meta-icon"></span>1 Temmuz 2025</div>
 <div class="post-view"><span class="fa fa-list meta-icon"></span>Güvenlik</div>
 </div>
 
@@ -1257,7 +1257,7 @@ F
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
-<div class="post-date"><span class="far fa-calendar meta-icon"></span>1 Haziran 2026</div>
+<div class="post-date"><span class="far fa-calendar meta-icon"></span>20 Haziran 2025</div>
 <div class="post-view"><span class="fa fa-list meta-icon"></span>Performans</div>
 </div>
 
@@ -1301,7 +1301,7 @@ F
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
-<div class="post-date"><span class="far fa-calendar meta-icon"></span>5 Haziran 2026</div>
+<div class="post-date"><span class="far fa-calendar meta-icon"></span>15 Haziran 2025</div>
 <div class="post-view"><span class="fa fa-list meta-icon"></span>Yapay Zeka</div>
 </div>
 
@@ -1345,7 +1345,7 @@ F
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
-<div class="post-date"><span class="far fa-calendar meta-icon"></span>10 Haziran 2026</div>
+<div class="post-date"><span class="far fa-calendar meta-icon"></span>10 Haziran 2025</div>
 <div class="post-view"><span class="fa fa-list meta-icon"></span>Yapay Zeka</div>
 </div>
 
