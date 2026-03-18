@@ -18,33 +18,33 @@
 <h6 class="footer-widget__title mb-20">...</h6>
 <ul class="footer-widget__list">
 <li><a href="https://canakkale-webyazilim.com.tr/" class="hover-style-link">Ana Sayfa</a></li>
-<li><a href="https://canakkale-webyazilim.com.tr/hakkimizda.php" class="hover-style-link">Hakkımızda</a></li>
-<li><a href="https://canakkale-webyazilim.com.tr/hizmetler.php" class="hover-style-link">Hizmetler</a></li>
-<li><a href="https://canakkale-webyazilim.com.tr/blog/index.php" class="hover-style-link">Teknolojiler</a></li>
-<li><a href="https://canakkale-webyazilim.com.tr/iletisim.php" class="hover-style-link">İletişim</a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/hakkimizda" class="hover-style-link">Hakkımızda</a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/hizmetler" class="hover-style-link">Hizmetler</a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/blog/index" class="hover-style-link">Teknolojiler</a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/iletisim" class="hover-style-link">İletişim</a></li>
 </ul>
 </div>
 
 <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
 <h6 class="footer-widget__title mb-20">...</h6>
 <ul class="footer-widget__list">
-<li><a href="/hizmetlerimiz/ozel-web-gelistirme.php" class="hover-style-link">Özel Web Geliştirme</a></li>
-<li><a href="/hizmetlerimiz/crm-sistemleri.php" class="hover-style-link">CRM Sistemleri</a></li>
-<li><a href="/hizmetlerimiz/erp-cozumleri.php" class="hover-style-link">ERP Çözümleri</a></li>
-<li><a href="/hizmetlerimiz/e-ticaret-cozumleri.php" class="hover-style-link">E-Ticaret Çözümleri</a></li>
-<li><a href="/hizmetlerimiz/mobil-uygulamalar.php" class="hover-style-link">Mobil Uygulamalar</a></li>
-<li><a href="/hizmetlerimiz/rezervasyon-sistemleri.php" class="hover-style-link">Rezervasyon Sistemleri</a></li>
+<li><a href="/hizmetlerimiz/ozel-web-gelistirme" class="hover-style-link">Özel Web Geliştirme</a></li>
+<li><a href="/hizmetlerimiz/crm-sistemleri" class="hover-style-link">CRM Sistemleri</a></li>
+<li><a href="/hizmetlerimiz/erp-cozumleri" class="hover-style-link">ERP Çözümleri</a></li>
+<li><a href="/hizmetlerimiz/e-ticaret-cozumleri" class="hover-style-link">E-Ticaret Çözümleri</a></li>
+<li><a href="/hizmetlerimiz/mobil-uygulamalar" class="hover-style-link">Mobil Uygulamalar</a></li>
+<li><a href="/hizmetlerimiz/rezervasyon-sistemleri" class="hover-style-link">Rezervasyon Sistemleri</a></li>
 </ul>
 </div>
 <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
 <h6 class="footer-widget__title mb-20">...</h6>
 <ul class="footer-widget__list">
-<li><a href="/hizmetlerimiz/ozel-yazilim-gelistirme.php" class="hover-style-link">Özel Yazılım Geliştirme</a></li>
-<li><a href="/hizmetlerimiz/b2b-ve-b2c-cozumleri.php" class="hover-style-link">B2B & B2C Çözümleri</a></li>
-<li><a href="/hizmetlerimiz/api-gelistirme.php" class="hover-style-link">API Geliştirme</a></li>
-<li><a href="/hizmetlerimiz/sunucu-guvenligi-ve-bakimi.php" class="hover-style-link">Sunucu Güvenliği ve Bakımı</a></li>
-<li><a href="/hizmetlerimiz/yazilim-performans-optimizasyonu.php" class="hover-style-link">Yazılım Performans Optimizasyonu</a></li>
-<li><a href="/hizmetlerimiz/teknik-danismanlik.php" class="hover-style-link">Teknik Danışmanlık</a></li>
+<li><a href="/hizmetlerimiz/ozel-yazilim-gelistirme" class="hover-style-link">Özel Yazılım Geliştirme</a></li>
+<li><a href="/hizmetlerimiz/b2b-ve-b2c-cozumleri" class="hover-style-link">B2B & B2C Çözümleri</a></li>
+<li><a href="/hizmetlerimiz/api-gelistirme" class="hover-style-link">API Geliştirme</a></li>
+<li><a href="/hizmetlerimiz/sunucu-guvenligi-ve-bakimi" class="hover-style-link">Sunucu Güvenliği ve Bakımı</a></li>
+<li><a href="/hizmetlerimiz/yazilim-performans-optimizasyonu" class="hover-style-link">Yazılım Performans Optimizasyonu</a></li>
+<li><a href="/hizmetlerimiz/teknik-danismanlik" class="hover-style-link">Teknik Danışmanlık</a></li>
 </ul>
 </div>
 
