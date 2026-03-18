@@ -33,18 +33,18 @@
 <li class="has-children">
 <a href="https://www.canakkale-webyazilim.com.tr/en/our-services">Services</a>
 <ul class="sub-menu">
-<li><a href="https://www.canakkale-webyazilim.com.tr/en/en/services/custom-web-development"><span>Custom Web Development</span></a></li>
-<li><a href="https://www.canakkale-webyazilim.com.tr/en/en/services/crm-systems"><span>CRM Systems</span></a></li>
-<li><a href="https://www.canakkale-webyazilim.com.tr/en/en/services/erp-cozumleri"><span>ERP Solutions</span></a></li>
-<li><a href="https://www.canakkale-webyazilim.com.tr/en/en/services/e-commerce-solutions"><span>E-commerce Solutions</span></a></li>
-<li><a href="https://www.canakkale-webyazilim.com.tr/en/en/services/mobile-applications"><span>Mobile Applications</span></a></li>
-<li><a href="https://www.canakkale-webyazilim.com.tr/en/en/services/reservation-systems"><span>Reservation Systems</span></a></li>
-<li><a href="https://www.canakkale-webyazilim.com.tr/en/en/services/custom-software-development"><span>Custom Software Development</span></a></li>
-<li><a href="https://www.canakkale-webyazilim.com.tr/en/en/services/b2b-b2c-solutions"><span>B2B & B2C Solutions</span></a></li>
-<li><a href="https://www.canakkale-webyazilim.com.tr/en/en/services/api-development"><span>API Development</span></a></li>
-<li><a href="https://www.canakkale-webyazilim.com.tr/en/en/services/server-security-and-maintenance"><span>Server Security and Maintenance</span></a></li>
-<li><a href="https://www.canakkale-webyazilim.com.tr/en/en/services/software-performance-optimization"><span>Software Performance Optimization</span></a></li>
-<li><a href="https://www.canakkale-webyazilim.com.tr/en/en/services/technical-consulting"><span>Technical Consulting</span></a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/en/services/custom-web-development"><span>Custom Web Development</span></a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/en/services/crm-systems"><span>CRM Systems</span></a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/en/services/erp-cozumleri"><span>ERP Solutions</span></a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/en/services/e-commerce-solutions"><span>E-commerce Solutions</span></a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/en/services/mobile-applications"><span>Mobile Applications</span></a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/en/services/reservation-systems"><span>Reservation Systems</span></a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/en/services/custom-software-development"><span>Custom Software Development</span></a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/en/services/b2b-b2c-solutions"><span>B2B & B2C Solutions</span></a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/en/services/api-development"><span>API Development</span></a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/en/services/server-security-and-maintenance"><span>Server Security and Maintenance</span></a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/en/services/software-performance-optimization"><span>Software Performance Optimization</span></a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/en/services/technical-consulting"><span>Technical Consulting</span></a></li>
 </ul>
 </li>
 
