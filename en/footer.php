@@ -19,7 +19,7 @@
 <ul class="footer-widget__list">
 <li><a href="https://canakkale-webyazilim.com.tr/en/" class="hover-style-link">Home</a></li>
 <li><a href="https://canakkale-webyazilim.com.tr/en/about-us" class="hover-style-link">About Us</a></li>
-<li><a href="https://canakkale-webyazilim.com.tr/en/services" class="hover-style-link">Services</a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/our-services" class="hover-style-link">Services</a></li>
 <li><a href="https://canakkale-webyazilim.com.tr/en/blog/index" class="hover-style-link">Technologies</a></li>
 <li><a href="https://canakkale-webyazilim.com.tr/en/contact-us" class="hover-style-link">Contact Us</a></li>
 </ul>

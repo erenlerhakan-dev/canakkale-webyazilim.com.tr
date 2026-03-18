@@ -31,7 +31,7 @@
 <li><a href="https://canakkale-webyazilim.com.tr/en/about-us">About Us</a></li>
 
 <li class="has-children">
-<a href="https://canakkale-webyazilim.com.tr/en/Services">Services</a>
+<a href="https://canakkale-webyazilim.com.tr/en/our-services">Services</a>
 <ul class="sub-menu">
 <li><a href="https://canakkale-webyazilim.com.tr/en/en/services/custom-web-development"><span>Custom Web Development</span></a></li>
 <li><a href="https://canakkale-webyazilim.com.tr/en/en/services/crm-systems"><span>CRM Systems</span></a></li>
