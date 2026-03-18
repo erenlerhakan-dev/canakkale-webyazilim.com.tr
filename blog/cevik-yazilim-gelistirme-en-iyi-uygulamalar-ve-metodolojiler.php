@@ -62,15 +62,11 @@ $cat    = "Çevik, Yazılım, Web Geliştirme";
 
 <div class="post-excerpt mt-15">
 
-<p>
-Çevik yazılım geliştirme (Agile), hızlı, esnek ve müşteri odaklı projeler üretmek için modern bir metodolojidir. <strong>Çanakkale web yazılım çözümleri</strong>, çevik prensipleri kullanarak yazılım geliştirme süreçlerini optimize eder ve projelerin başarı oranını artırır.
-</p>
+<p>Çevik yazılım geliştirme (Agile), hızlı, esnek ve müşteri odaklı projeler üretmek için modern bir metodolojidir. <strong>Çanakkale web yazılım çözümleri</strong>, çevik prensipleri kullanarak yazılım geliştirme süreçlerini optimize eder ve projelerin başarı oranını artırır.</p>
 
 <h4>1. Çevik Yazılım Geliştirmenin Temel Prensipleri</h4>
 
-<p>
-Çevik metodoloji, kısa geliştirme döngüleri (sprintler), sürekli geri bildirim, adaptif planlama ve iş birliği üzerine kuruludur. Takımlar, değişen ihtiyaçlara hızlı cevap vererek kaliteli ürünler sunar.
-</p>
+<p>Çevik metodoloji, kısa geliştirme döngüleri (sprintler), sürekli geri bildirim, adaptif planlama ve iş birliği üzerine kuruludur. Takımlar, değişen ihtiyaçlara hızlı cevap vererek kaliteli ürünler sunar.</p>
 
 <h4>2. En Popüler Çevik Metodolojiler</h4>
 
@@ -100,15 +96,11 @@ $cat    = "Çevik, Yazılım, Web Geliştirme";
 
 <h4>5. Çanakkale Web Yazılım ile Çevik Projeler</h4>
 
-<p>
-Çanakkale’deki işletmeler, çevik metodolojileri kullanarak yazılım projelerini daha verimli, hızlı ve güvenli bir şekilde hayata geçirebilir. Özelleştirilmiş çözümler, ekiplerin etkin çalışmasını ve projelerin başarıyla tamamlanmasını sağlar.
-</p>
+<p>Çanakkale’deki işletmeler, çevik metodolojileri kullanarak yazılım projelerini daha verimli, hızlı ve güvenli bir şekilde hayata geçirebilir. Özelleştirilmiş çözümler, ekiplerin etkin çalışmasını ve projelerin başarıyla tamamlanmasını sağlar.</p>
 
 <h4>Sonuç</h4>
 
-<p>
-Çevik yazılım geliştirme, modern projelerde başarı için kritik bir yaklaşımdır. Çanakkale web yazılım çözümleri ile çevik metodolojileri projelerinize entegre ederek hızlı, esnek ve kaliteli web uygulamaları geliştirebilirsiniz.
-</p>
+<p>Çevik yazılım geliştirme, modern projelerde başarı için kritik bir yaklaşımdır. Çanakkale web yazılım çözümleri ile çevik metodolojileri projelerinize entegre ederek hızlı, esnek ve kaliteli web uygulamaları geliştirebilirsiniz.</p>
 
 </div>
 </div>

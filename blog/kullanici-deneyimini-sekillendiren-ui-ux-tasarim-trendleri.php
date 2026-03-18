@@ -62,51 +62,35 @@ $cat    = "UI/UX, Web Tasarım";
 
 <div class="post-excerpt mt-15">
 
-<p>
-2026 yılında web tasarım dünyası, kullanıcı deneyimini merkeze alan modern trendlerle şekilleniyor. <strong>UI/UX tasarımı</strong>, yalnızca görsellik değil, aynı zamanda etkileşim, hız ve kullanılabilirlik odaklı bir strateji haline geldi. <strong>Çanakkale web yazılım çözümleri</strong>, işletmelerin bu trendleri uygulayarak kullanıcı dostu ve etkileşim odaklı web siteleri geliştirmesini sağlar.
-</p>
+<p>2026 yılında web tasarım dünyası, kullanıcı deneyimini merkeze alan modern trendlerle şekilleniyor. <strong>UI/UX tasarımı</strong>, yalnızca görsellik değil, aynı zamanda etkileşim, hız ve kullanılabilirlik odaklı bir strateji haline geldi. <strong>Çanakkale web yazılım çözümleri</strong>, işletmelerin bu trendleri uygulayarak kullanıcı dostu ve etkileşim odaklı web siteleri geliştirmesini sağlar.</p>
 
 <h4>1. Minimalist ve Temiz Tasarımlar</h4>
 
-<p>
-Karmaşık tasarımlar yerine, sade ve anlaşılır arayüzler ön plana çıkıyor. Minimalist yaklaşım, kullanıcıların dikkatini önemli içeriklere yönlendirir ve navigasyonu kolaylaştırır.
-</p>
+<p>Karmaşık tasarımlar yerine, sade ve anlaşılır arayüzler ön plana çıkıyor. Minimalist yaklaşım, kullanıcıların dikkatini önemli içeriklere yönlendirir ve navigasyonu kolaylaştırır.</p>
 
 <h4>2. Mikro Etkileşimler ve Animasyonlar</h4>
 
-<p>
-Küçük animasyonlar ve etkileşimler, kullanıcı davranışlarını yönlendirir ve deneyimi zenginleştirir. Örneğin buton geri bildirimleri, yükleme animasyonları veya hover efektleri kullanıcıya anlık bilgi sağlar.
-</p>
+<p>Küçük animasyonlar ve etkileşimler, kullanıcı davranışlarını yönlendirir ve deneyimi zenginleştirir. Örneğin buton geri bildirimleri, yükleme animasyonları veya hover efektleri kullanıcıya anlık bilgi sağlar.</p>
 
 <h4>3. Mobil Öncelikli Tasarım</h4>
 
-<p>
-Mobil cihazlarda kusursuz deneyim sunmak, modern web tasarımının en kritik trendlerinden biridir. Responsive tasarım ve mobil performans optimizasyonları kullanıcı memnuniyetini artırır.
-</p>
+<p>Mobil cihazlarda kusursuz deneyim sunmak, modern web tasarımının en kritik trendlerinden biridir. Responsive tasarım ve mobil performans optimizasyonları kullanıcı memnuniyetini artırır.</p>
 
 <h4>4. Karanlık Mod ve Tema Seçenekleri</h4>
 
-<p>
-Kullanıcıların tercihine göre karanlık veya açık mod seçenekleri sunmak, kullanıcı deneyimini özelleştirir ve modern estetik sağlar.
-</p>
+<p>Kullanıcıların tercihine göre karanlık veya açık mod seçenekleri sunmak, kullanıcı deneyimini özelleştirir ve modern estetik sağlar.</p>
 
 <h4>5. Veri Odaklı Tasarım</h4>
 
-<p>
-Analitik verilerle desteklenen tasarım kararları, kullanıcı davranışlarını optimize eder. Çanakkale web yazılım hizmetleri ile veriye dayalı UI/UX stratejileri uygulanabilir.
-</p>
+<p>Analitik verilerle desteklenen tasarım kararları, kullanıcı davranışlarını optimize eder. Çanakkale web yazılım hizmetleri ile veriye dayalı UI/UX stratejileri uygulanabilir.</p>
 
 <h4>6. Erişilebilirlik ve Kullanılabilirlik</h4>
 
-<p>
-Web siteleri, herkes için erişilebilir olmalıdır. Kontrast oranları, klavye navigasyonu ve ekran okuyucu uyumluluğu, modern UI/UX tasarımında önceliklidir.
-</p>
+<p>Web siteleri, herkes için erişilebilir olmalıdır. Kontrast oranları, klavye navigasyonu ve ekran okuyucu uyumluluğu, modern UI/UX tasarımında önceliklidir.</p>
 
 <h4>Sonuç</h4>
 
-<p>
-UI/UX tasarım trendlerini takip etmek, web sitelerinin başarısını doğrudan etkiler. Çanakkale web yazılım çözümleri ile minimal, etkileşimli, mobil öncelikli ve erişilebilir tasarımlar geliştirerek kullanıcı deneyimini artırabilirsiniz. Bu sayede hem müşteri memnuniyeti yükselir hem de dijital rekabette öne geçilir.
-</p>
+<p>UI/UX tasarım trendlerini takip etmek, web sitelerinin başarısını doğrudan etkiler. Çanakkale web yazılım çözümleri ile minimal, etkileşimli, mobil öncelikli ve erişilebilir tasarımlar geliştirerek kullanıcı deneyimini artırabilirsiniz. Bu sayede hem müşteri memnuniyeti yükselir hem de dijital rekabette öne geçilir.</p>
 
 </div>
 </div>

@@ -62,15 +62,11 @@ $cat    = "Web Erişebilirliği, UI/UX, Web Geliştirme";
 
 <div class="post-excerpt mt-15">
 
-<p>
-Web siteleri, tüm kullanıcılar için erişilebilir olmalıdır. <strong>WCAG (Web Content Accessibility Guidelines)</strong> yönergeleri, görme, işitme veya motor yetenekleri sınırlı kullanıcıların da web sitelerini rahatça kullanmasını sağlar. <strong>Çanakkale web yazılım çözümleri</strong>, bu standartlara uygun siteler geliştirerek erişilebilirlik ve kullanıcı deneyimini artırır.
-</p>
+<p>Web siteleri, tüm kullanıcılar için erişilebilir olmalıdır. <strong>WCAG (Web Content Accessibility Guidelines)</strong> yönergeleri, görme, işitme veya motor yetenekleri sınırlı kullanıcıların da web sitelerini rahatça kullanmasını sağlar. <strong>Çanakkale web yazılım çözümleri</strong>, bu standartlara uygun siteler geliştirerek erişilebilirlik ve kullanıcı deneyimini artırır.</p>
 
 <h4>1. WCAG Yönergeleri Nedir?</h4>
 
-<p>
-WCAG, web içeriğinin erişilebilirliğini artırmak için oluşturulmuş uluslararası standartlardır. Dört ana prensip üzerine kuruludur: Algılanabilirlik, Kullanılabilirlik, Anlaşılabilirlik ve Sağlamlık (POUR).
-</p>
+<p>WCAG, web içeriğinin erişilebilirliğini artırmak için oluşturulmuş uluslararası standartlardır. Dört ana prensip üzerine kuruludur: Algılanabilirlik, Kullanılabilirlik, Anlaşılabilirlik ve Sağlamlık (POUR).</p>
 
 <h4>2. Erişilebilirlik Pratikleri</h4>
 
@@ -84,21 +80,15 @@ WCAG, web içeriğinin erişilebilirliğini artırmak için oluşturulmuş ulusl
 
 <h4>3. Çanakkale Web Yazılım ile Erişilebilir Web Siteleri</h4>
 
-<p>
-Çanakkale’deki işletmeler, web erişilebilirliği standartlarına uygun sitelerle hem kullanıcı memnuniyetini artırabilir hem de arama motoru optimizasyonunu güçlendirebilir. Erişilebilir tasarım, tüm kullanıcılar için eşit deneyim sağlar.
-</p>
+<p>Çanakkale’deki işletmeler, web erişilebilirliği standartlarına uygun sitelerle hem kullanıcı memnuniyetini artırabilir hem de arama motoru optimizasyonunu güçlendirebilir. Erişilebilir tasarım, tüm kullanıcılar için eşit deneyim sağlar.</p>
 
 <h4>4. SEO ve Erişilebilirlik İlişkisi</h4>
 
-<p>
-WCAG standartlarına uygun web siteleri, arama motorları tarafından daha iyi taranabilir. Bu sayede SEO performansı yükselir ve Çanakkale web tasarım hizmetlerinde rakiplerinizin önüne geçebilirsiniz.
-</p>
+<p>WCAG standartlarına uygun web siteleri, arama motorları tarafından daha iyi taranabilir. Bu sayede SEO performansı yükselir ve Çanakkale web tasarım hizmetlerinde rakiplerinizin önüne geçebilirsiniz.</p>
 
 <h4>Sonuç</h4>
 
-<p>
-Web erişilebilirliği, modern web sitelerinin olmazsa olmazıdır. Çanakkale web yazılım çözümleri ile WCAG yönergelerini uygulayarak kullanıcı deneyimini iyileştirebilir, erişilebilir, güvenli ve SEO uyumlu web sitelerine sahip olabilirsiniz.
-</p>
+<p>Web erişilebilirliği, modern web sitelerinin olmazsa olmazıdır. Çanakkale web yazılım çözümleri ile WCAG yönergelerini uygulayarak kullanıcı deneyimini iyileştirebilir, erişilebilir, güvenli ve SEO uyumlu web sitelerine sahip olabilirsiniz.</p>
 
 </div>
 </div>

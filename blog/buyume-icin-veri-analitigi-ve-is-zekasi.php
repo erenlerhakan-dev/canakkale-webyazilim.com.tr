@@ -62,27 +62,19 @@ $cat    = "Veri Analitiği, İş Zekası";
 
 <div class="post-excerpt mt-15">
 
-<p>
-Veri analitiği ve iş zekası, işletmelerin büyüme stratejilerini optimize etmeleri ve doğru kararlar almaları için kritik araçlardır. <strong>Çanakkale web yazılım çözümleri</strong>, veriye dayalı raporlar ve iş zekası uygulamaları ile işletmenizin performansını artırır.
-</p>
+<p>Veri analitiği ve iş zekası, işletmelerin büyüme stratejilerini optimize etmeleri ve doğru kararlar almaları için kritik araçlardır. <strong>Çanakkale web yazılım çözümleri</strong>, veriye dayalı raporlar ve iş zekası uygulamaları ile işletmenizin performansını artırır.</p>
 
 <h4>1. Veri Analitiği Nedir?</h4>
 
-<p>
-Veri analitiği, işletme verilerini toplama, analiz etme ve anlamlı içgörüler elde etme sürecidir. Satış verileri, müşteri davranışları ve operasyonel metrikler analiz edilerek stratejik kararlar alınır.
-</p>
+<p>Veri analitiği, işletme verilerini toplama, analiz etme ve anlamlı içgörüler elde etme sürecidir. Satış verileri, müşteri davranışları ve operasyonel metrikler analiz edilerek stratejik kararlar alınır.</p>
 
 <h4>2. İş Zekası (BI) Kavramı</h4>
 
-<p>
-İş zekası, veri analitiğini görselleştirerek yöneticilere hızlı ve etkili karar alma imkânı sağlar. Dashboardlar, raporlar ve KPI göstergeleri ile işletmenin durumu anlık olarak takip edilir.
-</p>
+<p>İş zekası, veri analitiğini görselleştirerek yöneticilere hızlı ve etkili karar alma imkânı sağlar. Dashboardlar, raporlar ve KPI göstergeleri ile işletmenin durumu anlık olarak takip edilir.</p>
 
 <h4>3. Çanakkale Web Yazılım ile Veri Analitiği</h4>
 
-<p>
-Çanakkale’deki işletmeler, web siteleri ve dijital platformlar üzerinden toplanan verileri analiz ederek müşteri davranışlarını daha iyi anlayabilir. BI çözümleri, satış ve pazarlama stratejilerini optimize eder ve büyüme fırsatlarını ortaya çıkarır.
-</p>
+<p>Çanakkale’deki işletmeler, web siteleri ve dijital platformlar üzerinden toplanan verileri analiz ederek müşteri davranışlarını daha iyi anlayabilir. BI çözümleri, satış ve pazarlama stratejilerini optimize eder ve büyüme fırsatlarını ortaya çıkarır.</p>
 
 <h4>4. İşletmeler İçin Faydalar</h4>
 
@@ -105,9 +97,7 @@ Veri analitiği, işletme verilerini toplama, analiz etme ve anlamlı içgörül
 
 <h4>Sonuç</h4>
 
-<p>
-Veri analitiği ve iş zekası, işletmelerin büyümesini hızlandırmak ve rekabet avantajı elde etmek için vazgeçilmez araçlardır. Çanakkale web yazılım çözümleri ile veri odaklı kararlar alarak, işletmenizin büyümesini sürdürülebilir ve etkili hale getirebilirsiniz.
-</p>
+<p>Veri analitiği ve iş zekası, işletmelerin büyümesini hızlandırmak ve rekabet avantajı elde etmek için vazgeçilmez araçlardır. Çanakkale web yazılım çözümleri ile veri odaklı kararlar alarak, işletmenizin büyümesini sürdürülebilir ve etkili hale getirebilirsiniz.</p>
 
 </div>
 </div>

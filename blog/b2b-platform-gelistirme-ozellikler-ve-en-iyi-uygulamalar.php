@@ -62,9 +62,7 @@ $cat    = "B2B, Web Geliştirme";
 
 <div class="post-excerpt mt-15">
 
-<p>
-B2B platformlar, işletmelerin birbirleriyle dijital ortamda etkileşim kurmasını sağlayan güçlü araçlardır. <strong>Çanakkale web yazılım çözümleri</strong>, işletmenize özel, ölçeklenebilir ve güvenli B2B platformlar geliştirerek iş süreçlerinizi optimize eder.
-</p>
+<p>B2B platformlar, işletmelerin birbirleriyle dijital ortamda etkileşim kurmasını sağlayan güçlü araçlardır. <strong>Çanakkale web yazılım çözümleri</strong>, işletmenize özel, ölçeklenebilir ve güvenli B2B platformlar geliştirerek iş süreçlerinizi optimize eder.</p>
 
 <h4>1. B2B Platform Özellikleri</h4>
 
@@ -88,21 +86,15 @@ B2B platformlar, işletmelerin birbirleriyle dijital ortamda etkileşim kurması
 
 <h4>3. Çanakkale Web Yazılım ile B2B Başarısı</h4>
 
-<p>
-Çanakkale’deki işletmeler, özelleştirilmiş B2B platformlar ile tedarik zincirlerini dijitalleştirebilir, müşteri ve partner ilişkilerini güçlendirebilir. Uzman ekipler, iş ihtiyaçlarına göre platformu geliştirir ve ölçeklenebilir çözümler sunar.
-</p>
+<p>Çanakkale’deki işletmeler, özelleştirilmiş B2B platformlar ile tedarik zincirlerini dijitalleştirebilir, müşteri ve partner ilişkilerini güçlendirebilir. Uzman ekipler, iş ihtiyaçlarına göre platformu geliştirir ve ölçeklenebilir çözümler sunar.</p>
 
 <h4>4. SEO ve Kullanıcı Deneyimi</h4>
 
-<p>
-B2B platformlarda SEO uyumlu içerik ve hızlı yükleme süreleri, platformun görünürlüğünü ve kullanıcı memnuniyetini artırır. Çanakkale web yazılım çözümleri ile hem kullanıcı dostu hem de arama motorları için optimize edilmiş platformlar oluşturabilirsiniz.
-</p>
+<p>B2B platformlarda SEO uyumlu içerik ve hızlı yükleme süreleri, platformun görünürlüğünü ve kullanıcı memnuniyetini artırır. Çanakkale web yazılım çözümleri ile hem kullanıcı dostu hem de arama motorları için optimize edilmiş platformlar oluşturabilirsiniz.</p>
 
 <h4>Sonuç</h4>
 
-<p>
-B2B platform geliştirme, modern işletmelerin dijital pazarda başarılı olabilmesi için kritik bir adımdır. Çanakkale web yazılım çözümleri ile işletmeniz için güvenli, ölçeklenebilir ve kullanıcı odaklı B2B platformlar geliştirerek iş süreçlerinizi güçlendirebilirsiniz.
-</p>
+<p>B2B platform geliştirme, modern işletmelerin dijital pazarda başarılı olabilmesi için kritik bir adımdır. Çanakkale web yazılım çözümleri ile işletmeniz için güvenli, ölçeklenebilir ve kullanıcı odaklı B2B platformlar geliştirerek iş süreçlerinizi güçlendirebilirsiniz.</p>
 
 </div>
 </div>
