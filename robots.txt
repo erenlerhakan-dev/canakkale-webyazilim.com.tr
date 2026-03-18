@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /images/
+
+Sitemap: https://www.canakkale-webyazilim.com.tr/sitemap.xml
