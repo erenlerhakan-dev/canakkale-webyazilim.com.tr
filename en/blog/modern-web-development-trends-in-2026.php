@@ -40,7 +40,7 @@
 "name": "Çanakkale Web Development",
 "logo": {
 "@type": "ImageObject",
-"url": "https://www.canakkale-webyazilim.com.tr/assets/images/logo/logo.webp"
+"url": "https://www.canakkale-webyazilim.com.tr/images/cozum-cloud-logo.png"
 }
 },
 "datePublished": "2026-03-05",
