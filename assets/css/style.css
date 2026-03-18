@@ -13489,7 +13489,7 @@ blockquote {
 }
 
 .layout-section-bg {
-  background: url(/images/preview/mitech-landing-header-preview-bg.webp);
+  background: url(/images/mitech-landing-header-preview-bg.webp);
   background-color: #f6f2ed;
   background-repeat: no-repeat;
   background-position: bottom right;
@@ -13532,7 +13532,7 @@ blockquote {
 }
 
 .prv-section-footer-bg {
-  background: url(/images/preview/mitech-landing-footer-bg-01.webp);
+  background: url(/images/mitech-landing-footer-bg-01.webp);
   background-size: cover;
   background-repeat: no-repeat;
 }
