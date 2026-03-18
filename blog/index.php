@@ -53,7 +53,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/2026da-modern-web-gelistirme-trendleri">
-<img class="img-fluid" src="/images/blog/2026da-modern-web-gelistirme-trendleri.webp" alt="2026'te Modern Web Geliştirme Trendleri">
+<img class="img-fluid" src="/images/blog/2026da-modern-web-gelistirme-trendleri.webp" alt="2026'da Modern Web Geliştirme Trendleri">
 </a>
 </div>
 
@@ -845,7 +845,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/e-ticaret-platformlari-icin-odeme-arayuzu-entegrasyonu">
-<img class="img-fluid" src="/images/blog/e-ticaret-platformlari-icin-odeme-arayuzu-entegrasyonu.webp" alt="E-Ticaret Platformları İçin Ödeme Arayüzü Entegrasyonu">
+<img class="img-fluid" src="/images/blog/e-ticaret-platformlari-icin-odeme-arayuzu-entegrasyonu.webp" alt="E-Ticaret Platformları İçin Ödeme Geçidi Entegrasyonu">
 </a>
 </div>
 
