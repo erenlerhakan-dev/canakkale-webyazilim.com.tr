@@ -1,11 +1,26 @@
+<?php
+$date1 = "2025-11-05";
+$date2 = "2025-11-05";
+$name  = "Küçük İşletmeler için E-Ticaret Başarı Stratejileri";
+$title = "Küçük İşletmeler için E-Ticaret Başarı Stratejileri | Çanakkale Web Tasarım";
+$desc1 = "Küçük işletmeler için e-ticaret başarı stratejileri. Online satışları artırmak, müşteri kazanmak ve dijital pazarda büyümek için etkili e-ticaret yöntemlerini keşfedin.";
+$desc2 = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
+$lang  = "tr_TR";
+$img   = "https://www.canakkale-webyazilim.com.tr/images/blog/2026da-modern-web-gelistirme-trendleri.webp";
+$url   = "https://www.canakkale-webyazilim.com.tr/blog/2026da-modern-web-gelistirme-trendleri";
+$alt   = "";
+$cat   = "";
+
+
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
 
-<title>Küçük İşletmeler için E-Ticaret Başarı Stratejileri | Çanakkale Web Yazılım</title>
-
-<meta name="description" content="Küçük işletmeler için e-ticaret başarı stratejileri. Online satışları artırmak, müşteri kazanmak ve dijital pazarda büyümek için etkili e-ticaret yöntemlerini keşfedin.">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
 
 <meta property="og:title" content="Küçük İşletmeler için E-Ticaret Başarı Stratejileri">
 <meta property="og:description" content="Küçük işletmeler için e-ticaret stratejileri ile online satışlarınızı artırın ve dijital pazarda rekabet avantajı elde edin.">
@@ -19,6 +34,8 @@
 <meta name="twitter:title" content="Küçük İşletmeler için E-Ticaret Başarı Stratejileri">
 <meta name="twitter:description" content="E-ticaret dünyasında başarılı olmak isteyen küçük işletmeler için pratik stratejiler ve ipuçları.">
 <meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/kucuk-isletmeler-icin-e-ticaret-basari-stratejileri.webp">
+
+<?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 

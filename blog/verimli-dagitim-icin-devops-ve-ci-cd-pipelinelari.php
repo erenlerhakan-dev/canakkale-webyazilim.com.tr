@@ -1,11 +1,26 @@
+<?php
+$date1 = "2025-11-05";
+$date2 = "2025-11-05";
+$name  = "Verimli Dağıtım İçin DevOps ve CI/CD Pipeline'ları";
+$title = "Verimli Dağıtım İçin DevOps ve CI/CD Pipeline'ları | Çanakkale Web Tasarım";
+$desc1 = "DevOps ve CI/CD pipeline kullanımı ile yazılım dağıtım süreçlerinizi optimize edin. Çanakkale web yazılım çözümleri ile hızlı ve güvenli yazılım teslimi sağlayın.";
+$desc2 = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
+$lang  = "tr_TR";
+$img   = "https://www.canakkale-webyazilim.com.tr/images/blog/2026da-modern-web-gelistirme-trendleri.webp";
+$url   = "https://www.canakkale-webyazilim.com.tr/blog/2026da-modern-web-gelistirme-trendleri";
+$alt   = "";
+$cat   = "";
+
+
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
 
-<title>Verimli Dağıtım İçin DevOps ve CI/CD Pipeline'ları | Çanakkale Web Yazılım</title>
-
-<meta name="description" content="DevOps ve CI/CD pipeline kullanımı ile yazılım dağıtım süreçlerinizi optimize edin. Çanakkale web yazılım çözümleri ile hızlı ve güvenli yazılım teslimi sağlayın.">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
 
 <meta property="og:title" content="Verimli Dağıtım İçin DevOps ve CI/CD Pipeline'ları">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile DevOps ve CI/CD pipeline kullanarak yazılım dağıtım süreçlerinizi hızlandırın ve güvenli hale getirin.">
@@ -19,6 +34,8 @@
 <meta name="twitter:title" content="Verimli Dağıtım İçin DevOps ve CI/CD Pipeline'ları">
 <meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile DevOps ve CI/CD pipeline uygulamaları sayesinde hızlı ve güvenli yazılım dağıtımı sağlayın.">
 <meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/verimli-dagitim-icin-devops-ve-ci-cd-pipelinelari.webp">
+
+<?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 

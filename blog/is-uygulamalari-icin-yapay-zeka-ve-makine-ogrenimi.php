@@ -1,11 +1,26 @@
+<?php
+$date1 = "2025-11-05";
+$date2 = "2025-11-05";
+$name  = "İş Uygulamaları İçin Yapay Zeka ve Makine Öğrenimi";
+$title = "İş Uygulamaları İçin Yapay Zeka ve Makine Öğrenimi | Çanakkale Web Tasarım";
+$desc1 = "İş uygulamalarında yapay zeka ve makine öğrenimi kullanımı rehberi. Çanakkale web yazılım çözümleri ile işletmenizde verimlilik ve otomasyon sağlayın.";
+$desc2 = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
+$lang  = "tr_TR";
+$img   = "https://www.canakkale-webyazilim.com.tr/images/blog/2026da-modern-web-gelistirme-trendleri.webp";
+$url   = "https://www.canakkale-webyazilim.com.tr/blog/2026da-modern-web-gelistirme-trendleri";
+$alt   = "";
+$cat   = "";
+
+
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
 
-<title>İş Uygulamaları İçin Yapay Zeka ve Makine Öğrenimi | Çanakkale Web Yazılım</title>
-
-<meta name="description" content="İş uygulamalarında yapay zeka ve makine öğrenimi kullanımı rehberi. Çanakkale web yazılım çözümleri ile işletmenizde verimlilik ve otomasyon sağlayın.">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
 
 <meta property="og:title" content="İş Uygulamaları İçin Yapay Zeka ve Makine Öğrenimi">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile iş uygulamalarınızda yapay zeka ve makine öğrenimi teknolojilerini kullanarak verimliliği artırın.">
@@ -19,6 +34,8 @@
 <meta name="twitter:title" content="İş Uygulamaları İçin Yapay Zeka ve Makine Öğrenimi">
 <meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile işletmenizde yapay zeka ve makine öğrenimi uygulamaları geliştirerek iş süreçlerini optimize edin.">
 <meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/is-uygulamalari-icin-yapay-zeka-ve-makine-ogrenimi.webp">
+
+<?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 

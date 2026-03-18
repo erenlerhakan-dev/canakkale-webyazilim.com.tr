@@ -1,11 +1,26 @@
+<?php
+$date1 = "2025-11-05";
+$date2 = "2025-11-05";
+$name  = "E-Ticaret Platformları İçin Ödeme Geçidi Entegrasyonu";
+$title = "E-Ticaret Platformları İçin Ödeme Geçidi Entegrasyonu | Çanakkale Web Tasarım";
+$desc1 = "E-ticaret siteleri için ödeme arayüzü entegrasyonu rehberi. Çanakkale web yazılım çözümleri ile güvenli ve hızlı ödeme sistemleri oluşturun.";
+$desc2 = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
+$lang  = "tr_TR";
+$img   = "https://www.canakkale-webyazilim.com.tr/images/blog/2026da-modern-web-gelistirme-trendleri.webp";
+$url   = "https://www.canakkale-webyazilim.com.tr/blog/2026da-modern-web-gelistirme-trendleri";
+$alt   = "";
+$cat   = "";
+
+
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
 
-<title>E-Ticaret Platformları İçin Ödeme Arayüzü Entegrasyonu | Çanakkale Web Yazılım</title>
-
-<meta name="description" content="E-ticaret siteleri için ödeme arayüzü entegrasyonu rehberi. Çanakkale web yazılım çözümleri ile güvenli ve hızlı ödeme sistemleri oluşturun.">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
 
 <meta property="og:title" content="E-Ticaret Platformları İçin Ödeme Arayüzü Entegrasyonu">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile e-ticaret sitenize güvenli ve hızlı ödeme arayüzü entegrasyonu sağlayın.">
@@ -19,6 +34,8 @@
 <meta name="twitter:title" content="E-Ticaret Platformları İçin Ödeme Arayüzü Entegrasyonu">
 <meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile e-ticaret sitenizde güvenli ve hızlı ödeme arayüzü entegrasyonu sağlayın.">
 <meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/e-ticaret-platformlari-icin-odeme-arayuzu-entegrasyonu.webp">
+
+<?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 

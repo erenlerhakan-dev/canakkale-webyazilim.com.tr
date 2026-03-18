@@ -1,11 +1,26 @@
+<?php
+$date1 = "2025-11-05";
+$date2 = "2025-11-05";
+$name  = "Modern Uygulamalar İçin Docker Konteynerizasyonu";
+$title = "Modern Uygulamalar İçin Docker Konteynerizasyonu | Çanakkale Web Tasarım";
+$desc1 = "Docker konteynerizasyonu ile modern uygulamaları hızlı, taşınabilir ve ölçeklenebilir hale getirin. Çanakkale web yazılım çözümleri ile projelerinizi optimize edin.";
+$desc2 = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
+$lang  = "tr_TR";
+$img   = "https://www.canakkale-webyazilim.com.tr/images/blog/2026da-modern-web-gelistirme-trendleri.webp";
+$url   = "https://www.canakkale-webyazilim.com.tr/blog/2026da-modern-web-gelistirme-trendleri";
+$alt   = "";
+$cat   = "";
+
+
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
 
-<title>Modern Uygulamalar İçin Docker Konteynerizasyonu | Çanakkale Web Yazılım</title>
-
-<meta name="description" content="Docker konteynerizasyonu ile modern uygulamaları hızlı, taşınabilir ve ölçeklenebilir hale getirin. Çanakkale web yazılım çözümleri ile projelerinizi optimize edin.">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
 
 <meta property="og:title" content="Modern Uygulamalar İçin Docker Konteynerizasyonu">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile Docker konteynerizasyonu uygulayarak modern web uygulamalarınızı hızlı ve güvenli hale getirin.">
@@ -19,6 +34,8 @@
 <meta name="twitter:title" content="Modern Uygulamalar İçin Docker Konteynerizasyonu">
 <meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile Docker konteynerizasyonu kullanarak uygulamalarınızı taşınabilir ve ölçeklenebilir hale getirin.">
 <meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/modern-uygulamalar-icin-docker-konteynerizasyonu.webp">
+
+<?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 

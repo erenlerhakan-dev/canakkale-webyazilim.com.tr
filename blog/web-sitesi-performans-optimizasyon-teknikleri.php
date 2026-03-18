@@ -1,11 +1,26 @@
+<?php
+$date1 = "2025-11-05";
+$date2 = "2025-11-05";
+$name  = "Web Sitesi Performans Optimizasyon Teknikleri";
+$title = "Web Sitesi Performans Optimizasyon Teknikleri | Çanakkale Web Tasarım";
+$desc1 = "Web sitesi performansını artırmak için etkili optimizasyon teknikleri. Çanakkale web yazılım çözümleri ile hızlı ve verimli web siteleri oluşturun.";
+$desc2 = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
+$lang  = "tr_TR";
+$img   = "https://www.canakkale-webyazilim.com.tr/images/blog/2026da-modern-web-gelistirme-trendleri.webp";
+$url   = "https://www.canakkale-webyazilim.com.tr/blog/2026da-modern-web-gelistirme-trendleri";
+$alt   = "";
+$cat   = "";
+
+
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
 
-<title>Web Sitesi Performans Optimizasyon Teknikleri | Çanakkale Web Yazılım</title>
-
-<meta name="description" content="Web sitesi performansını artırmak için etkili optimizasyon teknikleri. Çanakkale web yazılım çözümleri ile hızlı ve verimli web siteleri oluşturun.">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
 
 <meta property="og:title" content="Web Sitesi Performans Optimizasyon Teknikleri">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile web sitenizi optimize edin, hızlandırın ve kullanıcı deneyimini artırın.">
@@ -19,6 +34,8 @@
 <meta name="twitter:title" content="Web Sitesi Performans Optimizasyon Teknikleri">
 <meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile web sitenizi hızlandırın ve performans odaklı optimizasyon uygulayın.">
 <meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/web-sitesi-performans-optimizasyon-teknikleri.webp">
+
+<?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 

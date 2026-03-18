@@ -1,11 +1,26 @@
+<?php
+$date1 = "2025-11-05";
+$date2 = "2025-11-05";
+$name  = "İş Uygulamaları İçin Blockchain Teknolojisi";
+$title = "İş Uygulamaları İçin Blockchain Teknolojisi | Çanakkale Web Tasarım";
+$desc1 = "İş uygulamalarında blockchain teknolojisi rehberi. Çanakkale web yazılım çözümleri ile güvenli, şeffaf ve izlenebilir iş süreçleri oluşturun.";
+$desc2 = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
+$lang  = "tr_TR";
+$img   = "https://www.canakkale-webyazilim.com.tr/images/blog/2026da-modern-web-gelistirme-trendleri.webp";
+$url   = "https://www.canakkale-webyazilim.com.tr/blog/2026da-modern-web-gelistirme-trendleri";
+$alt   = "";
+$cat   = "";
+
+
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
 
-<title>İş Uygulamaları İçin Blockchain Teknolojisi | Çanakkale Web Yazılım</title>
-
-<meta name="description" content="İş uygulamalarında blockchain teknolojisi rehberi. Çanakkale web yazılım çözümleri ile güvenli, şeffaf ve izlenebilir iş süreçleri oluşturun.">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
 
 <meta property="og:title" content="İş Uygulamaları İçin Blockchain Teknolojisi">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile blockchain teknolojisini iş uygulamalarınıza entegre ederek güvenli ve şeffaf süreçler oluşturun.">
@@ -19,6 +34,8 @@
 <meta name="twitter:title" content="İş Uygulamaları İçin Blockchain Teknolojisi">
 <meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile blockchain teknolojisini iş süreçlerinize entegre ederek güvenlik ve şeffaflık sağlayın.">
 <meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/is-uygulamalari-icin-blockchain-teknolojisi.webp">
+
+<?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 

@@ -1,9 +1,25 @@
+<?php
+$date1 = "2025-11-05";
+$date2 = "2025-11-05";
+$name  = "2026 İçin Gelişmiş SEO Optimizasyon Stratejileri";
+$title = "2026’da Modern Web Geliştirme Trendleri | Çanakkale Web Tasarım";
+$desc1 = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
+$desc2 = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
+$lang  = "tr_TR";
+$img   = "https://www.canakkale-webyazilim.com.tr/images/blog/2026da-modern-web-gelistirme-trendleri.webp";
+$url   = "https://www.canakkale-webyazilim.com.tr/blog/2026da-modern-web-gelistirme-trendleri";
+$alt   = "";
+$cat   = "";
+
+
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
 
-<title>2026 İçin Gelişmiş SEO Optimizasyon Stratejileri | Çanakkale Web Yazılım</title>
+<title><?php echo $title; ?></title>
 
 <meta name="description" content="2026 yılı SEO trendleri ve gelişmiş optimizasyon stratejilerini keşfedin. Çanakkale web yazılım çözümleri ile web sitenizin görünürlüğünü artırın.">
 
@@ -19,6 +35,8 @@
 <meta name="twitter:title" content="2026 İçin Gelişmiş SEO Optimizasyon Stratejileri">
 <meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile 2026 SEO trendlerini uygulayarak web sitenizin görünürlüğünü artırın.">
 <meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/2026-icin-gelismis-seo-optimizasyon-stratejileri.webp">
+
+<?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 
@@ -80,11 +98,7 @@
 <a href="javascript:void(0);">SEO, Web Geliştirme</a>
 </div>
 
-<h3 class="post-title text-center">
-<a href="javascript:void(0);">
-2026 İçin Gelişmiş SEO Optimizasyon Stratejileri
-</a>
-</h3>
+<h3 class="post-title text-center">2026 İçin Gelişmiş SEO Optimizasyon Stratejileri</h3>
 
 <div class="post-excerpt mt-15">
 

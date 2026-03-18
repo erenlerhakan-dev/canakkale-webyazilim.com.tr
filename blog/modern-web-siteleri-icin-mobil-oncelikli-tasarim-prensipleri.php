@@ -1,11 +1,26 @@
+<?php
+$date1 = "2025-11-05";
+$date2 = "2025-11-05";
+$name  = "Modern Web Siteleri İçin Mobil Öncelikli Tasarım Prensipleri";
+$title = "Modern Web Siteleri İçin Mobil Öncelikli Tasarım Prensipleri | Çanakkale Web Tasarım";
+$desc1 = "Modern web siteleri için mobil öncelikli tasarım prensiplerini öğrenin. Çanakkale web tasarım çözümleri ile kullanıcı deneyimini artırın ve SEO performansınızı yükseltin.";
+$desc2 = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
+$lang  = "tr_TR";
+$img   = "https://www.canakkale-webyazilim.com.tr/images/blog/2026da-modern-web-gelistirme-trendleri.webp";
+$url   = "https://www.canakkale-webyazilim.com.tr/blog/2026da-modern-web-gelistirme-trendleri";
+$alt   = "";
+$cat   = "";
+
+
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
 
-<title>Modern Web Siteleri İçin Mobil Öncelikli Tasarım Prensipleri | Çanakkale Web Yazılım</title>
-
-<meta name="description" content="Modern web siteleri için mobil öncelikli tasarım prensiplerini öğrenin. Çanakkale web tasarım çözümleri ile kullanıcı deneyimini artırın ve SEO performansınızı yükseltin.">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
 
 <meta property="og:title" content="Modern Web Siteleri İçin Mobil Öncelikli Tasarım Prensipleri">
 <meta property="og:description" content="Mobil öncelikli tasarım ile modern web sitelerinde kullanıcı deneyimini artırın ve performansı optimize edin.">
@@ -19,6 +34,8 @@
 <meta name="twitter:title" content="Modern Web Siteleri İçin Mobil Öncelikli Tasarım Prensipleri">
 <meta name="twitter:description" content="Çanakkale web tasarım hizmetleri ile mobil öncelikli web sitesi tasarım prensiplerini keşfedin.">
 <meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/modern-web-siteleri-icin-mobil-oncelikli-tasarim-prensipleri.webp">
+
+<?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 

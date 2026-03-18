@@ -1,11 +1,26 @@
+<?php
+$date1 = "2025-11-05";
+$date2 = "2025-11-05";
+$name  = "React vs Angular: Doğru Frontend Framework'ü Seçmek";
+$title = "React vs Angular: Doğru Frontend Framework'ü Seçmek | Çanakkale Web Tasarım";
+$desc1 = "React ve Angular arasındaki farkları keşfedin. Modern web uygulamaları için hangi frontend framework'ün daha uygun olduğunu öğrenin.";
+$desc2 = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
+$lang  = "tr_TR";
+$img   = "https://www.canakkale-webyazilim.com.tr/images/blog/2026da-modern-web-gelistirme-trendleri.webp";
+$url   = "https://www.canakkale-webyazilim.com.tr/blog/2026da-modern-web-gelistirme-trendleri";
+$alt   = "";
+$cat   = "";
+
+
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
 
-<title>React vs Angular: Doğru Frontend Framework'ü Seçmek | Çanakkale Web Yazılım</title>
-
-<meta name="description" content="React ve Angular arasındaki farkları keşfedin. Modern web uygulamaları için hangi frontend framework'ün daha uygun olduğunu öğrenin.">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
 
 <meta property="og:title" content="React vs Angular: Doğru Frontend Framework'ü Seçmek">
 <meta property="og:description" content="React ve Angular framework'leri arasındaki farklar, avantajlar ve kullanım alanları.">
@@ -19,6 +34,8 @@
 <meta name="twitter:title" content="React vs Angular: Doğru Frontend Framework'ü Seçmek">
 <meta name="twitter:description" content="React ve Angular karşılaştırması: performans, kullanım kolaylığı ve proje ihtiyaçlarına göre seçim rehberi.">
 <meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/react-vs-angular-dogru-frontend-frameworku-secmek.webp">
+
+<?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 

@@ -1,11 +1,26 @@
+<?php
+$date1 = "2025-11-05";
+$date2 = "2025-11-05";
+$name  = "Laravel Neden Kurumsal Uygulamalar İçin Mükemmeldir";
+$title = "Laravel Neden Kurumsal Uygulamalar İçin Mükemmeldir | Çanakkale Web Tasarım";
+$desc1 = "Laravel framework neden kurumsal web uygulamaları için tercih edilir? Güvenlik, performans, ölçeklenebilirlik ve modern yazılım mimarisi ile Laravel'in avantajlarını keşfedin.";
+$desc2 = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
+$lang  = "tr_TR";
+$img   = "https://www.canakkale-webyazilim.com.tr/images/blog/2026da-modern-web-gelistirme-trendleri.webp";
+$url   = "https://www.canakkale-webyazilim.com.tr/blog/2026da-modern-web-gelistirme-trendleri";
+$alt   = "";
+$cat   = "";
+
+
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
 
-<title>Laravel Neden Kurumsal Uygulamalar İçin Mükemmeldir | Çanakkale Web Yazılım</title>
-
-<meta name="description" content="Laravel framework neden kurumsal web uygulamaları için tercih edilir? Güvenlik, performans, ölçeklenebilirlik ve modern yazılım mimarisi ile Laravel'in avantajlarını keşfedin.">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
 
 <meta property="og:title" content="Laravel Neden Kurumsal Uygulamalar İçin Mükemmeldir">
 <meta property="og:description" content="Laravel framework ile güvenli, hızlı ve ölçeklenebilir kurumsal web uygulamaları geliştirin.">
@@ -19,6 +34,8 @@
 <meta name="twitter:title" content="Laravel Neden Kurumsal Uygulamalar İçin Mükemmeldir">
 <meta name="twitter:description" content="Kurumsal yazılım geliştirme için Laravel framework'ün avantajlarını keşfedin.">
 <meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/laravel-neden-kurumsal-uygulamalar-icin-mukemmeldir.webp">
+
+<?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 

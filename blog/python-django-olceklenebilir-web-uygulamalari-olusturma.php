@@ -1,11 +1,26 @@
+<?php
+$date1 = "2025-11-05";
+$date2 = "2025-11-05";
+$name  = "Python Django: Ölçeklenebilir Web Uygulamaları Oluşturma";
+$title = "Python Django: Ölçeklenebilir Web Uygulamaları Oluşturma | Çanakkale Web Tasarım";
+$desc1 = "Python Django ile ölçeklenebilir web uygulamaları geliştirme rehberi. Çanakkale web yazılım çözümleri ile güvenli, hızlı ve performanslı projeler oluşturun.";
+$desc2 = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
+$lang  = "tr_TR";
+$img   = "https://www.canakkale-webyazilim.com.tr/images/blog/2026da-modern-web-gelistirme-trendleri.webp";
+$url   = "https://www.canakkale-webyazilim.com.tr/blog/2026da-modern-web-gelistirme-trendleri";
+$alt   = "";
+$cat   = "";
+
+
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
 
-<title>Python Django: Ölçeklenebilir Web Uygulamaları Oluşturma | Çanakkale Web Yazılım</title>
-
-<meta name="description" content="Python Django ile ölçeklenebilir web uygulamaları geliştirme rehberi. Çanakkale web yazılım çözümleri ile güvenli, hızlı ve performanslı projeler oluşturun.">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
 
 <meta property="og:title" content="Python Django: Ölçeklenebilir Web Uygulamaları Oluşturma">
 <meta property="og:description" content="Django framework ile ölçeklenebilir ve güvenli web uygulamaları geliştirin. Çanakkale web yazılım hizmetleri ile modern projeler oluşturun.">
@@ -19,6 +34,8 @@
 <meta name="twitter:title" content="Python Django: Ölçeklenebilir Web Uygulamaları Oluşturma">
 <meta name="twitter:description" content="Çanakkale web yazılım çözümleri ile Django kullanarak ölçeklenebilir ve performanslı web uygulamaları geliştirin.">
 <meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/python-django-olceklenebilir-web-uygulamalari-olusturma.webp">
+
+<?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 

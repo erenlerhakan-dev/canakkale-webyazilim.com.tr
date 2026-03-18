@@ -1,11 +1,26 @@
+<?php
+$date1 = "2025-11-05";
+$date2 = "2025-11-05";
+$name  = "Mobil Uygulama Geliştirme: Native vs Cross-Platform";
+$title = "Mobil Uygulama Geliştirme: Native vs Cross-Platform | Çanakkale Web Tasarım";
+$desc1 = "Native ve Cross-Platform mobil uygulama geliştirme rehberi. Çanakkale web yazılım çözümleri ile işletmeniz için doğru mobil geliştirme yöntemini seçin.";
+$desc2 = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
+$lang  = "tr_TR";
+$img   = "https://www.canakkale-webyazilim.com.tr/images/blog/2026da-modern-web-gelistirme-trendleri.webp";
+$url   = "https://www.canakkale-webyazilim.com.tr/blog/2026da-modern-web-gelistirme-trendleri";
+$alt   = "";
+$cat   = "";
+
+
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
 
-<title>Mobil Uygulama Geliştirme: Native vs Cross-Platform | Çanakkale Web Yazılım</title>
-
-<meta name="description" content="Native ve Cross-Platform mobil uygulama geliştirme rehberi. Çanakkale web yazılım çözümleri ile işletmeniz için doğru mobil geliştirme yöntemini seçin.">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
 
 <meta property="og:title" content="Mobil Uygulama Geliştirme: Native vs Cross-Platform">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile Native ve Cross-Platform mobil uygulama geliştirme yöntemlerini karşılaştırın ve doğru seçimi yapın.">
@@ -19,6 +34,8 @@
 <meta name="twitter:title" content="Mobil Uygulama Geliştirme: Native vs Cross-Platform">
 <meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile Native ve Cross-Platform mobil uygulama geliştirme yöntemlerini karşılaştırarak işletmeniz için en uygun çözümü belirleyin.">
 <meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/mobil-uygulama-gelistirme-native-vs-cross-platform.webp">
+
+<?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 

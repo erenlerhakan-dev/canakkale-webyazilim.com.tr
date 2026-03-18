@@ -1,11 +1,26 @@
+<?php
+$date1 = "2025-11-05";
+$date2 = "2025-11-05";
+$name  = "Web Erişebilirliği: WCAG Yönergelerini Uygulama";
+$title = "Web Erişebilirliği: WCAG Yönergelerini Uygulama | Çanakkale Web Tasarım";
+$desc1 = "Web erişilebilirliği ve WCAG yönergeleri rehberi. Çanakkale web yazılım çözümleri ile herkes için kullanılabilir web siteleri oluşturun.";
+$desc2 = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
+$lang  = "tr_TR";
+$img   = "https://www.canakkale-webyazilim.com.tr/images/blog/2026da-modern-web-gelistirme-trendleri.webp";
+$url   = "https://www.canakkale-webyazilim.com.tr/blog/2026da-modern-web-gelistirme-trendleri";
+$alt   = "";
+$cat   = "";
+
+
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
 
-<title>Web Erişebilirliği: WCAG Yönergelerini Uygulama | Çanakkale Web Yazılım</title>
-
-<meta name="description" content="Web erişilebilirliği ve WCAG yönergeleri rehberi. Çanakkale web yazılım çözümleri ile herkes için kullanılabilir web siteleri oluşturun.">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
 
 <meta property="og:title" content="Web Erişebilirliği: WCAG Yönergelerini Uygulama">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile WCAG yönergelerine uygun, erişilebilir web siteleri oluşturun ve kullanıcı deneyimini artırın.">
@@ -19,6 +34,8 @@
 <meta name="twitter:title" content="Web Erişebilirliği: WCAG Yönergelerini Uygulama">
 <meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile WCAG standartlarına uygun, erişilebilir web siteleri geliştirin.">
 <meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/web-erisebilirligi-wcag-yonergelerini-uygulama.webp">
+
+<?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 

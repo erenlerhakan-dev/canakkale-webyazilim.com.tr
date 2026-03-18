@@ -1,11 +1,26 @@
+<?php
+$date1 = "2025-11-05";
+$date2 = "2025-11-05";
+$name  = "İşletmeniz İçin Doğru CMS Platformunu Seçmek";
+$title = "İşletmeniz İçin Doğru CMS Platformunu Seçmek | Çanakkale Web Tasarım";
+$desc1 = "Doğru CMS platformu seçimi rehberi. Çanakkale web yazılım çözümleri ile işletmeniz için en uygun içerik yönetim sistemini belirleyin ve verimli web siteleri oluşturun.";
+$desc2 = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
+$lang  = "tr_TR";
+$img   = "https://www.canakkale-webyazilim.com.tr/images/blog/2026da-modern-web-gelistirme-trendleri.webp";
+$url   = "https://www.canakkale-webyazilim.com.tr/blog/2026da-modern-web-gelistirme-trendleri";
+$alt   = "";
+$cat   = "";
+
+
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
 
-<title>İşletmeniz İçin Doğru CMS Platformunu Seçmek | Çanakkale Web Yazılım</title>
-
-<meta name="description" content="Doğru CMS platformu seçimi rehberi. Çanakkale web yazılım çözümleri ile işletmeniz için en uygun içerik yönetim sistemini belirleyin ve verimli web siteleri oluşturun.">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
 
 <meta property="og:title" content="İşletmeniz İçin Doğru CMS Platformunu Seçmek">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile işletmeniz için en uygun CMS platformunu seçin ve web sitenizi verimli ve kullanıcı dostu hale getirin.">
@@ -19,6 +34,8 @@
 <meta name="twitter:title" content="İşletmeniz İçin Doğru CMS Platformunu Seçmek">
 <meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile işletmeniz için ideal CMS platformunu seçerek güçlü ve yönetilebilir web siteleri geliştirin.">
 <meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/isletmeniz-icin-dogru-cms-platformunu-secmek.webp">
+
+<?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 

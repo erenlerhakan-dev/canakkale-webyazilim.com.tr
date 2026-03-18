@@ -1,11 +1,26 @@
+<?php
+$date1 = "2025-11-05";
+$date2 = "2025-11-05";
+$name  = "ERP Sistemi Uygulaması: Kapsamlı Rehber";
+$title = "ERP Sistemi Uygulaması: Kapsamlı Rehber | Çanakkale Web Tasarım";
+$desc1 = "ERP sistemi uygulamaları hakkında kapsamlı rehber. Çanakkale web yazılım çözümleri ile kurumsal yazılımlarınızı optimize edin ve süreçlerinizi hızlandırın.";
+$desc2 = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
+$lang  = "tr_TR";
+$img   = "https://www.canakkale-webyazilim.com.tr/images/blog/2026da-modern-web-gelistirme-trendleri.webp";
+$url   = "https://www.canakkale-webyazilim.com.tr/blog/2026da-modern-web-gelistirme-trendleri";
+$alt   = "";
+$cat   = "";
+
+
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
 
-<title>ERP Sistemi Uygulaması: Kapsamlı Rehber | Çanakkale Web Yazılım</title>
-
-<meta name="description" content="ERP sistemi uygulamaları hakkında kapsamlı rehber. Çanakkale web yazılım çözümleri ile kurumsal yazılımlarınızı optimize edin ve süreçlerinizi hızlandırın.">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
 
 <meta property="og:title" content="ERP Sistemi Uygulaması: Kapsamlı Rehber">
 <meta property="og:description" content="ERP sistemi uygulaması ve avantajları hakkında detaylı rehber. İşletmeler için doğru ERP stratejilerini keşfedin.">
@@ -19,6 +34,8 @@
 <meta name="twitter:title" content="ERP Sistemi Uygulaması: Kapsamlı Rehber">
 <meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile ERP sistemi uygulamalarınızı kurumsal verimlilik için optimize edin.">
 <meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/erp-sistemi-uygulamasi-kapsamli-rehber.webp">
+
+<?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 

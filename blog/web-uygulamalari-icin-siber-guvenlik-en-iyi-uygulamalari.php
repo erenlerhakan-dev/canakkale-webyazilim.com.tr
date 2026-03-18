@@ -1,11 +1,26 @@
+<?php
+$date1 = "2025-11-05";
+$date2 = "2025-11-05";
+$name  = "Web Uygulamaları İçin Siber Güvenlik En İyi Uygulamaları";
+$title = "Web Uygulamaları İçin Siber Güvenlik En İyi Uygulamaları | Çanakkale Web Tasarım";
+$desc1 = "Web uygulamaları için siber güvenlik rehberi. Çanakkale web yazılım çözümleri ile güvenli ve korunmuş web uygulamaları geliştirin ve veri ihlallerini önleyin.";
+$desc2 = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
+$lang  = "tr_TR";
+$img   = "https://www.canakkale-webyazilim.com.tr/images/blog/2026da-modern-web-gelistirme-trendleri.webp";
+$url   = "https://www.canakkale-webyazilim.com.tr/blog/2026da-modern-web-gelistirme-trendleri";
+$alt   = "";
+$cat   = "";
+
+
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
 
-<title>Web Uygulamaları İçin Siber Güvenlik En İyi Uygulamaları | Çanakkale Web Yazılım</title>
-
-<meta name="description" content="Web uygulamaları için siber güvenlik rehberi. Çanakkale web yazılım çözümleri ile güvenli ve korunmuş web uygulamaları geliştirin ve veri ihlallerini önleyin.">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
 
 <meta property="og:title" content="Web Uygulamaları İçin Siber Güvenlik En İyi Uygulamaları">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile web uygulamalarınız için siber güvenlik önlemlerini öğrenin ve uygulayın.">
@@ -19,6 +34,8 @@
 <meta name="twitter:title" content="Web Uygulamaları İçin Siber Güvenlik En İyi Uygulamaları">
 <meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile web uygulamalarınızı güvenli hale getirin ve siber saldırılara karşı koruyun.">
 <meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/web-uygulamalari-icin-siber-guvenlik-en-iyi-uygulamalari.webp">
+
+<?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 

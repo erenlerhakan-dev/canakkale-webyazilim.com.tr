@@ -1,11 +1,26 @@
+<?php
+$date1 = "2025-11-05";
+$date2 = "2025-11-05";
+$name  = "B2B Platform Geliştirme: Özellikler ve En İyi Uygulamalar";
+$title = "B2B Platform Geliştirme: Özellikler ve En İyi Uygulamalar | Çanakkale Web Tasarım";
+$desc1 = "B2B platform geliştirme rehberi. Çanakkale web yazılım çözümleri ile işletmeniz için güçlü, ölçeklenebilir ve güvenli B2B platformlar geliştirin.";
+$desc2 = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
+$lang  = "tr_TR";
+$img   = "https://www.canakkale-webyazilim.com.tr/images/blog/2026da-modern-web-gelistirme-trendleri.webp";
+$url   = "https://www.canakkale-webyazilim.com.tr/blog/2026da-modern-web-gelistirme-trendleri";
+$alt   = "";
+$cat   = "";
+
+
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
 
-<title>B2B Platform Geliştirme: Özellikler ve En İyi Uygulamalar | Çanakkale Web Yazılım</title>
-
-<meta name="description" content="B2B platform geliştirme rehberi. Çanakkale web yazılım çözümleri ile işletmeniz için güçlü, ölçeklenebilir ve güvenli B2B platformlar geliştirin.">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
 
 <meta property="og:title" content="B2B Platform Geliştirme: Özellikler ve En İyi Uygulamalar">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile B2B platform geliştirme stratejilerini keşfedin ve işletmeniz için en iyi uygulamaları kullanın.">
@@ -19,6 +34,8 @@
 <meta name="twitter:title" content="B2B Platform Geliştirme: Özellikler ve En İyi Uygulamalar">
 <meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile B2B platform geliştirme özelliklerini öğrenin ve işletmeniz için güçlü çözümler oluşturun.">
 <meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/b2b-platform-gelistirme-ozellikler-ve-en-iyi-uygulamalar.webp">
+
+<?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 

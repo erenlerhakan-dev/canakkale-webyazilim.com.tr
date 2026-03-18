@@ -1,11 +1,26 @@
+<?php
+$date1 = "2025-11-05";
+$date2 = "2025-11-05";
+$name  = "Büyüme İçin Veri Analitiği ve İş Zekası";
+$title = "Büyüme İçin Veri Analitiği ve İş Zekası | Çanakkale Web Tasarım";
+$desc1 = "Veri analitiği ve iş zekası ile işletmenizin büyümesini hızlandırın. Çanakkale web yazılım çözümleri ile veriye dayalı kararlar alın ve rekabette öne geçin.";
+$desc2 = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
+$lang  = "tr_TR";
+$img   = "https://www.canakkale-webyazilim.com.tr/images/blog/2026da-modern-web-gelistirme-trendleri.webp";
+$url   = "https://www.canakkale-webyazilim.com.tr/blog/2026da-modern-web-gelistirme-trendleri";
+$alt   = "";
+$cat   = "";
+
+
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
 
-<title>Büyüme İçin Veri Analitiği ve İş Zekası | Çanakkale Web Yazılım</title>
-
-<meta name="description" content="Veri analitiği ve iş zekası ile işletmenizin büyümesini hızlandırın. Çanakkale web yazılım çözümleri ile veriye dayalı kararlar alın ve rekabette öne geçin.">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
 
 <meta property="og:title" content="Büyüme İçin Veri Analitiği ve İş Zekası">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile veri analitiği ve iş zekası uygulamaları ile işletmenizin büyümesini hızlandırın.">
@@ -19,6 +34,8 @@
 <meta name="twitter:title" content="Büyüme İçin Veri Analitiği ve İş Zekası">
 <meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile veri analitiği ve iş zekası kullanarak işletmenizi büyütün ve karar süreçlerinizi optimize edin.">
 <meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/buyume-icin-veri-analitigi-ve-is-zekasi.webp">
+
+<?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 

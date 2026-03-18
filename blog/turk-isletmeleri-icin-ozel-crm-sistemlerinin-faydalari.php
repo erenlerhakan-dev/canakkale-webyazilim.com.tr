@@ -1,11 +1,26 @@
+<?php
+$date1 = "2025-11-05";
+$date2 = "2025-11-05";
+$name  = "Türk İşletmeleri için Özel CRM Sistemlerinin Faydaları";
+$title = "Türk İşletmeleri için Özel CRM Sistemlerinin Faydaları | Çanakkale Web Tasarım";
+$desc1 = "Türk işletmeleri için özel CRM yazılımının avantajlarını keşfedin. Müşteri yönetimi, satış takibi ve iş süreçlerini kolaylaştıran CRM çözümleri ile işletmenizi büyütün.";
+$desc2 = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
+$lang  = "tr_TR";
+$img   = "https://www.canakkale-webyazilim.com.tr/images/blog/2026da-modern-web-gelistirme-trendleri.webp";
+$url   = "https://www.canakkale-webyazilim.com.tr/blog/2026da-modern-web-gelistirme-trendleri";
+$alt   = "";
+$cat   = "";
+
+
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
 
-<title>Türk İşletmeleri için Özel CRM Sistemlerinin Faydaları | Çanakkale Web Yazılım</title>
-
-<meta name="description" content="Türk işletmeleri için özel CRM yazılımının avantajlarını keşfedin. Müşteri yönetimi, satış takibi ve iş süreçlerini kolaylaştıran CRM çözümleri ile işletmenizi büyütün.">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
 
 <meta property="og:title" content="Türk İşletmeleri için Özel CRM Sistemlerinin Faydaları">
 <meta property="og:description" content="Özel CRM yazılımları ile müşteri ilişkilerinizi güçlendirin ve iş süreçlerinizi optimize edin.">
@@ -19,6 +34,8 @@
 <meta name="twitter:title" content="Türk İşletmeleri için Özel CRM Sistemlerinin Faydaları">
 <meta name="twitter:description" content="CRM yazılımları işletmeler için neden önemli? Özel CRM çözümlerinin avantajlarını öğrenin.">
 <meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari.webp">
+
+<?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 

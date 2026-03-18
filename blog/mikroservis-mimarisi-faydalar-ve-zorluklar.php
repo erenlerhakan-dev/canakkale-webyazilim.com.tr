@@ -1,11 +1,26 @@
+<?php
+$date1 = "2025-11-05";
+$date2 = "2025-11-05";
+$name  = "Mikroservis Mimarisi: Faydalar ve Zorluklar";
+$title = "Mikroservis Mimarisi: Faydalar ve Zorluklar | Çanakkale Web Tasarım";
+$desc1 = "Mikroservis mimarisi ile ölçeklenebilir ve esnek web uygulamaları geliştirin. Çanakkale web yazılım çözümleri ile avantajlar ve zorlukları keşfedin.";
+$desc2 = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
+$lang  = "tr_TR";
+$img   = "https://www.canakkale-webyazilim.com.tr/images/blog/2026da-modern-web-gelistirme-trendleri.webp";
+$url   = "https://www.canakkale-webyazilim.com.tr/blog/2026da-modern-web-gelistirme-trendleri";
+$alt   = "";
+$cat   = "";
+
+
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
 
-<title>Mikroservis Mimarisi: Faydalar ve Zorluklar | Çanakkale Web Yazılım</title>
-
-<meta name="description" content="Mikroservis mimarisi ile ölçeklenebilir ve esnek web uygulamaları geliştirin. Çanakkale web yazılım çözümleri ile avantajlar ve zorlukları keşfedin.">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
 
 <meta property="og:title" content="Mikroservis Mimarisi: Faydalar ve Zorluklar">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile mikroservis mimarisi kullanarak modern, ölçeklenebilir ve esnek web uygulamaları geliştirin.">
@@ -19,6 +34,8 @@
 <meta name="twitter:title" content="Mikroservis Mimarisi: Faydalar ve Zorluklar">
 <meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile mikroservis mimarisi uygulamaları ile modern, ölçeklenebilir web çözümleri geliştirin.">
 <meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/mikroservis-mimarisi-faydalar-ve-zorluklar.webp">
+
+<?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 

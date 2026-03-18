@@ -1,11 +1,26 @@
+<?php
+$date1 = "2025-11-05";
+$date2 = "2025-11-05";
+$name  = "Çevik Yazılım Geliştirme: En İyi Uygulamalar ve Metodolojiler";
+$title = "Çevik Yazılım Geliştirme: En İyi Uygulamalar ve Metodolojiler | Çanakkale Web Tasarım";
+$desc1 = "Çevik yazılım geliştirme metodolojileri ve en iyi uygulamalar rehberi. Çanakkale web yazılım çözümleri ile projelerinizi hızlı ve verimli yönetin.";
+$desc2 = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
+$lang  = "tr_TR";
+$img   = "https://www.canakkale-webyazilim.com.tr/images/blog/2026da-modern-web-gelistirme-trendleri.webp";
+$url   = "https://www.canakkale-webyazilim.com.tr/blog/2026da-modern-web-gelistirme-trendleri";
+$alt   = "";
+$cat   = "";
+
+
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
 
-<title>Çevik Yazılım Geliştirme: En İyi Uygulamalar ve Metodolojiler | Çanakkale Web Yazılım</title>
-
-<meta name="description" content="Çevik yazılım geliştirme metodolojileri ve en iyi uygulamalar rehberi. Çanakkale web yazılım çözümleri ile projelerinizi hızlı ve verimli yönetin.">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
 
 <meta property="og:title" content="Çevik Yazılım Geliştirme: En İyi Uygulamalar ve Metodolojiler">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile çevik yazılım geliştirme metodolojilerini uygulayarak projelerinizi hızlı ve verimli yönetin.">
@@ -19,6 +34,8 @@
 <meta name="twitter:title" content="Çevik Yazılım Geliştirme: En İyi Uygulamalar ve Metodolojiler">
 <meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile çevik yazılım geliştirme metodolojilerini projelerinize uygulayın ve verimliliği artırın.">
 <meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/cevik-yazilim-gelistirme-en-iyi-uygulamalar-ve-metodolojiler.webp">
+
+<?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 

@@ -1,11 +1,26 @@
+<?php
+$date1 = "2025-11-05";
+$date2 = "2025-11-05";
+$name  = "Hizmet İşletmeleri İçin Özel Rezervasyon Motorları Geliştirme";
+$title = "Hizmet İşletmeleri İçin Özel Rezervasyon Motorları Geliştirme | Çanakkale Web Tasarım";
+$desc1 = "Hizmet işletmeleri için özel rezervasyon motorları geliştirme rehberi. Çanakkale web yazılım çözümleri ile online rezervasyon süreçlerinizi optimize edin.";
+$desc2 = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
+$lang  = "tr_TR";
+$img   = "https://www.canakkale-webyazilim.com.tr/images/blog/2026da-modern-web-gelistirme-trendleri.webp";
+$url   = "https://www.canakkale-webyazilim.com.tr/blog/2026da-modern-web-gelistirme-trendleri";
+$alt   = "";
+$cat   = "";
+
+
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
 
-<title>Hizmet İşletmeleri İçin Özel Rezervasyon Motorları Geliştirme | Çanakkale Web Yazılım</title>
-
-<meta name="description" content="Hizmet işletmeleri için özel rezervasyon motorları geliştirme rehberi. Çanakkale web yazılım çözümleri ile online rezervasyon süreçlerinizi optimize edin.">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
 
 <meta property="og:title" content="Hizmet İşletmeleri İçin Özel Rezervasyon Motorları Geliştirme">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile hizmet işletmeleri için özelleştirilmiş rezervasyon motorları geliştirin ve müşteri deneyimini artırın.">
@@ -19,6 +34,8 @@
 <meta name="twitter:title" content="Hizmet İşletmeleri İçin Özel Rezervasyon Motorları Geliştirme">
 <meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile online rezervasyon süreçlerini hızlandıracak özel rezervasyon motorları geliştirin.">
 <meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/blog/hizmet-isletmeleri-icin-ozel-rezervasyon-motorlari-gelistirme.webp">
+
+<?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 
