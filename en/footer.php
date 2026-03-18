@@ -18,33 +18,33 @@
 <h6 class="footer-widget__title mb-20">...</h6>
 <ul class="footer-widget__list">
 <li><a href="https://canakkale-webyazilim.com.tr/en/" class="hover-style-link">Home</a></li>
-<li><a href="https://canakkale-webyazilim.com.tr/en/about-us.php" class="hover-style-link">About Us</a></li>
-<li><a href="https://canakkale-webyazilim.com.tr/en/services.php" class="hover-style-link">Services</a></li>
-<li><a href="https://canakkale-webyazilim.com.tr/en/blog/index.php" class="hover-style-link">Technologies</a></li>
-<li><a href="https://canakkale-webyazilim.com.tr/en/contact-us.php" class="hover-style-link">Contact Us</a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/about-us" class="hover-style-link">About Us</a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/services" class="hover-style-link">Services</a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/blog/index" class="hover-style-link">Technologies</a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/contact-us" class="hover-style-link">Contact Us</a></li>
 </ul>
 </div>
 
 <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
 <h6 class="footer-widget__title mb-20">...</h6>
 <ul class="footer-widget__list">
-<li><a href="https://canakkale-webyazilim.com.tr/en/services/ozel-web-gelistirme.php" class="hover-style-link">Custom Web Development</a></li>
-<li><a href="https://canakkale-webyazilim.com.tr/en/services/crm-sistemleri.php" class="hover-style-link">CRM Systems</a></li>
-<li><a href="https://canakkale-webyazilim.com.tr/en/services/erp-cozumleri.php" class="hover-style-link">ERP Solutions</a></li>
-<li><a href="https://canakkale-webyazilim.com.tr/en/services/e-ticaret-cozumleri.php" class="hover-style-link">E-commerce Solutions</a></li>
-<li><a href="https://canakkale-webyazilim.com.tr/en/services/mobil-uygulamalar.php" class="hover-style-link">Mobile Applications</a></li>
-<li><a href="https://canakkale-webyazilim.com.tr/en/services/rezervasyon-sistemleri.php" class="hover-style-link">Reservation Systems</a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/services/custom-web-development" class="hover-style-link">Custom Web Development</a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/services/crm-systems" class="hover-style-link">CRM Systems</a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/services/erp-cozumleri" class="hover-style-link">ERP Solutions</a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/services/e-commerce-solutions" class="hover-style-link">E-commerce Solutions</a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/services/mobile-applications" class="hover-style-link">Mobile Applications</a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/services/reservation-systems" class="hover-style-link">Reservation Systems</a></li>
 </ul>
 </div>
 <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
 <h6 class="footer-widget__title mb-20">...</h6>
 <ul class="footer-widget__list">
-<li><a href="https://canakkale-webyazilim.com.tr/en/services/ozel-yazilim-gelistirme.php" class="hover-style-link">Custom Software Development</a></li>
-<li><a href="https://canakkale-webyazilim.com.tr/en/services/b2b-b2c-solutions.php" class="hover-style-link">B2B & B2C Solutions</a></li>
-<li><a href="https://canakkale-webyazilim.com.tr/en/services/api-development.php" class="hover-style-link">API Development</a></li>
-<li><a href="https://canakkale-webyazilim.com.tr/en/services/sunucu-guvenligi-ve-bakimi.php" class="hover-style-link">Server Security and Maintenance</a></li>
-<li><a href="https://canakkale-webyazilim.com.tr/en/services/yazilim-performans-optimizasyonu.php" class="hover-style-link">Software Performance Optimization</a></li>
-<li><a href="https://canakkale-webyazilim.com.tr/en/services/technical-consulting.php" class="hover-style-link">Technical Consulting</a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/services/custom-software-development" class="hover-style-link">Custom Software Development</a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/services/b2b-b2c-solutions" class="hover-style-link">B2B & B2C Solutions</a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/services/api-development" class="hover-style-link">API Development</a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/services/server-security-and-maintenance" class="hover-style-link">Server Security and Maintenance</a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/services/software-performance-optimization" class="hover-style-link">Software Performance Optimization</a></li>
+<li><a href="https://canakkale-webyazilim.com.tr/en/services/technical-consulting" class="hover-style-link">Technical Consulting</a></li>
 </ul>
 </div>
 

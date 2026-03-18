@@ -81,7 +81,7 @@
 <div id="main-wrapper">
 <div class="site-wrapper-reveal">
 
-<div class="about-banner-wrap banner-space bg-img" data-bg="/images/services/canakkale-sunucu-guvenligi-ve-bakimi.webp">
+<div class="about-banner-wrap banner-space bg-img" data-bg="/images/services/canakkale-server-security-and-maintenance.webp">
 <div class="container">
 <div class="row">
 <div class="col-lg-8 m-auto">
@@ -195,7 +195,7 @@ Bakım Süreci Nasıl İşler? <span><i class="fas fa-chevron-circle-down"></i>
 </div>
 
 <div class="col-lg-6">
-<img src="/images/services/sunucu-guvenligi-ve-bakimi.webp" alt="Server Security and Maintenance" class="img-fluid">
+<img src="/images/services/server-security-and-maintenance.webp" alt="Server Security and Maintenance" class="img-fluid">
 </div>
 
 </div>

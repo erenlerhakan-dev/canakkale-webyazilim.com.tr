@@ -24,7 +24,7 @@
  },
  "mainEntityOfPage": {
  "@type": "WebPage",
- "@id": "https://www.canakkale-webyazilim.com.tr/en/services/crm-sistemleri.php"
+ "@id": "https://www.canakkale-webyazilim.com.tr/en/services/crm-systems.php"
  }
 }
 </script>
@@ -76,7 +76,7 @@
 <div id="main-wrapper">
 <div class="site-wrapper-reveal">
 
-<div class="about-banner-wrap banner-space bg-img" data-bg="/images/services/canakkale-crm-sistemleri.webp">
+<div class="about-banner-wrap banner-space bg-img" data-bg="/images/services/canakkale-crm-systems.webp">
 <div class="container">
 <div class="row">
 <div class="col-lg-8 m-auto">
@@ -190,7 +190,7 @@ CRM Systems Neden Önemlidir? <span><i class="fas fa-chevron-circle-down"></i>
 </div>
 
 <div class="col-lg-6">
-<img src="/images/services/crm-sistemleri.webp" alt="CRM Systems" class="img-fluid">
+<img src="/images/services/crm-systems.webp" alt="CRM Systems" class="img-fluid">
 </div>
 
 </div>

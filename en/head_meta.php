@@ -36,10 +36,10 @@
 <meta name="google" content="notranslate" />
 <meta name="googlebot" content="index, follow" />
 <meta name="robots" content="index, follow">
-<meta name="web_author" content="Çanakkale Web Yazılım https://www.canakkale-webyazilim.com.tr">
+<meta name="web_author" content="Çanakkale Web Yazılım https://www.canakkale-webyazilim.com.tr/en/">
 <meta name="rating" content="General">
 <meta name="Revisit-after" content="1 Day">
-<meta name="copyright" content="Çanakkale Web Yazılım https://www.canakkale-webyazilim.com.tr" />
-<meta name="content-language" content="tr-TR" />
+<meta name="copyright" content="Çanakkale Web Yazılım https://www.canakkale-webyazilim.com.tr/en/" />
+<meta name="content-language" content="en-US" />
 
 <link rel="canonical" href="<?php echo $_SERVER['HTTP_REFERER']; ?>">

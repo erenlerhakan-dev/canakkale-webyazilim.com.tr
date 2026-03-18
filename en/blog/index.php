@@ -96,8 +96,8 @@
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari.php">
-<img class="img-fluid" src="/images/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari.webp" alt="Türk İşletmeleri için Özel CRM Systemsnin Faydaları">
+<a href="/blog/turk-isletmeleri-icin-ozel-crm-systemsnin-faydalari.php">
+<img class="img-fluid" src="/images/blog/turk-isletmeleri-icin-ozel-crm-systemsnin-faydalari.webp" alt="Türk İşletmeleri için Özel CRM Systemsnin Faydaları">
 </a>
 </div>
 
@@ -108,7 +108,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari.php">Türk İşletmeleri için Özel CRM Systemsnin Faydaları</a>
+<a href="/blog/turk-isletmeleri-icin-ozel-crm-systemsnin-faydalari.php">Türk İşletmeleri için Özel CRM Systemsnin Faydaları</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -123,7 +123,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari.php" class="ht-btn ht-btn-md">Devamını oku </a>
+<a href="/blog/turk-isletmeleri-icin-ozel-crm-systemsnin-faydalari.php" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 

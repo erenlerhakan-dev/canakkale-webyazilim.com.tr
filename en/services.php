@@ -75,7 +75,7 @@
 <div class="content">
 <h5 class="heading">Custom Web Development</h5>
 <div class="text">We create custom web applications tailored to your specific business needs using modern technologies such as React, Angular, Laravel, and Django..</div>
-<div class="feature-btn"><a href="/en/services/ozel-web-gelistirme.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="feature-btn"><a href="/en/services/custom-web-development"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -90,7 +90,7 @@
 <div class="content">
 <h5 class="heading">CRM Systems</h5>
 <div class="text">Custom Customer Relationship Management (CRM) systems designed to improve customer interactions and increase sales efficiency.</div>
-<div class="feature-btn"><a href="/en/services/crm-sistemleri.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="feature-btn"><a href="/en/services/crm-systems"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -105,7 +105,7 @@
 <div class="content">
 <h5 class="heading">ERP Solutions</h5>
 <div class="text">Enterprise Resource Planning systems integrate all aspects of business operations into a single, unified platform.</div>
-<div class="feature-btn"><a href="/en/services/erp-cozumleri.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="feature-btn"><a href="/en/services/erp-cozumleri"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -120,7 +120,7 @@
 <div class="content">
 <h5 class="heading">E-commerce Solutions</h5>
 <div class="text">Fully featured online stores with secure payment integration, inventory management, and user-friendly shopping experiences.</div>
-<div class="feature-btn"><a href="/en/services/e-ticaret-cozumleri.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="feature-btn"><a href="/en/services/e-commerce-solutions"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -135,7 +135,7 @@
 <div class="content">
 <h5 class="heading">Mobile Applications</h5>
 <div class="text">Native and cross-platform mobile applications for iOS and Android that deliver exceptional user experiences.</div>
-<div class="feature-btn"><a href="/en/services/mobil-uygulamalar.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="feature-btn"><a href="/en/services/mobile-applications"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -150,7 +150,7 @@
 <div class="content">
 <h5 class="heading">Reservation Systems</h5>
 <div class="text">Custom booking and appointment systems for hotels, restaurants, services, and event management.</div>
-<div class="feature-btn"><a href="/en/services/rezervasyon-sistemleri.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="feature-btn"><a href="/en/services/reservation-systems"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -165,7 +165,7 @@
 <div class="content">
 <h5 class="heading">Custom Software Development</h5>
 <div class="text">Custom software solutions built from the ground up to address your unique business challenges and requirements.</div>
-<div class="feature-btn"><a href="/en/services/ozel-yazilim-gelistirme.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="feature-btn"><a href="/en/services/custom-software-development"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -180,7 +180,7 @@
 <div class="content">
 <h5 class="heading">B2B & B2C Solutions</h5>
 <div class="text">Advanced platforms for business-to-business and business-to-consumer transactions.</div>
-<div class="feature-btn"><a href="/en/services/b2b-b2c-solutions.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="feature-btn"><a href="/en/services/b2b-b2c-solutions"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -195,7 +195,7 @@
 <div class="content">
 <h5 class="heading">API Development</h5>
 <div class="text">RESTful APIs and microservices that enable seamless integration between different systems and applications.</div>
-<div class="feature-btn"><a href="/en/services/api-development.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="feature-btn"><a href="/en/services/api-development"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -210,7 +210,7 @@
 <div class="content">
 <h5 class="heading">Server Security and Maintenance</h5>
 <div class="text">Comprehensive security audits, regular updates, and ongoing maintenance to ensure your applications run smoothly.</div>
-<div class="feature-btn"><a href="/en/services/sunucu-guvenligi-ve-bakimi.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="feature-btn"><a href="/en/services/server-security-and-maintenance"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -225,7 +225,7 @@
 <div class="content">
 <h5 class="heading">Software Performance Optimization</h5>
 <div class="text">Enhance your existing applications with software performance optimization, code refactoring, and infrastructure improvements.</div>
-<div class="feature-btn"><a href="/en/services/yazilim-performans-optimizasyonu.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="feature-btn"><a href="/en/services/software-performance-optimization"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -240,7 +240,7 @@
 <div class="content">
 <h5 class="heading">Technical Consulting</h5>
 <div class="text">Expert guidance on technology stack selection, architectural design, and best practices for your projects.</div>
-<div class="feature-btn"><a href="/en/services/technical-consulting.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="feature-btn"><a href="/en/services/technical-consulting"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -253,7 +253,7 @@
 <div class="col-lg-12">
 <div class="feature-list-button-box mt-30 text-center">
 <a href="tel:+905347922531" class="ht-btn ht-btn-md">Talk to our Support Team</a>
-<a href="https://canakkale-webyazilim.com.tr/contact-us.php" class="ht-btn ht-btn-md ht-btn--outline">Write to us</a>
+<a href="https://canakkale-webyazilim.com.tr/contact-us" class="ht-btn ht-btn-md ht-btn--outline">Write to us</a>
 </div>
 </div>
 

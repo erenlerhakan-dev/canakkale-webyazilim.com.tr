@@ -2,9 +2,9 @@
 <html class="no-js" lang="en" dir="ltr">
 
 <head>
-<title>Custom Software Development | İşletmelere Özel Yazılım Çözümleri</title>
-<meta name="description" content="Custom Software Development Servicesi ile işletmenize özel, ölçeklenebilir ve güvenli yazılım çözümleri oluşturun. Web, mobil ve kurumsal yazılım geliştirme hakkında Detaillı bilgi alın.">
-<meta name="keywords" content="Custom Software Development, kurumsal yazılım çözümleri, işletmeye özel yazılım, yazılım geliştirme hizmeti, web tabanlı yazılım, yazılım danışmanlığı">
+<title>Custom Web Development | Kurumsal ve Kişiye Özel Web Çözümleri</title>
+<meta name="description" content="Custom Web Development Servicesi ile işletmenize veya projenize özel web çözümleri oluşturun. Modern, hızlı ve SEO uyumlu web siteleri geliştirme Servicesi.">
+<meta name="keywords" content="Custom Web Development, web tasarım, web yazılım geliştirme, kurumsal web çözümleri, web sitesi geliştirme, web uygulaması geliştirme">
 
 <?php include_once('../head_meta.php'); ?>
 
@@ -12,8 +12,8 @@
 {
  "@context": "https:/schema.org",
  "@type": "BlogPosting",
- "headline": "Custom Software Development",
- "description": "Custom Software Development ile işletmelere özel web, mobil ve kurumsal yazılım çözümleri oluşturabilirsiniz.",
+ "headline": "Custom Web Development Servicesi",
+ "description": "İşletmelere ve projelere Custom Web Development çözümleri ile modern, hızlı ve ölçeklenebilir web siteleri oluşturun.",
  "author": {
    "@type": "Organization",
    "name": "IT Solutions"
@@ -24,7 +24,7 @@
  },
  "mainEntityOfPage": {
    "@type": "WebPage",
-   "@id": "https://www.canakkale-webyazilim.com.tr/en/services/ozel-yazilim-gelistirme.php"
+   "@id": "https://www.canakkale-webyazilim.com.tr/en/services/custom-web-development.php"
  }
 }
 </script>
@@ -36,34 +36,34 @@
  "mainEntity": [
   {
     "@type": "Question",
-    "name": "Custom Software Development nedir?",
+    "name": "Custom Web Development nedir?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Custom Software Development, bir işletmenin ihtiyaçlarına özel olarak tasarlanan ve tamamen özelleştirilebilen yazılım çözümlerini ifade eder."
+      "text": "Custom Web Development, bir işletme veya proje için tamamen özelleştirilmiş, modern ve performanslı web siteleri veya web uygulamaları geliştirme sürecidir."
     }
   },
   {
     "@type": "Question",
-    "name": "Custom Software Development hangi avantajları sağlar?",
+    "name": "Custom Web Development hangi avantajları sağlar?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "İş süreçlerine tam uyum, yüksek performans, güvenlik, ölçeklenebilirlik ve uzun vadede maliyet avantajı sağlar."
+      "text": "İşletmenize özel tasarım, yüksek performans, SEO uyumluluğu, mobil uyumluluk ve ölçeklenebilirlik sağlar."
     }
   },
   {
     "@type": "Question",
-    "name": "Hangi sektörler özel yazılımdan faydalanabilir?",
+    "name": "Hangi sektörlerde kullanılabilir?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Kurumsal firmalar, turizm, e-ticaret, sağlık, eğitim ve hizmet sektörleri özel yazılımdan yararlanabilir."
+      "text": "E-ticaret, kurumsal şirketler, turizm, sağlık, eğitim ve hizmet sektörleri başta olmak üzere tüm dijital projelerde kullanılabilir."
     }
   },
   {
     "@type": "Question",
-    "name": "Custom Software Development süreci nasıl işler?",
+    "name": "Web geliştirme süreci nasıl işler?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "İhtiyaç analizi ve proje planlama, sistem tasarımı, yazılım geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarını içerir."
+      "text": "İhtiyaç analizi ve planlama, tasarım ve prototip, geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarını içerir."
     }
   }
  ]
@@ -81,12 +81,12 @@
 <div id="main-wrapper">
 <div class="site-wrapper-reveal">
 
-<div class="about-banner-wrap banner-space bg-img" data-bg="/images/services/canakkale-ozel-yazilim-gelistirme.webp">
+<div class="about-banner-wrap banner-space bg-img" data-bg="/images/services/canakkale-custom-web-development.webp">
 <div class="container">
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">Custom Software Development</h1>
+<h1 class="mb-15 text-white">Custom Web Development Servicesi</h1>
 <h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>
@@ -100,14 +100,14 @@
 <div class="row">
 <div class="col-lg-4">
 <div class="modern-number-01">
-<h3 class="heading mt-30">İşletmenize <span class="text-color-primary"> Özel <br> Yazılım Çözümleri</span></h3>
+<h3 class="heading mt-30">İşletmenize <span class="text-color-primary"> Özel <br> Web Çözümleri</span></h3>
 </div>
 </div>
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
-<h5 class="heading ">Kurumsal ve işletmeye özel <span class="text-color-primary"> yazılım geliştirme Servicesi</span> sunuyoruz. Web, mobil ve masaüstü yazılımlarınızı işletmenizin ihtiyaçlarına göre optimize ediyoruz.</h5>
+<h5 class="heading ">Modern ve performanslı <span class="text-color-primary"> Custom Web Development</span> Servicesi sunuyoruz. Kurumsal ve kişiye özel web siteleri ile dijital projelerinizi optimize ediyoruz.</h5>
 
-<div class="sub-heading">İş süreçlerinizi hızlandıracak ve verimliliği artıracak özel yazılım projeleri için bizimle iletişime geçin. Detaillı analiz ve danışmanlık hizmeti ile ihtiyaçlarınıza uygun çözümler üretiyoruz.</div>
+<div class="sub-heading">Web projeleriniz için özel tasarım ve geliştirme çözümleri ile hızlı, SEO uyumlu ve kullanıcı dostu web siteleri oluşturuyoruz. Projenize özel danışmanlık ve teknik destek sağlıyoruz.</div>
 </div>
 </div>
 </div>
@@ -128,7 +128,7 @@
 <div class="card-header" id="heading__10">
 <h5 class="mb-0 font-weight--bold">
 <button class="btn-link" data-bs-toggle="collapse" data-bs-target="#tab__10" aria-expanded="true" aria-controls="tab__10">
-Custom Software Development Nedir? <span>
+Custom Web Development Nedir? <span>
 <i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
@@ -136,7 +136,7 @@ Custom Software Development Nedir? <span>
 </div>
 <div id="tab__10" class="show" aria-labelledby="heading__10" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Custom Software Development, işletmenizin iş süreçlerine ve ihtiyaçlarına uygun olarak tasarlanmış, tamamen özelleştirilebilir yazılım çözümleridir. Standart paket yazılımlara göre daha performanslı ve güvenlidir.</p>
+<p>Custom Web Development, işletmenizin ihtiyaçlarına ve projelerinize özel, tamamen özelleştirilebilir web siteleri ve uygulamalar geliştirme sürecidir. Performans, güvenlik ve SEO odaklıdır.</p>
 </div>
 </div>
 </div>
@@ -153,7 +153,7 @@ Avantajları Nelerdir?<span>
 </div>
 <div id="collapse__11" class="collapse" aria-labelledby="heading__11" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Özel yazılım çözümleri, işletmenizin ihtiyaçlarına tam uyum sağlar, güvenlik ve performansı artırır, ölçeklenebilir yapısı ile büyüyen iş süreçlerine uyum sağlar ve uzun vadede maliyet avantajı sunar.</p>
+<p>Custom Web Development, tamamen kişiye veya kuruma özel tasarım ve işlevsellik sunar. Mobil uyumluluk, SEO optimizasyonu, yüksek hız ve güvenlik avantajları sağlar.</p>
 </div>
 </div>
 </div>
@@ -162,14 +162,14 @@ Avantajları Nelerdir?<span>
 <div class="card-header" id="heading__12">
 <h5 class="mb-0">
 <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__12" aria-expanded="false" aria-controls="collapse__12">
-Hangi Sektörlerde Kullanılır?<span><i class="fas fa-chevron-circle-down"></i>
+Hangi Sektörler Kullanabilir?<span><i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
 </h5>
 </div>
 <div id="collapse__12" class="collapse" aria-labelledby="heading__12" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Kurumsal firmalar, turizm, e-ticaret, sağlık, eğitim ve hizmet sektörleri Custom Software Development çözümlerinden yararlanabilir. İş süreçlerini dijitalleştirmek ve verimliliği artırmak isteyen tüm işletmeler için uygundur.</p>
+<p>E-ticaret, kurumsal şirketler, turizm, sağlık, eğitim ve hizmet sektörleri başta olmak üzere tüm işletmeler Custom Web Development Servicesinden faydalanabilir.</p>
 </div>
 </div>
 </div>
@@ -185,7 +185,7 @@ Geliştirme Süreci <span><i class="fas fa-chevron-circle-down"></i>
 </div>
 <div id="collapse__13" class="collapse" aria-labelledby="heading__13" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Custom Software Development süreci; ihtiyaç analizi ve planlama, sistem tasarımı, yazılım geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarını içerir. Böylece işletmenize en uygun çözüm sağlanır.</p>
+<p>Custom Web Development süreci; ihtiyaç analizi, tasarım ve prototip, geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarından oluşur. Böylece işletmenize en uygun web çözümü sağlanır.</p>
 </div>
 </div>
 </div>
@@ -195,7 +195,7 @@ Geliştirme Süreci <span><i class="fas fa-chevron-circle-down"></i>
 </div>
 
 <div class="col-lg-6">
-<img src="/images/services/ozel-yazilim-gelistirme.webp" alt="Custom Software Development" class="img-fluid">
+<img src="/images/services/custom-web-development.webp" alt="Custom Web Development" class="img-fluid">
 </div>
 
 </div>

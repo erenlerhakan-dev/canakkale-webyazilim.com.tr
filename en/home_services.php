@@ -25,7 +25,7 @@
 <div class="content">
 <h5 class="heading">Custom Web Development</h5>
 <div class="text">React, Angular, Laravel ve Django gibi modern teknolojileri kullanarak özel iş ihtiyaçlarınıza göre özel web uygulamaları oluşturuyoruz.</div>
-<div class="feature-btn"><a href="/en/services/ozel-web-gelistirme.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="feature-btn"><a href="/en/services/custom-web-development"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -40,7 +40,7 @@
 <div class="content">
 <h5 class="heading">CRM Systems</h5>
 <div class="text">Müşteri etkileşimlerinizi iyileştirmek ve satış verimliliğini artırmak için tasarlanmış özel Müşteri İlişkileri Yönetimi sistemleri.</div>
-<div class="feature-btn"><a href="/en/services/crm-sistemleri.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="feature-btn"><a href="/en/services/crm-systems"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -55,7 +55,7 @@
 <div class="content">
 <h5 class="heading">ERP Solutions</h5>
 <div class="text">İşletme operasyonlarınızın tüm yönlerini tek bir birleşik platforma entegre eden Kurumsal Kaynak Planlama sistemleri.</div>
-<div class="feature-btn"><a href="/en/services/erp-cozumleri.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="feature-btn"><a href="/en/services/erp-cozumleri"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -70,7 +70,7 @@
 <div class="content">
 <h5 class="heading">E-commerce Solutions</h5>
 <div class="text">Güvenli ödeme entegrasyonu, envanter yönetimi ve kullanıcı dostu alışveriş deneyimleri ile tam özellikli online mağazalar.</div>
-<div class="feature-btn"><a href="/en/services/e-ticaret-cozumleri.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="feature-btn"><a href="/en/services/e-commerce-solutions"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -85,7 +85,7 @@
 <div class="content">
 <h5 class="heading">Mobile Applications</h5>
 <div class="text">Olağanüstü kullanıcı deneyimleri sunan iOS ve Android için native ve cross-platform Mobile Applications.</div>
-<div class="feature-btn"><a href="/en/services/mobil-uygulamalar.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="feature-btn"><a href="/en/services/mobile-applications"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -100,7 +100,7 @@
 <div class="content">
 <h5 class="heading">Reservation Systems</h5>
 <div class="text">Oteller, restoranlar, Services ve etkinlik yönetimi için özel rezervasyon ve randevu sistemleri.</div>
-<div class="feature-btn"><a href="/en/services/rezervasyon-sistemleri.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="feature-btn"><a href="/en/services/reservation-systems"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -115,7 +115,7 @@
 <div class="content">
 <h5 class="heading">Custom Software Development</h5>
 <div class="text">Benzersiz iş zorluklarınızı ve gereksinimlerinizi ele almak için sıfırdan oluşturulmuş özel yazılım çözümleri.</div>
-<div class="feature-btn"><a href="/en/services/ozel-yazilim-gelistirme.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="feature-btn"><a href="/en/services/custom-software-development"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -130,7 +130,7 @@
 <div class="content">
 <h5 class="heading">B2B & B2C Solutions</h5>
 <div class="text">Gelişmiş özelliklerle işletmeden işletmeye ve işletmeden tüketiciye işlemler için özel platformlar.</div>
-<div class="feature-btn"><a href="/en/services/b2b-b2c-solutions.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="feature-btn"><a href="/en/services/b2b-b2c-solutions"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -145,7 +145,7 @@
 <div class="content">
 <h5 class="heading">API Development</h5>
 <div class="text">Farklı sistemler ve uygulamalar arasında sorunsuz entegrasyon sağlayan RESTful API'ler ve mikroservisler.</div>
-<div class="feature-btn"><a href="/en/services/api-development.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="feature-btn"><a href="/en/services/api-development"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -160,7 +160,7 @@
 <div class="content">
 <h5 class="heading">Server Security and Maintenance</h5>
 <div class="text">Uygulamalarınızın sorunsuz çalışmasını sağlamak için kapsamlı güvenlik denetimleri, düzenli güncellemeler ve sürekli bakım.</div>
-<div class="feature-btn"><a href="/en/services/sunucu-guvenligi-ve-bakimi.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="feature-btn"><a href="/en/services/server-security-and-maintenance"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -175,7 +175,7 @@
 <div class="content">
 <h5 class="heading">Software Performance Optimization</h5>
 <div class="text">Software Performance Optimization, kod yeniden düzenleme ve altyapı iyileştirmeleriyle mevcut uygulamalarınızı geliştirin.</div>
-<div class="feature-btn"><a href="/en/services/yazilim-performans-optimizasyonu.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="feature-btn"><a href="/en/services/software-performance-optimization"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -190,7 +190,7 @@
 <div class="content">
 <h5 class="heading">Technical Consulting</h5>
 <div class="text">Projeleriniz için teknoloji yığını seçimi, mimari tasarım ve en iyi uygulamalar konusunda uzman rehberlik.</div>
-<div class="feature-btn"><a href="/en/services/technical-consulting.php"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="feature-btn"><a href="/en/services/technical-consulting"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -203,7 +203,7 @@
 <div class="col-lg-12">
 <div class="feature-list-button-box mt-30 text-center">
 <a href="tel:+905347922531" class="ht-btn ht-btn-md">Destek Ekibimiz İle Konuşun</a>
-<a href="https://canakkale-webyazilim.com.tr/contact-us.php" class="ht-btn ht-btn-md ht-btn--outline">Bize Yazın</a>
+<a href="https://canakkale-webyazilim.com.tr/contact-us" class="ht-btn ht-btn-md ht-btn--outline">Bize Yazın</a>
 </div>
 </div>
 

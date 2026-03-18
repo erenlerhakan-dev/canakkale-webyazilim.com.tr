@@ -2,9 +2,9 @@
 <html class="no-js" lang="en" dir="ltr">
 
 <head>
-<title>Mobil Uygulama Geliştirme | iOS & Android Özel Uygulamalar</title>
-<meta name="description" content="Mobil uygulama geliştirme Servicesi ile iOS ve Android platformları için işletmenize özel uygulamalar oluşturun. Performanslı, güvenli ve kullanıcı dostu mobil çözümler.">
-<meta name="keywords" content="mobil uygulama geliştirme, iOS uygulama, Android uygulama, özel mobil uygulama, kurumsal mobil uygulama, mobil yazılım geliştirme">
+<title>E-commerce Solutions| Online Satış ve Dijital Mağaza Yönetimi</title>
+<meta name="description" content="E-commerce Solutionsile online mağazanızı kurun, satış süreçlerinizi yönetin ve dijital mağazanızı optimize edin. SEO uyumlu ve performanslı e-ticaret platformları.">
+<meta name="keywords" content="E-commerce Solutions, online mağaza, e-ticaret platformu, dijital mağaza yönetimi, e-ticaret sitesi, satış optimizasyonu">
 
 <?php include_once('../head_meta.php'); ?>
 
@@ -12,8 +12,8 @@
 {
  "@context": "https:/schema.org",
  "@type": "BlogPosting",
- "headline": "Mobil Uygulama Geliştirme",
- "description": "iOS ve Android platformlarına özel mobil uygulama geliştirme Servicesi ile işletmenize özel çözümler sunuyoruz.",
+ "headline": "E-commerce Solutionsile Online Satışınızı Büyütün",
+ "description": "Online satışlarınızı artırmak ve dijital mağazanızı optimize etmek için E-commerce Solutionssunuyoruz.",
  "author": {
    "@type": "Organization",
    "name": "IT Solutions"
@@ -24,7 +24,7 @@
  },
  "mainEntityOfPage": {
    "@type": "WebPage",
-   "@id": "https://www.canakkale-webyazilim.com.tr/en/services/mobil-uygulama-gelistirme.php"
+   "@id": "https://www.canakkale-webyazilim.com.tr/en/services/e-commerce-solutions.php"
  }
 }
 </script>
@@ -36,34 +36,34 @@
  "mainEntity": [
   {
     "@type": "Question",
-    "name": "Mobil uygulama geliştirme nedir?",
+    "name": "E-commerce Solutionsnedir?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Mobil uygulama geliştirme, iOS ve Android platformları için özel, performanslı ve kullanıcı dostu uygulamalar tasarlama ve geliştirme sürecidir."
+      "text": "E-commerce Solutions, işletmenizin online satış yapabilmesi için gerekli web platformları, ödeme sistemleri ve satış yönetimi araçlarını kapsayan yazılım ve Servicesdir."
     }
   },
   {
     "@type": "Question",
-    "name": "Hangi platformlar için geliştirme yapılır?",
+    "name": "Hangi özellikler sunulur?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "iOS, Android ve gerektiğinde çapraz platform (cross-platform) teknolojileri ile Mobile Applications geliştirilir."
+      "text": "SEO uyumlu ürün sayfaları, ödeme entegrasyonu, stok ve sipariş yönetimi, raporlama, kullanıcı deneyimi optimizasyonu ve mobil uyumlu tasarım sunulur."
     }
   },
   {
     "@type": "Question",
-    "name": "Mobil uygulama geliştirme avantajları nelerdir?",
+    "name": "E-commerce Solutionsnin avantajları nelerdir?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Kullanıcı deneyimi iyileşir, marka değeri artar, iş süreçleri dijitalleşir, veri toplama ve analiz daha etkin yapılabilir."
+      "text": "Online satışlarınızı artırır, süreçleri otomatikleştirir, müşteri deneyimini iyileştirir ve işletmenizin dijital görünürlüğünü yükseltir."
     }
   },
   {
     "@type": "Question",
-    "name": "Geliştirme süreci nasıl işler?",
+    "name": "Kurulum süreci nasıl işler?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "İhtiyaç analizi ve planlama, prototip ve tasarım, geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarından oluşur."
+      "text": "İhtiyaç analizi, tasarım ve prototip, platform geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarını içerir."
     }
   }
  ]
@@ -81,12 +81,12 @@
 <div id="main-wrapper">
 <div class="site-wrapper-reveal">
 
-<div class="about-banner-wrap banner-space bg-img" data-bg="/images/services/canakkale-mobil-uygulamalar.webp">
+<div class="about-banner-wrap banner-space bg-img" data-bg="/images/services/canakkale-e-commerce-solutions.webp">
 <div class="container">
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">Mobil Uygulama Geliştirme</h1>
+<h1 class="mb-15 text-white">E-commerce Solutions</h1>
 <h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>
@@ -100,14 +100,14 @@
 <div class="row">
 <div class="col-lg-4">
 <div class="modern-number-01">
-<h3 class="heading mt-30">İşletmeniz için <span class="text-color-primary"> Mobil <br> Uygulamalar</span></h3>
+<h3 class="heading mt-30">Online Satış İçin <span class="text-color-primary"> E-Ticaret <br> Çözümleri</span></h3>
 </div>
 </div>
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
-<h5 class="heading ">iOS ve Android platformlarına özel <span class="text-color-primary"> mobil uygulama geliştirme</span> Servicesi sunuyoruz. Uygulamalarınız kullanıcı dostu, performanslı ve güvenli bir şekilde tasarlanır.</h5>
+<h5 class="heading ">İşletmenizin dijital mağazasını oluşturmak için <span class="text-color-primary"> E-commerce Solutions</span> sunuyoruz. Online satışlarınızı kolayca yönetin ve optimize edin.</h5>
 
-<div class="sub-heading">İşletmenize özel Mobile Applications ile kullanıcı deneyimini artırın. Projeniz için Detaillı analiz, tasarım ve geliştirme süreçlerinde teknik destek sağlıyoruz.</div>
+<div class="sub-heading">E-ticaret platformları ile ürün yönetimi, ödeme entegrasyonu, kullanıcı deneyimi optimizasyonu ve performanslı satış süreçleri sağlıyoruz. Profesyonel danışmanlık ve destek ile yanınızdayız.</div>
 </div>
 </div>
 </div>
@@ -128,7 +128,7 @@
 <div class="card-header" id="heading__10">
 <h5 class="mb-0 font-weight--bold">
 <button class="btn-link" data-bs-toggle="collapse" data-bs-target="#tab__10" aria-expanded="true" aria-controls="tab__10">
-Mobil Uygulama Geliştirme Nedir? <span>
+E-commerce SolutionsNedir? <span>
 <i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
@@ -136,7 +136,7 @@ Mobil Uygulama Geliştirme Nedir? <span>
 </div>
 <div id="tab__10" class="show" aria-labelledby="heading__10" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Mobil uygulama geliştirme, işletmelere özel iOS ve Android platformları için tasarlanan performanslı ve kullanıcı dostu uygulamaları kapsar. Uygulamalar tamamen işletme ihtiyaçlarına göre optimize edilir.</p>
+<p>E-commerce Solutions, işletmenizin online satış yapabilmesi için gerekli platformları, ödeme sistemlerini ve satış yönetimi araçlarını kapsayan yazılım ve Servicesdir.</p>
 </div>
 </div>
 </div>
@@ -153,7 +153,7 @@ Avantajları Nelerdir?<span>
 </div>
 <div id="collapse__11" class="collapse" aria-labelledby="heading__11" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Mobile Applications işletmenizin dijital görünürlüğünü artırır, kullanıcı deneyimini iyileştirir ve iş süreçlerini daha etkin yönetmenizi sağlar. Ayrıca veri toplama ve analiz süreçlerini kolaylaştırır.</p>
+<p>E-commerce Solutionsonline satışlarınızı artırır, iş süreçlerinizi otomatikleştirir, müşteri deneyimini iyileştirir ve işletmenizin dijital görünürlüğünü artırır.</p>
 </div>
 </div>
 </div>
@@ -162,14 +162,14 @@ Avantajları Nelerdir?<span>
 <div class="card-header" id="heading__12">
 <h5 class="mb-0">
 <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__12" aria-expanded="false" aria-controls="collapse__12">
-Hangi Platformlar Desteklenir?<span><i class="fas fa-chevron-circle-down"></i>
+Hangi Özellikler Sunulur?<span><i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
 </h5>
 </div>
 <div id="collapse__12" class="collapse" aria-labelledby="heading__12" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Mobil uygulama geliştirme iOS, Android ve cross-platform çözümlerle sunulur. İhtiyaçlara göre native veya hibrit uygulamalar tasarlanabilir.</p>
+<p>SEO uyumlu ürün sayfaları, ödeme entegrasyonu, stok ve sipariş yönetimi, raporlama, kullanıcı deneyimi optimizasyonu ve mobil uyumlu tasarım sunulur.</p>
 </div>
 </div>
 </div>
@@ -178,14 +178,14 @@ Hangi Platformlar Desteklenir?<span><i class="fas fa-chevron-circle-down"></i>
 <div class="card-header" id="heading__13">
 <h5 class="mb-0">
 <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__13" aria-expanded="false" aria-controls="collapse__13">
-Geliştirme Süreci <span><i class="fas fa-chevron-circle-down"></i>
+Kurulum Süreci <span><i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
 </h5>
 </div>
 <div id="collapse__13" class="collapse" aria-labelledby="heading__13" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Geliştirme süreci, analiz ve planlama, tasarım ve prototip, uygulama geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarını içerir. Böylece işletmenize uygun mobil çözüm sağlanır.</p>
+<p>Kurulum süreci; ihtiyaç analizi, tasarım ve prototip, platform geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarını içerir.</p>
 </div>
 </div>
 </div>
@@ -195,7 +195,7 @@ Geliştirme Süreci <span><i class="fas fa-chevron-circle-down"></i>
 </div>
 
 <div class="col-lg-6">
-<img src="/images/services/mobil-uygulamalar.webp" alt="Mobil Uygulama Geliştirme" class="img-fluid">
+<img src="/images/services/e-commerce-solutions.webp" alt="E-commerce Solutions" class="img-fluid">
 </div>
 
 </div>
