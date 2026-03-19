@@ -15,7 +15,6 @@
 </div>
 
 <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
-<h6 class="footer-widget__title mb-20">...</h6>
 <ul class="footer-widget__list">
 <li><a href="https://www.canakkale-webyazilim.com.tr/en/" class="hover-style-link">Home</a></li>
 <li><a href="https://www.canakkale-webyazilim.com.tr/en/about-us" class="hover-style-link">About Us</a></li>
@@ -26,7 +25,6 @@
 </div>
 
 <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
-<h6 class="footer-widget__title mb-20">...</h6>
 <ul class="footer-widget__list">
 <li><a href="https://www.canakkale-webyazilim.com.tr/en/services/custom-web-development" class="hover-style-link">Custom Web Development</a></li>
 <li><a href="https://www.canakkale-webyazilim.com.tr/en/services/crm-systems" class="hover-style-link">CRM Systems</a></li>
@@ -37,7 +35,6 @@
 </ul>
 </div>
 <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
-<h6 class="footer-widget__title mb-20">...</h6>
 <ul class="footer-widget__list">
 <li><a href="https://www.canakkale-webyazilim.com.tr/en/services/custom-software-development" class="hover-style-link">Custom Software Development</a></li>
 <li><a href="https://www.canakkale-webyazilim.com.tr/en/services/b2b-b2c-solutions" class="hover-style-link">B2B & B2C Solutions</a></li>

@@ -15,7 +15,6 @@
 </div>
 
 <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
-<h6 class="footer-widget__title mb-20">&nbsp;</h6>
 <ul class="footer-widget__list">
 <li><a href="https://www.canakkale-webyazilim.com.tr/" class="hover-style-link">Ana Sayfa</a></li>
 <li><a href="https://www.canakkale-webyazilim.com.tr/hakkimizda" class="hover-style-link">Hakkımızda</a></li>
@@ -26,7 +25,6 @@
 </div>
 
 <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
-<h6 class="footer-widget__title mb-20">&nbsp;</h6>
 <ul class="footer-widget__list">
 <li><a href="/hizmetlerimiz/ozel-web-gelistirme" class="hover-style-link">Özel Web Geliştirme</a></li>
 <li><a href="/hizmetlerimiz/crm-sistemleri" class="hover-style-link">CRM Sistemleri</a></li>
@@ -37,7 +35,6 @@
 </ul>
 </div>
 <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
-<h6 class="footer-widget__title mb-20">&nbsp;</h6>
 <ul class="footer-widget__list">
 <li><a href="/hizmetlerimiz/ozel-yazilim-gelistirme" class="hover-style-link">Özel Yazılım Geliştirme</a></li>
 <li><a href="/hizmetlerimiz/b2b-ve-b2c-cozumleri" class="hover-style-link">B2B & B2C Çözümleri</a></li>
@@ -49,7 +46,6 @@
 </div>
 
 <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
-<h6 class="footer-widget__title mb-20">&nbsp;</h6>
 <img src="/images/cozumcloudqrcode.png" alt="Çözüm Cloud QR Code" class="img-fluid">
 </div>
 
