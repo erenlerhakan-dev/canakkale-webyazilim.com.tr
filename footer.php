@@ -49,6 +49,7 @@
 </div>
 
 <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
+<h6 class="footer-widget__title mb-20">...</h6>
 <img src="/images/cozumcloudqrcode.png" alt="Çözüm Cloud QR Code" class="img-fluid">
 </div>
 
@@ -57,7 +58,6 @@
 </div>
 
 <div class="footer-copyright-area section-space--pb_30">
-<h6 class="footer-widget__title mb-20">...</h6>
 <div class="container">
 <div class="row align-items-center">
 
