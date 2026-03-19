@@ -19,3 +19,4 @@
 <script src="/assets/js/plugins/some-plugins.js"></script>
 <script src="/assets/js/main.js"></script>
 <script src="/assets/js/jquery.nice-select.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.js"></script>

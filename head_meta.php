@@ -14,6 +14,7 @@
 <link rel="stylesheet" href="/assets/css/plugins/lightgallery.min.css">
 <link rel="stylesheet" href="/assets/css/style.css">
 <link rel="stylesheet" href="/assets/css/nice-select.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.css">
 
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.canakkale-webyazilim.com.tr/images/cozum-cloud-logo.png">
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.canakkale-webyazilim.com.tr/images/cozum-cloud-logo.png">

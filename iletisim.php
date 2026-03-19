@@ -50,7 +50,7 @@
 
 <h4>Bize Mesaj Gönderin</h4>
 
-<form id="contact-form">
+<form id="contact-form" method="POST">
 
 <div class="contact-form">
 
@@ -77,7 +77,7 @@
 </div>
 
 <div class="submit-btn mt-20">
-<button class="ht-btn ht-btn-md" type="submit" id="contact_button">Mesaj Gönder</button>
+<button class="ht-btn ht-btn-md" type="button" id="contact_button">Mesaj Gönder</button>
 </div>
 
 </form>
