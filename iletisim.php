@@ -50,7 +50,7 @@
 
 <h4>Bize Mesaj Gönderin</h4>
 
-<form id="contact-form" method="POST">
+<form id="contact_form" method="POST">
 
 <div class="contact-form">
 
@@ -145,10 +145,10 @@ $("#contact_button").click(function() {
 $.ajax({
 url: "/send_contact",
 type: 'POST',
-data: $('#contact-form').serialize(),
+data: $('#contact_form').serialize(),
 success: function(response){ 
 if (response === "ok") { swal(" ", "Teşekkürler. Mesajınız iletildi. En kısa sürede size dönüş yapacağız.", "success");
-$("#contact-form")[0].reset();
+$("#contact_form")[0].reset();
 $("#contact_button").attr("disabled", true);
 } 
 if (response === "name") { swal(" ", "Lütfen adınızı yazın.", "warning"); }
