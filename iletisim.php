@@ -143,7 +143,7 @@
 $("#contact_button").click(function() {
 
 $.ajax({
-url: "/send_contact.php",
+url: "/send_contact",
 type: 'POST',
 data: $('#contact-form').serialize(),
 success: function(response){ 
