@@ -77,7 +77,7 @@
 </div>
 
 <div class="submit-btn mt-20">
-<button class="ht-btn ht-btn-md" type="submit">Mesaj Gönder</button>
+<button class="ht-btn ht-btn-md" type="submit" id="contact_button">Mesaj Gönder</button>
 </div>
 
 </form>
@@ -138,6 +138,31 @@
 <?php include_once('mobile_menu.php'); ?>
 
 <?php include_once('footer_scripts.php'); ?>
+
+<script>
+$("#contact_button").click(function() {
+
+$.ajax({
+url: "/send_contact.php",
+type: 'POST',
+data: $('#contact-form').serialize(),
+success: function(response){ 
+if (response === "ok") { swal(" ", "Teşekkürler. Mesajınız iletildi. En kısa sürede size dönüş yapacağız.", "success");
+$("#contact-form")[0].reset();
+$("#contact_button").attr("disabled", true);
+} 
+if (response === "name") { swal(" ", "Lütfen adınızı yazın.", "warning"); }
+if (response === "emailbad") { swal(" ", "Email adresiniz hatalı. Lütfen kontrol edip tekrar deneyin.", "warning"); }
+if (response === "email") { swal(" ", "Lütfen email adresinizi yazın.", "warning"); }
+if (response === "phone") { swal(" ", "Lütfen telefon numaranızı yazın.", "warning"); }
+if (response === "message") { swal(" ", "Lütfen mesajınızı yazın.", "warning"); }
+if (response === "message_short") { swal(" ", "Lütfen daha açıklayıcı bir mesaj yazın.", "warning"); }
+if (response === "nok") { swal(" ", "Bir hata oluştu. Lütfen sayfayı yenileyip tekrar deneyin.", "warning"); } }
+if (response === "bad") { swal(" ", "Bir hata oluştu. Lütfen sayfayı yenileyip tekrar deneyin.", "warning"); } }
+});
+
+});
+</script>
 
 </body>
 
