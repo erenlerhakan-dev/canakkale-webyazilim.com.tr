@@ -66,21 +66,22 @@ $a4     = "İhtiyaç analizi ve planlama, prototip ve tasarım, geliştirme, tes
 <div class="container">
 <div class="cybersecurity-about-box">
 <div class="row">
+
 <div class="col-lg-4">
 <div class="modern-number-01">
 <h3 class="heading mt-30">İşletmeniz için <span class="text-color-primary"> Mobil <br> Uygulamalar</span></h3>
 </div>
 </div>
+
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
 <h5 class="heading ">iOS ve Android platformlarına özel <span class="text-color-primary"> mobil uygulama geliştirme</span> hizmetleri sunuyoruz. Uygulamalarınız kullanıcı dostu, performanslı ve güvenli bir şekilde tasarlanır.</h5>
-
 <div class="sub-heading">İşletmenize özel mobil uygulamalar ile kullanıcı deneyimini artırın. Projeniz için detaylı analiz, tasarım ve geliştirme süreçlerinde teknik destek sağlıyoruz.</div>
 </div>
 </div>
-</div>
-</div>
 
+</div>
+</div>
 </div>
 </div>
 

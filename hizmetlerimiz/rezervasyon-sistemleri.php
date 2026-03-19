@@ -66,21 +66,22 @@ $a4     = "Online booking sistemi müşterilerin 7/24 rezervasyon yapmasını sa
 <div class="container">
 <div class="cybersecurity-about-box">
 <div class="row">
+
 <div class="col-lg-4">
 <div class="modern-number-01">
 <h3 class="heading mt-30">Modern <span class="text-color-primary"> Rezervasyon <br> Sistemleri</span></h3>
 </div>
 </div>
+
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
 <h5 class="heading ">İşletmeler için gelişmiş <span class="text-color-primary"> online rezervasyon sistemleri</span> geliştiriyoruz. Turizm, otelcilik, restoran ve hizmet sektörleri için modern booking yazılım çözümleri sunuyoruz.</h5>
-
 <div class="sub-heading">Rezervasyon yazılımları sayesinde müşterileriniz internet üzerinden hızlı ve kolay şekilde rezervasyon yapabilir. Otomatik rezervasyon yönetimi ile işletmenizin operasyon süreçlerini daha verimli hale getirebilirsiniz.</div>
 </div>
 </div>
-</div>
-</div>
 
+</div>
+</div>
 </div>
 </div>
 

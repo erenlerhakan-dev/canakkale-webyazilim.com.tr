@@ -66,21 +66,22 @@ $a4     = "İhtiyaç analizi ve proje planlama, sistem tasarımı, yazılım gel
 <div class="container">
 <div class="cybersecurity-about-box">
 <div class="row">
+
 <div class="col-lg-4">
 <div class="modern-number-01">
 <h3 class="heading mt-30">İşletmenize <span class="text-color-primary"> Özel <br> Yazılım Çözümleri</span></h3>
 </div>
 </div>
+
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
 <h5 class="heading ">Kurumsal ve işletmeye özel <span class="text-color-primary"> yazılım geliştirme hizmetleri</span> sunuyoruz. Web, mobil ve masaüstü yazılımlarınızı işletmenizin ihtiyaçlarına göre optimize ediyoruz.</h5>
-
 <div class="sub-heading">İş süreçlerinizi hızlandıracak ve verimliliği artıracak özel yazılım projeleri için bizimle iletişime geçin. Detaylı analiz ve danışmanlık hizmeti ile ihtiyaçlarınıza uygun çözümler üretiyoruz.</div>
 </div>
 </div>
-</div>
-</div>
 
+</div>
+</div>
 </div>
 </div>
 

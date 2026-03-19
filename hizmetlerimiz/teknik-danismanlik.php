@@ -66,21 +66,22 @@ $a4     = "Yazılım danışmanlığı, sistem mimarisi, API entegrasyonları, p
 <div class="container">
 <div class="cybersecurity-about-box">
 <div class="row">
+
 <div class="col-lg-4">
 <div class="modern-number-01">
 <h3 class="heading mt-30">Profesyonel <span class="text-color-primary"> Teknik <br> Danışmanlık</span></h3>
 </div>
 </div>
+
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
 <h5 class="heading ">İşletmeler için kapsamlı <span class="text-color-primary"> yazılım, server, hosting ve bilişim danışmanlığı</span> hizmetleri sunuyoruz. Dijital altyapınızı güvenli, hızlı ve ölçeklenebilir hale getirmenize yardımcı oluyoruz.</h5>
-
 <div class="sub-heading">Teknik danışmanlık hizmetleri sayesinde yazılım projelerinizin doğru mimari ile geliştirilmesini sağlayabilir, server altyapınızı optimize edebilir ve hosting performansınızı artırabilirsiniz. Projeniz için detaylı analiz ve değerlendirme hizmeti almak için bizimle iletişime geçebilirsiniz.</div>
 </div>
 </div>
-</div>
-</div>
 
+</div>
+</div>
 </div>
 </div>
 

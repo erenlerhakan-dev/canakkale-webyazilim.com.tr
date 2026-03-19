@@ -66,21 +66,22 @@ $a4     = "Evet, hızlı çalışan web uygulamaları ve web siteleri arama moto
 <div class="container">
 <div class="cybersecurity-about-box">
 <div class="row">
+
 <div class="col-lg-4">
 <div class="modern-number-01">
 <h3 class="heading mt-30">Yazılım <span class="text-color-primary"> Performans <br> Optimizasyonu</span></h3>
 </div>
 </div>
+
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
 <h5 class="heading ">Modern uygulamalar için <span class="text-color-primary"> yazılım performans optimizasyonu</span> hizmetleri sunuyoruz. Kod yapısı, veritabanı sorguları ve sistem altyapısı üzerinde yapılan iyileştirmeler sayesinde uygulamalarınızı daha hızlı ve verimli hale getiriyoruz.</h5>
-
 <div class="sub-heading">Performans optimizasyonu sayesinde web uygulamaları ve yazılım sistemleri daha stabil çalışır, kullanıcı deneyimi artar ve sistem kaynakları daha verimli kullanılır. Projeniz için detaylı performans analizi ve optimizasyon çözümleri sunuyoruz.</div>
 </div>
 </div>
-</div>
-</div>
 
+</div>
+</div>
 </div>
 </div>
 

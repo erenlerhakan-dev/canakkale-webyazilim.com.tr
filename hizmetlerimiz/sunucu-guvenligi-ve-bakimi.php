@@ -66,21 +66,22 @@ $a4     = "Bakım süreci; sunucu analizi, güncellemelerin uygulanması, perfor
 <div class="container">
 <div class="cybersecurity-about-box">
 <div class="row">
+
 <div class="col-lg-4">
 <div class="modern-number-01">
 <h3 class="heading mt-30">Sunucularınız için <span class="text-color-primary"> Güvenlik ve <br> Bakım</span></h3>
 </div>
 </div>
+
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
 <h5 class="heading ">Sunucularınızın güvenliği ve performansı için <span class="text-color-primary"> profesyonel bakım ve yönetim hizmetleri</span> sunuyoruz.</h5>
-
 <div class="sub-heading">Server güvenliği, bakım ve optimizasyon süreçleri ile sunucularınız kesintisiz ve güvenli çalışır. 7/24 teknik destek ile altyapınızı kontrol altında tutuyoruz.</div>
 </div>
 </div>
-</div>
-</div>
 
+</div>
+</div>
 </div>
 </div>
 

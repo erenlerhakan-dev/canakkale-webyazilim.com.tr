@@ -66,21 +66,22 @@ $a4     = "Bulut tabanlı CRM sistemleri internet üzerinden çalışan ve herha
 <div class="container">
 <div class="cybersecurity-about-box">
 <div class="row">
+
 <div class="col-lg-4">
 <div class="modern-number-01">
 <h3 class="heading mt-30">Modern <span class="text-color-primary"> CRM <br> Sistemleri</span></h3>
 </div>
 </div>
+
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
 <h5 class="heading ">İşletmeler için gelişmiş <span class="text-color-primary"> CRM sistemleri</span> geliştiriyoruz. Müşteri ilişkilerini yönetmenizi sağlayan yazılım çözümleri ile satış, pazarlama ve müşteri hizmetleri süreçlerinizi daha verimli hale getiriyoruz.</h5>
-
 <div class="sub-heading">CRM yazılım çözümleri sayesinde müşteri verilerinizi tek bir platformda yönetebilir, satış fırsatlarını takip edebilir ve işletmenizin büyümesini destekleyebilirsiniz. Detaylı analiz ve sistem planlaması için bizimle iletişime geçebilirsiniz.</div>
 </div>
 </div>
-</div>
-</div>
 
+</div>
+</div>
 </div>
 </div>
 
