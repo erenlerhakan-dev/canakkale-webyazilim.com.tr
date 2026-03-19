@@ -8,9 +8,18 @@ $twdesc = "Sunucularınızı güvenli ve sorunsuz çalışır hale getirin! Güv
 $cat    = "Sunucu, Web Yazılım";
 $lang   = "tr_TR";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-sunucu-guvenligi-ve-bakimi.webp";
+$img2   = "https://www.canakkale-webyazilim.com.tr/images/services/sunucu-guvenligi-ve-bakimi.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/sunucu-guvenligi-ve-bakimi";
 $keys   = "sunucu güvenliği, server bakımı, server yönetimi, sunucu optimizasyonu, IT bakım hizmeti, sunucu güvenlik çözümleri";
 $alt    = "sunucu güvenliği ve bakımı";
+$q1     = "Sunucu güvenliği nedir?";
+$q2     = "Sunucu bakımı neden önemlidir?";
+$q3     = "Hangi hizmetleri sunuyorsunuz?";
+$q4     = "Sunucu bakımı süreci nasıl işler?";
+$a1     = "Sunucu güvenliği, sunucularınızın yetkisiz erişimlerden korunması, veri kaybının önlenmesi ve güvenli bir altyapının sağlanması için yapılan tüm önlemleri kapsar.";
+$a2     = "Sunucu bakımı, performansın yüksek tutulması, hataların önlenmesi, güvenlik açıklarının kapatılması ve kesintisiz hizmet sağlanması açısından kritik öneme sahiptir.";
+$a3     = "Sunucu güvenliği, yazılım ve donanım güncellemeleri, performans optimizasyonu, veri yedekleme, firewall yönetimi ve 7/24 teknik destek hizmetleri sunuyoruz.";
+$a4     = "Bakım süreci; sunucu analizi, güncellemelerin uygulanması, performans optimizasyonu, güvenlik önlemleri, düzenli testler ve raporlama adımlarını içerir.";
 ?>
 
 <!DOCTYPE html>
@@ -21,50 +30,13 @@ $alt    = "sunucu güvenliği ve bakımı";
 <meta name="description" content="<?php echo $desc1; ?>">
 <meta name="keywords" content="<?php echo $keys; ?>">
 
+<?php include('meta.php'); ?>
+
 <?php include_once('../head_meta.php'); ?>
 
 <?php include('schema.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [
-  {
-    "@type": "Question",
-    "name": "Sunucu güvenliği nedir?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sunucu güvenliği, sunucularınızın yetkisiz erişimlerden korunması, veri kaybının önlenmesi ve güvenli bir altyapının sağlanması için yapılan tüm önlemleri kapsar."
-    }
-  },
-  {
-    "@type": "Question",
-    "name": "Sunucu bakımı neden önemlidir?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sunucu bakımı, performansın yüksek tutulması, hataların önlenmesi, güvenlik açıklarının kapatılması ve kesintisiz hizmet sağlanması açısından kritik öneme sahiptir."
-    }
-  },
-  {
-    "@type": "Question",
-    "name": "Hangi hizmetleri sunuyorsunuz?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sunucu güvenliği, yazılım ve donanım güncellemeleri, performans optimizasyonu, veri yedekleme, firewall yönetimi ve 7/24 teknik destek hizmetleri sunuyoruz."
-    }
-  },
-  {
-    "@type": "Question",
-    "name": "Sunucu bakımı süreci nasıl işler?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Bakım süreci; sunucu analizi, güncellemelerin uygulanması, performans optimizasyonu, güvenlik önlemleri, düzenli testler ve raporlama adımlarını içerir."
-    }
-  }
- ]
-}
-</script>
+<?php include('schema_faq.php'); ?>
 
 </head>
 
@@ -77,12 +49,12 @@ $alt    = "sunucu güvenliği ve bakımı";
 <div id="main-wrapper">
 <div class="site-wrapper-reveal">
 
-<div class="about-banner-wrap banner-space bg-img" data-bg="/images/services/canakkale-sunucu-guvenligi-ve-bakimi.webp">
+<div class="about-banner-wrap banner-space bg-img" data-bg="<?php echo $img; ?>">
 <div class="container">
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">Sunucu Güvenliği ve Bakımı</h1>
+<h1 class="mb-15 text-white"><?php echo $name; ?></h1>
 <h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>
@@ -191,7 +163,7 @@ Bakım Süreci Nasıl İşler? <span><i class="fas fa-chevron-circle-down"></i>
 </div>
 
 <div class="col-lg-6">
-<img src="/images/services/sunucu-guvenligi-ve-bakimi.webp" alt="Sunucu Güvenliği ve Bakımı" class="img-fluid">
+<img src="<?php echo $img2; ?>" alt="<?php echo $alt; ?>" class="img-fluid">
 </div>
 
 </div>

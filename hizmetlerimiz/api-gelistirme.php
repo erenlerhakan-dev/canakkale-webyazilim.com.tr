@@ -8,9 +8,18 @@ $twdesc = "API’nizi modern teknolojilerle geliştirin! Güvenli ve ölçeklene
 $cat    = "API, Web Yazılım";
 $lang   = "tr_TR";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-api-gelistirme.webp";
+$img2   = "https://www.canakkale-webyazilim.com.tr/images/services/api-gelistirme.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/api-gelistirme";
 $keys   = "API geliştirme, REST API geliştirme, web API geliştirme, yazılım entegrasyonu, API servisleri, backend API geliştirme";
 $alt    = "api geliştirme";
+$q1     = "API geliştirme nedir?";
+$q2     = "REST API neden kullanılır?";
+$q3     = "API güvenliği nasıl sağlanır?";
+$q4     = "API entegrasyonu işletmelere ne kazandırır?";
+$a1     = "API geliştirme, farklı yazılım sistemlerinin birbiriyle iletişim kurmasını sağlayan arayüzlerin oluşturulması sürecidir.";
+$a2     = "REST API, hızlı, ölçeklenebilir ve esnek bir yapı sunduğu için modern web ve mobil uygulamalarda en çok tercih edilen API mimarisidir.";
+$a3     = "API güvenliği için kimlik doğrulama, yetkilendirme, veri şifreleme ve güvenli erişim protokolleri kullanılır.";
+$a4     = "API entegrasyonu sayesinde farklı yazılımlar arasında veri akışı sağlanır, süreçler otomatikleşir ve işletmeler daha verimli çalışabilir.";
 ?>
 
 <!DOCTYPE html>
@@ -21,45 +30,13 @@ $alt    = "api geliştirme";
 <meta name="description" content="<?php echo $desc1; ?>">
 <meta name="keywords" content="<?php echo $keys; ?>">
 
+<?php include('meta.php'); ?>
+
 <?php include_once('../head_meta.php'); ?>
 
 <?php include('schema.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [{
- "@type": "Question",
- "name": "API geliştirme nedir?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "API geliştirme, farklı yazılım sistemlerinin birbiriyle iletişim kurmasını sağlayan arayüzlerin oluşturulması sürecidir."
- }
- },{
- "@type": "Question",
- "name": "REST API neden kullanılır?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "REST API, hızlı, ölçeklenebilir ve esnek bir yapı sunduğu için modern web ve mobil uygulamalarda en çok tercih edilen API mimarisidir."
- }
- },{
- "@type": "Question",
- "name": "API güvenliği nasıl sağlanır?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "API güvenliği için kimlik doğrulama, yetkilendirme, veri şifreleme ve güvenli erişim protokolleri kullanılır."
- }
- },{
- "@type": "Question",
- "name": "API entegrasyonu işletmelere ne kazandırır?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "API entegrasyonu sayesinde farklı yazılımlar arasında veri akışı sağlanır, süreçler otomatikleşir ve işletmeler daha verimli çalışabilir."
- }
- }]
-}
-</script>
+<?php include('schema_faq.php'); ?>
 
 </head>
 
@@ -72,12 +49,12 @@ $alt    = "api geliştirme";
 <div id="main-wrapper">
 <div class="site-wrapper-reveal">
 
-<div class="about-banner-wrap banner-space bg-img" data-bg="/images/services/canakkale-api-gelistirme.webp">
+<div class="about-banner-wrap banner-space bg-img" data-bg="<?php echo $img; ?>">
 <div class="container">
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">API Geliştirme Hizmetleri</h1>
+<h1 class="mb-15 text-white"><?php echo $name; ?></h1>
 <h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>
@@ -186,7 +163,7 @@ API Entegrasyonunun Avantajları <span><i class="fas fa-chevron-circle-down"></i
 </div>
 
 <div class="col-lg-6">
-<img src="/images/services/api-gelistirme.webp" alt="API Geliştirme Hizmetleri" class="img-fluid">
+<img src="<?php echo $img2; ?>" alt="<?php echo $alt; ?>" class="img-fluid">
 </div>
 
 </div>

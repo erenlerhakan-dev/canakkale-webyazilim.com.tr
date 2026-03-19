@@ -8,9 +8,18 @@ $twdesc = "Rezervasyon süreçlerinizi modernize edin! Güvenli ve kullanıcı d
 $cat    = "Web Yazılım, Rezervasyon";
 $lang   = "tr_TR";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-rezervasyon-sistemleri.webp";
+$img2   = "https://www.canakkale-webyazilim.com.tr/images/services/rezervasyon-sistemleri.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/rezervasyon-sistemleri";
 $keys   = "rezervasyon sistemi, online rezervasyon yazılımı, booking sistemi, randevu sistemi, tur rezervasyon sistemi, otel rezervasyon yazılımı";
 $alt    = "rezervasyon sistemleri";
+$q1     = "Rezervasyon sistemi nedir?";
+$q2     = "Online rezervasyon sistemi hangi sektörlerde kullanılır?";
+$q3     = "Rezervasyon yazılımı işletmelere ne kazandırır?";
+$q4     = "Online booking sistemi neden önemlidir?";
+$a1     = "Rezervasyon sistemi, müşterilerin internet üzerinden hizmet veya ürün için rezervasyon yapmasını sağlayan yazılım sistemidir.";
+$a2     = "Online rezervasyon sistemleri otel, turizm, restoran, araç kiralama, sağlık ve etkinlik organizasyonları gibi birçok sektörde kullanılmaktadır.";
+$a3     = "Rezervasyon yazılımları işletmelerin booking süreçlerini otomatikleştirir, müşteri deneyimini geliştirir ve rezervasyon yönetimini kolaylaştırır.";
+$a4     = "Online booking sistemi müşterilerin 7/24 rezervasyon yapmasını sağlar ve işletmelerin daha fazla müşteriye ulaşmasına yardımcı olur.";
 ?>
 
 <!DOCTYPE html>
@@ -21,45 +30,13 @@ $alt    = "rezervasyon sistemleri";
 <meta name="description" content="<?php echo $desc1; ?>">
 <meta name="keywords" content="<?php echo $keys; ?>">
 
+<?php include('meta.php'); ?>
+
 <?php include_once('../head_meta.php'); ?>
 
 <?php include('schema.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [{
- "@type": "Question",
- "name": "Rezervasyon sistemi nedir?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Rezervasyon sistemi, müşterilerin internet üzerinden hizmet veya ürün için rezervasyon yapmasını sağlayan yazılım sistemidir."
- }
- },{
- "@type": "Question",
- "name": "Online rezervasyon sistemi hangi sektörlerde kullanılır?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Online rezervasyon sistemleri otel, turizm, restoran, araç kiralama, sağlık ve etkinlik organizasyonları gibi birçok sektörde kullanılmaktadır."
- }
- },{
- "@type": "Question",
- "name": "Rezervasyon yazılımı işletmelere ne kazandırır?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Rezervasyon yazılımları işletmelerin booking süreçlerini otomatikleştirir, müşteri deneyimini geliştirir ve rezervasyon yönetimini kolaylaştırır."
- }
- },{
- "@type": "Question",
- "name": "Online booking sistemi neden önemlidir?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Online booking sistemi müşterilerin 7/24 rezervasyon yapmasını sağlar ve işletmelerin daha fazla müşteriye ulaşmasına yardımcı olur."
- }
- }]
-}
-</script>
+<?php include('schema_faq.php'); ?>
 
 </head>
 
@@ -72,12 +49,12 @@ $alt    = "rezervasyon sistemleri";
 <div id="main-wrapper">
 <div class="site-wrapper-reveal">
 
-<div class="about-banner-wrap banner-space bg-img" data-bg="/images/services/canakkale-rezervasyon-sistemleri.webp">
+<div class="about-banner-wrap banner-space bg-img" data-bg="<?php echo $img; ?>">
 <div class="container">
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">Rezervasyon Sistemleri</h1>
+<h1 class="mb-15 text-white"><?php echo $name; ?></h1>
 <h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>
@@ -186,7 +163,7 @@ Rezervasyon Yazılımı Hangi Sektörlerde Kullanılır? <span><i class="fas fa-
 </div>
 
 <div class="col-lg-6">
-<img src="/images/services/rezervasyon-sistemleri.webp" alt="Rezervasyon Sistemleri" class="img-fluid">
+<img src="<?php echo $img2; ?>" alt="<?php echo $alt; ?>" class="img-fluid">
 </div>
 
 </div>

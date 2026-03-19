@@ -8,9 +8,18 @@ $twdesc = "B2B ve B2C projelerinizi güçlendirin! İşletmenize özel web çöz
 $cat    = "B2B, B2C";
 $lang   = "tr_TR";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-b2b-ve-b2c-cozumleri.webp";
+$img2   = "https://www.canakkale-webyazilim.com.tr/images/services/b2b-ve-b2c-cozumleri.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/b2b-ve-b2c-cozumleri";
 $keys   = "B2B çözümleri, B2C çözümleri, dijital ticaret platformu, e-ticaret yazılımı, B2B e-ticaret sistemi, B2C satış platformu";
 $alt    = "b2b ve b2c çözümleri";
+$q1     = "B2B çözümleri nedir?";
+$q2     = "B2C çözümleri nedir?";
+$q3     = "B2B ve B2C sistemleri arasındaki fark nedir?";
+$q4     = "B2B ve B2C yazılımları neden önemlidir?";
+$a1     = "B2B çözümleri, işletmelerin diğer işletmelerle dijital ortamda ticaret yapmasını sağlayan yazılım ve platform çözümleridir.";
+$a2     = "B2C çözümleri, işletmelerin ürün veya hizmetlerini doğrudan son kullanıcıya satmasını sağlayan e-ticaret ve dijital satış platformlarıdır.";
+$a3     = "B2B sistemleri işletmeler arası ticareti kapsarken B2C sistemleri doğrudan tüketicilere satış yapılmasını sağlar.";
+$a4     = "Bu yazılımlar satış süreçlerini dijitalleştirir, müşteri deneyimini artırır ve işletmelerin daha geniş pazarlara ulaşmasını sağlar.";
 ?>
 
 <!DOCTYPE html>
@@ -21,45 +30,13 @@ $alt    = "b2b ve b2c çözümleri";
 <meta name="description" content="<?php echo $desc1; ?>">
 <meta name="keywords" content="<?php echo $keys; ?>">
 
+<?php include('meta.php'); ?>
+
 <?php include_once('../head_meta.php'); ?>
 
 <?php include('schema.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [{
- "@type": "Question",
- "name": "B2B çözümleri nedir?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "B2B çözümleri, işletmelerin diğer işletmelerle dijital ortamda ticaret yapmasını sağlayan yazılım ve platform çözümleridir."
- }
- },{
- "@type": "Question",
- "name": "B2C çözümleri nedir?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "B2C çözümleri, işletmelerin ürün veya hizmetlerini doğrudan son kullanıcıya satmasını sağlayan e-ticaret ve dijital satış platformlarıdır."
- }
- },{
- "@type": "Question",
- "name": "B2B ve B2C sistemleri arasındaki fark nedir?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "B2B sistemleri işletmeler arası ticareti kapsarken B2C sistemleri doğrudan tüketicilere satış yapılmasını sağlar."
- }
- },{
- "@type": "Question",
- "name": "B2B ve B2C yazılımları neden önemlidir?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Bu yazılımlar satış süreçlerini dijitalleştirir, müşteri deneyimini artırır ve işletmelerin daha geniş pazarlara ulaşmasını sağlar."
- }
- }]
-}
-</script>
+<?php include('schema_faq.php'); ?>
 
 </head>
 
@@ -72,12 +49,12 @@ $alt    = "b2b ve b2c çözümleri";
 <div id="main-wrapper">
 <div class="site-wrapper-reveal">
 
-<div class="about-banner-wrap banner-space bg-img" data-bg="/images/services/canakkale-b2b-ve-b2c-cozumleri.webp">
+<div class="about-banner-wrap banner-space bg-img" data-bg="<?php echo $img; ?>">
 <div class="container">
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">B2B ve B2C Çözümleri</h1>
+<h1 class="mb-15 text-white"><?php echo $name; ?></h1>
 <h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>
@@ -186,7 +163,7 @@ Dijital Ticarette Entegrasyon <span><i class="fas fa-chevron-circle-down"></i>
 </div>
 
 <div class="col-lg-6">
-<img src="/images/services/b2b-ve-b2c-cozumleri.webp" alt="B2B ve B2C Çözümleri" class="img-fluid">
+<img src="<?php echo $img2; ?>" alt="<?php echo $alt; ?>" class="img-fluid">
 </div>
 
 </div>

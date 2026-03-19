@@ -8,9 +8,18 @@ $twdesc = "Mobil uygulamalarınızı modern teknolojilerle geliştirin! Güvenli
 $cat    = "Mobil Geliştirme, Web Yazılım";
 $lang   = "tr_TR";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-mobil-uygulamalar.webp";
+$img2   = "https://www.canakkale-webyazilim.com.tr/images/services/mobil-uygulamalar.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/mobil-uygulamalar";
 $keys   = "mobil uygulama geliştirme, iOS uygulama, Android uygulama, özel mobil uygulama, kurumsal mobil uygulama, mobil yazılım geliştirme";
 $alt    = "mobil uygulama geliştirme";
+$q1     = "Mobil uygulama geliştirme nedir?";
+$q2     = "Hangi platformlar için geliştirme yapılır?";
+$q3     = "Mobil uygulama geliştirme avantajları nelerdir?";
+$q4     = "Geliştirme süreci nasıl işler?";
+$a1     = "Mobil uygulama geliştirme, iOS ve Android platformları için özel, performanslı ve kullanıcı dostu uygulamalar tasarlama ve geliştirme sürecidir.";
+$a2     = "iOS, Android ve gerektiğinde çapraz platform (cross-platform) teknolojileri ile mobil uygulamalar geliştirilir.";
+$a3     = "Kullanıcı deneyimi iyileşir, marka değeri artar, iş süreçleri dijitalleşir, veri toplama ve analiz daha etkin yapılabilir.";
+$a4     = "İhtiyaç analizi ve planlama, prototip ve tasarım, geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarından oluşur.";
 ?>
 
 <!DOCTYPE html>
@@ -21,50 +30,13 @@ $alt    = "mobil uygulama geliştirme";
 <meta name="description" content="<?php echo $desc1; ?>">
 <meta name="keywords" content="<?php echo $keys; ?>">
 
+<?php include('meta.php'); ?>
+
 <?php include_once('../head_meta.php'); ?>
 
 <?php include('schema.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [
-  {
-    "@type": "Question",
-    "name": "Mobil uygulama geliştirme nedir?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Mobil uygulama geliştirme, iOS ve Android platformları için özel, performanslı ve kullanıcı dostu uygulamalar tasarlama ve geliştirme sürecidir."
-    }
-  },
-  {
-    "@type": "Question",
-    "name": "Hangi platformlar için geliştirme yapılır?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "iOS, Android ve gerektiğinde çapraz platform (cross-platform) teknolojileri ile mobil uygulamalar geliştirilir."
-    }
-  },
-  {
-    "@type": "Question",
-    "name": "Mobil uygulama geliştirme avantajları nelerdir?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Kullanıcı deneyimi iyileşir, marka değeri artar, iş süreçleri dijitalleşir, veri toplama ve analiz daha etkin yapılabilir."
-    }
-  },
-  {
-    "@type": "Question",
-    "name": "Geliştirme süreci nasıl işler?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "İhtiyaç analizi ve planlama, prototip ve tasarım, geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarından oluşur."
-    }
-  }
- ]
-}
-</script>
+<?php include('schema_faq.php'); ?>
 
 </head>
 
@@ -77,12 +49,12 @@ $alt    = "mobil uygulama geliştirme";
 <div id="main-wrapper">
 <div class="site-wrapper-reveal">
 
-<div class="about-banner-wrap banner-space bg-img" data-bg="/images/services/canakkale-mobil-uygulamalar.webp">
+<div class="about-banner-wrap banner-space bg-img" data-bg="<?php echo $img; ?>">
 <div class="container">
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">Mobil Uygulama Geliştirme</h1>
+<h1 class="mb-15 text-white"><?php echo $name; ?></h1>
 <h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>
@@ -191,7 +163,7 @@ Geliştirme Süreci <span><i class="fas fa-chevron-circle-down"></i>
 </div>
 
 <div class="col-lg-6">
-<img src="/images/services/mobil-uygulamalar.webp" alt="Mobil Uygulama Geliştirme" class="img-fluid">
+<img src="<?php echo $img2; ?>" alt="<?php echo $alt; ?>" class="img-fluid">
 </div>
 
 </div>

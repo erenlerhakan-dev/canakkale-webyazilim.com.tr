@@ -8,9 +8,18 @@ $twdesc = "Teknik danışmanlık ile projelerinizi optimize edin! Çözüm Cloud
 $cat    = "Teknik Danışmanlık, Web Yazılım";
 $lang   = "tr_TR";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-teknik-danismanlik.webp";
+$img2   = "https://www.canakkale-webyazilim.com.tr/images/services/teknik-danismanlik.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/teknik-danismanlik";
 $keys   = "teknik danışmanlık, bilişim danışmanlığı, yazılım danışmanlığı, server yönetimi, hosting danışmanlığı, IT danışmanlık hizmetleri";
 $alt    = "teknik danışmanlık hizmetleri";
+$q1     = "Teknik danışmanlık nedir?";
+$q2     = "Server yönetimi danışmanlığı ne sağlar?";
+$q3     = "Hosting danışmanlığı neden önemlidir?";
+$q4     = "Yazılım danışmanlığı hangi konuları kapsar?";
+$a1     = "Teknik danışmanlık, işletmelerin yazılım, server altyapısı, hosting ve bilişim sistemlerini daha verimli kullanmaları için sunulan profesyonel destek ve yönlendirme hizmetidir.";
+$a2     = "Server yönetimi danışmanlığı sayesinde sunucu altyapısı güvenli, hızlı ve kesintisiz çalışacak şekilde optimize edilir.";
+$a3     = "Doğru hosting altyapısı web sitelerinin performansı, güvenliği ve SEO başarısı için kritik öneme sahiptir.";
+$a4     = "Yazılım danışmanlığı, sistem mimarisi, API entegrasyonları, performans optimizasyonu ve yazılım geliştirme stratejilerini kapsar.";
 ?>
 
 <!DOCTYPE html>
@@ -21,45 +30,13 @@ $alt    = "teknik danışmanlık hizmetleri";
 <meta name="description" content="<?php echo $desc1; ?>">
 <meta name="keywords" content="<?php echo $keys; ?>">
 
+<?php include('meta.php'); ?>
+
 <?php include_once('../head_meta.php'); ?>
 
 <?php include('schema.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [{
- "@type": "Question",
- "name": "Teknik danışmanlık nedir?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Teknik danışmanlık, işletmelerin yazılım, server altyapısı, hosting ve bilişim sistemlerini daha verimli kullanmaları için sunulan profesyonel destek ve yönlendirme hizmetidir."
- }
- },{
- "@type": "Question",
- "name": "Server yönetimi danışmanlığı ne sağlar?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Server yönetimi danışmanlığı sayesinde sunucu altyapısı güvenli, hızlı ve kesintisiz çalışacak şekilde optimize edilir."
- }
- },{
- "@type": "Question",
- "name": "Hosting danışmanlığı neden önemlidir?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Doğru hosting altyapısı web sitelerinin performansı, güvenliği ve SEO başarısı için kritik öneme sahiptir."
- }
- },{
- "@type": "Question",
- "name": "Yazılım danışmanlığı hangi konuları kapsar?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Yazılım danışmanlığı, sistem mimarisi, API entegrasyonları, performans optimizasyonu ve yazılım geliştirme stratejilerini kapsar."
- }
- }]
-}
-</script>
+<?php include('schema_faq.php'); ?>
 
 </head>
 
@@ -72,12 +49,12 @@ $alt    = "teknik danışmanlık hizmetleri";
 <div id="main-wrapper">
 <div class="site-wrapper-reveal">
 
-<div class="about-banner-wrap banner-space bg-img" data-bg="/images/services/canakkale-teknik-danismanlik.webp">
+<div class="about-banner-wrap banner-space bg-img" data-bg="<?php echo $img; ?>">
 <div class="container">
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">Teknik Danışmanlık Hizmetleri</h1>
+<h1 class="mb-15 text-white"><?php echo $name; ?></h1>
 <h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>
@@ -186,7 +163,7 @@ Bilişim Danışmanlığının Önemi <span><i class="fas fa-chevron-circle-down
 </div>
 
 <div class="col-lg-6">
-<img src="/images/services/teknik-danismanlik.webp" alt="Teknik Danışmanlık Hizmetleri" class="img-fluid">
+<img src="<?php echo $img2; ?>" alt="<?php echo $alt; ?>" class="img-fluid">
 </div>
 
 </div>

@@ -8,9 +8,18 @@ $twdesc = "İşletmenize özel yazılım çözümleri geliştirin! Çözüm Clou
 $cat    = "Özel Yazılım, Web Yazılım";
 $lang   = "tr_TR";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-ozel-yazilim-gelistirme.webp";
+$img2   = "https://www.canakkale-webyazilim.com.tr/images/services/ozel-yazilim-gelistirme.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/ozel-yazilim-gelistirme";
 $keys   = "özel yazılım geliştirme, kurumsal yazılım çözümleri, işletmeye özel yazılım, yazılım geliştirme hizmeti, web tabanlı yazılım, yazılım danışmanlığı";
 $alt    = "özel yazılım geliştirme";
+$q1     = "Özel yazılım geliştirme nedir?";
+$q2     = "Özel yazılım geliştirme hangi avantajları sağlar?";
+$q3     = "Hangi sektörler özel yazılımdan faydalanabilir?";
+$q4     = "Özel yazılım geliştirme süreci nasıl işler?";
+$a1     = "Özel yazılım geliştirme, bir işletmenin ihtiyaçlarına özel olarak tasarlanan ve tamamen özelleştirilebilen yazılım çözümlerini ifade eder.";
+$a2     = "İş süreçlerine tam uyum, yüksek performans, güvenlik, ölçeklenebilirlik ve uzun vadede maliyet avantajı sağlar.";
+$a3     = "Kurumsal firmalar, turizm, e-ticaret, sağlık, eğitim ve hizmet sektörleri özel yazılımdan yararlanabilir.";
+$a4     = "İhtiyaç analizi ve proje planlama, sistem tasarımı, yazılım geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarını içerir.";
 ?>
 
 <!DOCTYPE html>
@@ -21,50 +30,13 @@ $alt    = "özel yazılım geliştirme";
 <meta name="description" content="<?php echo $desc1; ?>">
 <meta name="keywords" content="<?php echo $keys; ?>">
 
+<?php include('meta.php'); ?>
+
 <?php include_once('../head_meta.php'); ?>
 
 <?php include('schema.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [
-  {
-    "@type": "Question",
-    "name": "Özel yazılım geliştirme nedir?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Özel yazılım geliştirme, bir işletmenin ihtiyaçlarına özel olarak tasarlanan ve tamamen özelleştirilebilen yazılım çözümlerini ifade eder."
-    }
-  },
-  {
-    "@type": "Question",
-    "name": "Özel yazılım geliştirme hangi avantajları sağlar?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "İş süreçlerine tam uyum, yüksek performans, güvenlik, ölçeklenebilirlik ve uzun vadede maliyet avantajı sağlar."
-    }
-  },
-  {
-    "@type": "Question",
-    "name": "Hangi sektörler özel yazılımdan faydalanabilir?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Kurumsal firmalar, turizm, e-ticaret, sağlık, eğitim ve hizmet sektörleri özel yazılımdan yararlanabilir."
-    }
-  },
-  {
-    "@type": "Question",
-    "name": "Özel yazılım geliştirme süreci nasıl işler?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "İhtiyaç analizi ve proje planlama, sistem tasarımı, yazılım geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarını içerir."
-    }
-  }
- ]
-}
-</script>
+<?php include('schema_faq.php'); ?>
 
 </head>
 
@@ -77,12 +49,12 @@ $alt    = "özel yazılım geliştirme";
 <div id="main-wrapper">
 <div class="site-wrapper-reveal">
 
-<div class="about-banner-wrap banner-space bg-img" data-bg="/images/services/canakkale-ozel-yazilim-gelistirme.webp">
+<div class="about-banner-wrap banner-space bg-img" data-bg="<?php echo $img; ?>">
 <div class="container">
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">Özel Yazılım Geliştirme</h1>
+<h1 class="mb-15 text-white"><?php echo $name; ?></h1>
 <h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>
@@ -191,7 +163,7 @@ Geliştirme Süreci <span><i class="fas fa-chevron-circle-down"></i>
 </div>
 
 <div class="col-lg-6">
-<img src="/images/services/ozel-yazilim-gelistirme.webp" alt="Özel Yazılım Geliştirme" class="img-fluid">
+<img src="<?php echo $img2; ?>" alt="<?php echo $alt; ?>" class="img-fluid">
 </div>
 
 </div>

@@ -8,9 +8,18 @@ $twdesc = "Yazılım performansınızı yükseltin! Optimizasyon teknikleri ile 
 $cat    = "Yazılım, Web Yazılım";
 $lang   = "tr_TR";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-yazilim-performans-optimizasyonu.webp";
+$img2   = "https://www.canakkale-webyazilim.com.tr/images/services/yazilim-performans-optimizasyonu.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/yazilim-performans-optimizasyonu";
 $keys   = "yazılım performans optimizasyonu, uygulama performansı, kod optimizasyonu, veritabanı optimizasyonu, yazılım hızlandırma";
 $alt    = "yazılım performans optimizasyonu";
+$q1     = "Yazılım performans optimizasyonu nedir?";
+$q2     = "Performans optimizasyonu neden önemlidir?";
+$q3     = "Veritabanı optimizasyonu nedir?";
+$q4     = "Performans optimizasyonu SEO'yu etkiler mi?";
+$a1     = "Yazılım performans optimizasyonu, uygulamaların daha hızlı ve verimli çalışmasını sağlamak için kod, veritabanı ve sistem altyapısında yapılan iyileştirme çalışmalarını ifade eder.";
+$a2     = "Performans optimizasyonu sayesinde uygulamalar daha hızlı çalışır, kullanıcı deneyimi artar ve sistem kaynakları daha verimli kullanılır.";
+$a3     = "Veritabanı optimizasyonu, sorgu performansını artırmak ve veri erişimini hızlandırmak için yapılan teknik iyileştirmeleri kapsar.";
+$a4     = "Evet, hızlı çalışan web uygulamaları ve web siteleri arama motorları tarafından daha iyi değerlendirilir ve SEO performansını olumlu etkiler.";
 ?>
 
 <!DOCTYPE html>
@@ -21,45 +30,13 @@ $alt    = "yazılım performans optimizasyonu";
 <meta name="description" content="<?php echo $desc1; ?>">
 <meta name="keywords" content="<?php echo $keys; ?>">
 
+<?php include('meta.php'); ?>
+
 <?php include_once('../head_meta.php'); ?>
 
 <?php include('schema.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [{
- "@type": "Question",
- "name": "Yazılım performans optimizasyonu nedir?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Yazılım performans optimizasyonu, uygulamaların daha hızlı ve verimli çalışmasını sağlamak için kod, veritabanı ve sistem altyapısında yapılan iyileştirme çalışmalarını ifade eder."
- }
- },{
- "@type": "Question",
- "name": "Performans optimizasyonu neden önemlidir?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Performans optimizasyonu sayesinde uygulamalar daha hızlı çalışır, kullanıcı deneyimi artar ve sistem kaynakları daha verimli kullanılır."
- }
- },{
- "@type": "Question",
- "name": "Veritabanı optimizasyonu nedir?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Veritabanı optimizasyonu, sorgu performansını artırmak ve veri erişimini hızlandırmak için yapılan teknik iyileştirmeleri kapsar."
- }
- },{
- "@type": "Question",
- "name": "Performans optimizasyonu SEO'yu etkiler mi?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Evet, hızlı çalışan web uygulamaları ve web siteleri arama motorları tarafından daha iyi değerlendirilir ve SEO performansını olumlu etkiler."
- }
- }]
-}
-</script>
+<?php include('schema_faq.php'); ?>
 
 </head>
 
@@ -72,12 +49,12 @@ $alt    = "yazılım performans optimizasyonu";
 <div id="main-wrapper">
 <div class="site-wrapper-reveal">
 
-<div class="about-banner-wrap banner-space bg-img" data-bg="/images/services/canakkale-yazilim-performans-optimizasyonu.webp">
+<div class="about-banner-wrap banner-space bg-img" data-bg="<?php echo $img; ?>">
 <div class="container">
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">Yazılım Performans Optimizasyonu</h1>
+<h1 class="mb-15 text-white"><?php echo $name; ?></h1>
 <h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>
@@ -186,7 +163,7 @@ Performans Optimizasyonunun Önemi <span><i class="fas fa-chevron-circle-down"><
 </div>
 
 <div class="col-lg-6">
-<img src="/images/services/yazilim-performans-optimizasyonu.webp" alt="Yazılım Performans Optimizasyonu" class="img-fluid">
+<img src="<?php echo $img2; ?>" alt="<?php echo $alt; ?>" class="img-fluid">
 </div>
 
 </div>

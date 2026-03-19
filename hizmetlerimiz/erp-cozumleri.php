@@ -8,9 +8,18 @@ $twdesc = "ERP çözümleri ile iş süreçlerinizi optimize edin! Kurumsal veri
 $cat    = "ERP, Web Yazılım";
 $lang   = "tr_TR";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-erp-cozumleri.webp";
+$img2   = "https://www.canakkale-webyazilim.com.tr/images/services/erp-cozumleri.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/erp-cozumleri";
 $keys   = "ERP çözümleri, kurumsal yazılım, iş süreçleri yönetimi, üretim yönetimi, finans yönetimi, ERP sistemi";
 $alt    = "erp çözümleri";
+$q1     = "ERP nedir?";
+$q2     = "ERP çözümleri hangi süreçleri kapsar?";
+$q3     = "ERP çözümlerinin avantajları nelerdir?";
+$q4     = "ERP kurulum süreci nasıl işler?";
+$a1     = "ERP (Enterprise Resource Planning), işletmenizin tüm iş süreçlerini tek bir sistemde entegre eden yazılım çözümüdür.";
+$a2     = "Finans, insan kaynakları, üretim, lojistik, satış ve pazarlama süreçlerini kapsar ve süreçlerin dijitalleşmesini sağlar.";
+$a3     = "İş süreçlerinin hızlanması, veri bütünlüğü, maliyet optimizasyonu, daha iyi karar alma süreçleri ve merkezi yönetim sağlar.";
+$a4     = "Analiz ve planlama, yazılım yapılandırma, veri entegrasyonu, kullanıcı eğitimi, test ve yayına alma adımlarını içerir.";
 ?>
 
 <!DOCTYPE html>
@@ -21,50 +30,13 @@ $alt    = "erp çözümleri";
 <meta name="description" content="<?php echo $desc1; ?>">
 <meta name="keywords" content="<?php echo $keys; ?>">
 
+<?php include('meta.php'); ?>
+
 <?php include_once('../head_meta.php'); ?>
 
 <?php include('schema.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [
-  {
-    "@type": "Question",
-    "name": "ERP nedir?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "ERP (Enterprise Resource Planning), işletmenizin tüm iş süreçlerini tek bir sistemde entegre eden yazılım çözümüdür."
-    }
-  },
-  {
-    "@type": "Question",
-    "name": "ERP çözümleri hangi süreçleri kapsar?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Finans, insan kaynakları, üretim, lojistik, satış ve pazarlama süreçlerini kapsar ve süreçlerin dijitalleşmesini sağlar."
-    }
-  },
-  {
-    "@type": "Question",
-    "name": "ERP çözümlerinin avantajları nelerdir?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "İş süreçlerinin hızlanması, veri bütünlüğü, maliyet optimizasyonu, daha iyi karar alma süreçleri ve merkezi yönetim sağlar."
-    }
-  },
-  {
-    "@type": "Question",
-    "name": "ERP kurulum süreci nasıl işler?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Analiz ve planlama, yazılım yapılandırma, veri entegrasyonu, kullanıcı eğitimi, test ve yayına alma adımlarını içerir."
-    }
-  }
- ]
-}
-</script>
+<?php include('schema_faq.php'); ?>
 
 </head>
 
@@ -77,12 +49,12 @@ $alt    = "erp çözümleri";
 <div id="main-wrapper">
 <div class="site-wrapper-reveal">
 
-<div class="about-banner-wrap banner-space bg-img" data-bg="/images/services/canakkale-erp-cozumleri.webp">
+<div class="about-banner-wrap banner-space bg-img" data-bg="<?php echo $img; ?>">
 <div class="container">
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">ERP Çözümleri</h1>
+<h1 class="mb-15 text-white"><?php echo $name; ?></h1>
 <h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>
@@ -191,7 +163,7 @@ Kurulum Süreci <span><i class="fas fa-chevron-circle-down"></i>
 </div>
 
 <div class="col-lg-6">
-<img src="/images/services/erp-cozumleri.webp" alt="ERP Çözümleri" class="img-fluid">
+<img src="<?php echo $img2; ?>" alt="<?php echo $alt; ?>" class="img-fluid">
 </div>
 
 </div>

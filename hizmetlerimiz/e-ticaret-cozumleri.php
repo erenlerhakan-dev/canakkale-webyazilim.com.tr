@@ -8,9 +8,18 @@ $twdesc = "E-ticaret sitenizi optimize edin! Güvenli ve kullanıcı dostu çöz
 $cat    = "E-Ticaret, Web Yazılım";
 $lang   = "tr_TR";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-e-ticaret-cozumleri.webp";
+$img2   = "https://www.canakkale-webyazilim.com.tr/images/services/e-ticaret-cozumleri.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/e-ticaret-cozumleri";
 $keys   = "e-ticaret çözümleri, online mağaza, e-ticaret platformu, dijital mağaza yönetimi, e-ticaret sitesi, satış optimizasyonu";
 $alt    = "e-ticaret çözümleri";
+$q1     = "E-ticaret çözümleri nedir?";
+$q2     = "Hangi özellikler sunulur?";
+$q3     = "E-ticaret çözümlerinin avantajları nelerdir?";
+$q4     = "Kurulum süreci nasıl işler?";
+$a1     = "E-ticaret çözümleri, işletmenizin online satış yapabilmesi için gerekli web platformları, ödeme sistemleri ve satış yönetimi araçlarını kapsayan yazılım ve hizmetlerdir.";
+$a2     = "SEO uyumlu ürün sayfaları, ödeme entegrasyonu, stok ve sipariş yönetimi, raporlama, kullanıcı deneyimi optimizasyonu ve mobil uyumlu tasarım sunulur.";
+$a3     = "Online satışlarınızı artırır, süreçleri otomatikleştirir, müşteri deneyimini iyileştirir ve işletmenizin dijital görünürlüğünü yükseltir.";
+$a4     = "İhtiyaç analizi, tasarım ve prototip, platform geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarını içerir.";
 ?>
 
 <!DOCTYPE html>
@@ -21,50 +30,13 @@ $alt    = "e-ticaret çözümleri";
 <meta name="description" content="<?php echo $desc1; ?>">
 <meta name="keywords" content="<?php echo $keys; ?>">
 
+<?php include('meta.php'); ?>
+
 <?php include_once('../head_meta.php'); ?>
 
 <?php include('schema.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [
-  {
-    "@type": "Question",
-    "name": "E-ticaret çözümleri nedir?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "E-ticaret çözümleri, işletmenizin online satış yapabilmesi için gerekli web platformları, ödeme sistemleri ve satış yönetimi araçlarını kapsayan yazılım ve hizmetlerdir."
-    }
-  },
-  {
-    "@type": "Question",
-    "name": "Hangi özellikler sunulur?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "SEO uyumlu ürün sayfaları, ödeme entegrasyonu, stok ve sipariş yönetimi, raporlama, kullanıcı deneyimi optimizasyonu ve mobil uyumlu tasarım sunulur."
-    }
-  },
-  {
-    "@type": "Question",
-    "name": "E-ticaret çözümlerinin avantajları nelerdir?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Online satışlarınızı artırır, süreçleri otomatikleştirir, müşteri deneyimini iyileştirir ve işletmenizin dijital görünürlüğünü yükseltir."
-    }
-  },
-  {
-    "@type": "Question",
-    "name": "Kurulum süreci nasıl işler?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "İhtiyaç analizi, tasarım ve prototip, platform geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarını içerir."
-    }
-  }
- ]
-}
-</script>
+<?php include('schema_faq.php'); ?>
 
 </head>
 
@@ -77,12 +49,12 @@ $alt    = "e-ticaret çözümleri";
 <div id="main-wrapper">
 <div class="site-wrapper-reveal">
 
-<div class="about-banner-wrap banner-space bg-img" data-bg="/images/services/canakkale-e-ticaret-cozumleri.webp">
+<div class="about-banner-wrap banner-space bg-img" data-bg="<?php echo $img; ?>">
 <div class="container">
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">E-Ticaret Çözümleri</h1>
+<h1 class="mb-15 text-white"><?php echo $name; ?></h1>
 <h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>
@@ -191,7 +163,7 @@ Kurulum Süreci <span><i class="fas fa-chevron-circle-down"></i>
 </div>
 
 <div class="col-lg-6">
-<img src="/images/services/e-ticaret-cozumleri.webp" alt="E-Ticaret Çözümleri" class="img-fluid">
+<img src="<?php echo $img2; ?>" alt="<?php echo $alt; ?>" class="img-fluid">
 </div>
 
 </div>

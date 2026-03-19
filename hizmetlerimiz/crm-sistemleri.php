@@ -8,9 +8,18 @@ $twdesc = "CRM sistemleri ile müşteri ilişkilerinizi güçlendirin! Verimli v
 $cat    = "CRM, Web Yazılım";
 $lang   = "tr_TR";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-crm-sistemleri.webp";
+$img2   = "https://www.canakkale-webyazilim.com.tr/images/services/crm-sistemleri.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/crm-sistemleri";
 $keys   = "CRM sistemleri, müşteri ilişkileri yönetimi, CRM yazılımı, satış yönetimi sistemi, müşteri yönetim yazılımı";
 $alt    = "crm sistemleri";
+$q1     = "CRM sistemi nedir?";
+$q2     = "CRM yazılımı işletmelere ne kazandırır?";
+$q3     = "CRM sistemleri hangi sektörlerde kullanılır?";
+$q4     = "Bulut tabanlı CRM nedir?";
+$a1     = "CRM sistemi, işletmelerin müşteri ilişkilerini yönetmesini sağlayan yazılım çözümleridir. Bu sistemler müşteri bilgilerini saklar, satış süreçlerini takip eder ve müşteri deneyimini geliştirir.";
+$a2     = "CRM yazılımları müşteri verilerini merkezi bir sistemde toplar, satış ve pazarlama süreçlerini optimize eder ve müşteri memnuniyetini artırır.";
+$a3     = "CRM sistemleri e-ticaret, turizm, finans, sağlık, eğitim ve birçok farklı sektörde müşteri ilişkilerini yönetmek için kullanılmaktadır.";
+$a4     = "Bulut tabanlı CRM sistemleri internet üzerinden çalışan ve herhangi bir kurulum gerektirmeden kullanılabilen modern müşteri yönetim yazılımlarıdır.";
 ?>
 
 <!DOCTYPE html>
@@ -21,45 +30,13 @@ $alt    = "crm sistemleri";
 <meta name="description" content="<?php echo $desc1; ?>">
 <meta name="keywords" content="<?php echo $keys; ?>">
 
+<?php include('meta.php'); ?>
+
 <?php include_once('../head_meta.php'); ?>
 
 <?php include('schema.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [{
- "@type": "Question",
- "name": "CRM sistemi nedir?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "CRM sistemi, işletmelerin müşteri ilişkilerini yönetmesini sağlayan yazılım çözümleridir. Bu sistemler müşteri bilgilerini saklar, satış süreçlerini takip eder ve müşteri deneyimini geliştirir."
- }
- },{
- "@type": "Question",
- "name": "CRM yazılımı işletmelere ne kazandırır?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "CRM yazılımları müşteri verilerini merkezi bir sistemde toplar, satış ve pazarlama süreçlerini optimize eder ve müşteri memnuniyetini artırır."
- }
- },{
- "@type": "Question",
- "name": "CRM sistemleri hangi sektörlerde kullanılır?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "CRM sistemleri e-ticaret, turizm, finans, sağlık, eğitim ve birçok farklı sektörde müşteri ilişkilerini yönetmek için kullanılmaktadır."
- }
- },{
- "@type": "Question",
- "name": "Bulut tabanlı CRM nedir?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Bulut tabanlı CRM sistemleri internet üzerinden çalışan ve herhangi bir kurulum gerektirmeden kullanılabilen modern müşteri yönetim yazılımlarıdır."
- }
- }]
-}
-</script>
+<?php include('schema_faq.php'); ?>
 
 </head>
 
@@ -72,12 +49,12 @@ $alt    = "crm sistemleri";
 <div id="main-wrapper">
 <div class="site-wrapper-reveal">
 
-<div class="about-banner-wrap banner-space bg-img" data-bg="/images/services/canakkale-crm-sistemleri.webp">
+<div class="about-banner-wrap banner-space bg-img" data-bg="<?php echo $img; ?>">
 <div class="container">
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">CRM Sistemleri</h1>
+<h1 class="mb-15 text-white"><?php echo $name; ?></h1>
 <h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>
@@ -186,7 +163,7 @@ CRM Sistemleri Neden Önemlidir? <span><i class="fas fa-chevron-circle-down"></i
 </div>
 
 <div class="col-lg-6">
-<img src="/images/services/crm-sistemleri.webp" alt="CRM Sistemleri" class="img-fluid">
+<img src="<?php echo $img2; ?>" alt="<?php echo $alt; ?>" class="img-fluid">
 </div>
 
 </div>
