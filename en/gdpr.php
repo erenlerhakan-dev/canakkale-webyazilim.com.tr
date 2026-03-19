@@ -39,76 +39,76 @@
 <div class="col-lg-12">
 
 <div class="section-title-wrap text-center section-space--mb_60">
-<h3 class="heading mb-20">KVKK</h3>
+<h3 class="heading mb-20">Personal Data Protection</h3>
 <h6 class="section-sub-title mb-20">Çözüm Cloud</h6>
 </div>
 
-<h4 class="mb-20">Kişisel Verilerin Korunması Hakkında Aydınlatma Metni (KVKK)</h4>
+<h4 class="mb-20">Personal Data Protection Disclosure Statement (GDPR)</h4>
 
 <p>
-<strong>Firma Adı:</strong> [Çözüm Cloud]<br>
-<strong>Adres:</strong> Esenler Mh. Ahmet P. Cd. No:19/17 Çanakkale<br>
-<strong>Telefon:</strong> +90 534 792 25 31<br>
-<strong>E-posta:</strong> <a rel="noopener">info@cozumcloud.com.tr</a>
+<strong>Company Name:</strong> [Çözüm Cloud]<br>
+<strong>Address:</strong> Esenler Mh. Ahmet P. Cd. No:19/17 Çanakkale<br>
+<strong>Phone:</strong> +90 534 792 25 31<br>
+<strong>Email:</strong> <a rel="noopener">info@cozumcloud.com.tr</a>
 </p>
 
-<p>[Çözüm Cloud] olarak, kişisel verilerin korunmasına büyük önem veriyoruz. 6698 sayılı <strong>Kişisel Verilerin Korunması Kanunu (KVKK)</strong> kapsamında, müşterilerimizin ve site kullanıcılarımızın kişisel verilerini yalnızca belirlenen amaçlarla işliyoruz.</p>
+<p>At Çözüm Cloud, we attach great importance to the protection of personal data. In accordance with Law No. 6698 on <strong>Protection of Personal Data (KVKK)</strong>, we process the personal data of our customers and website users only for clearly defined purposes.</p>
 
-<h5>1. Toplanan Kişisel Veriler</h5>
-<p>Web sitemizi ziyaretiniz sırasında veya hizmetlerimizden faydalanmanız esnasında toplayabileceğimiz kişisel veriler şunlardır:</p>
+<h5>1. Collected Personal Data</h5>
+<p>During your visit to our website or when using our services, we may collect the following personal data:</p>
 
 <ul>
-<li><p>Ad, soyad</p></li>
-<li><p>E-posta adresi</p></li>
-<li><p>Telefon numarası</p></li>
-<li><p>IP adresi ve site kullanım verileri</p></li>
-<li><p>Hizmet talepleri ve iletişim bilgileriniz</p></li>
+<li>First and last name</li>
+<li>Email address</li>
+<li>Phone number</li>
+<li>IP address and website usage data</li>
+<li>Service requests and contact information</li>
 </ul>
 
 <br>
 
-<h5>2. Kişisel Verilerin İşlenme Amaçları</h5>
-<p>Toplanan kişisel veriler, aşağıdaki amaçlarla işlenmektedir:</p>
+<h5>2. Purposes of Processing Personal Data</h5>
+<p>Collected personal data is processed for the following purposes:</p>
 
 <ul>
-<li><p>Hizmetlerimizin sunulması ve yürütülmesi</p></li>
-<li><p>Müşteri taleplerinin ve başvurularının değerlendirilmesi</p></li>
-<li><p>Web sitesi kullanıcı deneyiminin iyileştirilmesi</p></li>
-<li><p>Pazarlama, tanıtım ve bilgilendirme faaliyetlerinin yürütülmesi</p></li>
-<li><p>Yasal yükümlülüklerin yerine getirilmesi</p></li>
+<li>Provision and execution of our services</li>
+<li>Evaluation of customer requests and applications</li>
+<li>Improvement of website user experience</li>
+<li>Marketing, promotion, and information activities</li>
+<li>Compliance with legal obligations</li>
 </ul>
 
 <br>
 
-<h5>3. Kişisel Verilerin Aktarılması</h5>
-<p>[Çözüm Cloud], kişisel verilerinizi; hizmet sağladığımız iş ortakları veya yasal yükümlülükler çerçevesinde üçüncü kişilerle paylaşabilir. Bu aktarım, <strong>KVKK</strong> ve ilgili mevzuata uygun olarak yapılmaktadır.</p>
+<h5>3. Transfer of Personal Data</h5>
+<p>Çözüm Cloud may share your personal data with third parties, such as our business partners or as required by law. All transfers are carried out in accordance with <strong>KVKK</strong> and relevant regulations.</p>
 
-<h5>4. Kişisel Veri Sahibi Hakları</h5>
-<p>KVKK kapsamında, veri sahipleri olarak sizlerin hakları şunlardır:</p>
-
-<ul>
-<li><p>Kişisel verilerinizin işlenip işlenmediğini öğrenme</p></li>
-<li><p>İşlenen verilerle ilgili bilgi talep etme</p></li>
-<li><p>Verilerinizin amacına uygun olarak düzeltilmesini veya silinmesini talep etme</p></li>
-<li><p>Verilerin işlenmesine itiraz etme ve veri taşınabilirliğini isteme</p></li>
-</ul>
-
-<p>Haklarınızı kullanmak için bizimle yukarıda belirtilen e-posta adresi veya telefon numarası üzerinden iletişime geçebilirsiniz. Talepleriniz, yasal süreler içerisinde değerlendirilecektir.</p>
-
-<h5>5. Veri Güvenliği</h5>
-
-<p>[Çözüm Cloud], kişisel verilerin güvenliğini sağlamak amacıyla teknik ve idari tedbirler almaktadır. Verileriniz, yetkisiz erişim, kayıp veya kötüye kullanıma karşı korunmaktadır.</p>
-
-<h5>6. İletişim</h5>
-<p>KVKK ve gizlilik politikalarımızla ilgili her türlü soru ve talepleriniz için bize aşağıdaki iletişim bilgileri üzerinden ulaşabilirsiniz:</p>
+<h5>4. Rights of Data Subjects</h5>
+<p>Under KVKK, as a data subject, you have the following rights:</p>
 
 <ul>
-<li><p><strong>Adres:</strong> Esenler Mh. Ahmet P. Cd. No:19/17 Çanakkale</p></li>
-<li><p><strong>Telefon:</strong> +90 534 792 25 31</p></li>
-<li><p><strong>E-posta:</strong> <a rel="noopener">info@cozumcloud.com.tr</a></p></li>
+<li>To learn whether your personal data is being processed</li>
+<li>To request information about processed data</li>
+<li>To request correction or deletion of your data in line with its purpose</li>
+<li>To object to data processing and request data portability</li>
 </ul>
 
-<p>[Çözüm Cloud], kişisel verilerinizi koruma sorumluluğunu ciddiyetle üstlenir ve tüm faaliyetlerini bu bilinçle yürütür.</p>
+<p>You can exercise your rights by contacting us via the email address or phone number listed above. Your requests will be processed within the legal time frames.</p>
+
+<h5>5. Data Security</h5>
+
+<p>Çözüm Cloud takes technical and administrative measures to ensure the security of personal data. Your data is protected against unauthorized access, loss, or misuse.</p>
+
+<h5>6. Contact</h5>
+<p>For any questions or requests regarding our KVKK and privacy policies, you can reach us through the following contact information:</p>
+
+<ul>
+<li><p><strong>Address:</strong> Esenler Mh. Ahmet P. Cd. No:19/17 Çanakkale</p></li>
+<li><p><strong>Phone:</strong> +90 534 792 25 31</p></li>
+<li><p><strong>Email:</strong> <a rel="noopener">info@cozumcloud.com.tr</a></p></li>
+</ul>
+
+<p>Çözüm Cloud takes the responsibility of protecting your personal data seriously and conducts all activities with this awareness.</p>
 
 </div>
 </div>
