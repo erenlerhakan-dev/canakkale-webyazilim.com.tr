@@ -29,25 +29,25 @@
 <p class="text">İhtiyacınız olan yazılım ve ya bilişim desteği için bizden teklif almayı unutmayın.</p>
 </div>
 
-<form id="contact-form" action="" method="post">
+<form id="request_form" method="post">
 <div class="contact-form__two">
 
 <div class="contact-inner contact-inner-home">
-<input name="con_name" type="text" placeholder="Ad Soyad *">
+<input name="_name" type="text" placeholder="Ad Soyad *">
 </div>
 
 <div class="contact-inner contact-inner-home">
-<input name="con_email" type="email" placeholder="E-posta *">
+<input name="_email" type="email" placeholder="E-posta *">
 </div>
 
 <div class="contact-inner contact-inner-home">
-<input name="con_email" type="text" placeholder="Telefon *">
+<input name="_phone" type="text" placeholder="Telefon *">
 </div>
 
 <div class="contact-select">
 <div class="form-item contact-inner contact-inner-home">
 <span class="inquiry">
-<select name="Visiting" class="nicesel">
+<select name="_serv" class="nicesel">
 <option disabled selected>Konu *</option>
 <option value="Genel">Genel</option>
 <option value="Özel Web Geliştirme">Özel Web Geliştirme</option>
@@ -68,11 +68,11 @@
 </div>
 
 <div class="contact-inner contact-inner-home contact-message">
-<textarea name="con_message" placeholder="Talebiniz, mesajınız." style="height: 100px"></textarea>
+<textarea name="_message" placeholder="Talebiniz, mesajınız." style="height: 100px"></textarea>
 </div>
 
 <div class="comment-submit-btn text-center">
-<button class="ht-btn ht-btn-md" type="submit">Gönder</button>
+<button class="ht-btn ht-btn-md" type="button" id="request_button">Gönder</button>
 <p class="form-messege"></p>
 </div>
 

@@ -61,6 +61,31 @@
 <?php include_once('footer_scripts.php'); ?>
 
 <script>
+$("#request_button").click(function() {
+
+$.ajax({
+url: "/send_request",
+type: 'POST',
+data: $('#request_form').serialize(),
+success: function(response){ 
+if (response === "ok") { swal(" ", "Teşekkürler. Mesajınız iletildi. En kısa sürede size dönüş yapacağız.", "success");
+$("#request_form")[0].reset();
+$("#request_button").attr("disabled", true);
+} 
+if (response === "name") { swal(" ", "Lütfen adınızı yazın.", "warning"); }
+if (response === "emailbad") { swal(" ", "Email adresiniz hatalı. Lütfen kontrol edip tekrar deneyin.", "warning"); }
+if (response === "email") { swal(" ", "Lütfen email adresinizi yazın.", "warning"); }
+if (response === "phone") { swal(" ", "Lütfen telefon numaranızı yazın.", "warning"); }
+if (response === "message") { swal(" ", "Lütfen mesajınızı yazın.", "warning"); }
+if (response === "message_short") { swal(" ", "Lütfen daha açıklayıcı bir mesaj yazın.", "warning"); }
+if (response === "nok") { swal(" ", "Bir hata oluştu. Lütfen sayfayı yenileyip tekrar deneyin.", "warning"); }
+if (response === "bad") { swal(" ", "Bir hata oluştu. Lütfen sayfayı yenileyip tekrar deneyin.", "warning"); } }
+});
+
+});
+</script>
+
+<script>
 $(document).ready(function() {
 $('.nicesel').niceSelect();
 });
