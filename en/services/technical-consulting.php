@@ -69,14 +69,14 @@ $a4     = "Software consulting covers system architecture, API integrations, per
 
 <div class="col-lg-4">
 <div class="modern-number-01">
-<h3 class="heading mt-30">Profesyonel <span class="text-color-primary"> Teknik <br> Danışmanlık</span></h3>
+<h3 class="heading mt-30">Professional <span class="text-color-primary"> Technical <br> Consulting</span></h3>
 </div>
 </div>
 
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
-<h5 class="heading ">İşletmeler için kapsamlı <span class="text-color-primary"> yazılım, server, hosting ve bilişim danışmanlığı</span> Service sunuyoruz. Dijital altyapınızı güvenli, hızlı ve ölçeklenebilir hale getirmenize yardımcı oluyoruz.</h5>
-<div class="sub-heading">Technical Consulting Service sayesinde yazılım projelerinizin doğru mimari ile geliştirilmesini sağlayabilir, server altyapınızı optimize edebilir ve hosting performansınızı artırabilirsiniz. Projeniz için Detaillı analiz ve değerlendirme hizmeti almak için bizimle iletişime geçebilirsiniz.</div>
+<h5 class="heading ">We offer comprehensive software, server, hosting, and IT consulting services for businesses.</span> We help you make your digital infrastructure secure, fast, and scalable.</h5>
+<div class="sub-heading">Technical Consulting Service</div> allows you to ensure your software projects are developed with the right architecture, optimize your server infrastructure, and improve your hosting performance. You can contact us to receive detailed analysis and evaluation services for your project.</div>
 </div>
 </div>
 

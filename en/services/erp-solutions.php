@@ -69,14 +69,14 @@ $a4     = "The implementation process includes analysis and planning, software c
 
 <div class="col-lg-4">
 <div class="modern-number-01">
-<h3 class="heading mt-30">İşletmenize <span class="text-color-primary"> ERP <br> Çözümleri</span></h3>
+<h3 class="heading mt-30">ERP Solutions <span class="text-color-primary"> for <br> Your Business</span></h3>
 </div>
 </div>
 
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
-<h5 class="heading ">Kurumsal iş süreçlerinizi yönetmek için <span class="text-color-primary"> ERP Solutions</span> sunuyoruz. Finans, üretim, lojistik ve insan kaynakları süreçlerini tek bir sistemde entegre edin.</h5>
-<div class="sub-heading">ERP Solutions ile işletmenizin verimliliğini artırın, süreçleri optimize edin ve daha hızlı kararlar alın. Uzman ekibimizle danışmanlık ve destek service sağlıyoruz.</div>
+<h5 class="heading ">We offer <span class="text-color-primary">ERP Solutions</span> to manage your corporate business processes. Integrate finance, production, logistics, and human resources processes in a single system.</h5>
+<div class="sub-heading">Increase your business efficiency, optimize processes, and make faster decisions with ERP Solutions. We provide consulting and support services with our expert team.</div>
 </div>
 </div>
 

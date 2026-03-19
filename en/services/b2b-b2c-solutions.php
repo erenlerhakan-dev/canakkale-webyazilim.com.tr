@@ -75,8 +75,8 @@ $a4     = "These software solutions digitize sales processes, enhance customer e
 
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
-<h5 class="heading ">İşletmeler için güçlü <span class="text-color-primary"> B2B ve B2C dijital ticaret çözümleri</span> geliştiriyoruz. Modern yazılım altyapısı sayesinde hem işletmeler arası ticaret süreçlerini hem de son kullanıcıya satış yapan platformları optimize ediyoruz.</h5>
-<div class="sub-heading">Gelişmiş e-ticaret sistemleri, entegrasyon çözümleri ve dijital satış platformları ile işletmenizin online büyümesini destekliyoruz. Projeniz için Detaillı analiz ve danışmanlık hizmeti almak için bizimle iletişime geçebilirsiniz.</div>
+<h5 class="heading ">We develop powerful <span class="text-color-primary">B2B and B2C digital commerce solutions</span> for businesses. Thanks to our modern software infrastructure, we optimize both business-to-business commerce processes and platforms that sell to end users.</h5>
+<div class="sub-heading">We support your business's online growth with advanced e-commerce systems, integration solutions, and digital sales platforms. You can contact us to receive detailed analysis and consulting services for your project.</div>
 </div>
 </div>
 

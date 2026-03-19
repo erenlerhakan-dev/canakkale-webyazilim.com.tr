@@ -69,14 +69,14 @@ $a4     = "The implementation process includes needs analysis, design and protot
 
 <div class="col-lg-4">
 <div class="modern-number-01">
-<h3 class="heading mt-30">Online Satış İçin <span class="text-color-primary"> E-Ticaret <br> Çözümleri</span></h3>
+<h3 class="heading mt-30">E-Commerce Solutions <span class="text-color-primary"> for <br> Online Sales</span></h3>
 </div>
 </div>
 
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
-<h5 class="heading ">İşletmenizin dijital mağazasını oluşturmak için <span class="text-color-primary"> E-commerce Solutions</span> sunuyoruz. Online satışlarınızı kolayca yönetin ve optimize edin.</h5>
-<div class="sub-heading">E-ticaret platformları ile ürün yönetimi, ödeme entegrasyonu, kullanıcı deneyimi optimizasyonu ve performanslı satış süreçleri sağlıyoruz. Profesyonel danışmanlık ve destek ile yanınızdayız.</div>
+<h5 class="heading ">We offer <span class="text-color-primary">E-commerce Solutions</span> to create your business's digital store. Easily manage and optimize your online sales.</h5>
+<div class="sub-heading">We provide product management, payment integration, user experience optimization, and high-performance sales processes with e-commerce platforms. We are with you with professional consulting and support.</div>
 </div>
 </div>
 

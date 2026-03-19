@@ -69,14 +69,14 @@ $a4     = "The process includes needs analysis and project planning, system desi
 
 <div class="col-lg-4">
 <div class="modern-number-01">
-<h3 class="heading mt-30">İşletmenize <span class="text-color-primary"> Özel <br> Yazılım Çözümleri</span></h3>
+<h3 class="heading mt-30">Software Solutions <span class="text-color-primary"> Tailored <br> to Your Business</span></h3>
 </div>
 </div>
 
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
-<h5 class="heading ">Kurumsal ve işletmeye özel <span class="text-color-primary"> yazılım geliştirme service</span> sunuyoruz. Web, mobil ve masaüstü yazılımlarınızı işletmenizin ihtiyaçlarına göre optimize ediyoruz.</h5>
-<div class="sub-heading">İş süreçlerinizi hızlandıracak ve verimliliği artıracak özel yazılım projeleri için bizimle iletişime geçin. Detaillı analiz ve danışmanlık hizmeti ile ihtiyaçlarınıza uygun çözümler üretiyoruz.</div>
+<h5 class="heading ">We offer corporate and business-specific <span class="text-color-primary">software development services</span>. We optimize your web, mobile, and desktop software according to your business needs.</h5>
+<div class="sub-heading">Contact us for custom software projects that will speed up your business processes and increase efficiency. We create solutions tailored to your needs with detailed analysis and consulting services.</div>
 </div>
 </div>
 

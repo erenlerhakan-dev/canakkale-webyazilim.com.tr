@@ -69,14 +69,14 @@ $a4     = "Yes, fast-running web applications and websites are better evaluated 
 
 <div class="col-lg-4">
 <div class="modern-number-01">
-<h3 class="heading mt-30">Yazılım <span class="text-color-primary"> Performans <br> Optimizasyonu</span></h3>
+<h3 class="heading mt-30">Software <span class="text-color-primary"> Performance <br> Optimization</span></h3>
 </div>
 </div>
 
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
-<h5 class="heading ">Modern uygulamalar için <span class="text-color-primary"> Software Performance Optimization</span> service sunuyoruz. Kod yapısı, veritabanı sorguları ve sistem altyapısı üzerinde yapılan iyileştirmeler sayesinde uygulamalarınızı daha hızlı ve verimli hale getiriyoruz.</h5>
-<div class="sub-heading">Performans optimizasyonu sayesinde web uygulamaları ve yazılım sistemleri daha stabil çalışır, kullanıcı deneyimi artar ve sistem kaynakları daha verimli kullanılır. Projeniz için Detaillı performans analizi ve optimizasyon çözümleri sunuyoruz.</div>
+<h5 class="heading ">We offer Software Performance Optimization (SPO) services for modern applications. Through improvements to the code structure, database queries, and system infrastructure, we make your applications faster and more efficient.</h5>
+<div class="sub-heading">Performance optimization makes web applications and software systems more stable, improves user experience, and allows for more efficient use of system resources. We offer detailed performance analysis and optimization solutions for your project.</div>
 </div>
 </div>
 

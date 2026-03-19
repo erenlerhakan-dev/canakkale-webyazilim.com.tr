@@ -75,8 +75,8 @@ $a4     = "API integration allows data flow between different software systems, 
 
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
-<h5 class="heading ">Modern yazılım sistemleri için <span class="text-color-primary"> API Development service</span> sunuyoruz. Farklı platformlar ve uygulamalar arasında güvenli veri iletişimi sağlayan güçlü API çözümleri geliştiriyoruz.</h5>
-<div class="sub-heading">API entegrasyonları sayesinde yazılım sistemlerinizi daha verimli hale getirebilir, uygulamalarınız arasında hızlı ve güvenli veri akışı sağlayabilirsiniz. Projeniz için Detaillı analiz ve teknik değerlendirme almak için bizimle iletişime geçebilirsiniz.</div>
+<h5 class="heading ">We offer <span class="text-color-primary">API Development service</span> for modern software systems. We develop powerful API solutions that enable secure data communication between different platforms and applications.</h5>
+<div class="sub-heading">Thanks to API integrations, you can make your software systems more efficient and ensure fast and secure data flow between your applications. You can contact us to get a detailed analysis and technical evaluation for your project.</div>
 </div>
 </div>
 

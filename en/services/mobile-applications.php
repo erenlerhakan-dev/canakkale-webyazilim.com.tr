@@ -69,14 +69,14 @@ $a4     = "The development process includes needs analysis and planning, prototy
 
 <div class="col-lg-4">
 <div class="modern-number-01">
-<h3 class="heading mt-30">İşletmeniz için <span class="text-color-primary"> Mobil <br> Uygulamalar</span></h3>
+<h3 class="heading mt-30">Mobile Applications for <span class="text-color-primary"> Your <br> Business</span></h3>
 </div>
 </div>
 
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
-<h5 class="heading ">iOS ve Android platformlarına özel <span class="text-color-primary"> mobil uygulama geliştirme</span> service sunuyoruz. Uygulamalarınız kullanıcı dostu, performanslı ve güvenli bir şekilde tasarlanır.</h5>
-<div class="sub-heading">İşletmenize özel Mobile Applications ile kullanıcı deneyimini artırın. Projeniz için Detaillı analiz, tasarım ve geliştirme süreçlerinde teknik destek sağlıyoruz.</div>
+<h5 class="heading ">We offer <span class="text-color-primary">mobile application development</span> services specifically for iOS and Android platforms. Your applications are designed to be user-friendly, high-performing, and secure.</h5>
+<div class="sub-heading">Enhance user experience with Mobile Applications tailored to your business. We provide technical support throughout the detailed analysis, design, and development processes for your project.</div>
 </div>
 </div>
 

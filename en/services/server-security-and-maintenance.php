@@ -69,14 +69,14 @@ $a4     = "The maintenance process includes server analysis, applying updates, p
 
 <div class="col-lg-4">
 <div class="modern-number-01">
-<h3 class="heading mt-30">Sunucularınız için <span class="text-color-primary"> Güvenlik ve <br> Bakım</span></h3>
+<h3 class="heading mt-30">Security and Maintenance <span class="text-color-primary"> for <br> Your Servers</span></h3>
 </div>
 </div>
 
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
-<h5 class="heading ">Sunucularınızın güvenliği ve performansı için <span class="text-color-primary"> profesyonel bakım ve yönetim service</span> sunuyoruz.</h5>
-<div class="sub-heading">Server güvenliği, bakım ve optimizasyon süreçleri ile sunucularınız kesintisiz ve güvenli çalışır. 7/24 teknik destek ile altyapınızı kontrol altında tutuyoruz.</div>
+<h5 class="heading ">We offer professional maintenance and management services for the security and performance of your servers.</h5>
+<div class="sub-heading">With server security, maintenance, and optimization processes, your servers operate seamlessly and securely. We keep your infrastructure under control with 24/7 technical support.</div>
 </div>
 </div>
 
