@@ -157,7 +157,7 @@ if (response === "email") { swal(" ", "Lütfen email adresinizi yazın.", "warni
 if (response === "phone") { swal(" ", "Lütfen telefon numaranızı yazın.", "warning"); }
 if (response === "message") { swal(" ", "Lütfen mesajınızı yazın.", "warning"); }
 if (response === "message_short") { swal(" ", "Lütfen daha açıklayıcı bir mesaj yazın.", "warning"); }
-if (response === "nok") { swal(" ", "Bir hata oluştu. Lütfen sayfayı yenileyip tekrar deneyin.", "warning"); } }
+if (response === "nok") { swal(" ", "Bir hata oluştu. Lütfen sayfayı yenileyip tekrar deneyin.", "warning"); }
 if (response === "bad") { swal(" ", "Bir hata oluştu. Lütfen sayfayı yenileyip tekrar deneyin.", "warning"); } }
 });
 
