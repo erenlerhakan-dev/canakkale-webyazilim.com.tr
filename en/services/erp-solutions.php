@@ -7,9 +7,9 @@ $ogdesc = "ERP çözümleri ile işletmenizin süreçlerini daha verimli hale ge
 $twdesc = "ERP çözümleri ile iş süreçlerinizi optimize edin! Kurumsal verimlilik için Çözüm Cloud Çanakkale yanınızda.";
 $cat    = "ERP, Web Yazılım";
 $lang   = "tr_TR";
-$img    = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/canakkale-erp-cozumleri.webp";
-$img2   = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/erp-cozumleri.webp";
-$url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/erp-cozumleri";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-erp-solutions.webp";
+$img2   = "https://www.canakkale-webyazilim.com.tr/images/services/erp-solutions.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/services/erp-solutions";
 $keys   = "ERP çözümleri, kurumsal yazılım, iş süreçleri yönetimi, üretim yönetimi, finans yönetimi, ERP sistemi";
 $alt    = "erp çözümleri";
 $q1     = "ERP nedir?";
@@ -49,12 +49,12 @@ $a4     = "Analiz ve planlama, yazılım yapılandırma, veri entegrasyonu, kull
 <div id="main-wrapper">
 <div class="site-wrapper-reveal">
 
-<div class="about-banner-wrap banner-space bg-img" data-bg="/images/services/canakkale-erp-cozumleri.webp">
+<div class="about-banner-wrap banner-space bg-img" data-bg="<?php echo $img; ?>">
 <div class="container">
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">ERP Solutions</h1>
+<h1 class="mb-15 text-white"><?php echo $name; ?></h1>
 <h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>
@@ -163,7 +163,7 @@ Kurulum Süreci <span><i class="fas fa-chevron-circle-down"></i>
 </div>
 
 <div class="col-lg-6">
-<img src="/images/services/erp-cozumleri.webp" alt="ERP Solutions" class="img-fluid">
+<img src="<?php echo $img2; ?>" alt="<?php echo $alt; ?>" class="img-fluid">
 </div>
 
 </div>

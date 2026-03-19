@@ -7,9 +7,9 @@ $ogdesc = "API geliştirme ile uygulamalarınızı modern ve esnek hale getirin.
 $twdesc = "API’nizi modern teknolojilerle geliştirin! Güvenli ve ölçeklenebilir çözümler için Çözüm Cloud Çanakkale yanınızda.";
 $cat    = "API, Web Yazılım";
 $lang   = "tr_TR";
-$img    = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/canakkale-api-gelistirme.webp";
-$img2   = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/api-gelistirme.webp";
-$url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/api-gelistirme";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-api-development.webp";
+$img2   = "https://www.canakkale-webyazilim.com.tr/images/services/api-development.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/services/api-development";
 $keys   = "API geliştirme, REST API geliştirme, web API geliştirme, yazılım entegrasyonu, API servisleri, backend API geliştirme";
 $alt    = "api geliştirme";
 $q1     = "API geliştirme nedir?";
@@ -49,12 +49,12 @@ $a4     = "API entegrasyonu sayesinde farklı yazılımlar arasında veri akış
 <div id="main-wrapper">
 <div class="site-wrapper-reveal">
 
-<div class="about-banner-wrap banner-space bg-img" data-bg="/images/services/canakkale-api-gelistirme.webp">
+<div class="about-banner-wrap banner-space bg-img" data-bg="<?php echo $img; ?>">
 <div class="container">
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">API Development Service</h1>
+<h1 class="mb-15 text-white"><?php echo $name; ?></h1>
 <h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>
@@ -163,7 +163,7 @@ API Entegrasyonunun Avantajları <span><i class="fas fa-chevron-circle-down"></i
 </div>
 
 <div class="col-lg-6">
-<img src="/images/services/api-gelistirme.webp" alt="API Development Servicesi" class="img-fluid">
+<img src="<?php echo $img2; ?>" alt="<?php echo $alt; ?>" class="img-fluid">
 </div>
 
 </div>

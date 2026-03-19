@@ -7,9 +7,9 @@ $ogdesc = "Yazılım performansını artıran teknikleri keşfedin. Çözüm Clo
 $twdesc = "Yazılım performansınızı yükseltin! Optimizasyon teknikleri ile uygulamalarınızı hızlandırın. Çözüm Cloud Çanakkale yanınızda.";
 $cat    = "Yazılım, Web Yazılım";
 $lang   = "tr_TR";
-$img    = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/canakkale-yazilim-performans-optimizasyonu.webp";
-$img2   = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/yazilim-performans-optimizasyonu.webp";
-$url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/yazilim-performans-optimizasyonu";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-software-performance-optimization.webp";
+$img2   = "https://www.canakkale-webyazilim.com.tr/images/services/software-performance-optimization.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/services/software-performance-optimization";
 $keys   = "yazılım performans optimizasyonu, uygulama performansı, kod optimizasyonu, veritabanı optimizasyonu, yazılım hızlandırma";
 $alt    = "yazılım performans optimizasyonu";
 $q1     = "Yazılım performans optimizasyonu nedir?";
@@ -49,12 +49,12 @@ $a4     = "Evet, hızlı çalışan web uygulamaları ve web siteleri arama moto
 <div id="main-wrapper">
 <div class="site-wrapper-reveal">
 
-<div class="about-banner-wrap banner-space bg-img" data-bg="/images/services/canakkale-software-performance-optimization.webp">
+<div class="about-banner-wrap banner-space bg-img" data-bg="<?php echo $img; ?>">
 <div class="container">
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">Software Performance Optimization</h1>
+<h1 class="mb-15 text-white"><?php echo $name; ?></h1>
 <h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>
@@ -163,7 +163,7 @@ Performans Optimizasyonunun Önemi <span><i class="fas fa-chevron-circle-down"><
 </div>
 
 <div class="col-lg-6">
-<img src="/images/services/software-performance-optimization.webp" alt="Software Performance Optimization" class="img-fluid">
+<img src="<?php echo $img2; ?>" alt="<?php echo $alt; ?>" class="img-fluid">
 </div>
 
 </div>

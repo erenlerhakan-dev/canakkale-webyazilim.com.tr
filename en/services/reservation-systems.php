@@ -7,9 +7,9 @@ $ogdesc = "Rezervasyon sistemleri ile işletmenizin süreçlerini optimize edin.
 $twdesc = "Rezervasyon süreçlerinizi modernize edin! Güvenli ve kullanıcı dostu rezervasyon sistemleri için Çözüm Cloud Çanakkale yanınızda.";
 $cat    = "Web Yazılım, Rezervasyon";
 $lang   = "tr_TR";
-$img    = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/canakkale-rezervasyon-sistemleri.webp";
-$img2   = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/rezervasyon-sistemleri.webp";
-$url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/rezervasyon-sistemleri";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-reservation-systems.webp";
+$img2   = "https://www.canakkale-webyazilim.com.tr/images/services/reservation-systems.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/services/reservation-systems";
 $keys   = "rezervasyon sistemi, online rezervasyon yazılımı, booking sistemi, randevu sistemi, tur rezervasyon sistemi, otel rezervasyon yazılımı";
 $alt    = "rezervasyon sistemleri";
 $q1     = "Rezervasyon sistemi nedir?";
@@ -49,12 +49,12 @@ $a4     = "Online booking sistemi müşterilerin 7/24 rezervasyon yapmasını sa
 <div id="main-wrapper">
 <div class="site-wrapper-reveal">
 
-<div class="about-banner-wrap banner-space bg-img" data-bg="/images/services/canakkale-reservation-systems.webp">
+<div class="about-banner-wrap banner-space bg-img" data-bg="<?php echo $img; ?>">
 <div class="container">
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">Reservation Systems</h1>
+<h1 class="mb-15 text-white"><?php echo $name; ?></h1>
 <h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>
@@ -163,7 +163,7 @@ Rezervasyon Yazılımı Hangi Sektörlerde Kullanılır? <span><i class="fas fa-
 </div>
 
 <div class="col-lg-6">
-<img src="/images/services/reservation-systems.webp" alt="Reservation Systems" class="img-fluid">
+<img src="<?php echo $img2; ?>" alt="<?php echo $alt; ?>" class="img-fluid">
 </div>
 
 </div>

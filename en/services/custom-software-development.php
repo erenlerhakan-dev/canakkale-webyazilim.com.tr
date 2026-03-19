@@ -7,9 +7,9 @@ $ogdesc = "Özel yazılım geliştirme ile işletmenize uygun çözümler üreti
 $twdesc = "İşletmenize özel yazılım çözümleri geliştirin! Çözüm Cloud Çanakkale ile güvenli, ölçeklenebilir ve verimli projeler oluşturun.";
 $cat    = "Özel Yazılım, Web Yazılım";
 $lang   = "tr_TR";
-$img    = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/canakkale-ozel-yazilim-gelistirme.webp";
-$img2   = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/ozel-yazilim-gelistirme.webp";
-$url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/ozel-yazilim-gelistirme";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-custom-software-development.webp";
+$img2   = "https://www.canakkale-webyazilim.com.tr/images/services/custom-software-development.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/services/custom-software-development";
 $keys   = "özel yazılım geliştirme, kurumsal yazılım çözümleri, işletmeye özel yazılım, yazılım geliştirme hizmeti, web tabanlı yazılım, yazılım danışmanlığı";
 $alt    = "özel yazılım geliştirme";
 $q1     = "Özel yazılım geliştirme nedir?";
@@ -49,12 +49,12 @@ $a4     = "İhtiyaç analizi ve proje planlama, sistem tasarımı, yazılım gel
 <div id="main-wrapper">
 <div class="site-wrapper-reveal">
 
-<div class="about-banner-wrap banner-space bg-img" data-bg="/images/services/canakkale-custom-software-development.webp">
+<div class="about-banner-wrap banner-space bg-img" data-bg="<?php echo $img; ?>">
 <div class="container">
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">Custom Software Development</h1>
+<h1 class="mb-15 text-white"><?php echo $name; ?></h1>
 <h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>
@@ -163,7 +163,7 @@ Geliştirme Süreci <span><i class="fas fa-chevron-circle-down"></i>
 </div>
 
 <div class="col-lg-6">
-<img src="/images/services/custom-software-development.webp" alt="Custom Software Development" class="img-fluid">
+<img src="<?php echo $img2; ?>" alt="<?php echo $alt; ?>" class="img-fluid">
 </div>
 
 </div>

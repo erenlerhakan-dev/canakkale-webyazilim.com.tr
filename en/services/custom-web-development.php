@@ -7,9 +7,9 @@ $ogdesc = "Özel web geliştirme ile işletmenize uygun çözümler tasarlayın.
 $twdesc = "Web sitenizi ve uygulamalarınızı işletmenize özel geliştirin! Çözüm Cloud Çanakkale ile güvenli ve ölçeklenebilir çözümler üretin.";
 $cat    = "Web Yazılım, Özel Yazılım";
 $lang   = "tr_TR";
-$img    = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/canakkale-ozel-web-gelistirme.webp";
-$img2   = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/ozel-web-gelistirme.webp";
-$url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/ozel-web-gelistirme";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-custom-web-development.webp";
+$img2   = "https://www.canakkale-webyazilim.com.tr/images/services/custom-web-development.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/services/custom-web-development";
 $keys   = "özel web geliştirme, web tasarım, web yazılım geliştirme, kurumsal web çözümleri, web sitesi geliştirme, web uygulaması geliştirme";
 $alt    = "özel web geliştirme";
 $q1     = "Özel web geliştirme nedir?";
@@ -49,12 +49,12 @@ $a4     = "İhtiyaç analizi ve planlama, tasarım ve prototip, geliştirme, tes
 <div id="main-wrapper">
 <div class="site-wrapper-reveal">
 
-<div class="about-banner-wrap banner-space bg-img" data-bg="/images/services/canakkale-custom-web-development.webp">
+<div class="about-banner-wrap banner-space bg-img" data-bg="<?php echo $img; ?>">
 <div class="container">
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">Custom Web Development Servicesi</h1>
+<h1 class="mb-15 text-white"><?php echo $name; ?></h1>
 <h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>
@@ -163,7 +163,7 @@ Geliştirme Süreci <span><i class="fas fa-chevron-circle-down"></i>
 </div>
 
 <div class="col-lg-6">
-<img src="/images/services/custom-web-development.webp" alt="Custom Web Development" class="img-fluid">
+<img src="<?php echo $img2; ?>" alt="<?php echo $alt; ?>" class="img-fluid">
 </div>
 
 </div>

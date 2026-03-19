@@ -7,9 +7,9 @@ $ogdesc = "Mobil uygulama geliştirme ile işletmenizi dijital dünyada güçlen
 $twdesc = "Mobil uygulamalarınızı modern teknolojilerle geliştirin! Güvenli ve etkili çözümler için Çözüm Cloud Çanakkale yanınızda.";
 $cat    = "Mobil Geliştirme, Web Yazılım";
 $lang   = "tr_TR";
-$img    = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/canakkale-mobil-uygulamalar.webp";
-$img2   = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/mobil-uygulamalar.webp";
-$url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/mobil-uygulamalar";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-mobile-applications.webp";
+$img2   = "https://www.canakkale-webyazilim.com.tr/images/services/mobile-applications.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/services/mobile-applications";
 $keys   = "mobil uygulama geliştirme, iOS uygulama, Android uygulama, özel mobil uygulama, kurumsal mobil uygulama, mobil yazılım geliştirme";
 $alt    = "mobil uygulama geliştirme";
 $q1     = "Mobil uygulama geliştirme nedir?";
@@ -49,12 +49,12 @@ $a4     = "İhtiyaç analizi ve planlama, prototip ve tasarım, geliştirme, tes
 <div id="main-wrapper">
 <div class="site-wrapper-reveal">
 
-<div class="about-banner-wrap banner-space bg-img" data-bg="/images/services/canakkale-mobile-applications.webp">
+<div class="about-banner-wrap banner-space bg-img" data-bg="<?php echo $img; ?>">
 <div class="container">
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">Custom Web Development Servicesi</h1>
+<h1 class="mb-15 text-white"><?php echo $name; ?></h1>
 <h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>
@@ -163,7 +163,7 @@ Geliştirme Süreci <span><i class="fas fa-chevron-circle-down"></i>
 </div>
 
 <div class="col-lg-6">
-<img src="/images/services/mobile-applications.webp" alt="Mobil Uygulama Geliştirme" class="img-fluid">
+<img src="<?php echo $img2; ?>" alt="<?php echo $alt; ?>" class="img-fluid">
 </div>
 
 </div>

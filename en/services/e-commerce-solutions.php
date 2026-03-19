@@ -7,9 +7,9 @@ $ogdesc = "E-ticaret çözümleri ile işletmenizi dijitalde güçlendirin. Çö
 $twdesc = "E-ticaret sitenizi optimize edin! Güvenli ve kullanıcı dostu çözümler için Çözüm Cloud Çanakkale yanınızda.";
 $cat    = "E-Ticaret, Web Yazılım";
 $lang   = "tr_TR";
-$img    = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/canakkale-e-ticaret-cozumleri.webp";
-$img2   = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/e-ticaret-cozumleri.webp";
-$url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/e-ticaret-cozumleri";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-e-commerce-solutions.webp";
+$img2   = "https://www.canakkale-webyazilim.com.tr/images/services/e-commerce-solutions.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/services/e-commerce-solutions";
 $keys   = "e-ticaret çözümleri, online mağaza, e-ticaret platformu, dijital mağaza yönetimi, e-ticaret sitesi, satış optimizasyonu";
 $alt    = "e-ticaret çözümleri";
 $q1     = "E-ticaret çözümleri nedir?";
@@ -49,12 +49,12 @@ $a4     = "İhtiyaç analizi, tasarım ve prototip, platform geliştirme, test v
 <div id="main-wrapper">
 <div class="site-wrapper-reveal">
 
-<div class="about-banner-wrap banner-space bg-img" data-bg="/images/services/canakkale-e-commerce-solutions.webp">
+<div class="about-banner-wrap banner-space bg-img" data-bg="<?php echo $img; ?>">
 <div class="container">
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">E-commerce Solutions</h1>
+<h1 class="mb-15 text-white"><?php echo $name; ?></h1>
 <h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>
@@ -163,7 +163,7 @@ Kurulum Süreci <span><i class="fas fa-chevron-circle-down"></i>
 </div>
 
 <div class="col-lg-6">
-<img src="/images/services/e-commerce-solutions.webp" alt="E-commerce Solutions" class="img-fluid">
+<img src="<?php echo $img2; ?>" alt="<?php echo $alt; ?>" class="img-fluid">
 </div>
 
 </div>

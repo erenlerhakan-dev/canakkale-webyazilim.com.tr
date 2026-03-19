@@ -7,9 +7,9 @@ $ogdesc = "CRM sistemleri ile işletmenizin müşteri yönetimini geliştirin. �
 $twdesc = "CRM sistemleri ile müşteri ilişkilerinizi güçlendirin! Verimli ve etkili çözümler için Çözüm Cloud Çanakkale yanınızda.";
 $cat    = "CRM, Web Yazılım";
 $lang   = "tr_TR";
-$img    = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/canakkale-crm-sistemleri.webp";
-$img2   = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/crm-sistemleri.webp";
-$url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/crm-sistemleri";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-crm-systems.webp";
+$img2   = "https://www.canakkale-webyazilim.com.tr/images/services/crm-systems.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/services/crm-systems";
 $keys   = "CRM sistemleri, müşteri ilişkileri yönetimi, CRM yazılımı, satış yönetimi sistemi, müşteri yönetim yazılımı";
 $alt    = "crm sistemleri";
 $q1     = "CRM sistemi nedir?";
@@ -49,12 +49,12 @@ $a4     = "Bulut tabanlı CRM sistemleri internet üzerinden çalışan ve herha
 <div id="main-wrapper">
 <div class="site-wrapper-reveal">
 
-<div class="about-banner-wrap banner-space bg-img" data-bg="/images/services/canakkale-crm-systems.webp">
+<div class="about-banner-wrap banner-space bg-img" data-bg="<?php echo $img; ?>">
 <div class="container">
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">CRM Systems</h1>
+<h1 class="mb-15 text-white"><?php echo $name; ?></h1>
 <h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>
@@ -163,7 +163,7 @@ CRM Systems Neden Önemlidir? <span><i class="fas fa-chevron-circle-down"></i>
 </div>
 
 <div class="col-lg-6">
-<img src="/images/services/crm-systems.webp" alt="CRM Systems" class="img-fluid">
+<img src="<?php echo $img2; ?>" alt="<?php echo $alt; ?>" class="img-fluid">
 </div>
 
 </div>
