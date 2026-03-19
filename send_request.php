@@ -9,17 +9,13 @@ $filter = new SpamFilter();
 
 header("Content-type:text/html; charset=utf-8");
 
-$allowed_origin = 'https://www.canakkale-webyazilim.com.tr/index';
-if ($_SERVER['HTTP_REFERER'] !== $allowed_origin) {
-echo "nok";  exit;
-}
-
 if (!empty($_POST)) {
 
 $_name     = $_POST['_name'];
 $_email    = $_POST['_email'];
 $_phone    = $_POST['_phone'];
 $_message  = $_POST['_message'];
+$_serv     = $_POST['_serv'];
 
 $result1 = $filter->check_text($_name); if ($result1) { echo "nok"; exit; }
 $result2 = $filter->check_text($_email); if ($result2) { echo "nok"; exit; }
@@ -41,7 +37,7 @@ if (strlen($_message) < 15) { echo "message_short"; exit; }
 $email_title    = "canakkale-webyazilim.com.tr - ".date("d-m-Y h:i");
 $emailbodytitle = "canakkale-webyazilim.com.tr - ".date("d-m-Y h:i");
 
-$emailbodytext  = "Ad Soyad: ".$_name."<br>Telefon: ".$_phone."<br>Email: ".$_email."<br>Mesaj: ".$_message;
+$emailbodytext  = "Ad Soyad: ".$_name."<br>Telefon: ".$_phone."<br>Email: ".$_email."<br>Hizmet: ".$_serv."<br>Mesaj: ".$_message;
 
 $subject  = '=?UTF-8?B?'.base64_encode($email_title).'?=';
 
