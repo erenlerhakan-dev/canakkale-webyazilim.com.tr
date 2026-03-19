@@ -1,4 +1,5 @@
 <?php
+include_once('include/h_functions.php');
 include_once('include/class.phpmailer.php');
 include_once('include/class.smtp.php');
 include_once('include/php-spam-filter/spamfilter.php');
