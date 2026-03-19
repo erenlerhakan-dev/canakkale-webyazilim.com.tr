@@ -1,17 +1,17 @@
 <?php
-$name   = "Custom Web Development Servicesi";
-$title  = "Teknik Danışmanlık Hizmetleri | Çözüm Cloud Çanakkale";
-$desc1  = "Çözüm Cloud Çanakkale ile server, hosting, yazılım ve web sitesi konularında profesyonel teknik danışmanlık alın. İşletmenize özel çözümler geliştirin.";
-$desc2  = "Altyapı, yazılım ve web projelerinizde doğru stratejileri belirleyin. Performans, güvenlik ve verimliliği artıran teknik danışmanlık hizmetleri sunuyoruz.";
-$ogdesc = "Server, hosting, yazılım ve web sitesi konularında teknik danışmanlık ile projelerinizi güçlendirin. Çözüm Cloud Çanakkale ile etkili çözümler oluşturun.";
-$twdesc = "Teknik danışmanlık ile projelerinizi optimize edin! Çözüm Cloud Çanakkale yanınızda, server ve web çözümleriniz için profesyonel destek sağlar.";
-$cat    = "Teknik Danışmanlık, Web Yazılım";
-$lang   = "tr_TR";
+$name   = "Technical Consulting";
+$title  = "Technical Consulting Services | Çözüm Cloud Çanakkale";
+$desc1  = "Get professional technical consulting from Çözüm Cloud for server, hosting, software, and website solutions. Optimize your IT infrastructure and projects.";
+$desc2  = "Receive expert guidance on web development, software deployment, and hosting management. Improve performance, security, and efficiency with tailored consulting.";
+$ogdesc = "Enhance your projects with professional technical consulting. Çözüm Cloud Çanakkale offers expert advice on servers, hosting, software, and websites.";
+$twdesc = "Optimize your IT projects with technical consulting! Çözüm Cloud Çanakkale provides expert solutions for server, hosting, and web applications.";
+$cat    = "Technical Consulting, Web Development";
+$lang   = "en_US";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-technical-consulting.webp";
 $img2   = "https://www.canakkale-webyazilim.com.tr/images/services/technical-consulting.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/services/technical-consulting";
 $keys   = "teknik danışmanlık, bilişim danışmanlığı, yazılım danışmanlığı, server yönetimi, hosting danışmanlığı, IT danışmanlık hizmetleri";
-$alt    = "teknik danışmanlık hizmetleri";
+$alt    = "custom web development servicesi";
 $q1     = "Teknik danışmanlık nedir?";
 $q2     = "Server yönetimi danışmanlığı ne sağlar?";
 $q3     = "Hosting danışmanlığı neden önemlidir?";
@@ -73,9 +73,9 @@ $a4     = "Yazılım danışmanlığı, sistem mimarisi, API entegrasyonları, p
 </div>
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
-<h5 class="heading ">İşletmeler için kapsamlı <span class="text-color-primary"> yazılım, server, hosting ve bilişim danışmanlığı</span> Servicesi sunuyoruz. Dijital altyapınızı güvenli, hızlı ve ölçeklenebilir hale getirmenize yardımcı oluyoruz.</h5>
+<h5 class="heading ">İşletmeler için kapsamlı <span class="text-color-primary"> yazılım, server, hosting ve bilişim danışmanlığı</span> Service sunuyoruz. Dijital altyapınızı güvenli, hızlı ve ölçeklenebilir hale getirmenize yardımcı oluyoruz.</h5>
 
-<div class="sub-heading">Technical Consulting Servicesi sayesinde yazılım projelerinizin doğru mimari ile geliştirilmesini sağlayabilir, server altyapınızı optimize edebilir ve hosting performansınızı artırabilirsiniz. Projeniz için Detaillı analiz ve değerlendirme hizmeti almak için bizimle iletişime geçebilirsiniz.</div>
+<div class="sub-heading">Technical Consulting Service sayesinde yazılım projelerinizin doğru mimari ile geliştirilmesini sağlayabilir, server altyapınızı optimize edebilir ve hosting performansınızı artırabilirsiniz. Projeniz için Detaillı analiz ve değerlendirme hizmeti almak için bizimle iletişime geçebilirsiniz.</div>
 </div>
 </div>
 </div>

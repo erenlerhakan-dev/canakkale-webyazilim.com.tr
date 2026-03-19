@@ -1,17 +1,17 @@
 <?php
 $name   = "ERP Solutions";
-$title  = "ERP Çözümleri ile İş Süreçlerini Optimize Edin | Çözüm Cloud Çanakkale";
-$desc1  = "Çözüm Cloud Çanakkale ile ERP çözümleri kullanarak işletmenizin iş süreçlerini entegre edin. Finans, üretim ve lojistik süreçlerini optimize edin.";
-$desc2  = "Kurumsal kaynak planlaması ile verimliliği artırın. ERP sistemleri ile süreçlerinizi merkezi ve etkili şekilde yönetin.";
-$ogdesc = "ERP çözümleri ile işletmenizin süreçlerini daha verimli hale getirin. Çözüm Cloud Çanakkale ile modern ve entegre sistemler geliştirin.";
-$twdesc = "ERP çözümleri ile iş süreçlerinizi optimize edin! Kurumsal verimlilik için Çözüm Cloud Çanakkale yanınızda.";
-$cat    = "ERP, Web Yazılım";
-$lang   = "tr_TR";
+$title  = "ERP Solutions to Optimize Business Processes | Çözüm Cloud Çanakkale";
+$desc1  = "Integrate and streamline your business processes with ERP solutions from Çözüm Cloud. Improve efficiency in finance, production, and logistics.";
+$desc2  = "Enhance productivity with corporate resource planning. Manage your processes centrally and effectively with modern ERP systems.";
+$ogdesc = "Optimize your business processes with ERP solutions. Create modern and integrated systems with Çözüm Cloud Çanakkale.";
+$twdesc = "Boost your business efficiency with ERP solutions! Centralized and effective management with Çözüm Cloud Çanakkale.";
+$cat    = "ERP, Web Development";
+$lang   = "en_US";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-erp-solutions.webp";
 $img2   = "https://www.canakkale-webyazilim.com.tr/images/services/erp-solutions.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/services/erp-solutions";
 $keys   = "ERP çözümleri, kurumsal yazılım, iş süreçleri yönetimi, üretim yönetimi, finans yönetimi, ERP sistemi";
-$alt    = "erp çözümleri";
+$alt    = "erp solutions";
 $q1     = "ERP nedir?";
 $q2     = "ERP çözümleri hangi süreçleri kapsar?";
 $q3     = "ERP çözümlerinin avantajları nelerdir?";

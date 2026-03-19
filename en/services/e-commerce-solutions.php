@@ -1,17 +1,17 @@
 <?php
 $name   = "E-commerce Solutions";
-$title  = "E-Ticaret Çözümleri ile İşinizi Dijitalde Büyütün | Çözüm Cloud Çanakkale";
-$desc1  = "Çözüm Cloud Çanakkale ile işletmenize özel e-ticaret çözümleri geliştirin. Online satış süreçlerini optimize edin ve verimli platformlar oluşturun.";
-$desc2  = "E-ticaret sitenizi güvenli, hızlı ve kullanıcı dostu hale getirin. Ödeme sistemleri, ürün yönetimi ve müşteri deneyimi odaklı çözümler sunun.";
-$ogdesc = "E-ticaret çözümleri ile işletmenizi dijitalde güçlendirin. Çözüm Cloud Çanakkale ile modern ve etkili online satış platformları oluşturun.";
-$twdesc = "E-ticaret sitenizi optimize edin! Güvenli ve kullanıcı dostu çözümler için Çözüm Cloud Çanakkale yanınızda.";
-$cat    = "E-Ticaret, Web Yazılım";
-$lang   = "tr_TR";
+$title  = "E-Commerce Solutions to Grow Your Business Online | Çözüm Cloud Çanakkale";
+$desc1  = "Boost your online business with tailored e-commerce solutions from Çözüm Cloud. Optimize sales processes and create efficient digital platforms.";
+$desc2  = "Make your e-commerce site secure, fast, and user-friendly. Implement payment systems, product management, and customer experience-focused solutions.";
+$ogdesc = "Strengthen your business digitally with e-commerce solutions. Create modern and effective online sales platforms with Çözüm Cloud Çanakkale.";
+$twdesc = "Optimize your e-commerce site! Get secure and user-friendly solutions with Çözüm Cloud Çanakkale.";
+$cat    = "E-Commerce, Web Development";
+$lang   = "en_US";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-e-commerce-solutions.webp";
 $img2   = "https://www.canakkale-webyazilim.com.tr/images/services/e-commerce-solutions.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/services/e-commerce-solutions";
 $keys   = "e-ticaret çözümleri, online mağaza, e-ticaret platformu, dijital mağaza yönetimi, e-ticaret sitesi, satış optimizasyonu";
-$alt    = "e-ticaret çözümleri";
+$alt    = "e-commerce solutions";
 $q1     = "E-ticaret çözümleri nedir?";
 $q2     = "Hangi özellikler sunulur?";
 $q3     = "E-ticaret çözümlerinin avantajları nelerdir?";

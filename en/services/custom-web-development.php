@@ -1,17 +1,17 @@
 <?php
-$name   = "Custom Web Development Servicesi";
-$title  = "Özel Web Geliştirme Çözümleri | Çözüm Cloud Çanakkale";
-$desc1  = "Çözüm Cloud Çanakkale ile işletmenize özel web geliştirme çözümleri oluşturun. İhtiyaçlarınıza uygun, güvenli ve ölçeklenebilir web siteleri tasarlayın.";
-$desc2  = "Kurumsal web siteleri, portallar ve özel web uygulamaları ile dijital varlığınızı güçlendirin. Modern teknolojilerle verimli ve kullanıcı dostu projeler geliştirin.";
-$ogdesc = "Özel web geliştirme ile işletmenize uygun çözümler tasarlayın. Çözüm Cloud Çanakkale ile modern ve etkili web projeleri oluşturun.";
-$twdesc = "Web sitenizi ve uygulamalarınızı işletmenize özel geliştirin! Çözüm Cloud Çanakkale ile güvenli ve ölçeklenebilir çözümler üretin.";
-$cat    = "Web Yazılım, Özel Yazılım";
-$lang   = "tr_TR";
+$name   = "Custom Web Development Services";
+$title  = "Custom Web Development Services | Çözüm Cloud Çanakkale";
+$desc1  = "Create tailored web solutions with Çözüm Cloud. Develop secure, scalable, and user-friendly websites and portals customized to your business needs.";
+$desc2  = "Enhance your digital presence with corporate websites, portals, and custom web applications. Build modern, efficient, and interactive web projects.";
+$ogdesc = "Design custom web solutions for your business. Develop modern and effective web projects with Çözüm Cloud Çanakkale.";
+$twdesc = "Develop websites and applications customized to your business! Secure and scalable solutions with Çözüm Cloud Çanakkale.";
+$cat    = "Custom Web Development, Web Development";
+$lang   = "en_US";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-custom-web-development.webp";
 $img2   = "https://www.canakkale-webyazilim.com.tr/images/services/custom-web-development.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/services/custom-web-development";
 $keys   = "özel web geliştirme, web tasarım, web yazılım geliştirme, kurumsal web çözümleri, web sitesi geliştirme, web uygulaması geliştirme";
-$alt    = "özel web geliştirme";
+$alt    = "custom web development servicesi";
 $q1     = "Özel web geliştirme nedir?";
 $q2     = "Özel web geliştirme hangi avantajları sağlar?";
 $q3     = "Hangi sektörlerde kullanılabilir?";

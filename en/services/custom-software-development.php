@@ -1,17 +1,17 @@
 <?php
 $name   = "Custom Software Development";
-$title  = "Özel Yazılım Geliştirme Çözümleri | Çözüm Cloud Çanakkale";
-$desc1  = "Çözüm Cloud Çanakkale ile işletmenize özel yazılım çözümleri geliştirin. İş süreçlerinize uygun, güvenli ve ölçeklenebilir uygulamalar oluşturun.";
-$desc2  = "Kurumsal ve sektörel yazılım ihtiyaçlarınızı karşılayan özel çözümler sunun. Modern teknolojilerle verimli ve kullanıcı dostu yazılımlar geliştirin.";
-$ogdesc = "Özel yazılım geliştirme ile işletmenize uygun çözümler üretin. Çözüm Cloud Çanakkale ile modern ve etkili yazılım projeleri oluşturun.";
-$twdesc = "İşletmenize özel yazılım çözümleri geliştirin! Çözüm Cloud Çanakkale ile güvenli, ölçeklenebilir ve verimli projeler oluşturun.";
-$cat    = "Özel Yazılım, Web Yazılım";
-$lang   = "tr_TR";
+$title  = "Custom Software Development Solutions | Çözüm Cloud Çanakkale";
+$desc1  = "Develop tailored software solutions with Çözüm Cloud. Create secure, scalable, and efficient applications designed specifically for your business needs.";
+$desc2  = "Provide corporate and industry-specific software solutions. Build modern, user-friendly, and productive software using advanced technologies.";
+$ogdesc = "Produce custom software solutions perfectly suited for your business. Develop modern and effective projects with Çözüm Cloud Çanakkale.";
+$twdesc = "Develop software tailored to your business! Secure, scalable, and efficient solutions with Çözüm Cloud Çanakkale.";
+$cat    = "Custom Software, Web Development";
+$lang   = "en_US";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-custom-software-development.webp";
 $img2   = "https://www.canakkale-webyazilim.com.tr/images/services/custom-software-development.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/services/custom-software-development";
 $keys   = "özel yazılım geliştirme, kurumsal yazılım çözümleri, işletmeye özel yazılım, yazılım geliştirme hizmeti, web tabanlı yazılım, yazılım danışmanlığı";
-$alt    = "özel yazılım geliştirme";
+$alt    = "custom software development";
 $q1     = "Özel yazılım geliştirme nedir?";
 $q2     = "Özel yazılım geliştirme hangi avantajları sağlar?";
 $q3     = "Hangi sektörler özel yazılımdan faydalanabilir?";

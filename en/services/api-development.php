@@ -1,17 +1,17 @@
 <?php
 $name   = "API Development Service";
-$title  = "Modern API Geliştirme Rehberi | Çözüm Cloud Çanakkale";
-$desc1  = "Çözüm Cloud Çanakkale ile API geliştirme süreçlerini öğrenin. Güvenli, ölçeklenebilir ve verimli API çözümleri oluşturun.";
-$desc2  = "REST, GraphQL ve diğer modern API teknolojileri ile uygulamalarınızı güçlendirin. En iyi geliştirme pratikleri ile projelerinizi optimize edin.";
-$ogdesc = "API geliştirme ile uygulamalarınızı modern ve esnek hale getirin. Çözüm Cloud Çanakkale ile güvenli ve verimli API çözümleri geliştirin.";
-$twdesc = "API’nizi modern teknolojilerle geliştirin! Güvenli ve ölçeklenebilir çözümler için Çözüm Cloud Çanakkale yanınızda.";
-$cat    = "API, Web Yazılım";
-$lang   = "tr_TR";
+$title  = "Professional API Development Services | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud provides secure, scalable, and efficient API development services. Enhance your web and mobile applications with modern API solutions.";
+$desc2  = "Leverage REST, GraphQL, and other API technologies to strengthen your applications. Implement best practices for seamless integration and high performance.";
+$ogdesc = "Build flexible and modern APIs with Çözüm Cloud. Ensure security, scalability, and efficiency in your application development.";
+$twdesc = "Develop robust APIs for your applications! Secure, scalable, and efficient solutions with Çözüm Cloud Çanakkale.";
+$cat    = "API, Web Development";
+$lang   = "en_US";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-api-development.webp";
 $img2   = "https://www.canakkale-webyazilim.com.tr/images/services/api-development.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/services/api-development";
 $keys   = "API geliştirme, REST API geliştirme, web API geliştirme, yazılım entegrasyonu, API servisleri, backend API geliştirme";
-$alt    = "api geliştirme";
+$alt    = "api development service";
 $q1     = "API geliştirme nedir?";
 $q2     = "REST API neden kullanılır?";
 $q3     = "API güvenliği nasıl sağlanır?";

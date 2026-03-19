@@ -1,17 +1,17 @@
 <?php
 $name   = "B2B and B2C Solutions";
-$title  = "B2B ve B2C Web Çözümleri | Çözüm Cloud Çanakkale";
-$desc1  = "Çözüm Cloud Çanakkale ile B2B ve B2C işletmeler için etkili web çözümleri geliştirin. Satış süreçlerini optimize eden modern platformlar oluşturun.";
-$desc2  = "B2B ve B2C projelerde kullanıcı deneyimini, ödeme sistemlerini ve veri entegrasyonunu optimize edin. İşletmenize özel çözümler tasarlayın.";
-$ogdesc = "B2B ve B2C çözümleri ile işletmenizi dijitalde güçlendirin. Çözüm Cloud Çanakkale ile modern ve verimli web uygulamaları geliştirin.";
-$twdesc = "B2B ve B2C projelerinizi güçlendirin! İşletmenize özel web çözümleri için Çözüm Cloud Çanakkale yanınızda.";
+$title  = "B2B and B2C Web Solutions | Çözüm Cloud Çanakkale";
+$desc1  = "Develop effective web solutions for B2B and B2C businesses with Çözüm Cloud. Optimize sales processes and create modern, scalable platforms.";
+$desc2  = "Enhance user experience, payment systems, and data integration in B2B and B2C projects. Build customized solutions tailored to your business needs.";
+$ogdesc = "Strengthen your business digitally with B2B and B2C solutions. Develop modern and efficient web applications with Çözüm Cloud Çanakkale.";
+$twdesc = "Boost your B2B and B2C projects! Customized web solutions for your business with Çözüm Cloud Çanakkale.";
 $cat    = "B2B, B2C";
-$lang   = "tr_TR";
+$lang   = "en_US";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-b2b-b2c-solutions.webp";
 $img2   = "https://www.canakkale-webyazilim.com.tr/images/services/b2b-b2c-solutions.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/services/b2b-b2c-solutions";
 $keys   = "B2B çözümleri, B2C çözümleri, dijital ticaret platformu, e-ticaret yazılımı, B2B e-ticaret sistemi, B2C satış platformu";
-$alt    = "b2b ve b2c çözümleri";
+$alt    = "b2b and b2c solutions";
 $q1     = "B2B çözümleri nedir?";
 $q2     = "B2C çözümleri nedir?";
 $q3     = "B2B ve B2C sistemleri arasındaki fark nedir?";

@@ -1,17 +1,17 @@
 <?php
 $name   = "Server Security and Maintenance";
-$title  = "Sunucu Güvenliği ve Bakımı Rehberi | Çözüm Cloud Çanakkale";
-$desc1  = "Çözüm Cloud Çanakkale ile sunucularınızın güvenliğini sağlayın ve düzenli bakım süreçlerini optimize edin. Kesintisiz ve güvenli sistemler kurun.";
-$desc2  = "Sunucu güvenliği, güncellemeler ve performans optimizasyonu ile sistemlerinizi koruyun. Olası saldırılara karşı önlemler alın ve güvenli altyapı sağlayın.";
-$ogdesc = "Sunucu güvenliği ve bakımı ile iş süreçlerinizi güvence altına alın. Çözüm Cloud Çanakkale ile güvenli ve yönetilebilir sunucu çözümleri geliştirin.";
-$twdesc = "Sunucularınızı güvenli ve sorunsuz çalışır hale getirin! Güvenlik ve bakım çözümleri için Çözüm Cloud Çanakkale yanınızda.";
-$cat    = "Sunucu, Web Yazılım";
-$lang   = "tr_TR";
+$title  = "Server Security and Maintenance Services | Çözüm Cloud Çanakkale";
+$desc1  = "Ensure the security and reliability of your servers with Çözüm Cloud. Optimize maintenance processes for uninterrupted and secure system operations.";
+$desc2  = "Protect your servers with updates, performance optimization, and security measures. Safeguard your infrastructure against unauthorized access and potential threats.";
+$ogdesc = "Secure and maintain your servers effectively. Develop reliable and manageable server solutions with Çözüm Cloud Çanakkale.";
+$twdesc = "Keep your servers safe and fully operational! Security and maintenance services with Çözüm Cloud Çanakkale.";
+$cat    = "Server, Web Development";
+$lang   = "en_US";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-server-security-and-maintenance.webp";
 $img2   = "https://www.canakkale-webyazilim.com.tr/images/services/server-security-and-maintenance.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/services/server-security-and-maintenance";
 $keys   = "sunucu güvenliği, server bakımı, server yönetimi, sunucu optimizasyonu, IT bakım hizmeti, sunucu güvenlik çözümleri";
-$alt    = "sunucu güvenliği ve bakımı";
+$alt    = "server security and maintenance";
 $q1     = "Sunucu güvenliği nedir?";
 $q2     = "Sunucu bakımı neden önemlidir?";
 $q3     = "Hangi hizmetleri sunuyorsunuz?";

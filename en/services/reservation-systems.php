@@ -1,17 +1,17 @@
 <?php
 $name   = "Reservation Systems";
-$title  = "Rezervasyon Sistemleri ile İşletmenizi Güçlendirin | Çözüm Cloud Çanakkale";
-$desc1  = "Çözüm Cloud Çanakkale ile işletmeniz için özelleştirilmiş rezervasyon sistemleri geliştirin. Rezervasyon süreçlerini hızlandırın ve yönetimi kolaylaştırın.";
-$desc2  = "Online rezervasyon, ödeme ve yönetim süreçlerini tek platformda yönetin. Müşteri deneyimini artıran modern ve güvenli rezervasyon çözümleri oluşturun.";
-$ogdesc = "Rezervasyon sistemleri ile işletmenizin süreçlerini optimize edin. Çözüm Cloud Çanakkale ile hızlı ve güvenilir rezervasyon çözümleri geliştirin.";
-$twdesc = "Rezervasyon süreçlerinizi modernize edin! Güvenli ve kullanıcı dostu rezervasyon sistemleri için Çözüm Cloud Çanakkale yanınızda.";
-$cat    = "Web Yazılım, Rezervasyon";
-$lang   = "tr_TR";
+$title  = "Reservation Systems for Your Business | Çözüm Cloud Çanakkale";
+$desc1  = "Develop customized reservation systems with Çözüm Cloud to streamline booking processes and enhance management efficiency for your business.";
+$desc2  = "Manage online bookings, payments, and scheduling on a single platform. Create modern and secure reservation solutions that improve customer experience.";
+$ogdesc = "Optimize your business operations with advanced reservation systems. Develop fast and reliable solutions with Çözüm Cloud Çanakkale.";
+$twdesc = "Modernize your booking processes! Secure and user-friendly reservation systems with Çözüm Cloud Çanakkale.";
+$cat    = "Web Development, Reservation Systems";
+$lang   = "en_US";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-reservation-systems.webp";
 $img2   = "https://www.canakkale-webyazilim.com.tr/images/services/reservation-systems.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/services/reservation-systems";
 $keys   = "rezervasyon sistemi, online rezervasyon yazılımı, booking sistemi, randevu sistemi, tur rezervasyon sistemi, otel rezervasyon yazılımı";
-$alt    = "rezervasyon sistemleri";
+$alt    = "reservation systems";
 $q1     = "Rezervasyon sistemi nedir?";
 $q2     = "Online rezervasyon sistemi hangi sektörlerde kullanılır?";
 $q3     = "Rezervasyon yazılımı işletmelere ne kazandırır?";

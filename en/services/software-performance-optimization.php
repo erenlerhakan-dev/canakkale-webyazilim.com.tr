@@ -1,17 +1,17 @@
 <?php
 $name   = "Software Performance Optimization";
-$title  = "Yazılım Performans Optimizasyonu Teknikleri | Çözüm Cloud Çanakkale";
-$desc1  = "Çözüm Cloud Çanakkale ile yazılım projelerinizin performansını artırın. Kod, veritabanı ve altyapı optimizasyonları ile hızlı ve verimli uygulamalar geliştirin.";
-$desc2  = "Yavaş çalışan uygulamalara veda edin. Performans izleme, kod iyileştirme ve ölçeklenebilir mimari çözümleri ile yazılım süreçlerinizi optimize edin.";
-$ogdesc = "Yazılım performansını artıran teknikleri keşfedin. Çözüm Cloud Çanakkale ile hızlı, güvenli ve verimli uygulamalar oluşturun.";
-$twdesc = "Yazılım performansınızı yükseltin! Optimizasyon teknikleri ile uygulamalarınızı hızlandırın. Çözüm Cloud Çanakkale yanınızda.";
-$cat    = "Yazılım, Web Yazılım";
-$lang   = "tr_TR";
+$title  = "Software Performance Optimization Techniques | Çözüm Cloud Çanakkale";
+$desc1  = "Enhance the performance of your software projects with Çözüm Cloud. Optimize code, database, and infrastructure for faster and more efficient applications.";
+$desc2  = "Eliminate slow-running applications with performance monitoring, code improvements, and scalable architecture solutions to optimize your software processes.";
+$ogdesc = "Discover techniques to boost software performance. Build fast, secure, and efficient applications with Çözüm Cloud Çanakkale.";
+$twdesc = "Improve your software performance! Accelerate applications with optimization techniques. Çözüm Cloud Çanakkale is by your side.";
+$cat    = "Software, Web Development";
+$lang   = "en_US";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-software-performance-optimization.webp";
 $img2   = "https://www.canakkale-webyazilim.com.tr/images/services/software-performance-optimization.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/services/software-performance-optimization";
 $keys   = "yazılım performans optimizasyonu, uygulama performansı, kod optimizasyonu, veritabanı optimizasyonu, yazılım hızlandırma";
-$alt    = "yazılım performans optimizasyonu";
+$alt    = "software performance optimization";
 $q1     = "Yazılım performans optimizasyonu nedir?";
 $q2     = "Performans optimizasyonu neden önemlidir?";
 $q3     = "Veritabanı optimizasyonu nedir?";

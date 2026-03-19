@@ -1,17 +1,17 @@
 <?php
-$name   = "Custom Web Development Servicesi";
-$title  = "Mobil Uygulama Geliştirme Çözümleri | Çözüm Cloud Çanakkale";
-$desc1  = "Çözüm Cloud Çanakkale ile mobil uygulamalar geliştirin. iOS ve Android için kullanıcı dostu, güvenli ve yüksek performanslı çözümler oluşturun.";
-$desc2  = "Native veya cross-platform mobil uygulama geliştirme seçenekleri ile projelerinizi hızlı ve verimli bir şekilde hayata geçirin.";
-$ogdesc = "Mobil uygulama geliştirme ile işletmenizi dijital dünyada güçlendirin. Çözüm Cloud Çanakkale ile modern ve ölçeklenebilir çözümler oluşturun.";
-$twdesc = "Mobil uygulamalarınızı modern teknolojilerle geliştirin! Güvenli ve etkili çözümler için Çözüm Cloud Çanakkale yanınızda.";
-$cat    = "Mobil Geliştirme, Web Yazılım";
-$lang   = "tr_TR";
+$name   = "Mobile Applications";
+$title  = "Mobile Application Development Services | Çözüm Cloud Çanakkale";
+$desc1  = "Develop user-friendly and high-performance mobile applications for iOS and Android with Çözüm Cloud. Tailored solutions for your business needs.";
+$desc2  = "Choose between native or cross-platform mobile development to deliver fast, efficient, and modern apps. Enhance user engagement and digital presence.";
+$ogdesc = "Create modern and scalable mobile applications for your business. Çözüm Cloud Çanakkale provides secure and effective mobile app solutions.";
+$twdesc = "Build high-performance mobile applications! Native or cross-platform solutions with Çözüm Cloud Çanakkale.";
+$cat    = "Mobile Development, Web Development";
+$lang   = "en_US";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-mobile-applications.webp";
 $img2   = "https://www.canakkale-webyazilim.com.tr/images/services/mobile-applications.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/services/mobile-applications";
 $keys   = "mobil uygulama geliştirme, iOS uygulama, Android uygulama, özel mobil uygulama, kurumsal mobil uygulama, mobil yazılım geliştirme";
-$alt    = "mobil uygulama geliştirme";
+$alt    = "custom web development servicesi";
 $q1     = "Mobil uygulama geliştirme nedir?";
 $q2     = "Hangi platformlar için geliştirme yapılır?";
 $q3     = "Mobil uygulama geliştirme avantajları nelerdir?";

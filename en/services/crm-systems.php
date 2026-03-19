@@ -1,17 +1,17 @@
 <?php
 $name   = "CRM Systems";
-$title  = "CRM Sistemleri ile Müşteri Yönetimi | Çözüm Cloud Çanakkale";
-$desc1  = "Çözüm Cloud Çanakkale ile CRM sistemlerini kullanarak müşteri ilişkilerinizi güçlendirin. Satış, pazarlama ve destek süreçlerini optimize edin.";
-$desc2  = "Kurumsal CRM çözümleri ile müşteri verilerini etkin yönetin. İş süreçlerini otomatikleştirerek verimliliği artırın ve müşteri memnuniyetini yükseltin.";
-$ogdesc = "CRM sistemleri ile işletmenizin müşteri yönetimini geliştirin. Çözüm Cloud Çanakkale ile verimli ve entegre çözümler oluşturun.";
-$twdesc = "CRM sistemleri ile müşteri ilişkilerinizi güçlendirin! Verimli ve etkili çözümler için Çözüm Cloud Çanakkale yanınızda.";
-$cat    = "CRM, Web Yazılım";
-$lang   = "tr_TR";
+$title  = "CRM Systems for Effective Customer Management | Çözüm Cloud Çanakkale";
+$desc1  = "Enhance your customer relationships with CRM systems from Çözüm Cloud. Optimize sales, marketing, and support processes for your business.";
+$desc2  = "Manage customer data efficiently with corporate CRM solutions. Automate workflows to increase productivity and improve customer satisfaction.";
+$ogdesc = "Improve your customer management with CRM systems. Build efficient and integrated solutions with Çözüm Cloud Çanakkale.";
+$twdesc = "Strengthen your customer relationships! Efficient CRM solutions with Çözüm Cloud Çanakkale.";
+$cat    = "CRM, Web Development";
+$lang   = "en_US";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-crm-systems.webp";
 $img2   = "https://www.canakkale-webyazilim.com.tr/images/services/crm-systems.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/services/crm-systems";
 $keys   = "CRM sistemleri, müşteri ilişkileri yönetimi, CRM yazılımı, satış yönetimi sistemi, müşteri yönetim yazılımı";
-$alt    = "crm sistemleri";
+$alt    = "crm systems";
 $q1     = "CRM sistemi nedir?";
 $q2     = "CRM yazılımı işletmelere ne kazandırır?";
 $q3     = "CRM sistemleri hangi sektörlerde kullanılır?";
