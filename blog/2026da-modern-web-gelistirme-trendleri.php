@@ -65,13 +65,13 @@ $alt    = "2026'da modern web geliştirme trendleri";
 
 <p>Modern web siteleri artık sadece estetik bir tasarım sunmakla kalmıyor, aynı zamanda hızlı, güvenli ve kullanıcı deneyimi yüksek bir yapı sunuyor. <strong>Çanakkale’de web tasarım ve web geliştirme hizmeti</strong> alan işletmeler, bu yeni teknolojiler sayesinde müşterilerine daha etkili bir dijital deneyim sunabiliyor ve arama motorlarında daha görünür hale geliyor.</p>
 
-<h2>Yapay Zeka Destekli Web Siteleri</h2>
+<h4>Yapay Zeka Destekli Web Siteleri</h4>
 
 <p>Yapay zeka teknolojileri artık web sitelerinde aktif olarak kullanılmaktadır. Chatbot sistemleri, kullanıcı davranışı analizi ve kişiselleştirilmiş içerik önerileri sayesinde web siteleri ziyaretçilere daha akıllı bir deneyim sunmaktadır.</p>
 
 <p>Özellikle kurumsal firmalar için geliştirilen modern web projelerinde yapay zeka entegrasyonu müşteri destek süreçlerini hızlandırmakta ve kullanıcı memnuniyetini artırmaktadır.</p>
 
-<h2>Mobil Öncelikli Web Tasarım</h2>
+<h4>Mobil Öncelikli Web Tasarım</h4>
 
 <p>Mobil cihazların internet kullanımındaki payı her geçen yıl artmaktadır. Bu nedenle modern web geliştirme süreçlerinde <strong>mobile-first tasarım yaklaşımı</strong> standart hale gelmiştir.</p>
 
@@ -84,7 +84,7 @@ $alt    = "2026'da modern web geliştirme trendleri";
 <li>Daha fazla müşteri dönüşümü sağlar</li>
 </ul>
 
-<h2>Performans ve Hız Odaklı Web Siteleri</h2>
+<h4>Performans ve Hız Odaklı Web Siteleri</h4>
 
 <p>Google’ın sıralama kriterleri arasında sayfa hızı oldukça önemli bir yer tutmaktadır. Bu nedenle modern web siteleri performans odaklı olarak geliştirilmektedir.</p>
 
@@ -98,13 +98,13 @@ $alt    = "2026'da modern web geliştirme trendleri";
 <li>Modern JavaScript frameworkleri</li>
 </ul>
 
-<h2>Progressive Web Apps (PWA)</h2>
+<h4>Progressive Web Apps (PWA)</h4>
 
 <p>Progressive Web Apps teknolojisi sayesinde web siteleri mobil uygulama benzeri bir deneyim sunabilmektedir. Bu teknoloji sayesinde kullanıcılar web sitelerini cihazlarına uygulama gibi ekleyebilir ve daha hızlı erişim sağlayabilir.</p>
 
 <p>2026 yılında birçok işletme mobil uygulama geliştirmek yerine PWA teknolojisini tercih etmektedir.</p>
 
-<h2>Sonuç</h2>
+<h4>Sonuç</h4>
 
 <p>2026 yılında modern web geliştirme dünyası hız, performans, kullanıcı deneyimi ve yapay zeka teknolojileri üzerine kuruludur. Bu trendleri takip eden işletmeler dijital dünyada rakiplerinden bir adım öne çıkmaktadır.</p>
 

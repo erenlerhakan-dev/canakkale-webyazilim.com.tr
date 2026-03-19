@@ -65,7 +65,7 @@ $alt    = "küçük i̇şletmeler için e-ticaret başarı stratejileri";
 
 <p>Başarılı bir e-ticaret sistemi sadece ürünleri internette sergilemekten ibaret değildir. Kullanıcı deneyimi, dijital pazarlama, SEO çalışmaları ve güvenilir ödeme altyapısı gibi birçok faktör e-ticaret başarısını doğrudan etkiler.</p>
 
-<h2>Profesyonel Bir E-Ticaret Sitesi Oluşturmak</h2>
+<h4>Profesyonel Bir E-Ticaret Sitesi Oluşturmak</h4>
 
 <p>Başarılı bir e-ticaret sürecinin ilk adımı profesyonel bir web sitesi oluşturmaktır. Hızlı, güvenli ve kullanıcı dostu bir e-ticaret sitesi müşterilerin alışveriş deneyimini olumlu yönde etkiler.</p>
 
@@ -79,31 +79,31 @@ $alt    = "küçük i̇şletmeler için e-ticaret başarı stratejileri";
 <li>Kullanıcı dostu arayüz</li>
 </ul>
 
-<h2>SEO ile Organik Trafik Kazanmak</h2>
+<h4>SEO ile Organik Trafik Kazanmak</h4>
 
 <p>Arama motoru optimizasyonu (SEO), e-ticaret sitelerinin daha fazla ziyaretçi kazanmasını sağlar. Ürün sayfalarının doğru anahtar kelimelerle optimize edilmesi, arama motorlarında daha üst sıralarda görünmeye yardımcı olur.</p>
 
 <p>SEO çalışmaları sayesinde e-ticaret siteleri reklam maliyetlerini azaltarak daha fazla organik müşteri kazanabilir.</p>
 
-<h2>Sosyal Medya ve Dijital Pazarlama</h2>
+<h4>Sosyal Medya ve Dijital Pazarlama</h4>
 
 <p>Sosyal medya platformları e-ticaret için güçlü pazarlama araçlarıdır. Instagram, Facebook ve diğer platformlar üzerinden yapılan kampanyalar sayesinde ürünler daha geniş kitlelere ulaşabilir.</p>
 
 <p>Düzenli içerik paylaşımı, influencer iş birlikleri ve reklam kampanyaları e-ticaret satışlarını artıran önemli yöntemlerdir.</p>
 
-<h2>Müşteri Deneyimine Odaklanmak</h2>
+<h4>Müşteri Deneyimine Odaklanmak</h4>
 
 <p>Başarılı bir e-ticaret işletmesi için müşteri memnuniyeti çok önemlidir. Kolay alışveriş süreci, hızlı kargo ve etkili müşteri desteği müşteri sadakatini artırır.</p>
 
 <p>Memnun müşteriler markayı başkalarına tavsiye eder ve tekrar alışveriş yapma olasılıkları yükselir.</p>
 
-<h2>Veri Analizi ve Satış Takibi</h2>
+<h4>Veri Analizi ve Satış Takibi</h4>
 
 <p>E-ticaret işletmeleri satış verilerini analiz ederek hangi ürünlerin daha çok satıldığını ve hangi pazarlama stratejilerinin daha etkili olduğunu anlayabilir.</p>
 
 <p>Bu analizler sayesinde işletmeler pazarlama bütçelerini daha verimli kullanabilir ve satışlarını artırabilir.</p>
 
-<h2>Sonuç</h2>
+<h4>Sonuç</h4>
 
 <p>Küçük işletmeler için e-ticaret doğru stratejilerle büyük bir büyüme fırsatı sunmaktadır. Profesyonel bir e-ticaret sitesi, etkili dijital pazarlama çalışmaları ve güçlü müşteri deneyimi sayesinde işletmeler online pazarda başarılı olabilir.</p>
 

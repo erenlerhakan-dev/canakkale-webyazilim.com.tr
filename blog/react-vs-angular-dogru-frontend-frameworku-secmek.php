@@ -65,7 +65,7 @@ $alt    = "react vs angular: doğru frontend framework'ü seçmek";
 
 <p>Bir web projesi geliştirirken hangi framework'ün daha uygun olduğunu belirlemek için proje ihtiyaçları, ekip deneyimi ve uygulamanın ölçeği gibi faktörleri dikkate almak gerekir.</p>
 
-<h2>React Nedir?</h2>
+<h4>React Nedir?</h4>
 
 <p>React, kullanıcı arayüzleri geliştirmek için kullanılan popüler bir JavaScript kütüphanesidir. Facebook tarafından geliştirilen React, bileşen tabanlı yapısı sayesinde hızlı ve esnek uygulamalar oluşturmayı mümkün kılar.</p>
 
@@ -78,7 +78,7 @@ $alt    = "react vs angular: doğru frontend framework'ü seçmek";
 <li>Mobil uygulama geliştirme için React Native desteği</li>
 </ul>
 
-<h2>Angular Nedir?</h2>
+<h4>Angular Nedir?</h4>
 
 <p>Angular, Google tarafından geliştirilen güçlü bir frontend framework'tür. Tam kapsamlı bir framework olan Angular, büyük ölçekli web uygulamaları geliştirmek için birçok hazır özellik sunar.</p>
 
@@ -91,19 +91,19 @@ $alt    = "react vs angular: doğru frontend framework'ü seçmek";
 <li>Kurumsal uygulamalar için güçlü altyapı</li>
 </ul>
 
-<h2>Performans Karşılaştırması</h2>
+<h4>Performans Karşılaştırması</h4>
 
 <p>Performans açısından React genellikle daha hızlı kullanıcı arayüzü güncellemeleri sunar. Virtual DOM yapısı sayesinde sadece değişen bileşenler yeniden render edilir.</p>
 
 <p>Angular ise daha kapsamlı bir framework olduğu için bazı durumlarda daha ağır olabilir. Ancak büyük ve karmaşık projelerde güçlü mimarisi sayesinde avantaj sağlar.</p>
 
-<h2>Öğrenme Eğrisi</h2>
+<h4>Öğrenme Eğrisi</h4>
 
 <p>React öğrenmesi görece daha kolay bir teknolojidir. Basit yapısı sayesinde geliştiriciler hızlı bir şekilde projelere başlayabilir.</p>
 
 <p>Angular ise daha geniş bir yapıya sahip olduğu için öğrenme süreci biraz daha uzun olabilir. Ancak öğrenildikten sonra büyük projelerde güçlü bir geliştirme ortamı sunar.</p>
 
-<h2>Hangi Projelerde Hangisi Tercih Edilmeli?</h2>
+<h4>Hangi Projelerde Hangisi Tercih Edilmeli?</h4>
 
 <p>React genellikle aşağıdaki projeler için tercih edilir:</p>
 
@@ -123,7 +123,7 @@ $alt    = "react vs angular: doğru frontend framework'ü seçmek";
 <li>Gelişmiş veri yönetimi gerektiren sistemler</li>
 </ul>
 
-<h2>Sonuç</h2>
+<h4>Sonuç</h4>
 
 <p>React ve Angular, modern web geliştirme dünyasında güçlü araçlar olarak öne çıkmaktadır. Hangi framework'ün tercih edileceği tamamen projenin ihtiyaçlarına bağlıdır.</p>
 
