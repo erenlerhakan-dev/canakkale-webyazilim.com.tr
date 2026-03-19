@@ -66,21 +66,22 @@ $a4     = "The process includes needs analysis and planning, design and prototyp
 <div class="container">
 <div class="cybersecurity-about-box">
 <div class="row">
+
 <div class="col-lg-4">
 <div class="modern-number-01">
 <h3 class="heading mt-30">İşletmenize <span class="text-color-primary"> Özel <br> Web Çözümleri</span></h3>
 </div>
 </div>
+
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
 <h5 class="heading ">Modern ve performanslı <span class="text-color-primary"> Custom Web Development</span> service sunuyoruz. Kurumsal ve kişiye özel web siteleri ile dijital projelerinizi optimize ediyoruz.</h5>
-
 <div class="sub-heading">Web projeleriniz için özel tasarım ve geliştirme çözümleri ile hızlı, SEO uyumlu ve kullanıcı dostu web siteleri oluşturuyoruz. Projenize özel danışmanlık ve teknik destek sağlıyoruz.</div>
 </div>
 </div>
-</div>
-</div>
 
+</div>
+</div>
 </div>
 </div>
 

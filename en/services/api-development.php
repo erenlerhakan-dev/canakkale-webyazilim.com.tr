@@ -66,21 +66,22 @@ $a4     = "API integration allows data flow between different software systems, 
 <div class="container">
 <div class="cybersecurity-about-box">
 <div class="row">
+
 <div class="col-lg-4">
 <div class="modern-number-01">
 <h3 class="heading mt-30">Professional <span class="text-color-primary"> API <br> Development</span> Service</h3>
 </div>
 </div>
+
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
 <h5 class="heading ">Modern yazılım sistemleri için <span class="text-color-primary"> API Development service</span> sunuyoruz. Farklı platformlar ve uygulamalar arasında güvenli veri iletişimi sağlayan güçlü API çözümleri geliştiriyoruz.</h5>
-
 <div class="sub-heading">API entegrasyonları sayesinde yazılım sistemlerinizi daha verimli hale getirebilir, uygulamalarınız arasında hızlı ve güvenli veri akışı sağlayabilirsiniz. Projeniz için Detaillı analiz ve teknik değerlendirme almak için bizimle iletişime geçebilirsiniz.</div>
 </div>
 </div>
-</div>
-</div>
 
+</div>
+</div>
 </div>
 </div>
 

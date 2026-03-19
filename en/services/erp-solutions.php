@@ -66,21 +66,22 @@ $a4     = "The implementation process includes analysis and planning, software c
 <div class="container">
 <div class="cybersecurity-about-box">
 <div class="row">
+
 <div class="col-lg-4">
 <div class="modern-number-01">
 <h3 class="heading mt-30">İşletmenize <span class="text-color-primary"> ERP <br> Çözümleri</span></h3>
 </div>
 </div>
+
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
 <h5 class="heading ">Kurumsal iş süreçlerinizi yönetmek için <span class="text-color-primary"> ERP Solutions</span> sunuyoruz. Finans, üretim, lojistik ve insan kaynakları süreçlerini tek bir sistemde entegre edin.</h5>
-
 <div class="sub-heading">ERP Solutions ile işletmenizin verimliliğini artırın, süreçleri optimize edin ve daha hızlı kararlar alın. Uzman ekibimizle danışmanlık ve destek service sağlıyoruz.</div>
 </div>
 </div>
-</div>
-</div>
 
+</div>
+</div>
 </div>
 </div>
 
