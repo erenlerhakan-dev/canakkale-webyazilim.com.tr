@@ -2,21 +2,21 @@
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
-<title>KVKK | Çözüm Cloud Çanakkale</title>
-<meta name="description" content="Çözüm Cloud, KVKK kapsamında kişisel verilerin korunmasına önem verir. Kişisel bilgilerinizin toplanması, işlenmesi ve saklanması ile ilgili haklarınız ve gizlilik politikamız hakkında detaylı bilgilere ulaşabilirsiniz.">
-<meta name="keywords" content="çözüm cloud, kvkk">
+<title>GDPR | Çözüm Cloud Çanakkale</title>
+<meta name="description" content="Çözüm Cloud is committed to protecting personal data in accordance with PDPA (Personal Data Protection Act). Learn how your personal information is collected, processed, stored, and discover your rights and our privacy practices.">
+<meta name="keywords" content="çözüm cloud, gdpr">
 
 <?php include_once('head_meta.php'); ?>
 
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.canakkale-webyazilim.com.tr">
-<meta property="og:title" content="KVKK | Çözüm Cloud Çanakkale">
-<meta property="og:description" content="Çözüm Cloud, KVKK kapsamında kişisel verilerin korunmasına önem verir. Kişisel bilgilerinizin toplanması, işlenmesi ve saklanması ile ilgili haklarınız ve gizlilik politikamız hakkında detaylı bilgilere ulaşabilirsiniz.">
+<meta property="og:title" content="GDPR | Çözüm Cloud Çanakkale">
+<meta property="og:description" content="Çözüm Cloud is committed to protecting personal data in accordance with PDPA (Personal Data Protection Act). Learn how your personal information is collected, processed, stored, and discover your rights and our privacy practices.">
 <meta property="og:image" content="https://www.canakkale-webyazilim.com.tr/images/cozum-cloud-logo.png">
 
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="KVKK | Çözüm Cloud Çanakkale">
-<meta name="twitter:description" content="Çözüm Cloud, KVKK kapsamında kişisel verilerin korunmasına önem verir. Kişisel bilgilerinizin toplanması, işlenmesi ve saklanması ile ilgili haklarınız ve gizlilik politikamız hakkında detaylı bilgilere ulaşabilirsiniz.">
+<meta name="twitter:title" content="GDPR | Çözüm Cloud Çanakkale">
+<meta name="twitter:description" content="Çözüm Cloud is committed to protecting personal data in accordance with PDPA (Personal Data Protection Act). Learn how your personal information is collected, processed, stored, and discover your rights and our privacy practices.">
 <meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/cozum-cloud-logo.png">
 
 <script type="application/ld+json" data-rh="true">{"@context":"https://schema.org","@type":"LocalBusiness","name":"Çanakkale Web Yazılım","url":"https://canakkale-webyazilim.com.tr","logo":"https://www.canakkale-webyazilim.com.tr/logo.png","description":"Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri","address":{"@type":"PostalAddress","streetAddress":"Esenler Mh. Ahmet Piriştina Cd. No:19 Daire:17","addressLocality":"Çanakkale","postalCode":"17000","addressCountry":"TR"},"contactPoint":{"@type":"ContactPoint","telephone":"+90-534-792-2531","contactType":"customer service","email":"info@cozumcloud.com.tr"},"sameAs":["https://www.facebook.com/cozum.cloud/","https://x.com/cozumcloud","https://www.instagram.com/cozum.cloud/","https://www.linkedin.com/company/cozum-cloud"]}</script>
@@ -25,7 +25,7 @@
 
 <body>
 
-<?php include_once('preloader.php'); ?>
+<?php include_once('../preloader.php'); ?>
 
 <?php include_once('header.php'); ?>
 
@@ -129,7 +129,7 @@
 
 <?php include_once('mobile_menu.php'); ?>
 
-<?php include_once('footer_scripts.php'); ?>
+<?php include_once('../footer_scripts.php'); ?>
 
 </body>
 
