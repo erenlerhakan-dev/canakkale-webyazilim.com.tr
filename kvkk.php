@@ -43,11 +43,18 @@
 <h6 class="section-sub-title mb-20">Çözüm Cloud</h6>
 </div>
 
-<h6 class="mb-20">Kişisel Verilerin Korunması Hakkında Aydınlatma Metni (KVKK)</h6>
+<h4 class="mb-20">Kişisel Verilerin Korunması Hakkında Aydınlatma Metni (KVKK)</h4>
 
-<p><strong>Firma Adı:</strong> [Çözüm Cloud]<br><strong>Adres:</strong> Esenler Mh. Ahmet P. Cd. No:19/17 Çanakkale<br><strong>Telefon:</strong> +90 534 792 25 31<br><strong>E-posta:</strong> <a rel="noopener">info@cozumcloud.com.tr</a></p>
+<p>
+<strong>Firma Adı:</strong> [Çözüm Cloud]<br>
+<strong>Adres:</strong> Esenler Mh. Ahmet P. Cd. No:19/17 Çanakkale<br>
+<strong>Telefon:</strong> +90 534 792 25 31<br>
+<strong>E-posta:</strong> <a rel="noopener">info@cozumcloud.com.tr</a>
+</p>
+
 <p>[Çözüm Cloud] olarak, kişisel verilerin korunmasına büyük önem veriyoruz. 6698 sayılı <strong>Kişisel Verilerin Korunması Kanunu (KVKK)</strong> kapsamında, müşterilerimizin ve site kullanıcılarımızın kişisel verilerini yalnızca belirlenen amaçlarla işliyoruz.</p>
-<h3>1. Toplanan Kişisel Veriler</h3>
+
+<h5>1. Toplanan Kişisel Veriler</h5>
 <p>Web sitemizi ziyaretiniz sırasında veya hizmetlerimizden faydalanmanız esnasında toplayabileceğimiz kişisel veriler şunlardır:</p>
 
 <ul>
@@ -58,7 +65,7 @@
 <li><p>Hizmet talepleri ve iletişim bilgileriniz</p></li>
 </ul>
 
-<h3>2. Kişisel Verilerin İşlenme Amaçları</h3>
+<h5>2. Kişisel Verilerin İşlenme Amaçları</h5>
 <p>Toplanan kişisel veriler, aşağıdaki amaçlarla işlenmektedir:</p>
 
 <ul>
@@ -69,10 +76,10 @@
 <li><p>Yasal yükümlülüklerin yerine getirilmesi</p></li>
 </ul>
 
-<h3>3. Kişisel Verilerin Aktarılması</h3>
+<h5>3. Kişisel Verilerin Aktarılması</h5>
 <p>[Çözüm Cloud], kişisel verilerinizi; hizmet sağladığımız iş ortakları veya yasal yükümlülükler çerçevesinde üçüncü kişilerle paylaşabilir. Bu aktarım, <strong>KVKK</strong> ve ilgili mevzuata uygun olarak yapılmaktadır.</p>
 
-<h3>4. Kişisel Veri Sahibi Hakları</h3>
+<h5>4. Kişisel Veri Sahibi Hakları</h5>
 <p>KVKK kapsamında, veri sahipleri olarak sizlerin hakları şunlardır:</p>
 
 <ul>
@@ -83,11 +90,11 @@
 </ul>
 
 <p>Haklarınızı kullanmak için bizimle yukarıda belirtilen e-posta adresi veya telefon numarası üzerinden iletişime geçebilirsiniz. Talepleriniz, yasal süreler içerisinde değerlendirilecektir.</p>
-<h3>5. Veri Güvenliği</h3>
+<h5>5. Veri Güvenliği</h5>
 
 <p>[Çözüm Cloud], kişisel verilerin güvenliğini sağlamak amacıyla teknik ve idari tedbirler almaktadır. Verileriniz, yetkisiz erişim, kayıp veya kötüye kullanıma karşı korunmaktadır.</p>
 
-<h3>6. İletişim</h3>
+<h5>6. İletişim</h5>
 <p>KVKK ve gizlilik politikalarımızla ilgili her türlü soru ve talepleriniz için bize aşağıdaki iletişim bilgileri üzerinden ulaşabilirsiniz:</p>
 
 <ul>
