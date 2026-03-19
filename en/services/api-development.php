@@ -97,7 +97,7 @@ $a4     = "API integration allows data flow between different software systems, 
 <div class="card-header" id="heading__10">
 <h5 class="mb-0 font-weight--bold">
 <button class="btn-link" data-bs-toggle="collapse" data-bs-target="#tab__10" aria-expanded="true" aria-controls="tab__10">
-API Development Nedir? <span>
+What is API Development? <span>
 <i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
@@ -105,7 +105,7 @@ API Development Nedir? <span>
 </div>
 <div id="tab__10" class="show" aria-labelledby="heading__10" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>API Development, farklı yazılım sistemlerinin birbiriyle iletişim kurmasını sağlayan uygulama programlama arayüzlerinin oluşturulması sürecidir. Modern yazılım mimarilerinde API'ler, web uygulamaları, Mobile Applications ve üçüncü parti servisler arasında veri alışverişi sağlamak için kullanılır.</p>
+<p>API development is the process of creating application programming interfaces that enable different software systems to communicate with each other. In modern software architectures, APIs are used to facilitate data exchange between web applications, mobile applications, and third-party services.</p>
 </div>
 </div>
 </div>
@@ -122,7 +122,7 @@ REST API Development<span>
 </div>
 <div id="collapse__11" class="collapse" aria-labelledby="heading__11" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>REST API, günümüzde en yaygın kullanılan API mimarilerinden biridir. HTTP protokolü üzerinden çalışan REST servisleri sayesinde uygulamalar hızlı, esnek ve ölçeklenebilir bir yapıya kavuşur. Web ve Mobile Applications için REST API Development büyük önem taşır.</p>
+<p>REST APIs are one of the most widely used API architectures today. Thanks to REST services that run over the HTTP protocol, applications become fast, flexible, and scalable. REST API development is of great importance for web and mobile applications.</p>
 </div>
 </div>
 </div>
@@ -131,14 +131,14 @@ REST API Development<span>
 <div class="card-header" id="heading__12">
 <h5 class="mb-0">
 <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__12" aria-expanded="false" aria-controls="collapse__12">
-API Güvenliği<span><i class="fas fa-chevron-circle-down"></i>
+API Security<span><i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
 </h5>
 </div>
 <div id="collapse__12" class="collapse" aria-labelledby="heading__12" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>API güvenliği, veri koruma açısından kritik bir konudur. API sistemlerinde kimlik doğrulama, yetkilendirme, token bazlı erişim ve şifreleme gibi güvenlik önlemleri uygulanarak veri güvenliği sağlanır. Bu sayede yetkisiz erişimlerin önüne geçilir.</p>
+<p>API security is a critical issue for data protection. Data security in API systems is ensured by implementing security measures such as authentication, authorization, token-based access, and encryption. This prevents unauthorized access.</p>
 </div>
 </div>
 </div>
@@ -147,14 +147,14 @@ API Güvenliği<span><i class="fas fa-chevron-circle-down"></i>
 <div class="card-header" id="heading__13">
 <h5 class="mb-0">
 <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__13" aria-expanded="false" aria-controls="collapse__13">
-API Entegrasyonunun Avantajları <span><i class="fas fa-chevron-circle-down"></i>
+Advantages of API Integration <span><i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
 </h5>
 </div>
 <div id="collapse__13" class="collapse" aria-labelledby="heading__13" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>API entegrasyonu sayesinde farklı yazılımlar ve servisler birbirine bağlanabilir. Bu entegrasyonlar iş süreçlerini otomatikleştirir, veri paylaşımını kolaylaştırır ve yazılım sistemlerinin daha verimli çalışmasını sağlar. E-ticaret platformları, Mobile Applications ve kurumsal yazılımlar API entegrasyonlarından büyük fayda sağlar.</p>
+<p>API integration allows different software and services to connect to each other. These integrations automate business processes, facilitate data sharing, and enable software systems to operate more efficiently. E-commerce platforms, mobile applications, and enterprise software greatly benefit from API integrations.</p>
 </div>
 </div>
 </div>
