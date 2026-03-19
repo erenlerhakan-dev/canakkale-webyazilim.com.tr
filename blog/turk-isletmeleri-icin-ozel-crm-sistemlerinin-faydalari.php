@@ -57,7 +57,7 @@ $alt    = "türk i̇şletmeleri için özel crm sistemlerinin faydaları";
 
 <div class="post-categories text-center"><a href="javascript:void(0);"><?php echo $cat; ?></a></div>
 
-<h3 class="post-title text-center"><?php echo $name; ?></h3>
+<h1 class="post-title text-center"><?php echo $name; ?></h1>
 
 <div class="post-excerpt mt-15">
 
