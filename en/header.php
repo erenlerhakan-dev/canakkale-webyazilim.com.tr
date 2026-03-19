@@ -7,7 +7,7 @@
 
 <div class="header__logo top-logo">
 <a href="/en/">
-<h1 style="font-size: 18px;font-weight: 800;color: #555555;text-align: center;">Çanakkale Web Development</h1>
+<img src="/images/cozum-cloud-logo.png" class="img-fluid" alt="Çanakkale Web Development">
 </a>
 </div>
 
