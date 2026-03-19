@@ -50,35 +50,34 @@
 
 <h4>Bize Mesaj Gönderin</h4>
 
-<form id="contact-form" method="post">
+<form id="contact-form">
 
 <div class="contact-form">
 
 <div class="contact-input">
 
 <div class="contact-inner">
-<input name="con_name" type="text" placeholder="Ad Soyad *" required>
+<input name="_name" type="text" placeholder="Ad Soyad *" required>
 </div>
 
 <div class="contact-inner">
-<input name="con_email" type="email" placeholder="E-posta Adresi *" required>
+<input name="_email" type="email" placeholder="E-posta Adresi *" required>
 </div>
 
 </div>
 
 <div class="contact-inner">
-<input name="con_name" type="text" placeholder="Telefon Numarası *" required>
+<input name="_phone" type="text" placeholder="Telefon Numarası *" required>
 </div>
 
 </div>
 
 <div class="contact-inner contact-message">
-<textarea name="con_message" placeholder="Mesaj *" required></textarea>
+<textarea name="_message" placeholder="Mesaj *" required></textarea>
 </div>
 
 <div class="submit-btn mt-20">
 <button class="ht-btn ht-btn-md" type="submit">Mesaj Gönder</button>
-<p class="form-messege"></p>
 </div>
 
 </form>
