@@ -9,17 +9,17 @@ $cat    = "Web Development, Reservation Systems";
 $lang   = "en_US";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-reservation-systems.webp";
 $img2   = "https://www.canakkale-webyazilim.com.tr/images/services/reservation-systems.webp";
-$url    = "https://www.canakkale-webyazilim.com.tr/services/reservation-systems";
-$keys   = "rezervasyon sistemi, online rezervasyon yazılımı, booking sistemi, randevu sistemi, tur rezervasyon sistemi, otel rezervasyon yazılımı";
+$url    = "https://www.canakkale-webyazilim.com.tr/en/services/reservation-systems";
+$keys   = "reservation system, online reservation software, booking system, appointment system, tour reservation system, hotel reservation software";
 $alt    = "reservation systems";
-$q1     = "Rezervasyon sistemi nedir?";
-$q2     = "Online rezervasyon sistemi hangi sektörlerde kullanılır?";
-$q3     = "Rezervasyon yazılımı işletmelere ne kazandırır?";
-$q4     = "Online booking sistemi neden önemlidir?";
-$a1     = "Rezervasyon sistemi, müşterilerin internet üzerinden hizmet veya ürün için rezervasyon yapmasını sağlayan yazılım sistemidir.";
-$a2     = "Online rezervasyon sistemleri otel, turizm, restoran, araç kiralama, sağlık ve etkinlik organizasyonları gibi birçok sektörde kullanılmaktadır.";
-$a3     = "Rezervasyon yazılımları işletmelerin booking süreçlerini otomatikleştirir, müşteri deneyimini geliştirir ve rezervasyon yönetimini kolaylaştırır.";
-$a4     = "Online booking sistemi müşterilerin 7/24 rezervasyon yapmasını sağlar ve işletmelerin daha fazla müşteriye ulaşmasına yardımcı olur.";
+$q1     = "What is a Reservation System?";
+$q2     = "Which industries use Online Reservation Systems?";
+$q3     = "What benefits does reservation software provide to businesses?";
+$q4     = "Why is an Online Booking System important?";
+$a1     = "A reservation system is software that allows customers to book services or products online.";
+$a2     = "Online reservation systems are used in many industries, including hotels, tourism, restaurants, car rentals, healthcare, and event management.";
+$a3     = "Reservation software automates the booking process, improves customer experience, and simplifies reservation management for businesses.";
+$a4     = "An online booking system allows customers to make reservations 24/7 and helps businesses reach more clients.";
 ?>
 
 <!DOCTYPE html>
@@ -153,7 +153,7 @@ Rezervasyon Yazılımı Hangi Sektörlerde Kullanılır? <span><i class="fas fa-
 </div>
 <div id="collapse__13" class="collapse" aria-labelledby="heading__13" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Rezervasyon yazılımları oteller, turizm şirketleri, restoranlar, sağlık Servicesi, araç kiralama firmaları ve etkinlik organizasyonları gibi birçok sektörde kullanılmaktadır. Bu sistemler rezervasyon yönetimini kolaylaştırarak işletmelerin daha verimli çalışmasını sağlar.</p>
+<p>Rezervasyon yazılımları oteller, turizm şirketleri, restoranlar, sağlık service, araç kiralama firmaları ve etkinlik organizasyonları gibi birçok sektörde kullanılmaktadır. Bu sistemler rezervasyon yönetimini kolaylaştırarak işletmelerin daha verimli çalışmasını sağlar.</p>
 </div>
 </div>
 </div>

@@ -9,17 +9,17 @@ $cat    = "Technical Consulting, Web Development";
 $lang   = "en_US";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-technical-consulting.webp";
 $img2   = "https://www.canakkale-webyazilim.com.tr/images/services/technical-consulting.webp";
-$url    = "https://www.canakkale-webyazilim.com.tr/services/technical-consulting";
-$keys   = "teknik danışmanlık, bilişim danışmanlığı, yazılım danışmanlığı, server yönetimi, hosting danışmanlığı, IT danışmanlık hizmetleri";
-$alt    = "custom web development servicesi";
-$q1     = "Teknik danışmanlık nedir?";
-$q2     = "Server yönetimi danışmanlığı ne sağlar?";
-$q3     = "Hosting danışmanlığı neden önemlidir?";
-$q4     = "Yazılım danışmanlığı hangi konuları kapsar?";
-$a1     = "Teknik danışmanlık, işletmelerin yazılım, server altyapısı, hosting ve bilişim sistemlerini daha verimli kullanmaları için sunulan profesyonel destek ve yönlendirme hizmetidir.";
-$a2     = "Server yönetimi danışmanlığı sayesinde sunucu altyapısı güvenli, hızlı ve kesintisiz çalışacak şekilde optimize edilir.";
-$a3     = "Doğru hosting altyapısı web sitelerinin performansı, güvenliği ve SEO başarısı için kritik öneme sahiptir.";
-$a4     = "Yazılım danışmanlığı, sistem mimarisi, API entegrasyonları, performans optimizasyonu ve yazılım geliştirme stratejilerini kapsar.";
+$url    = "https://www.canakkale-webyazilim.com.tr/en/services/technical-consulting";
+$keys   = "Technical Consulting, IT Consulting, Software Consulting, Server Management, Hosting Consulting, IT Consulting Services, System Optimization, API Integration, Performance Improvement";
+$alt    = "Custom Web Development Service, Corporate Software Solutions, IT Consulting Services";
+$q1     = "What is Technical Consulting?";
+$q2     = "What does Server Management Consulting provide?";
+$q3     = "Why is Hosting Consulting important?";
+$q4     = "What topics does Software Consulting cover?";
+$a1     = "Technical consulting is a professional support and guidance service that helps businesses use their software, server infrastructure, hosting, and IT systems more efficiently and securely.";
+$a2     = "With server management consulting, the server infrastructure is optimized to run securely, quickly, and without interruptions, minimizing maintenance and performance issues.";
+$a3     = "The right hosting infrastructure is critical for website performance, security, scalability, and SEO success.";
+$a4     = "Software consulting covers system architecture, API integrations, performance optimization, and software development strategies.";
 ?>
 
 <!DOCTYPE html>

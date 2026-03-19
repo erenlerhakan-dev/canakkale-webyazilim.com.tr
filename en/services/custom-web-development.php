@@ -9,17 +9,17 @@ $cat    = "Custom Web Development, Web Development";
 $lang   = "en_US";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-custom-web-development.webp";
 $img2   = "https://www.canakkale-webyazilim.com.tr/images/services/custom-web-development.webp";
-$url    = "https://www.canakkale-webyazilim.com.tr/services/custom-web-development";
-$keys   = "özel web geliştirme, web tasarım, web yazılım geliştirme, kurumsal web çözümleri, web sitesi geliştirme, web uygulaması geliştirme";
-$alt    = "custom web development servicesi";
-$q1     = "Özel web geliştirme nedir?";
-$q2     = "Özel web geliştirme hangi avantajları sağlar?";
-$q3     = "Hangi sektörlerde kullanılabilir?";
-$q4     = "Web geliştirme süreci nasıl işler?";
-$a1     = "Özel web geliştirme, bir işletme veya proje için tamamen özelleştirilmiş, modern ve performanslı web siteleri veya web uygulamaları geliştirme sürecidir.";
-$a2     = "İşletmenize özel tasarım, yüksek performans, SEO uyumluluğu, mobil uyumluluk ve ölçeklenebilirlik sağlar.";
-$a3     = "E-ticaret, kurumsal şirketler, turizm, sağlık, eğitim ve hizmet sektörleri başta olmak üzere tüm dijital projelerde kullanılabilir.";
-$a4     = "İhtiyaç analizi ve planlama, tasarım ve prototip, geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarını içerir.";
+$url    = "https://www.canakkale-webyazilim.com.tr/en/services/custom-web-development";
+$keys   = "custom web development, web design, web software development, corporate web solutions, website development, web application development";
+$alt    = "custom web development service";
+$q1     = "What is Custom Web Development?";
+$q2     = "What advantages does Custom Web Development provide?";
+$q3     = "Which industries can use it?";
+$q4     = "How does the web development process work?";
+$a1     = "Custom web development is the process of creating fully tailored, modern, and high-performance websites or web applications for a business or project.";
+$a2     = "It provides a unique design for your business, high performance, SEO compatibility, mobile responsiveness, and scalability.";
+$a3     = "It can be used in e-commerce, corporate companies, tourism, healthcare, education, service industries, and all types of digital projects.";
+$a4     = "The process includes needs analysis and planning, design and prototyping, development, testing and quality control, deployment, and technical support.";
 ?>
 
 <!DOCTYPE html>
@@ -73,7 +73,7 @@ $a4     = "İhtiyaç analizi ve planlama, tasarım ve prototip, geliştirme, tes
 </div>
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
-<h5 class="heading ">Modern ve performanslı <span class="text-color-primary"> Custom Web Development</span> Servicesi sunuyoruz. Kurumsal ve kişiye özel web siteleri ile dijital projelerinizi optimize ediyoruz.</h5>
+<h5 class="heading ">Modern ve performanslı <span class="text-color-primary"> Custom Web Development</span> service sunuyoruz. Kurumsal ve kişiye özel web siteleri ile dijital projelerinizi optimize ediyoruz.</h5>
 
 <div class="sub-heading">Web projeleriniz için özel tasarım ve geliştirme çözümleri ile hızlı, SEO uyumlu ve kullanıcı dostu web siteleri oluşturuyoruz. Projenize özel danışmanlık ve teknik destek sağlıyoruz.</div>
 </div>
@@ -137,7 +137,7 @@ Hangi Sektörler Kullanabilir?<span><i class="fas fa-chevron-circle-down"></i>
 </div>
 <div id="collapse__12" class="collapse" aria-labelledby="heading__12" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>E-ticaret, kurumsal şirketler, turizm, sağlık, eğitim ve hizmet sektörleri başta olmak üzere tüm işletmeler Custom Web Development Servicesinden faydalanabilir.</p>
+<p>E-ticaret, kurumsal şirketler, turizm, sağlık, eğitim ve hizmet sektörleri başta olmak üzere tüm işletmeler Custom Web Development servicenden faydalanabilir.</p>
 </div>
 </div>
 </div>

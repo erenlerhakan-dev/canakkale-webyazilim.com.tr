@@ -9,17 +9,17 @@ $cat    = "Server, Web Development";
 $lang   = "en_US";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-server-security-and-maintenance.webp";
 $img2   = "https://www.canakkale-webyazilim.com.tr/images/services/server-security-and-maintenance.webp";
-$url    = "https://www.canakkale-webyazilim.com.tr/services/server-security-and-maintenance";
-$keys   = "sunucu güvenliği, server bakımı, server yönetimi, sunucu optimizasyonu, IT bakım hizmeti, sunucu güvenlik çözümleri";
+$url    = "https://www.canakkale-webyazilim.com.tr/en/services/server-security-and-maintenance";
+$keys   = "server security, server maintenance, server management, server optimization, it maintenance services, server security solutions";
 $alt    = "server security and maintenance";
-$q1     = "Sunucu güvenliği nedir?";
-$q2     = "Sunucu bakımı neden önemlidir?";
-$q3     = "Hangi hizmetleri sunuyorsunuz?";
-$q4     = "Sunucu bakımı süreci nasıl işler?";
-$a1     = "Sunucu güvenliği, sunucularınızın yetkisiz erişimlerden korunması, veri kaybının önlenmesi ve güvenli bir altyapının sağlanması için yapılan tüm önlemleri kapsar.";
-$a2     = "Sunucu bakımı, performansın yüksek tutulması, hataların önlenmesi, güvenlik açıklarının kapatılması ve kesintisiz hizmet sağlanması açısından kritik öneme sahiptir.";
-$a3     = "Sunucu güvenliği, yazılım ve donanım güncellemeleri, performans optimizasyonu, veri yedekleme, firewall yönetimi ve 7/24 teknik destek hizmetleri sunuyoruz.";
-$a4     = "Bakım süreci; sunucu analizi, güncellemelerin uygulanması, performans optimizasyonu, güvenlik önlemleri, düzenli testler ve raporlama adımlarını içerir.";
+$q1     = "What is Server Security?";
+$q2     = "Why is Server Maintenance important?";
+$q3     = "What services do you offer?";
+$q4     = "How does the Server Maintenance process work?";
+$a1     = "Server security includes all measures taken to protect your servers from unauthorized access, prevent data loss, and ensure a secure infrastructure.";
+$a2     = "Server maintenance is critical for keeping performance high, preventing errors, closing security gaps, and ensuring uninterrupted service.";
+$a3     = "We provide server security, software and hardware updates, performance optimization, data backups, firewall management, and 24/7 technical support services.";
+$a4     = "The maintenance process includes server analysis, applying updates, performance optimization, security measures, regular testing, and reporting steps.";
 ?>
 
 <!DOCTYPE html>
@@ -73,7 +73,7 @@ $a4     = "Bakım süreci; sunucu analizi, güncellemelerin uygulanması, perfor
 </div>
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
-<h5 class="heading ">Sunucularınızın güvenliği ve performansı için <span class="text-color-primary"> profesyonel bakım ve yönetim Servicesi</span> sunuyoruz.</h5>
+<h5 class="heading ">Sunucularınızın güvenliği ve performansı için <span class="text-color-primary"> profesyonel bakım ve yönetim service</span> sunuyoruz.</h5>
 
 <div class="sub-heading">Server güvenliği, bakım ve optimizasyon süreçleri ile sunucularınız kesintisiz ve güvenli çalışır. 7/24 teknik destek ile altyapınızı kontrol altında tutuyoruz.</div>
 </div>
@@ -137,7 +137,7 @@ Hangi Services Sunulur?<span><i class="fas fa-chevron-circle-down"></i>
 </div>
 <div id="collapse__12" class="collapse" aria-labelledby="heading__12" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Server bakımı Servicesi; güvenlik kontrolleri, yazılım ve donanım güncellemeleri, performans optimizasyonu, veri yedekleme ve 7/24 teknik destek içerir.</p>
+<p>Server bakımı service; güvenlik kontrolleri, yazılım ve donanım güncellemeleri, performans optimizasyonu, veri yedekleme ve 7/24 teknik destek içerir.</p>
 </div>
 </div>
 </div>

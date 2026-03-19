@@ -9,17 +9,17 @@ $cat    = "API, Web Development";
 $lang   = "en_US";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-api-development.webp";
 $img2   = "https://www.canakkale-webyazilim.com.tr/images/services/api-development.webp";
-$url    = "https://www.canakkale-webyazilim.com.tr/services/api-development";
-$keys   = "API geliştirme, REST API geliştirme, web API geliştirme, yazılım entegrasyonu, API servisleri, backend API geliştirme";
-$alt    = "api development service";
-$q1     = "API geliştirme nedir?";
-$q2     = "REST API neden kullanılır?";
-$q3     = "API güvenliği nasıl sağlanır?";
-$q4     = "API entegrasyonu işletmelere ne kazandırır?";
-$a1     = "API geliştirme, farklı yazılım sistemlerinin birbiriyle iletişim kurmasını sağlayan arayüzlerin oluşturulması sürecidir.";
-$a2     = "REST API, hızlı, ölçeklenebilir ve esnek bir yapı sunduğu için modern web ve mobil uygulamalarda en çok tercih edilen API mimarisidir.";
-$a3     = "API güvenliği için kimlik doğrulama, yetkilendirme, veri şifreleme ve güvenli erişim protokolleri kullanılır.";
-$a4     = "API entegrasyonu sayesinde farklı yazılımlar arasında veri akışı sağlanır, süreçler otomatikleşir ve işletmeler daha verimli çalışabilir.";
+$url    = "https://www.canakkale-webyazilim.com.tr/en/services/api-development";
+$keys   = "API development, REST API development, web API development, software integration, API services, backend API development";
+$alt    = "API development service";
+$q1     = "What is API Development?";
+$q2     = "Why is REST API used?";
+$q3     = "How is API security ensured?";
+$q4     = "What benefits does API integration provide to businesses?";
+$a1     = "API development is the process of creating interfaces that enable different software systems to communicate with each other.";
+$a2     = "REST API is widely used in modern web and mobile applications because it provides a fast, scalable, and flexible architecture.";
+$a3     = "API security is ensured through authentication, authorization, data encryption, and secure access protocols.";
+$a4     = "API integration allows data flow between different software systems, automates processes, and enables businesses to operate more efficiently.";
 ?>
 
 <!DOCTYPE html>
@@ -73,7 +73,7 @@ $a4     = "API entegrasyonu sayesinde farklı yazılımlar arasında veri akış
 </div>
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
-<h5 class="heading ">Modern yazılım sistemleri için <span class="text-color-primary"> API Development Servicesi</span> sunuyoruz. Farklı platformlar ve uygulamalar arasında güvenli veri iletişimi sağlayan güçlü API çözümleri geliştiriyoruz.</h5>
+<h5 class="heading ">Modern yazılım sistemleri için <span class="text-color-primary"> API Development service</span> sunuyoruz. Farklı platformlar ve uygulamalar arasında güvenli veri iletişimi sağlayan güçlü API çözümleri geliştiriyoruz.</h5>
 
 <div class="sub-heading">API entegrasyonları sayesinde yazılım sistemlerinizi daha verimli hale getirebilir, uygulamalarınız arasında hızlı ve güvenli veri akışı sağlayabilirsiniz. Projeniz için Detaillı analiz ve teknik değerlendirme almak için bizimle iletişime geçebilirsiniz.</div>
 </div>

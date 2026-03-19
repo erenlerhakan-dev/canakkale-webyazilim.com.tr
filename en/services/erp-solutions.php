@@ -9,17 +9,17 @@ $cat    = "ERP, Web Development";
 $lang   = "en_US";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-erp-solutions.webp";
 $img2   = "https://www.canakkale-webyazilim.com.tr/images/services/erp-solutions.webp";
-$url    = "https://www.canakkale-webyazilim.com.tr/services/erp-solutions";
-$keys   = "ERP çözümleri, kurumsal yazılım, iş süreçleri yönetimi, üretim yönetimi, finans yönetimi, ERP sistemi";
-$alt    = "erp solutions";
-$q1     = "ERP nedir?";
-$q2     = "ERP çözümleri hangi süreçleri kapsar?";
-$q3     = "ERP çözümlerinin avantajları nelerdir?";
-$q4     = "ERP kurulum süreci nasıl işler?";
-$a1     = "ERP (Enterprise Resource Planning), işletmenizin tüm iş süreçlerini tek bir sistemde entegre eden yazılım çözümüdür.";
-$a2     = "Finans, insan kaynakları, üretim, lojistik, satış ve pazarlama süreçlerini kapsar ve süreçlerin dijitalleşmesini sağlar.";
-$a3     = "İş süreçlerinin hızlanması, veri bütünlüğü, maliyet optimizasyonu, daha iyi karar alma süreçleri ve merkezi yönetim sağlar.";
-$a4     = "Analiz ve planlama, yazılım yapılandırma, veri entegrasyonu, kullanıcı eğitimi, test ve yayına alma adımlarını içerir.";
+$url    = "https://www.canakkale-webyazilim.com.tr/en/services/erp-solutions";
+$keys   = "ERP solutions, corporate software, business process management, production management, financial management, ERP system";
+$alt    = "ERP solutions";
+$q1     = "What is ERP?";
+$q2     = "Which processes do ERP solutions cover?";
+$q3     = "What are the advantages of ERP solutions?";
+$q4     = "How does the ERP implementation process work?";
+$a1     = "ERP (Enterprise Resource Planning) is a software solution that integrates all of a business's processes into a single system.";
+$a2     = "It covers finance, human resources, production, logistics, sales, and marketing processes, enabling the digitalization of business operations.";
+$a3     = "ERP solutions accelerate business processes, ensure data integrity, optimize costs, support better decision-making, and provide centralized management.";
+$a4     = "The implementation process includes analysis and planning, software configuration, data integration, user training, testing, and deployment.";
 ?>
 
 <!DOCTYPE html>
@@ -75,7 +75,7 @@ $a4     = "Analiz ve planlama, yazılım yapılandırma, veri entegrasyonu, kull
 <div class="conact-us-wrap-one managed-it">
 <h5 class="heading ">Kurumsal iş süreçlerinizi yönetmek için <span class="text-color-primary"> ERP Solutions</span> sunuyoruz. Finans, üretim, lojistik ve insan kaynakları süreçlerini tek bir sistemde entegre edin.</h5>
 
-<div class="sub-heading">ERP Solutions ile işletmenizin verimliliğini artırın, süreçleri optimize edin ve daha hızlı kararlar alın. Uzman ekibimizle danışmanlık ve destek Servicesi sağlıyoruz.</div>
+<div class="sub-heading">ERP Solutions ile işletmenizin verimliliğini artırın, süreçleri optimize edin ve daha hızlı kararlar alın. Uzman ekibimizle danışmanlık ve destek service sağlıyoruz.</div>
 </div>
 </div>
 </div>

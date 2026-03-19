@@ -9,17 +9,17 @@ $cat    = "CRM, Web Development";
 $lang   = "en_US";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-crm-systems.webp";
 $img2   = "https://www.canakkale-webyazilim.com.tr/images/services/crm-systems.webp";
-$url    = "https://www.canakkale-webyazilim.com.tr/services/crm-systems";
-$keys   = "CRM sistemleri, müşteri ilişkileri yönetimi, CRM yazılımı, satış yönetimi sistemi, müşteri yönetim yazılımı";
-$alt    = "crm systems";
-$q1     = "CRM sistemi nedir?";
-$q2     = "CRM yazılımı işletmelere ne kazandırır?";
-$q3     = "CRM sistemleri hangi sektörlerde kullanılır?";
-$q4     = "Bulut tabanlı CRM nedir?";
-$a1     = "CRM sistemi, işletmelerin müşteri ilişkilerini yönetmesini sağlayan yazılım çözümleridir. Bu sistemler müşteri bilgilerini saklar, satış süreçlerini takip eder ve müşteri deneyimini geliştirir.";
-$a2     = "CRM yazılımları müşteri verilerini merkezi bir sistemde toplar, satış ve pazarlama süreçlerini optimize eder ve müşteri memnuniyetini artırır.";
-$a3     = "CRM sistemleri e-ticaret, turizm, finans, sağlık, eğitim ve birçok farklı sektörde müşteri ilişkilerini yönetmek için kullanılmaktadır.";
-$a4     = "Bulut tabanlı CRM sistemleri internet üzerinden çalışan ve herhangi bir kurulum gerektirmeden kullanılabilen modern müşteri yönetim yazılımlarıdır.";
+$url    = "https://www.canakkale-webyazilim.com.tr/en/services/crm-systems";
+$keys   = "CRM systems, customer relationship management, CRM software, sales management system, customer management software";
+$alt    = "CRM systems";
+$q1     = "What is a CRM System?";
+$q2     = "What benefits does CRM software provide to businesses?";
+$q3     = "Which industries use CRM systems?";
+$q4     = "What is Cloud-Based CRM?";
+$a1     = "A CRM system is software that helps businesses manage customer relationships. These systems store customer information, track sales processes, and improve the customer experience.";
+$a2     = "CRM software centralizes customer data, optimizes sales and marketing processes, and enhances customer satisfaction.";
+$a3     = "CRM systems are used in e-commerce, tourism, finance, healthcare, education, and many other industries to manage customer relationships.";
+$a4     = "Cloud-based CRM systems are modern customer management software that operate over the internet and can be used without any local installation.";
 ?>
 
 <!DOCTYPE html>
@@ -73,7 +73,7 @@ $a4     = "Bulut tabanlı CRM sistemleri internet üzerinden çalışan ve herha
 </div>
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
-<h5 class="heading ">İşletmeler için gelişmiş <span class="text-color-primary"> CRM Systems</span> geliştiriyoruz. Müşteri ilişkilerini yönetmenizi sağlayan yazılım çözümleri ile satış, pazarlama ve müşteri Servicesi süreçlerinizi daha verimli hale getiriyoruz.</h5>
+<h5 class="heading ">İşletmeler için gelişmiş <span class="text-color-primary"> CRM Systems</span> geliştiriyoruz. Müşteri ilişkilerini yönetmenizi sağlayan yazılım çözümleri ile satış, pazarlama ve müşteri service süreçlerinizi daha verimli hale getiriyoruz.</h5>
 
 <div class="sub-heading">CRM yazılım çözümleri sayesinde müşteri verilerinizi tek bir platformda yönetebilir, satış fırsatlarını takip edebilir ve işletmenizin büyümesini destekleyebilirsiniz. Detaillı analiz ve sistem planlaması için bizimle iletişime geçebilirsiniz.</div>
 </div>

@@ -9,17 +9,17 @@ $cat    = "Mobile Development, Web Development";
 $lang   = "en_US";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-mobile-applications.webp";
 $img2   = "https://www.canakkale-webyazilim.com.tr/images/services/mobile-applications.webp";
-$url    = "https://www.canakkale-webyazilim.com.tr/services/mobile-applications";
-$keys   = "mobil uygulama geliştirme, iOS uygulama, Android uygulama, özel mobil uygulama, kurumsal mobil uygulama, mobil yazılım geliştirme";
-$alt    = "custom web development servicesi";
-$q1     = "Mobil uygulama geliştirme nedir?";
-$q2     = "Hangi platformlar için geliştirme yapılır?";
-$q3     = "Mobil uygulama geliştirme avantajları nelerdir?";
-$q4     = "Geliştirme süreci nasıl işler?";
-$a1     = "Mobil uygulama geliştirme, iOS ve Android platformları için özel, performanslı ve kullanıcı dostu uygulamalar tasarlama ve geliştirme sürecidir.";
-$a2     = "iOS, Android ve gerektiğinde çapraz platform (cross-platform) teknolojileri ile mobil uygulamalar geliştirilir.";
-$a3     = "Kullanıcı deneyimi iyileşir, marka değeri artar, iş süreçleri dijitalleşir, veri toplama ve analiz daha etkin yapılabilir.";
-$a4     = "İhtiyaç analizi ve planlama, prototip ve tasarım, geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarından oluşur.";
+$url    = "https://www.canakkale-webyazilim.com.tr/en/services/mobile-applications";
+$keys   = "mobile application development, iOS app, Android app, custom mobile app, corporate mobile app, mobile software development";
+$alt    = "custom web development service";
+$q1     = "What is Mobile Application Development?";
+$q2     = "Which platforms are targeted for development?";
+$q3     = "What are the advantages of mobile application development?";
+$q4     = "How does the development process work?";
+$a1     = "Mobile application development is the process of designing and developing custom, high-performance, and user-friendly applications for iOS and Android platforms.";
+$a2     = "Mobile apps are developed for iOS, Android, and when needed, cross-platform technologies.";
+$a3     = "It improves user experience, increases brand value, digitalizes business processes, and enables more effective data collection and analysis.";
+$a4     = "The development process includes needs analysis and planning, prototyping and design, development, testing and quality control, deployment, and technical support.";
 ?>
 
 <!DOCTYPE html>
@@ -73,7 +73,7 @@ $a4     = "İhtiyaç analizi ve planlama, prototip ve tasarım, geliştirme, tes
 </div>
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
-<h5 class="heading ">iOS ve Android platformlarına özel <span class="text-color-primary"> mobil uygulama geliştirme</span> Servicesi sunuyoruz. Uygulamalarınız kullanıcı dostu, performanslı ve güvenli bir şekilde tasarlanır.</h5>
+<h5 class="heading ">iOS ve Android platformlarına özel <span class="text-color-primary"> mobil uygulama geliştirme</span> service sunuyoruz. Uygulamalarınız kullanıcı dostu, performanslı ve güvenli bir şekilde tasarlanır.</h5>
 
 <div class="sub-heading">İşletmenize özel Mobile Applications ile kullanıcı deneyimini artırın. Projeniz için Detaillı analiz, tasarım ve geliştirme süreçlerinde teknik destek sağlıyoruz.</div>
 </div>

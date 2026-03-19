@@ -9,17 +9,17 @@ $cat    = "Custom Software, Web Development";
 $lang   = "en_US";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-custom-software-development.webp";
 $img2   = "https://www.canakkale-webyazilim.com.tr/images/services/custom-software-development.webp";
-$url    = "https://www.canakkale-webyazilim.com.tr/services/custom-software-development";
-$keys   = "özel yazılım geliştirme, kurumsal yazılım çözümleri, işletmeye özel yazılım, yazılım geliştirme hizmeti, web tabanlı yazılım, yazılım danışmanlığı";
+$url    = "https://www.canakkale-webyazilim.com.tr/en/services/custom-software-development";
+$keys   = "custom software development, corporate software solutions, business-specific software, software development services, web-based software, software consulting";
 $alt    = "custom software development";
-$q1     = "Özel yazılım geliştirme nedir?";
-$q2     = "Özel yazılım geliştirme hangi avantajları sağlar?";
-$q3     = "Hangi sektörler özel yazılımdan faydalanabilir?";
-$q4     = "Özel yazılım geliştirme süreci nasıl işler?";
-$a1     = "Özel yazılım geliştirme, bir işletmenin ihtiyaçlarına özel olarak tasarlanan ve tamamen özelleştirilebilen yazılım çözümlerini ifade eder.";
-$a2     = "İş süreçlerine tam uyum, yüksek performans, güvenlik, ölçeklenebilirlik ve uzun vadede maliyet avantajı sağlar.";
-$a3     = "Kurumsal firmalar, turizm, e-ticaret, sağlık, eğitim ve hizmet sektörleri özel yazılımdan yararlanabilir.";
-$a4     = "İhtiyaç analizi ve proje planlama, sistem tasarımı, yazılım geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarını içerir.";
+$q1     = "What is Custom Software Development?";
+$q2     = "What advantages does Custom Software Development provide?";
+$q3     = "Which industries can benefit from custom software?";
+$q4     = "How does the Custom Software Development process work?";
+$a1     = "Custom software development refers to software solutions designed specifically to meet the unique needs of a business and fully customizable to its requirements.";
+$a2     = "It provides full alignment with business processes, high performance, security, scalability, and long-term cost advantages.";
+$a3     = "Corporate companies, tourism, e-commerce, healthcare, education, and service industries can benefit from custom software.";
+$a4     = "The process includes needs analysis and project planning, system design, software development, testing and quality control, deployment, and technical support.";
 ?>
 
 <!DOCTYPE html>
@@ -73,7 +73,7 @@ $a4     = "İhtiyaç analizi ve proje planlama, sistem tasarımı, yazılım gel
 </div>
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
-<h5 class="heading ">Kurumsal ve işletmeye özel <span class="text-color-primary"> yazılım geliştirme Servicesi</span> sunuyoruz. Web, mobil ve masaüstü yazılımlarınızı işletmenizin ihtiyaçlarına göre optimize ediyoruz.</h5>
+<h5 class="heading ">Kurumsal ve işletmeye özel <span class="text-color-primary"> yazılım geliştirme service</span> sunuyoruz. Web, mobil ve masaüstü yazılımlarınızı işletmenizin ihtiyaçlarına göre optimize ediyoruz.</h5>
 
 <div class="sub-heading">İş süreçlerinizi hızlandıracak ve verimliliği artıracak özel yazılım projeleri için bizimle iletişime geçin. Detaillı analiz ve danışmanlık hizmeti ile ihtiyaçlarınıza uygun çözümler üretiyoruz.</div>
 </div>

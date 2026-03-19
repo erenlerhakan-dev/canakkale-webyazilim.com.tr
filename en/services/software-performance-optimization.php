@@ -9,17 +9,17 @@ $cat    = "Software, Web Development";
 $lang   = "en_US";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-software-performance-optimization.webp";
 $img2   = "https://www.canakkale-webyazilim.com.tr/images/services/software-performance-optimization.webp";
-$url    = "https://www.canakkale-webyazilim.com.tr/services/software-performance-optimization";
-$keys   = "yazılım performans optimizasyonu, uygulama performansı, kod optimizasyonu, veritabanı optimizasyonu, yazılım hızlandırma";
+$url    = "https://www.canakkale-webyazilim.com.tr/en/services/software-performance-optimization";
+$keys   = "software performance optimization, application performance, code optimization, database optimization, software acceleration";
 $alt    = "software performance optimization";
-$q1     = "Yazılım performans optimizasyonu nedir?";
-$q2     = "Performans optimizasyonu neden önemlidir?";
-$q3     = "Veritabanı optimizasyonu nedir?";
-$q4     = "Performans optimizasyonu SEO'yu etkiler mi?";
-$a1     = "Yazılım performans optimizasyonu, uygulamaların daha hızlı ve verimli çalışmasını sağlamak için kod, veritabanı ve sistem altyapısında yapılan iyileştirme çalışmalarını ifade eder.";
-$a2     = "Performans optimizasyonu sayesinde uygulamalar daha hızlı çalışır, kullanıcı deneyimi artar ve sistem kaynakları daha verimli kullanılır.";
-$a3     = "Veritabanı optimizasyonu, sorgu performansını artırmak ve veri erişimini hızlandırmak için yapılan teknik iyileştirmeleri kapsar.";
-$a4     = "Evet, hızlı çalışan web uygulamaları ve web siteleri arama motorları tarafından daha iyi değerlendirilir ve SEO performansını olumlu etkiler.";
+$q1     = "What is Software Performance Optimization?";
+$q2     = "Why is Performance Optimization important?";
+$q3     = "What is Database Optimization?";
+$q4     = "Does Performance Optimization affect SEO?";
+$a1     = "Software performance optimization refers to improvements made in code, database, and system infrastructure to ensure applications run faster and more efficiently.";
+$a2     = "With performance optimization, applications run faster, user experience improves, and system resources are used more efficiently.";
+$a3     = "Database optimization includes technical improvements aimed at increasing query performance and speeding up data access.";
+$a4     = "Yes, fast-running web applications and websites are better evaluated by search engines, positively impacting SEO performance.";
 ?>
 
 <!DOCTYPE html>
@@ -73,7 +73,7 @@ $a4     = "Evet, hızlı çalışan web uygulamaları ve web siteleri arama moto
 </div>
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
-<h5 class="heading ">Modern uygulamalar için <span class="text-color-primary"> Software Performance Optimization</span> Servicesi sunuyoruz. Kod yapısı, veritabanı sorguları ve sistem altyapısı üzerinde yapılan iyileştirmeler sayesinde uygulamalarınızı daha hızlı ve verimli hale getiriyoruz.</h5>
+<h5 class="heading ">Modern uygulamalar için <span class="text-color-primary"> Software Performance Optimization</span> service sunuyoruz. Kod yapısı, veritabanı sorguları ve sistem altyapısı üzerinde yapılan iyileştirmeler sayesinde uygulamalarınızı daha hızlı ve verimli hale getiriyoruz.</h5>
 
 <div class="sub-heading">Performans optimizasyonu sayesinde web uygulamaları ve yazılım sistemleri daha stabil çalışır, kullanıcı deneyimi artar ve sistem kaynakları daha verimli kullanılır. Projeniz için Detaillı performans analizi ve optimizasyon çözümleri sunuyoruz.</div>
 </div>

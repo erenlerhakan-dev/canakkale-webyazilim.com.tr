@@ -9,17 +9,17 @@ $cat    = "E-Commerce, Web Development";
 $lang   = "en_US";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-e-commerce-solutions.webp";
 $img2   = "https://www.canakkale-webyazilim.com.tr/images/services/e-commerce-solutions.webp";
-$url    = "https://www.canakkale-webyazilim.com.tr/services/e-commerce-solutions";
-$keys   = "e-ticaret çözümleri, online mağaza, e-ticaret platformu, dijital mağaza yönetimi, e-ticaret sitesi, satış optimizasyonu";
+$url    = "https://www.canakkale-webyazilim.com.tr/en/services/e-commerce-solutions";
+$keys   = "e-commerce solutions, online store, e-commerce platform, digital store management, e-commerce website, sales optimization";
 $alt    = "e-commerce solutions";
-$q1     = "E-ticaret çözümleri nedir?";
-$q2     = "Hangi özellikler sunulur?";
-$q3     = "E-ticaret çözümlerinin avantajları nelerdir?";
-$q4     = "Kurulum süreci nasıl işler?";
-$a1     = "E-ticaret çözümleri, işletmenizin online satış yapabilmesi için gerekli web platformları, ödeme sistemleri ve satış yönetimi araçlarını kapsayan yazılım ve hizmetlerdir.";
-$a2     = "SEO uyumlu ürün sayfaları, ödeme entegrasyonu, stok ve sipariş yönetimi, raporlama, kullanıcı deneyimi optimizasyonu ve mobil uyumlu tasarım sunulur.";
-$a3     = "Online satışlarınızı artırır, süreçleri otomatikleştirir, müşteri deneyimini iyileştirir ve işletmenizin dijital görünürlüğünü yükseltir.";
-$a4     = "İhtiyaç analizi, tasarım ve prototip, platform geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarını içerir.";
+$q1     = "What are E-Commerce Solutions?";
+$q2     = "Which features are offered?";
+$q3     = "What are the advantages of e-commerce solutions?";
+$q4     = "How does the implementation process work?";
+$a1     = "E-commerce solutions are software and services that provide the necessary web platforms, payment systems, and sales management tools for your business to sell online.";
+$a2     = "They include SEO-friendly product pages, payment integration, stock and order management, reporting, user experience optimization, and mobile-friendly design.";
+$a3     = "E-commerce solutions increase online sales, automate processes, improve customer experience, and enhance your business's digital visibility.";
+$a4     = "The implementation process includes needs analysis, design and prototyping, platform development, testing and quality control, deployment, and technical support.";
 ?>
 
 <!DOCTYPE html>

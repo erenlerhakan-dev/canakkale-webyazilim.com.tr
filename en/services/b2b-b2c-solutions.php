@@ -9,17 +9,17 @@ $cat    = "B2B, B2C";
 $lang   = "en_US";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-b2b-b2c-solutions.webp";
 $img2   = "https://www.canakkale-webyazilim.com.tr/images/services/b2b-b2c-solutions.webp";
-$url    = "https://www.canakkale-webyazilim.com.tr/services/b2b-b2c-solutions";
-$keys   = "B2B çözümleri, B2C çözümleri, dijital ticaret platformu, e-ticaret yazılımı, B2B e-ticaret sistemi, B2C satış platformu";
-$alt    = "b2b and b2c solutions";
-$q1     = "B2B çözümleri nedir?";
-$q2     = "B2C çözümleri nedir?";
-$q3     = "B2B ve B2C sistemleri arasındaki fark nedir?";
-$q4     = "B2B ve B2C yazılımları neden önemlidir?";
-$a1     = "B2B çözümleri, işletmelerin diğer işletmelerle dijital ortamda ticaret yapmasını sağlayan yazılım ve platform çözümleridir.";
-$a2     = "B2C çözümleri, işletmelerin ürün veya hizmetlerini doğrudan son kullanıcıya satmasını sağlayan e-ticaret ve dijital satış platformlarıdır.";
-$a3     = "B2B sistemleri işletmeler arası ticareti kapsarken B2C sistemleri doğrudan tüketicilere satış yapılmasını sağlar.";
-$a4     = "Bu yazılımlar satış süreçlerini dijitalleştirir, müşteri deneyimini artırır ve işletmelerin daha geniş pazarlara ulaşmasını sağlar.";
+$url    = "https://www.canakkale-webyazilim.com.tr/en/services/b2b-b2c-solutions";
+$keys   = "B2B solutions, B2C solutions, digital commerce platform, e-commerce software, B2B e-commerce system, B2C sales platform";
+$alt    = "B2B and B2C solutions";
+$q1     = "What are B2B Solutions?";
+$q2     = "What are B2C Solutions?";
+$q3     = "What is the difference between B2B and B2C systems?";
+$q4     = "Why are B2B and B2C software solutions important?";
+$a1     = "B2B solutions are software and platform solutions that enable businesses to conduct commerce with other businesses digitally.";
+$a2     = "B2C solutions are e-commerce and digital sales platforms that allow businesses to sell products or services directly to end customers.";
+$a3     = "B2B systems cover business-to-business transactions, while B2C systems facilitate direct sales to consumers.";
+$a4     = "These software solutions digitize sales processes, enhance customer experience, and help businesses reach wider markets.";
 ?>
 
 <!DOCTYPE html>
@@ -121,7 +121,7 @@ B2C Çözümleri<span>
 </div>
 <div id="collapse__11" class="collapse" aria-labelledby="heading__11" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>B2C (Business to Consumer) çözümleri, işletmelerin ürün ve Servicesini doğrudan son kullanıcılara sunmasını sağlayan dijital satış platformlarıdır. E-ticaret siteleri, mobil alışveriş uygulamaları ve online ödeme sistemleri B2C çözümlerinin önemli parçalarıdır.</p>
+<p>B2C (Business to Consumer) çözümleri, işletmelerin ürün ve serviceni doğrudan son kullanıcılara sunmasını sağlayan dijital satış platformlarıdır. E-ticaret siteleri, mobil alışveriş uygulamaları ve online ödeme sistemleri B2C çözümlerinin önemli parçalarıdır.</p>
 </div>
 </div>
 </div>
