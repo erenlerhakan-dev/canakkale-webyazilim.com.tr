@@ -1098,14 +1098,6 @@
     });
 
     /*=============================================
-    =            light gallery active            =
-    =============================================*/
-    
-    $('.popup-images').lightGallery(); 
-
-    $('.video-popup').lightGallery(); 
-    
-    /*=============================================
         showcoupon toggle function
    =============================================*/
     $( '#showcoupon' ).on('click', function() {

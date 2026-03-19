@@ -4,7 +4,6 @@
 <script src="/assets/js/vendor/bootstrap.min.js"></script>
 <script src="/assets/js/plugins/wow.min.js"></script>
 <script src="/assets/js/plugins/swiper.min.js"></script>
-<script src="/assets/js/plugins/lightgallery.min.js"></script>
 <script src="/assets/js/plugins/waypoints.min.js"></script>
 <script src="/assets/js/plugins/countdown.min.js"></script>
 <script src="/assets/js/plugins/isotope.min.js"></script>
