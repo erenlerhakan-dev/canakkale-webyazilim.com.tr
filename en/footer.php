@@ -28,7 +28,7 @@
 <ul class="footer-widget__list">
 <li><a href="https://www.canakkale-webyazilim.com.tr/en/services/custom-web-development" class="hover-style-link">Custom Web Development</a></li>
 <li><a href="https://www.canakkale-webyazilim.com.tr/en/services/crm-systems" class="hover-style-link">CRM Systems</a></li>
-<li><a href="https://www.canakkale-webyazilim.com.tr/en/services/erp-cozumleri" class="hover-style-link">ERP Solutions</a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/en/services/erp-solutions" class="hover-style-link">ERP Solutions</a></li>
 <li><a href="https://www.canakkale-webyazilim.com.tr/en/services/e-commerce-solutions" class="hover-style-link">E-commerce Solutions</a></li>
 <li><a href="https://www.canakkale-webyazilim.com.tr/en/services/mobile-applications" class="hover-style-link">Mobile Applications</a></li>
 <li><a href="https://www.canakkale-webyazilim.com.tr/en/services/reservation-systems" class="hover-style-link">Reservation Systems</a></li>

@@ -119,7 +119,7 @@
 <ul class="submenu">
 <li><a href="https://www.canakkale-webyazilim.com.tr/en/services/custom-web-development"><span>Custom Web Development</span></a></li>
 <li><a href="https://www.canakkale-webyazilim.com.tr/en/services/crm-systems"><span>CRM Systems</span></a></li>
-<li><a href="https://www.canakkale-webyazilim.com.tr/en/services/erp-cozumleri"><span>ERP Solutions</span></a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/en/services/erp-solutions"><span>ERP Solutions</span></a></li>
 <li><a href="https://www.canakkale-webyazilim.com.tr/en/services/e-commerce-solutions"><span>E-commerce Solutions</span></a></li>
 <li><a href="https://www.canakkale-webyazilim.com.tr/en/services/mobile-applications"><span>Mobile Applications</span></a></li>
 <li><a href="https://www.canakkale-webyazilim.com.tr/en/services/reservation-systems"><span>Reservation Systems</span></a></li>
