@@ -55,7 +55,7 @@
 <div class="content">
 <h5 class="heading">ERP Solutions</h5>
 <div class="text">Enterprise Resource Planning systems integrate all aspects of business operations into a single, unified platform.</div>
-<div class="feature-btn"><a href="/en/services/erp-cozumleri"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="feature-btn"><a href="/en/services/erp-solutions"><span class="button-text">Detail</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
