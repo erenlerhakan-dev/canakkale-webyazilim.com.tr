@@ -1,5 +1,5 @@
 <?php
-$name   = "Özel Web Geliştirme";
+$name   = "Custom Web Development Servicesi";
 $title  = "Özel Web Geliştirme Çözümleri | Çözüm Cloud Çanakkale";
 $desc1  = "Çözüm Cloud Çanakkale ile işletmenize özel web geliştirme çözümleri oluşturun. İhtiyaçlarınıza uygun, güvenli ve ölçeklenebilir web siteleri tasarlayın.";
 $desc2  = "Kurumsal web siteleri, portallar ve özel web uygulamaları ile dijital varlığınızı güçlendirin. Modern teknolojilerle verimli ve kullanıcı dostu projeler geliştirin.";
@@ -26,73 +26,17 @@ $a4     = "İhtiyaç analizi ve planlama, tasarım ve prototip, geliştirme, tes
 <html class="no-js" lang="en" dir="ltr">
 
 <head>
-<title>Custom Web Development | Kurumsal ve Kişiye Özel Web Çözümleri</title>
-<meta name="description" content="Custom Web Development Servicesi ile işletmenize veya projenize özel web çözümleri oluşturun. Modern, hızlı ve SEO uyumlu web siteleri geliştirme Servicesi.">
-<meta name="keywords" content="Custom Web Development, web tasarım, web yazılım geliştirme, kurumsal web çözümleri, web sitesi geliştirme, web uygulaması geliştirme">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
+<meta name="keywords" content="<?php echo $keys; ?>">
+
+<?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https:/schema.org",
- "@type": "BlogPosting",
- "headline": "Custom Web Development Servicesi",
- "description": "İşletmelere ve projelere Custom Web Development çözümleri ile modern, hızlı ve ölçeklenebilir web siteleri oluşturun.",
- "author": {
-   "@type": "Organization",
-   "name": "IT Solutions"
- },
- "publisher": {
-   "@type": "Organization",
-   "name": "IT Solutions"
- },
- "mainEntityOfPage": {
-   "@type": "WebPage",
-   "@id": "https://www.canakkale-webyazilim.com.tr/en/services/custom-web-development.php"
- }
-}
-</script>
+<?php include('schema.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https:/schema.org",
- "@type": "FAQPage",
- "mainEntity": [
-  {
-    "@type": "Question",
-    "name": "Custom Web Development nedir?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Custom Web Development, bir işletme veya proje için tamamen özelleştirilmiş, modern ve performanslı web siteleri veya web uygulamaları geliştirme sürecidir."
-    }
-  },
-  {
-    "@type": "Question",
-    "name": "Custom Web Development hangi avantajları sağlar?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "İşletmenize özel tasarım, yüksek performans, SEO uyumluluğu, mobil uyumluluk ve ölçeklenebilirlik sağlar."
-    }
-  },
-  {
-    "@type": "Question",
-    "name": "Hangi sektörlerde kullanılabilir?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "E-ticaret, kurumsal şirketler, turizm, sağlık, eğitim ve hizmet sektörleri başta olmak üzere tüm dijital projelerde kullanılabilir."
-    }
-  },
-  {
-    "@type": "Question",
-    "name": "Web geliştirme süreci nasıl işler?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "İhtiyaç analizi ve planlama, tasarım ve prototip, geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarını içerir."
-    }
-  }
- ]
-}
-</script>
+<?php include('schema_faq.php'); ?>
 
 </head>
 

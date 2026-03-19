@@ -1,5 +1,5 @@
 <?php
-$name   = "E-Ticaret Çözümleri";
+$name   = "E-commerce Solutions";
 $title  = "E-Ticaret Çözümleri ile İşinizi Dijitalde Büyütün | Çözüm Cloud Çanakkale";
 $desc1  = "Çözüm Cloud Çanakkale ile işletmenize özel e-ticaret çözümleri geliştirin. Online satış süreçlerini optimize edin ve verimli platformlar oluşturun.";
 $desc2  = "E-ticaret sitenizi güvenli, hızlı ve kullanıcı dostu hale getirin. Ödeme sistemleri, ürün yönetimi ve müşteri deneyimi odaklı çözümler sunun.";
@@ -26,73 +26,17 @@ $a4     = "İhtiyaç analizi, tasarım ve prototip, platform geliştirme, test v
 <html class="no-js" lang="en" dir="ltr">
 
 <head>
-<title>E-commerce Solutions| Online Satış ve Dijital Mağaza Yönetimi</title>
-<meta name="description" content="E-commerce Solutionsile online mağazanızı kurun, satış süreçlerinizi yönetin ve dijital mağazanızı optimize edin. SEO uyumlu ve performanslı e-ticaret platformları.">
-<meta name="keywords" content="E-commerce Solutions, online mağaza, e-ticaret platformu, dijital mağaza yönetimi, e-ticaret sitesi, satış optimizasyonu">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
+<meta name="keywords" content="<?php echo $keys; ?>">
+
+<?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https:/schema.org",
- "@type": "BlogPosting",
- "headline": "E-commerce Solutionsile Online Satışınızı Büyütün",
- "description": "Online satışlarınızı artırmak ve dijital mağazanızı optimize etmek için E-commerce Solutionssunuyoruz.",
- "author": {
-   "@type": "Organization",
-   "name": "IT Solutions"
- },
- "publisher": {
-   "@type": "Organization",
-   "name": "IT Solutions"
- },
- "mainEntityOfPage": {
-   "@type": "WebPage",
-   "@id": "https://www.canakkale-webyazilim.com.tr/en/services/e-commerce-solutions.php"
- }
-}
-</script>
+<?php include('schema.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https:/schema.org",
- "@type": "FAQPage",
- "mainEntity": [
-  {
-    "@type": "Question",
-    "name": "E-commerce Solutionsnedir?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "E-commerce Solutions, işletmenizin online satış yapabilmesi için gerekli web platformları, ödeme sistemleri ve satış yönetimi araçlarını kapsayan yazılım ve Servicesdir."
-    }
-  },
-  {
-    "@type": "Question",
-    "name": "Hangi özellikler sunulur?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "SEO uyumlu ürün sayfaları, ödeme entegrasyonu, stok ve sipariş yönetimi, raporlama, kullanıcı deneyimi optimizasyonu ve mobil uyumlu tasarım sunulur."
-    }
-  },
-  {
-    "@type": "Question",
-    "name": "E-commerce Solutionsnin avantajları nelerdir?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Online satışlarınızı artırır, süreçleri otomatikleştirir, müşteri deneyimini iyileştirir ve işletmenizin dijital görünürlüğünü yükseltir."
-    }
-  },
-  {
-    "@type": "Question",
-    "name": "Kurulum süreci nasıl işler?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "İhtiyaç analizi, tasarım ve prototip, platform geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarını içerir."
-    }
-  }
- ]
-}
-</script>
+<?php include('schema_faq.php'); ?>
 
 </head>
 

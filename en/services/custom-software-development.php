@@ -1,5 +1,5 @@
 <?php
-$name   = "Özel Yazılım Geliştirme";
+$name   = "Custom Software Development";
 $title  = "Özel Yazılım Geliştirme Çözümleri | Çözüm Cloud Çanakkale";
 $desc1  = "Çözüm Cloud Çanakkale ile işletmenize özel yazılım çözümleri geliştirin. İş süreçlerinize uygun, güvenli ve ölçeklenebilir uygulamalar oluşturun.";
 $desc2  = "Kurumsal ve sektörel yazılım ihtiyaçlarınızı karşılayan özel çözümler sunun. Modern teknolojilerle verimli ve kullanıcı dostu yazılımlar geliştirin.";
@@ -26,73 +26,17 @@ $a4     = "İhtiyaç analizi ve proje planlama, sistem tasarımı, yazılım gel
 <html class="no-js" lang="en" dir="ltr">
 
 <head>
-<title>Custom Software Development | İşletmelere Özel Yazılım Çözümleri</title>
-<meta name="description" content="Custom Software Development Servicesi ile işletmenize özel, ölçeklenebilir ve güvenli yazılım çözümleri oluşturun. Web, mobil ve kurumsal yazılım geliştirme hakkında Detaillı bilgi alın.">
-<meta name="keywords" content="Custom Software Development, kurumsal yazılım çözümleri, işletmeye özel yazılım, yazılım geliştirme hizmeti, web tabanlı yazılım, yazılım danışmanlığı">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
+<meta name="keywords" content="<?php echo $keys; ?>">
+
+<?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https:/schema.org",
- "@type": "BlogPosting",
- "headline": "Custom Software Development",
- "description": "Custom Software Development ile işletmelere özel web, mobil ve kurumsal yazılım çözümleri oluşturabilirsiniz.",
- "author": {
-   "@type": "Organization",
-   "name": "IT Solutions"
- },
- "publisher": {
-   "@type": "Organization",
-   "name": "IT Solutions"
- },
- "mainEntityOfPage": {
-   "@type": "WebPage",
-   "@id": "https://www.canakkale-webyazilim.com.tr/en/services/custom-software-development.php"
- }
-}
-</script>
+<?php include('schema.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https:/schema.org",
- "@type": "FAQPage",
- "mainEntity": [
-  {
-    "@type": "Question",
-    "name": "Custom Software Development nedir?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Custom Software Development, bir işletmenin ihtiyaçlarına özel olarak tasarlanan ve tamamen özelleştirilebilen yazılım çözümlerini ifade eder."
-    }
-  },
-  {
-    "@type": "Question",
-    "name": "Custom Software Development hangi avantajları sağlar?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "İş süreçlerine tam uyum, yüksek performans, güvenlik, ölçeklenebilirlik ve uzun vadede maliyet avantajı sağlar."
-    }
-  },
-  {
-    "@type": "Question",
-    "name": "Hangi sektörler özel yazılımdan faydalanabilir?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Kurumsal firmalar, turizm, e-ticaret, sağlık, eğitim ve hizmet sektörleri özel yazılımdan yararlanabilir."
-    }
-  },
-  {
-    "@type": "Question",
-    "name": "Custom Software Development süreci nasıl işler?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "İhtiyaç analizi ve proje planlama, sistem tasarımı, yazılım geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarını içerir."
-    }
-  }
- ]
-}
-</script>
+<?php include('schema_faq.php'); ?>
 
 </head>
 

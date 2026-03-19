@@ -1,5 +1,5 @@
 <?php
-$name   = "Rezervasyon Sistemleri";
+$name   = "Reservation Systems";
 $title  = "Rezervasyon Sistemleri ile İşletmenizi Güçlendirin | Çözüm Cloud Çanakkale";
 $desc1  = "Çözüm Cloud Çanakkale ile işletmeniz için özelleştirilmiş rezervasyon sistemleri geliştirin. Rezervasyon süreçlerini hızlandırın ve yönetimi kolaylaştırın.";
 $desc2  = "Online rezervasyon, ödeme ve yönetim süreçlerini tek platformda yönetin. Müşteri deneyimini artıran modern ve güvenli rezervasyon çözümleri oluşturun.";
@@ -26,68 +26,17 @@ $a4     = "Online booking sistemi müşterilerin 7/24 rezervasyon yapmasını sa
 <html class="no-js" lang="en" dir="ltr">
 
 <head>
-<title>Reservation Systems | Online Rezervasyon Yazılımı ve Booking Çözümleri</title>
-<meta name="description" content="Reservation Systems ile otel, tur, restoran ve hizmet sektörleri için online booking çözümleri geliştirin. Modern ve kullanıcı dostu rezervasyon yazılımı.">
-<meta name="keywords" content="rezervasyon sistemi, online rezervasyon yazılımı, booking sistemi, randevu sistemi, tur rezervasyon sistemi, otel rezervasyon yazılımı">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
+<meta name="keywords" content="<?php echo $keys; ?>">
+
+<?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https:/schema.org",
- "@type": "BlogPosting",
- "headline": "Reservation Systems ve Online Booking Yazılımları",
- "description": "Reservation Systems sayesinde işletmeler müşterilerinin online rezervasyon yapmasını sağlayabilir ve booking süreçlerini kolayca yönetebilir.",
- "author": {
- "@type": "Organization",
- "name": "Software Development Solutions"
- },
- "publisher": {
- "@type": "Organization",
- "name": "Software Development Solutions"
- },
- "mainEntityOfPage": {
- "@type": "WebPage",
- "@id": "https://www.canakkale-webyazilim.com.tr/en/services/reservation-systems.php"
- }
-}
-</script>
+<?php include('schema.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https:/schema.org",
- "@type": "FAQPage",
- "mainEntity": [{
- "@type": "Question",
- "name": "Rezervasyon sistemi nedir?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Rezervasyon sistemi, müşterilerin internet üzerinden hizmet veya ürün için rezervasyon yapmasını sağlayan yazılım sistemidir."
- }
- },{
- "@type": "Question",
- "name": "Online rezervasyon sistemi hangi sektörlerde kullanılır?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Online Reservation Systems otel, turizm, restoran, araç kiralama, sağlık ve etkinlik organizasyonları gibi birçok sektörde kullanılmaktadır."
- }
- },{
- "@type": "Question",
- "name": "Rezervasyon yazılımı işletmelere ne kazandırır?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Rezervasyon yazılımları işletmelerin booking süreçlerini otomatikleştirir, müşteri deneyimini geliştirir ve rezervasyon yönetimini kolaylaştırır."
- }
- },{
- "@type": "Question",
- "name": "Online booking sistemi neden önemlidir?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Online booking sistemi müşterilerin 7/24 rezervasyon yapmasını sağlar ve işletmelerin daha fazla müşteriye ulaşmasına yardımcı olur."
- }
- }]
-}
-</script>
+<?php include('schema_faq.php'); ?>
 
 </head>
 

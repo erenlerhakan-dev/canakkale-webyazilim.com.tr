@@ -1,5 +1,5 @@
 <?php
-$name   = "Mobil Uygulama Geliştirme";
+$name   = "Custom Web Development Servicesi";
 $title  = "Mobil Uygulama Geliştirme Çözümleri | Çözüm Cloud Çanakkale";
 $desc1  = "Çözüm Cloud Çanakkale ile mobil uygulamalar geliştirin. iOS ve Android için kullanıcı dostu, güvenli ve yüksek performanslı çözümler oluşturun.";
 $desc2  = "Native veya cross-platform mobil uygulama geliştirme seçenekleri ile projelerinizi hızlı ve verimli bir şekilde hayata geçirin.";
@@ -26,73 +26,17 @@ $a4     = "İhtiyaç analizi ve planlama, prototip ve tasarım, geliştirme, tes
 <html class="no-js" lang="en" dir="ltr">
 
 <head>
-<title>Mobil Uygulama Geliştirme | iOS & Android Özel Uygulamalar</title>
-<meta name="description" content="Mobil uygulama geliştirme Servicesi ile iOS ve Android platformları için işletmenize özel uygulamalar oluşturun. Performanslı, güvenli ve kullanıcı dostu mobil çözümler.">
-<meta name="keywords" content="mobil uygulama geliştirme, iOS uygulama, Android uygulama, özel mobil uygulama, kurumsal mobil uygulama, mobil yazılım geliştirme">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
+<meta name="keywords" content="<?php echo $keys; ?>">
+
+<?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https:/schema.org",
- "@type": "BlogPosting",
- "headline": "Mobil Uygulama Geliştirme",
- "description": "iOS ve Android platformlarına özel mobil uygulama geliştirme Servicesi ile işletmenize özel çözümler sunuyoruz.",
- "author": {
-   "@type": "Organization",
-   "name": "IT Solutions"
- },
- "publisher": {
-   "@type": "Organization",
-   "name": "IT Solutions"
- },
- "mainEntityOfPage": {
-   "@type": "WebPage",
-   "@id": "https://www.canakkale-webyazilim.com.tr/en/services/mobil-uygulama-gelistirme.php"
- }
-}
-</script>
+<?php include('schema.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https:/schema.org",
- "@type": "FAQPage",
- "mainEntity": [
-  {
-    "@type": "Question",
-    "name": "Mobil uygulama geliştirme nedir?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Mobil uygulama geliştirme, iOS ve Android platformları için özel, performanslı ve kullanıcı dostu uygulamalar tasarlama ve geliştirme sürecidir."
-    }
-  },
-  {
-    "@type": "Question",
-    "name": "Hangi platformlar için geliştirme yapılır?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "iOS, Android ve gerektiğinde çapraz platform (cross-platform) teknolojileri ile Mobile Applications geliştirilir."
-    }
-  },
-  {
-    "@type": "Question",
-    "name": "Mobil uygulama geliştirme avantajları nelerdir?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Kullanıcı deneyimi iyileşir, marka değeri artar, iş süreçleri dijitalleşir, veri toplama ve analiz daha etkin yapılabilir."
-    }
-  },
-  {
-    "@type": "Question",
-    "name": "Geliştirme süreci nasıl işler?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "İhtiyaç analizi ve planlama, prototip ve tasarım, geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarından oluşur."
-    }
-  }
- ]
-}
-</script>
+<?php include('schema_faq.php'); ?>
 
 </head>
 
@@ -110,7 +54,7 @@ $a4     = "İhtiyaç analizi ve planlama, prototip ve tasarım, geliştirme, tes
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">Mobil Uygulama Geliştirme</h1>
+<h1 class="mb-15 text-white">Custom Web Development Servicesi</h1>
 <h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>

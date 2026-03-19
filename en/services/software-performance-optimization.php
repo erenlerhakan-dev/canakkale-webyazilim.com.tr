@@ -1,5 +1,5 @@
 <?php
-$name   = "Yazılım Performans Optimizasyonu";
+$name   = "Software Performance Optimization";
 $title  = "Yazılım Performans Optimizasyonu Teknikleri | Çözüm Cloud Çanakkale";
 $desc1  = "Çözüm Cloud Çanakkale ile yazılım projelerinizin performansını artırın. Kod, veritabanı ve altyapı optimizasyonları ile hızlı ve verimli uygulamalar geliştirin.";
 $desc2  = "Yavaş çalışan uygulamalara veda edin. Performans izleme, kod iyileştirme ve ölçeklenebilir mimari çözümleri ile yazılım süreçlerinizi optimize edin.";
@@ -26,68 +26,17 @@ $a4     = "Evet, hızlı çalışan web uygulamaları ve web siteleri arama moto
 <html class="no-js" lang="en" dir="ltr">
 
 <head>
-<title>Software Performance Optimization | Hızlı ve Ölçeklenebilir Yazılım Çözümleri</title>
-<meta name="description" content="Software Performance Optimization ile uygulamalarınızı hızlandırın. Kod optimizasyonu, veritabanı iyileştirme ve sistem performans artırma çözümleri.">
-<meta name="keywords" content="Software Performance Optimization, uygulama performansı, kod optimizasyonu, veritabanı optimizasyonu, yazılım hızlandırma">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
+<meta name="keywords" content="<?php echo $keys; ?>">
+
+<?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https:/schema.org",
- "@type": "BlogPosting",
- "headline": "Software Performance Optimization",
- "description": "Software Performance Optimization sayesinde uygulamaların daha hızlı, güvenli ve ölçeklenebilir hale getirilmesi hakkında bilgiler.",
- "author": {
- "@type": "Organization",
- "name": "Software Development Solutions"
- },
- "publisher": {
- "@type": "Organization",
- "name": "Software Development Solutions"
- },
- "mainEntityOfPage": {
- "@type": "WebPage",
- "@id": "https://www.canakkale-webyazilim.com.tr/en/services/software-performance-optimization.php"
- }
-}
-</script>
+<?php include('schema.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https:/schema.org",
- "@type": "FAQPage",
- "mainEntity": [{
- "@type": "Question",
- "name": "Software Performance Optimization nedir?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Software Performance Optimization, uygulamaların daha hızlı ve verimli çalışmasını sağlamak için kod, veritabanı ve sistem altyapısında yapılan iyileştirme çalışmalarını ifade eder."
- }
- },{
- "@type": "Question",
- "name": "Performans optimizasyonu neden önemlidir?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Performans optimizasyonu sayesinde uygulamalar daha hızlı çalışır, kullanıcı deneyimi artar ve sistem kaynakları daha verimli kullanılır."
- }
- },{
- "@type": "Question",
- "name": "Veritabanı optimizasyonu nedir?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Veritabanı optimizasyonu, sorgu performansını artırmak ve veri erişimini hızlandırmak için yapılan teknik iyileştirmeleri kapsar."
- }
- },{
- "@type": "Question",
- "name": "Performans optimizasyonu SEO'yu etkiler mi?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Evet, hızlı çalışan web uygulamaları ve web siteleri arama motorları tarafından daha iyi değerlendirilir ve SEO performansını olumlu etkiler."
- }
- }]
-}
-</script>
+<?php include('schema_faq.php'); ?>
 
 </head>
 

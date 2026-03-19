@@ -1,5 +1,5 @@
 <?php
-$name   = "CRM Sistemleri";
+$name   = "CRM Systems";
 $title  = "CRM Sistemleri ile Müşteri Yönetimi | Çözüm Cloud Çanakkale";
 $desc1  = "Çözüm Cloud Çanakkale ile CRM sistemlerini kullanarak müşteri ilişkilerinizi güçlendirin. Satış, pazarlama ve destek süreçlerini optimize edin.";
 $desc2  = "Kurumsal CRM çözümleri ile müşteri verilerini etkin yönetin. İş süreçlerini otomatikleştirerek verimliliği artırın ve müşteri memnuniyetini yükseltin.";
@@ -26,68 +26,17 @@ $a4     = "Bulut tabanlı CRM sistemleri internet üzerinden çalışan ve herha
 <html class="no-js" lang="en" dir="ltr">
 
 <head>
-<title>CRM Systems | Müşteri İlişkileri Yönetimi Yazılım Çözümleri</title>
-<meta name="description" content="CRM Systems ile müşteri ilişkilerinizi yönetin, satış süreçlerinizi optimize edin ve işletmenizin verimliliğini artırın. Modern CRM yazılım çözümleri hakkında bilgi alın.">
-<meta name="keywords" content="CRM Systems, müşteri ilişkileri yönetimi, CRM yazılımı, satış yönetimi sistemi, müşteri yönetim yazılımı">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
+<meta name="keywords" content="<?php echo $keys; ?>">
+
+<?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https:/schema.org",
- "@type": "BlogPosting",
- "headline": "CRM Systems ile Müşteri İlişkileri Yönetimi",
- "description": "CRM Systems sayesinde işletmeler müşteri verilerini yönetebilir, satış süreçlerini optimize edebilir ve müşteri memnuniyetini artırabilir.",
- "author": {
- "@type": "Organization",
- "name": "Business Software Solutions"
- },
- "publisher": {
- "@type": "Organization",
- "name": "Business Software Solutions"
- },
- "mainEntityOfPage": {
- "@type": "WebPage",
- "@id": "https://www.canakkale-webyazilim.com.tr/en/services/crm-systems.php"
- }
-}
-</script>
+<?php include('schema.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https:/schema.org",
- "@type": "FAQPage",
- "mainEntity": [{
- "@type": "Question",
- "name": "CRM sistemi nedir?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "CRM sistemi, işletmelerin müşteri ilişkilerini yönetmesini sağlayan yazılım çözümleridir. Bu sistemler müşteri bilgilerini saklar, satış süreçlerini takip eder ve müşteri deneyimini geliştirir."
- }
- },{
- "@type": "Question",
- "name": "CRM yazılımı işletmelere ne kazandırır?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "CRM yazılımları müşteri verilerini merkezi bir sistemde toplar, satış ve pazarlama süreçlerini optimize eder ve müşteri memnuniyetini artırır."
- }
- },{
- "@type": "Question",
- "name": "CRM Systems hangi sektörlerde kullanılır?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "CRM Systems e-ticaret, turizm, finans, sağlık, eğitim ve birçok farklı sektörde müşteri ilişkilerini yönetmek için kullanılmaktadır."
- }
- },{
- "@type": "Question",
- "name": "Bulut tabanlı CRM nedir?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Bulut tabanlı CRM Systems internet üzerinden çalışan ve herhangi bir kurulum gerektirmeden kullanılabilen modern müşteri yönetim yazılımlarıdır."
- }
- }]
-}
-</script>
+<?php include('schema_faq.php'); ?>
 
 </head>
 

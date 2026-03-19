@@ -1,5 +1,5 @@
 <?php
-$name   = "ERP Çözümleri";
+$name   = "ERP Solutions";
 $title  = "ERP Çözümleri ile İş Süreçlerini Optimize Edin | Çözüm Cloud Çanakkale";
 $desc1  = "Çözüm Cloud Çanakkale ile ERP çözümleri kullanarak işletmenizin iş süreçlerini entegre edin. Finans, üretim ve lojistik süreçlerini optimize edin.";
 $desc2  = "Kurumsal kaynak planlaması ile verimliliği artırın. ERP sistemleri ile süreçlerinizi merkezi ve etkili şekilde yönetin.";
@@ -26,73 +26,17 @@ $a4     = "Analiz ve planlama, yazılım yapılandırma, veri entegrasyonu, kull
 <html class="no-js" lang="en" dir="ltr">
 
 <head>
-<title>ERP Solutions | Kurumsal İş Süreçleri Yönetimi</title>
-<meta name="description" content="ERP Solutions ile işletmenizin tüm iş süreçlerini tek bir sistemde yönetin. Finans, insan kaynakları, üretim ve lojistik süreçlerini optimize edin.">
-<meta name="keywords" content="ERP Solutions, kurumsal yazılım, iş süreçleri yönetimi, üretim yönetimi, finans yönetimi, ERP sistemi">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
+<meta name="keywords" content="<?php echo $keys; ?>">
+
+<?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https:/schema.org",
- "@type": "BlogPosting",
- "headline": "ERP Solutions ile İş Süreçlerinizi Yönetin",
- "description": "Kurumsal ERP Solutions ile finans, üretim, insan kaynakları ve lojistik süreçlerinizi tek bir sistemde yönetin.",
- "author": {
-   "@type": "Organization",
-   "name": "IT Solutions"
- },
- "publisher": {
-   "@type": "Organization",
-   "name": "IT Solutions"
- },
- "mainEntityOfPage": {
-   "@type": "WebPage",
-   "@id": "https://www.canakkale-webyazilim.com.tr/en/services/erp-cozumleri.php"
- }
-}
-</script>
+<?php include('schema.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https:/schema.org",
- "@type": "FAQPage",
- "mainEntity": [
-  {
-    "@type": "Question",
-    "name": "ERP nedir?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "ERP (Enterprise Resource Planning), işletmenizin tüm iş süreçlerini tek bir sistemde entegre eden yazılım çözümüdür."
-    }
-  },
-  {
-    "@type": "Question",
-    "name": "ERP Solutions hangi süreçleri kapsar?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Finans, insan kaynakları, üretim, lojistik, satış ve pazarlama süreçlerini kapsar ve süreçlerin dijitalleşmesini sağlar."
-    }
-  },
-  {
-    "@type": "Question",
-    "name": "ERP Solutionsnin avantajları nelerdir?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "İş süreçlerinin hızlanması, veri bütünlüğü, maliyet optimizasyonu, daha iyi karar alma süreçleri ve merkezi yönetim sağlar."
-    }
-  },
-  {
-    "@type": "Question",
-    "name": "ERP kurulum süreci nasıl işler?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Analiz ve planlama, yazılım yapılandırma, veri entegrasyonu, kullanıcı eğitimi, test ve yayına alma adımlarını içerir."
-    }
-  }
- ]
-}
-</script>
+<?php include('schema_faq.php'); ?>
 
 </head>
 

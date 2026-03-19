@@ -1,5 +1,5 @@
 <?php
-$name   = "Teknik Danışmanlık Hizmetleri";
+$name   = "Custom Web Development Servicesi";
 $title  = "Teknik Danışmanlık Hizmetleri | Çözüm Cloud Çanakkale";
 $desc1  = "Çözüm Cloud Çanakkale ile server, hosting, yazılım ve web sitesi konularında profesyonel teknik danışmanlık alın. İşletmenize özel çözümler geliştirin.";
 $desc2  = "Altyapı, yazılım ve web projelerinizde doğru stratejileri belirleyin. Performans, güvenlik ve verimliliği artıran teknik danışmanlık hizmetleri sunuyoruz.";
@@ -26,68 +26,17 @@ $a4     = "Yazılım danışmanlığı, sistem mimarisi, API entegrasyonları, p
 <html class="no-js" lang="en" dir="ltr">
 
 <head>
-<title>Technical Consulting Servicesi | Yazılım, Server ve Hosting Çözümleri</title>
-<meta name="description" content="Yazılım, server, hosting ve bilişim alanlarında profesyonel Technical Consulting Servicesi. İşletmeniz için güvenli ve ölçeklenebilir IT çözümleri.">
-<meta name="keywords" content="Technical Consulting, bilişim danışmanlığı, yazılım danışmanlığı, server yönetimi, hosting danışmanlığı, IT danışmanlık Servicesi">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
+<meta name="keywords" content="<?php echo $keys; ?>">
+
+<?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https:/schema.org",
- "@type": "BlogPosting",
- "headline": "Technical Consulting Servicesi",
- "description": "Yazılım, server yönetimi, hosting altyapısı ve bilişim çözümleri için profesyonel Technical Consulting Servicesi hakkında bilgiler.",
- "author": {
- "@type": "Organization",
- "name": "IT Consulting Services"
- },
- "publisher": {
- "@type": "Organization",
- "name": "IT Consulting Services"
- },
- "mainEntityOfPage": {
- "@type": "WebPage",
- "@id": "https://www.canakkale-webyazilim.com.tr/en/services/technical-consulting.php"
- }
-}
-</script>
+<?php include('schema.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https:/schema.org",
- "@type": "FAQPage",
- "mainEntity": [{
- "@type": "Question",
- "name": "Technical Consulting nedir?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Technical Consulting, işletmelerin yazılım, server altyapısı, hosting ve bilişim sistemlerini daha verimli kullanmaları için sunulan profesyonel destek ve yönlendirme hizmetidir."
- }
- },{
- "@type": "Question",
- "name": "Server yönetimi danışmanlığı ne sağlar?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Server yönetimi danışmanlığı sayesinde sunucu altyapısı güvenli, hızlı ve kesintisiz çalışacak şekilde optimize edilir."
- }
- },{
- "@type": "Question",
- "name": "Hosting danışmanlığı neden önemlidir?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Doğru hosting altyapısı web sitelerinin performansı, güvenliği ve SEO başarısı için kritik öneme sahiptir."
- }
- },{
- "@type": "Question",
- "name": "Yazılım danışmanlığı hangi konuları kapsar?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Yazılım danışmanlığı, sistem mimarisi, API entegrasyonları, performans optimizasyonu ve yazılım geliştirme stratejilerini kapsar."
- }
- }]
-}
-</script>
+<?php include('schema_faq.php'); ?>
 
 </head>
 
@@ -105,7 +54,7 @@ $a4     = "Yazılım danışmanlığı, sistem mimarisi, API entegrasyonları, p
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">Technical Consulting Servicesi</h1>
+<h1 class="mb-15 text-white">Custom Web Development Servicesi</h1>
 <h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>

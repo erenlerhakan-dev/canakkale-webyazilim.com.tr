@@ -1,5 +1,5 @@
 <?php
-$name   = "API Geliştirme";
+$name   = "API Development Service";
 $title  = "Modern API Geliştirme Rehberi | Çözüm Cloud Çanakkale";
 $desc1  = "Çözüm Cloud Çanakkale ile API geliştirme süreçlerini öğrenin. Güvenli, ölçeklenebilir ve verimli API çözümleri oluşturun.";
 $desc2  = "REST, GraphQL ve diğer modern API teknolojileri ile uygulamalarınızı güçlendirin. En iyi geliştirme pratikleri ile projelerinizi optimize edin.";
@@ -26,68 +26,17 @@ $a4     = "API entegrasyonu sayesinde farklı yazılımlar arasında veri akış
 <html class="no-js" lang="en" dir="ltr">
 
 <head>
-<title>API Development Servicesi | Modern ve Güvenli API Çözümleri</title>
-<meta name="description" content="API Development Servicesi ile uygulamalarınızı entegre edin. Güvenli, hızlı ve ölçeklenebilir API çözümleri ile yazılım sistemlerinizi modern teknolojilerle güçlendirin.">
-<meta name="keywords" content="API Development, REST API Development, web API Development, yazılım entegrasyonu, API servisleri, backend API Development">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
+<meta name="keywords" content="<?php echo $keys; ?>">
+
+<?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https:/schema.org",
- "@type": "BlogPosting",
- "headline": "API Development Servicesi ve Yazılım Entegrasyonu",
- "description": "API Development Servicesi ile farklı yazılım sistemlerini entegre ederek modern, güvenli ve ölçeklenebilir çözümler oluşturma hakkında bilgiler.",
- "author": {
- "@type": "Organization",
- "name": "Software Development Services"
- },
- "publisher": {
- "@type": "Organization",
- "name": "Software Development Services"
- },
- "mainEntityOfPage": {
- "@type": "WebPage",
- "@id": "https://www.canakkale-webyazilim.com.tr/en/services/api-development.php"
- }
-}
-</script>
+<?php include('schema.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https:/schema.org",
- "@type": "FAQPage",
- "mainEntity": [{
- "@type": "Question",
- "name": "API Development nedir?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "API Development, farklı yazılım sistemlerinin birbiriyle iletişim kurmasını sağlayan arayüzlerin oluşturulması sürecidir."
- }
- },{
- "@type": "Question",
- "name": "REST API neden kullanılır?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "REST API, hızlı, ölçeklenebilir ve esnek bir yapı sunduğu için modern web ve Mobile Applicationsda en çok tercih edilen API mimarisidir."
- }
- },{
- "@type": "Question",
- "name": "API güvenliği nasıl sağlanır?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "API güvenliği için kimlik doğrulama, yetkilendirme, veri şifreleme ve güvenli erişim protokolleri kullanılır."
- }
- },{
- "@type": "Question",
- "name": "API entegrasyonu işletmelere ne kazandırır?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "API entegrasyonu sayesinde farklı yazılımlar arasında veri akışı sağlanır, süreçler otomatikleşir ve işletmeler daha verimli çalışabilir."
- }
- }]
-}
-</script>
+<?php include('schema_faq.php'); ?>
 
 </head>
 

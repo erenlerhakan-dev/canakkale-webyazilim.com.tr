@@ -1,5 +1,5 @@
 <?php
-$name   = "Sunucu Güvenliği ve Bakımı";
+$name   = "Server Security and Maintenance";
 $title  = "Sunucu Güvenliği ve Bakımı Rehberi | Çözüm Cloud Çanakkale";
 $desc1  = "Çözüm Cloud Çanakkale ile sunucularınızın güvenliğini sağlayın ve düzenli bakım süreçlerini optimize edin. Kesintisiz ve güvenli sistemler kurun.";
 $desc2  = "Sunucu güvenliği, güncellemeler ve performans optimizasyonu ile sistemlerinizi koruyun. Olası saldırılara karşı önlemler alın ve güvenli altyapı sağlayın.";
@@ -26,73 +26,17 @@ $a4     = "Bakım süreci; sunucu analizi, güncellemelerin uygulanması, perfor
 <html class="no-js" lang="en" dir="ltr">
 
 <head>
-<title>Server Security and Maintenance | Server Yönetimi ve Destek</title>
-<meta name="description" content="Sunucu güvenliği ve bakım Servicesi ile sunucularınızı koruyun. Server yönetimi, performans optimizasyonu ve 7/24 teknik destek ile güvenli altyapılar oluşturun.">
-<meta name="keywords" content="sunucu güvenliği, server bakımı, server yönetimi, sunucu optimizasyonu, IT bakım hizmeti, sunucu güvenlik çözümleri">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
+<meta name="keywords" content="<?php echo $keys; ?>">
+
+<?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https:/schema.org",
- "@type": "BlogPosting",
- "headline": "Server Security and Maintenance",
- "description": "Server güvenliği ve bakım Servicesi ile sunucularınızın performansını ve güvenliğini artırın. 7/24 destek ile kesintisiz altyapı sağlayın.",
- "author": {
-   "@type": "Organization",
-   "name": "IT Solutions"
- },
- "publisher": {
-   "@type": "Organization",
-   "name": "IT Solutions"
- },
- "mainEntityOfPage": {
-   "@type": "WebPage",
-   "@id": "https://www.canakkale-webyazilim.com.tr/en/services/server-guvenlik-bakim.php"
- }
-}
-</script>
+<?php include('schema.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https:/schema.org",
- "@type": "FAQPage",
- "mainEntity": [
-  {
-    "@type": "Question",
-    "name": "Sunucu güvenliği nedir?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sunucu güvenliği, sunucularınızın yetkisiz erişimlerden korunması, veri kaybının önlenmesi ve güvenli bir altyapının sağlanması için yapılan tüm önlemleri kapsar."
-    }
-  },
-  {
-    "@type": "Question",
-    "name": "Sunucu bakımı neden önemlidir?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sunucu bakımı, performansın yüksek tutulması, hataların önlenmesi, güvenlik açıklarının kapatılması ve kesintisiz hizmet sağlanması açısından kritik öneme sahiptir."
-    }
-  },
-  {
-    "@type": "Question",
-    "name": "Hangi Servicesi sunuyorsunuz?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sunucu güvenliği, yazılım ve donanım güncellemeleri, performans optimizasyonu, veri yedekleme, firewall yönetimi ve 7/24 teknik destek Servicesi sunuyoruz."
-    }
-  },
-  {
-    "@type": "Question",
-    "name": "Sunucu bakımı süreci nasıl işler?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Bakım süreci; sunucu analizi, güncellemelerin uygulanması, performans optimizasyonu, güvenlik önlemleri, düzenli testler ve raporlama adımlarını içerir."
-    }
-  }
- ]
-}
-</script>
+<?php include('schema_faq.php'); ?>
 
 </head>
 

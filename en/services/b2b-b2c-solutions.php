@@ -1,5 +1,5 @@
 <?php
-$name   = "B2B ve B2C Çözümleri";
+$name   = "B2B and B2C Solutions";
 $title  = "B2B ve B2C Web Çözümleri | Çözüm Cloud Çanakkale";
 $desc1  = "Çözüm Cloud Çanakkale ile B2B ve B2C işletmeler için etkili web çözümleri geliştirin. Satış süreçlerini optimize eden modern platformlar oluşturun.";
 $desc2  = "B2B ve B2C projelerde kullanıcı deneyimini, ödeme sistemlerini ve veri entegrasyonunu optimize edin. İşletmenize özel çözümler tasarlayın.";
@@ -26,68 +26,17 @@ $a4     = "Bu yazılımlar satış süreçlerini dijitalleştirir, müşteri den
 <html class="no-js" lang="en" dir="ltr">
 
 <head>
-<title> B2B and B2C Solutions | Digital Business Platforms and Integration Services</title>
-<meta name="description" content="Grow your business in the digital world with B2B and B2C solutions. Optimize your business processes with enterprise software, e-commerce, and integration systems.">
-<meta name="keywords" content="B2B solutions, B2C solutions, digital commerce platform, e-commerce software, B2B e-commerce system, B2C sales platform">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
+<meta name="keywords" content="<?php echo $keys; ?>">
+
+<?php include('meta.php'); ?>
 
 <?php include_once('../head_meta.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https:/schema.org",
- "@type": "BlogPosting",
- "headline": "Digital Commerce with B2B and B2C Solutions",
- "description": "Information on how businesses can improve their digital sales processes and enhance customer experience through B2B and B2C solutions.",
- "author": {
- "@type": "Organization",
- "name": "Digital Commerce Solutions"
- },
- "publisher": {
- "@type": "Organization",
- "name": "Digital Commerce Solutions"
- },
- "mainEntityOfPage": {
- "@type": "WebPage",
- "@id": "https://www.canakkale-webyazilim.com.tr/en/services/b2b-b2c-solutions.php"
- }
-}
-</script>
+<?php include('schema.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https:/schema.org",
- "@type": "FAQPage",
- "mainEntity": [{
- "@type": "Question",
- "name": "What are B2B solutions?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "B2B solutions are software and platform solutions that enable businesses to conduct trade with other businesses in a digital environment.."
- }
- },{
- "@type": "Question",
- "name": "What are B2C solutions?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "B2C solutions are e-commerce and digital sales platforms that enable businesses to sell their products or services directly to end users."
- }
- },{
- "@type": "Question",
- "name": "What is the difference between B2B and B2C systems?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "B2B systems encompass trade between businesses, while B2C systems enable direct sales to consumers."
- }
- },{
- "@type": "Question",
- "name": "Why are B2B and B2C software important?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "These software solutions digitize sales processes, enhance customer experience, and enable businesses to reach wider markets."
- }
- }]
-}
-</script>
+<?php include('schema_faq.php'); ?>
 
 </head>
 
