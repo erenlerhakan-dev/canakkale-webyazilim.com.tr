@@ -2,16 +2,16 @@
 $date1  = "2025-07-05";
 $date2  = "2025-07-05";
 $name   = "Verimli Dağıtım İçin DevOps ve CI/CD Pipeline'ları";
-$title  = "Verimli Dağıtım İçin DevOps ve CI/CD Pipeline'ları | Çanakkale Web Tasarım";
-$desc1  = "DevOps ve CI/CD pipeline kullanımı ile yazılım dağıtım süreçlerinizi optimize edin. Çanakkale web yazılım çözümleri ile hızlı ve güvenli yazılım teslimi sağlayın.";
-$desc2  = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
-$ogdesc = "Çanakkale web yazılım çözümleri ile DevOps ve CI/CD pipeline kullanarak yazılım dağıtım süreçlerinizi hızlandırın ve güvenli hale getirin.";
-$twdesc = "Çanakkale web yazılım hizmetleri ile DevOps ve CI/CD pipeline uygulamaları sayesinde hızlı ve güvenli yazılım dağıtımı sağlayın.";
+$title  = "DevOps ve CI/CD Pipeline Rehberi | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile yazılım dağıtım süreçlerinizi hızlandırın. DevOps ve CI/CD pipeline yapılarıyla otomasyon ve verimlilik sağlayın.";
+$desc2  = "Hataları azaltın, dağıtımı hızlandırın. Sürekli entegrasyon ve sürekli teslim süreçleri ile modern yazılım geliştirme altyapıları kurun.";
+$ogdesc = "DevOps ve CI/CD pipeline sistemleriyle yazılım süreçlerinizi optimize edin. Çözüm Cloud Çanakkale ile hızlı ve güvenilir dağıtım sağlayın.";
+$twdesc = "Yazılım dağıtımını hızlandırın! DevOps ve CI/CD ile otomatik ve güvenilir süreçler kurun. Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "DevOps, Web Yazılım";
 $lang   = "tr_TR";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/blog/verimli-dagitim-icin-devops-ve-ci-cd-pipelinelari.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/blog/verimli-dagitim-icin-devops-ve-ci-cd-pipelinelari";
 $alt    = "verimli dağıtım i̇çin devops ve ci/cd pipeline'ları";
-$cat    = "DevOps, CI/CD";
 ?>
 
 <!DOCTYPE html>
@@ -53,7 +53,6 @@ $cat    = "DevOps, CI/CD";
 <div class="main-blog-wrap">
 
 <div class="single-blog-item wow move-up">
-
 <div class="post-info lg-blog-post-info">
 
 <div class="post-categories text-center"><a href="javascript:void(0);"><?php echo $cat; ?></a></div>
@@ -100,9 +99,10 @@ $cat    = "DevOps, CI/CD";
 <p>DevOps ve CI/CD pipeline’ları, yazılım dağıtımında verimlilik ve güvenliği artıran kritik araçlardır. <strong>Çanakkale web yazılım çözümleri</strong> ile işletmenizin yazılım süreçlerini optimize ederek hızlı, güvenli ve sürdürülebilir bir dağıtım elde edebilirsiniz.</p>
 
 </div>
-</div>
 
 </div>
+</div>
+
 </div>
 </div>
 

@@ -2,16 +2,16 @@
 $date1  = "2025-08-05";
 $date2  = "2025-08-05";
 $name   = "E-Ticaret Platformları İçin Ödeme Geçidi Entegrasyonu";
-$title  = "E-Ticaret Platformları İçin Ödeme Geçidi Entegrasyonu | Çanakkale Web Tasarım";
-$desc1  = "E-ticaret siteleri için ödeme arayüzü entegrasyonu rehberi. Çanakkale web yazılım çözümleri ile güvenli ve hızlı ödeme sistemleri oluşturun.";
-$desc2  = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
-$ogdesc = "Çanakkale web yazılım çözümleri ile e-ticaret sitenize güvenli ve hızlı ödeme arayüzü entegrasyonu sağlayın.";
-$twdesc = "Çanakkale web yazılım hizmetleri ile e-ticaret sitenizde güvenli ve hızlı ödeme arayüzü entegrasyonu sağlayın.";
+$title  = "E-Ticaret Ödeme Geçidi Entegrasyonu | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile e-ticaret sitenize güvenli ödeme geçitleri entegre edin. Online ödeme süreçlerini hızlandırın ve müşteri deneyimini artırın.";
+$desc2  = "Kredi kartı, dijital cüzdan ve banka ödeme sistemlerini tek platformda yönetin. E-ticaret siteniz için güvenli ve sorunsuz ödeme çözümleri sağlayın.";
+$ogdesc = "E-ticaret sitenize ödeme geçidi entegrasyonu ile güvenli ve hızlı işlemler sağlayın. Çözüm Cloud Çanakkale ile modern çözümler geliştirin.";
+$twdesc = "E-ticaret sitenizde güvenli ödemeler! Ödeme geçidi entegrasyonu ile satış ve müşteri memnuniyetinizi artırın. Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "E-Ticaret, Web Yazılım";
 $lang   = "tr_TR";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/blog/e-ticaret-platformlari-icin-odeme-arayuzu-entegrasyonu.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/blog/e-ticaret-platformlari-icin-odeme-arayuzu-entegrasyonu";
 $alt    = "e-ticaret platformları i̇çin ödeme geçidi entegrasyonu";
-$cat    = "E-Ticaret, Ödeme Sistemleri, Web Geliştirme";
 ?>
 
 <!DOCTYPE html>
@@ -53,7 +53,6 @@ $cat    = "E-Ticaret, Ödeme Sistemleri, Web Geliştirme";
 <div class="main-blog-wrap">
 
 <div class="single-blog-item wow move-up">
-
 <div class="post-info lg-blog-post-info">
 
 <div class="post-categories text-center"><a href="javascript:void(0);"><?php echo $cat; ?></a></div>
@@ -103,9 +102,10 @@ $cat    = "E-Ticaret, Ödeme Sistemleri, Web Geliştirme";
 <p>E-ticaret siteleri için ödeme arayüzü entegrasyonu, güvenli, hızlı ve kullanıcı dostu ödeme deneyimi sağlar. Çanakkale web yazılım çözümleri ile işletmenize özel ödeme sistemleri geliştirerek, satışlarınızı artırabilir ve müşteri memnuniyetini üst seviyeye taşıyabilirsiniz.</p>
 
 </div>
-</div>
 
 </div>
+</div>
+
 </div>
 </div>
 

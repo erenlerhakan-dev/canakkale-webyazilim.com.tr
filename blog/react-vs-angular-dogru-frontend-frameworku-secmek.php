@@ -2,16 +2,16 @@
 $date1  = "2025-10-15";
 $date2  = "2025-10-15";
 $name   = "React vs Angular: Doğru Frontend Framework'ü Seçmek";
-$title  = "React vs Angular: Doğru Frontend Framework'ü Seçmek | Çanakkale Web Tasarım";
-$desc1  = "React ve Angular arasındaki farkları keşfedin. Modern web uygulamaları için hangi frontend framework'ün daha uygun olduğunu öğrenin.";
-$desc2  = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
-$ogdesc = "React ve Angular framework'leri arasındaki farklar, avantajlar ve kullanım alanları.";
-$twdesc = "React ve Angular karşılaştırması: performans, kullanım kolaylığı ve proje ihtiyaçlarına göre seçim rehberi.";
+$title  = "React ve Angular Karşılaştırması: Hangi Frontend Framework Sizin İçin Uygun? | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile React ve Angular’ı karşılaştırın. Projeniz için en uygun frontend framework’ü seçerek verimli ve ölçeklenebilir uygulamalar geliştirin.";
+$desc2  = "React mı Angular mı? Performans, ölçeklenebilirlik ve topluluk desteği kriterlerine göre doğru frontend framework’ü belirleyin.";
+$ogdesc = "React ve Angular karşılaştırması ile projeleriniz için ideal frontend teknolojisini seçin. Çözüm Cloud Çanakkale ile doğru seçim yapın.";
+$twdesc = "Frontend framework seçimi zor mu? React ve Angular’ı kıyaslayın, projenize en uygun teknolojiyi belirleyin. Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "Frontend, Web Yazılım";
 $lang   = "tr_TR";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/blog/react-vs-angular-dogru-frontend-frameworku-secmek.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/blog/react-vs-angular-dogru-frontend-frameworku-secmek";
 $alt    = "react vs angular: doğru frontend framework'ü seçmek";
-$cat    = "Frontend, Web Geliştirme";
 ?>
 
 <!DOCTYPE html>
@@ -53,7 +53,6 @@ $cat    = "Frontend, Web Geliştirme";
 <div class="main-blog-wrap">
 
 <div class="single-blog-item wow move-up">
-
 <div class="post-info lg-blog-post-info">
 
 <div class="post-categories text-center"><a href="javascript:void(0);"><?php echo $cat; ?></a></div>
@@ -131,9 +130,10 @@ $cat    = "Frontend, Web Geliştirme";
 <p>Daha esnek ve hızlı bir geliştirme süreci için React tercih edilebilirken, büyük ve kurumsal projeler için Angular güçlü bir çözüm sunabilir. Doğru teknoloji seçimi, web uygulamasının performansını ve sürdürülebilirliğini doğrudan etkiler.</p>
 
 </div>
-</div>
 
 </div>
+</div>
+
 </div>
 </div>
 

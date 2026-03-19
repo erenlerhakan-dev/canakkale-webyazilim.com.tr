@@ -2,16 +2,16 @@
 $date1  = "2025-10-25";
 $date2  = "2025-10-25";
 $name   = "Küçük İşletmeler için E-Ticaret Başarı Stratejileri";
-$title  = "Küçük İşletmeler için E-Ticaret Başarı Stratejileri | Çanakkale Web Tasarım";
-$desc1  = "Küçük işletmeler için e-ticaret başarı stratejileri. Online satışları artırmak, müşteri kazanmak ve dijital pazarda büyümek için etkili e-ticaret yöntemlerini keşfedin.";
-$desc2  = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri.";
-$ogdesc = "Küçük işletmeler için e-ticaret stratejileri ile online satışlarınızı artırın ve dijital pazarda rekabet avantajı elde edin.";
-$twdesc = "E-ticaret dünyasında başarılı olmak isteyen küçük işletmeler için pratik stratejiler ve ipuçları.";
+$title  = "Küçük İşletmeler için E-Ticaret Stratejileri | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile küçük işletmeler için etkili e-ticaret stratejilerini keşfedin. Satışları artıran yöntemler ve dijital pazarlama taktikleri ile büyüyün.";
+$desc2  = "E-ticaret sitenizi optimize edin, müşteri deneyimini geliştirin ve satışlarınızı artırın. Küçük işletmelere özel uygulanabilir başarı stratejileri burada.";
+$ogdesc = "Küçük işletmeler için e-ticaret başarı stratejilerini öğrenin. Çözüm Cloud Çanakkale ile dijital satışlarınızı güçlendirin.";
+$twdesc = "E-ticarette başarıyı yakalayın! Küçük işletmelere özel stratejilerle satış ve müşteri memnuniyetinizi artırın. Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "E-Ticaret, Web Yazılım";
 $lang   = "tr_TR";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/blog/kucuk-isletmeler-icin-e-ticaret-basari-stratejileri.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/blog/kucuk-isletmeler-icin-e-ticaret-basari-stratejileri";
 $alt    = "küçük i̇şletmeler için e-ticaret başarı stratejileri";
-$cat    = "E-Ticaret, Dijital Pazarlama";
 ?>
 
 <!DOCTYPE html>
@@ -53,7 +53,6 @@ $cat    = "E-Ticaret, Dijital Pazarlama";
 <div class="main-blog-wrap">
 
 <div class="single-blog-item wow move-up">
-
 <div class="post-info lg-blog-post-info">
 
 <div class="post-categories text-center"><a href="javascript:void(0);"><?php echo $cat; ?></a></div>
@@ -111,9 +110,10 @@ $cat    = "E-Ticaret, Dijital Pazarlama";
 <p>Eğer siz de işletmeniz için profesyonel bir e-ticaret altyapısı oluşturmak istiyorsanız, modern web yazılım çözümleri ile güçlü bir online satış sistemi kurabilirsiniz.</p>
 
 </div>
-</div>
 
 </div>
+</div>
+
 </div>
 </div>
 

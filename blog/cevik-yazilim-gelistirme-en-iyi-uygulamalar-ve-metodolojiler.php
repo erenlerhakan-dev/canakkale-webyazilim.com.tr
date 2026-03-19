@@ -2,16 +2,16 @@
 $date1  = "2025-08-15";
 $date2  = "2025-08-15";
 $name   = "Çevik Yazılım Geliştirme: En İyi Uygulamalar ve Metodolojiler";
-$title  = "Çevik Yazılım Geliştirme: En İyi Uygulamalar ve Metodolojiler | Çanakkale Web Tasarım";
-$desc1  = "Çevik yazılım geliştirme metodolojileri ve en iyi uygulamalar rehberi. Çanakkale web yazılım çözümleri ile projelerinizi hızlı ve verimli yönetin.";
-$desc2  = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
-$ogdesc = "Çanakkale web yazılım çözümleri ile çevik yazılım geliştirme metodolojilerini uygulayarak projelerinizi hızlı ve verimli yönetin.";
-$twdesc = "Çanakkale web yazılım hizmetleri ile çevik yazılım geliştirme metodolojilerini projelerinize uygulayın ve verimliliği artırın.";
+$title  = "Çevik Yazılım Geliştirme Rehberi: En İyi Uygulamalar | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile çevik yazılım geliştirme metodolojilerini öğrenin. Projelerinizi esnek, hızlı ve verimli bir şekilde yönetin.";
+$desc2  = "Scrum, Kanban ve diğer çevik yöntemlerle ekip iş akışlarını optimize edin. Hataları azaltan, teslim sürelerini kısaltan uygulama pratiklerini keşfedin.";
+$ogdesc = "Çevik yazılım geliştirme ile projelerinizi hızlandırın ve esnek hale getirin. Çözüm Cloud Çanakkale ile en iyi uygulama ve metodolojileri keşfedin.";
+$twdesc = "Çevik metodolojilerle yazılım geliştirme sürecinizi iyileştirin! Projelerde verimlilik ve hız için Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "Yazılım Geliştirme, Web Yazılım";
 $lang   = "tr_TR";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/blog/cevik-yazilim-gelistirme-en-iyi-uygulamalar-ve-metodolojiler.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/blog/cevik-yazilim-gelistirme-en-iyi-uygulamalar-ve-metodolojiler";
 $alt    = "çevik yazılım geliştirme: en i̇yi uygulamalar ve metodolojiler";
-$cat    = "Çevik, Yazılım, Web Geliştirme";
 ?>
 
 <!DOCTYPE html>
@@ -53,7 +53,6 @@ $cat    = "Çevik, Yazılım, Web Geliştirme";
 <div class="main-blog-wrap">
 
 <div class="single-blog-item wow move-up">
-
 <div class="post-info lg-blog-post-info">
 
 <div class="post-categories text-center"><a href="javascript:void(0);"><?php echo $cat; ?></a></div>
@@ -103,9 +102,10 @@ $cat    = "Çevik, Yazılım, Web Geliştirme";
 <p>Çevik yazılım geliştirme, modern projelerde başarı için kritik bir yaklaşımdır. Çanakkale web yazılım çözümleri ile çevik metodolojileri projelerinize entegre ederek hızlı, esnek ve kaliteli web uygulamaları geliştirebilirsiniz.</p>
 
 </div>
-</div>
 
 </div>
+</div>
+
 </div>
 </div>
 

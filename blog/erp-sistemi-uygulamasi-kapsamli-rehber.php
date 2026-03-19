@@ -2,16 +2,16 @@
 $date1  = "2025-09-20";
 $date2  = "2025-09-20";
 $name   = "ERP Sistemi Uygulaması: Kapsamlı Rehber";
-$title  = "ERP Sistemi Uygulaması: Kapsamlı Rehber | Çanakkale Web Tasarım";
-$desc1  = "ERP sistemi uygulamaları hakkında kapsamlı rehber. Çanakkale web yazılım çözümleri ile kurumsal yazılımlarınızı optimize edin ve süreçlerinizi hızlandırın.";
-$desc2  = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
-$ogdesc = "ERP sistemi uygulaması ve avantajları hakkında detaylı rehber. İşletmeler için doğru ERP stratejilerini keşfedin.";
-$twdesc = "Çanakkale web yazılım hizmetleri ile ERP sistemi uygulamalarınızı kurumsal verimlilik için optimize edin.";
+$title  = "ERP Sistemi Uygulaması: Kurumsal Rehber | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile ERP sistemlerinin uygulanmasını öğrenin. İş süreçlerini entegre ederek verimliliği artıran kapsamlı çözümler geliştirin.";
+$desc2  = "Kurumsal kaynak planlaması ile iş süreçlerinizi optimize edin. ERP sistemleri ile finans, üretim, insan kaynakları ve lojistik süreçlerini yönetin.";
+$ogdesc = "ERP sistemi uygulaması ile işletmenizin verimliliğini artırın. Çözüm Cloud Çanakkale ile modern ve entegre çözümler oluşturun.";
+$twdesc = "ERP sistemleri ile iş süreçlerinizi güçlendirin! Kurumsal rehber ve uygulama yöntemleri için Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "ERP, Web Yazılım";
 $lang   = "tr_TR";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/blog/erp-sistemi-uygulamasi-kapsamli-rehber.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/blog/erp-sistemi-uygulamasi-kapsamli-rehber";
 $alt    = "erp sistemi uygulaması: kapsamlı rehber";
-$cat    = "ERP, Kurumsal Yazılım";
 ?>
 
 <!DOCTYPE html>
@@ -53,7 +53,6 @@ $cat    = "ERP, Kurumsal Yazılım";
 <div class="main-blog-wrap">
 
 <div class="single-blog-item wow move-up">
-
 <div class="post-info lg-blog-post-info">
 
 <div class="post-categories text-center"><a href="javascript:void(0);"><?php echo $cat; ?></a></div>
@@ -109,9 +108,10 @@ $cat    = "ERP, Kurumsal Yazılım";
 <p>ERP sistemi uygulamaları, işletmelerin dijital dönüşümünde kritik rol oynar. Doğru planlama ve özelleştirilmiş çözümler ile Çanakkale’deki işletmeler, süreçlerini optimize edebilir, verimliliği artırabilir ve rekabet avantajı elde edebilir. Profesyonel web yazılım hizmetleri ile ERP uygulamaları uzun vadede iş başarısını garanti eder.</p>
 
 </div>
-</div>
 
 </div>
+</div>
+
 </div>
 </div>
 

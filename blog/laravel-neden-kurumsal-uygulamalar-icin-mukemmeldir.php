@@ -2,16 +2,16 @@
 $date1  = "2025-10-20";
 $date2  = "2025-10-20";
 $name   = "Laravel Neden Kurumsal Uygulamalar İçin Mükemmeldir";
-$title  = "Laravel Neden Kurumsal Uygulamalar İçin Mükemmeldir | Çanakkale Web Tasarım";
-$desc1  = "Laravel framework neden kurumsal web uygulamaları için tercih edilir? Güvenlik, performans, ölçeklenebilirlik ve modern yazılım mimarisi ile Laravel'in avantajlarını keşfedin.";
-$desc2  = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
-$ogdesc = "Laravel framework ile güvenli, hızlı ve ölçeklenebilir kurumsal web uygulamaları geliştirin.";
-$twdesc = "Kurumsal yazılım geliştirme için Laravel framework'ün avantajlarını keşfedin.";
+$title  = "Laravel ile Kurumsal Uygulamalar: Avantajları | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile Laravel kullanarak güvenli, ölçeklenebilir ve sürdürülebilir kurumsal uygulamalar geliştirin.";
+$desc2  = "Laravel, modern PHP projeleri için güçlü araçlar sunar. Kurumsal yazılım geliştirmede hız, güvenlik ve bakım kolaylığı sağlar.";
+$ogdesc = "Laravel ile kurumsal uygulamalarınızı güvenli ve ölçeklenebilir hale getirin. Çözüm Cloud Çanakkale ile en iyi Laravel çözümlerini keşfedin.";
+$twdesc = "Kurumsal uygulamalar için Laravel’i seçin! Hızlı, güvenli ve ölçeklenebilir projeler için Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "PHP, Web Yazılım";
 $lang   = "tr_TR";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/blog/laravel-neden-kurumsal-uygulamalar-icin-mukemmeldir.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/blog/laravel-neden-kurumsal-uygulamalar-icin-mukemmeldir";
 $alt    = "laravel neden kurumsal uygulamalar i̇çin mükemmeldir";
-$cat    = "Laravel, Web Yazılım";
 ?>
 
 <!DOCTYPE html>
@@ -53,7 +53,6 @@ $cat    = "Laravel, Web Yazılım";
 <div class="main-blog-wrap">
 
 <div class="single-blog-item wow move-up">
-
 <div class="post-info lg-blog-post-info">
 
 <div class="post-categories text-center"><a href="javascript:void(0);"><?php echo $cat; ?></a></div>
@@ -120,9 +119,10 @@ $cat    = "Laravel, Web Yazılım";
 <p>Profesyonel bir yazılım geliştirme süreci ile Laravel kullanılarak işletmeler için özel CRM, ERP, rezervasyon sistemleri ve e-ticaret platformları gibi birçok kurumsal uygulama geliştirilebilir.</p>
 
 </div>
-</div>
 
 </div>
+</div>
+
 </div>
 </div>
 

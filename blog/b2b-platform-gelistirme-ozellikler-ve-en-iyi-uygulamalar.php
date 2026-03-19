@@ -2,16 +2,16 @@
 $date1  = "2025-07-01";
 $date2  = "2025-07-01";
 $name   = "B2B Platform Geliştirme: Özellikler ve En İyi Uygulamalar";
-$title  = "B2B Platform Geliştirme: Özellikler ve En İyi Uygulamalar | Çanakkale Web Tasarım";
-$desc1  = "Başarılı bir B2B ekosistemi kurun. Kurumsal hesap yönetimi, karmaşık fiyatlandırma motorları ve ERP entegrasyonu gibi kritik özellikler için en iyi uygulama (best practice) yöntemleri.";
-$desc2  = "Operasyonel yükünüzü azaltın ve satışlarınızı ölçeklendirin. 2026 standartlarında bir B2B platformu geliştirmek için kullanıcı deneyimi (UX) ve güvenli ticaretin altın kuralları.";
-$ogdesc = "Çanakkale web yazılım çözümleri ile B2B platform geliştirme stratejilerini keşfedin ve işletmeniz için en iyi uygulamaları kullanın.";
-$twdesc = "Çanakkale web yazılım hizmetleri ile B2B platform geliştirme özelliklerini öğrenin ve işletmeniz için güçlü çözümler oluşturun.";
+$title  = "B2B Platform Geliştirme Rehberi: Özellikler ve En İyi Uygulamalar | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile B2B platformları geliştirin. Satış, kullanıcı yönetimi ve veri entegrasyonu gibi kritik özellikleri optimize edin.";
+$desc2  = "B2B platformunuzu modern, güvenli ve ölçeklenebilir hale getirin. İşletmeler arası ticareti kolaylaştıran en iyi uygulamaları keşfedin.";
+$ogdesc = "B2B platform geliştirme ile işletmeler arası işlemleri optimize edin. Çözüm Cloud Çanakkale ile güçlü ve etkili platformlar oluşturun.";
+$twdesc = "B2B platformunuzu güçlendirin! Özellikler ve en iyi uygulamalarla verimli çözümler için Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "B2B, Web Yazılım";
 $lang   = "tr_TR";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/blog/b2b-platform-gelistirme-ozellikler-ve-en-iyi-uygulamalar.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/blog/b2b-platform-gelistirme-ozellikler-ve-en-iyi-uygulamalar";
 $alt    = "b2b platform geliştirme: özellikler ve en i̇yi uygulamalar";
-$cat    = "B2B, Web Geliştirme";
 ?>
 
 <!DOCTYPE html>
@@ -53,7 +53,6 @@ $cat    = "B2B, Web Geliştirme";
 <div class="main-blog-wrap">
 
 <div class="single-blog-item wow move-up">
-
 <div class="post-info lg-blog-post-info">
 
 <div class="post-categories text-center"><a href="javascript:void(0);"><?php echo $cat; ?></a></div>
@@ -97,9 +96,10 @@ $cat    = "B2B, Web Geliştirme";
 <p>B2B platform geliştirme, modern işletmelerin dijital pazarda başarılı olabilmesi için kritik bir adımdır. Çanakkale web yazılım çözümleri ile işletmeniz için güvenli, ölçeklenebilir ve kullanıcı odaklı B2B platformlar geliştirerek iş süreçlerinizi güçlendirebilirsiniz.</p>
 
 </div>
-</div>
 
 </div>
+</div>
+
 </div>
 </div>
 

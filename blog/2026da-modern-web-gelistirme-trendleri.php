@@ -2,16 +2,16 @@
 $date1  = "2025-11-05";
 $date2  = "2025-11-05";
 $name   = "2026'da Modern Web Geliştirme Trendleri";
-$title  = "2026'da Modern Web Geliştirme Trendleri | Çanakkale Web Tasarım";
-$desc1  = "Web dünyasında yeni bir dönem başlıyor. AI entegrasyonlu arayüzlerden sunucusuz mimarilere, 2026'nın en popüler web geliştirme trendlerini ve araçlarını keşfedin.";
-$desc2  = "Rakiplerinizin önüne geçmek için web projelerinizi nasıl güncel tutmalısınız? 2026'nın modern geliştirme pratikleri, performans standartları ve kullanıcı deneyimi trendleri bu rehberde.";
-$ogdesc = "2026 yılında web geliştirme dünyasını şekillendiren trendleri keşfedin: yapay zeka, PWA, mobil öncelikli tasarım ve modern web teknolojileri.";
-$twdesc = "Modern web geliştirme trendleri ve Çanakkale web tasarım çözümleri hakkında detaylı rehber.";
+$title  = "2026 Modern Web Geliştirme Trendleri | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile 2026’da web geliştirme trendlerini keşfedin. Modern teknolojiler ve kullanıcı odaklı yaklaşımlarla projelerinizi güçlendirin.";
+$desc2  = "PWA, SPA, headless CMS ve ilerici web uygulamaları gibi yenilikleri öğrenin. Web geliştirmede performans, etkileşim ve kullanıcı deneyimini ön planda tutun.";
+$ogdesc = "2026 web geliştirme trendleri ile projelerinizi geleceğe taşıyın. Çözüm Cloud Çanakkale ile modern ve yenilikçi web çözümleri oluşturun.";
+$twdesc = "Web geliştirme trendlerini yakalayın! 2026’da modern teknolojiler ve yöntemlerle etkili projeler geliştirin. Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "Web Geliştirme, Web Yazılım";
 $lang   = "tr_TR";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/blog/2026da-modern-web-gelistirme-trendleri.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/blog/2026da-modern-web-gelistirme-trendleri";
 $alt    = "2026'da modern web geliştirme trendleri";
-$cat    = "Web Tasarım";
 ?>
 
 <!DOCTYPE html>
@@ -53,7 +53,6 @@ $cat    = "Web Tasarım";
 <div class="main-blog-wrap">
 
 <div class="single-blog-item wow move-up">
-
 <div class="post-info lg-blog-post-info">
 
 <div class="post-categories text-center"><a href="javascript:void(0);"><?php echo $cat; ?></a></div>
@@ -112,9 +111,10 @@ $cat    = "Web Tasarım";
 <p>Eğer siz de işletmeniz için profesyonel bir web sitesi oluşturmak istiyorsanız, <strong>Çanakkale web tasarım ve web yazılım çözümleri</strong> ile markanızı dijital dünyada daha güçlü bir konuma taşıyabilirsiniz.</p>
 
 </div>
-</div>
 
 </div>
+</div>
+
 </div>
 </div>
 

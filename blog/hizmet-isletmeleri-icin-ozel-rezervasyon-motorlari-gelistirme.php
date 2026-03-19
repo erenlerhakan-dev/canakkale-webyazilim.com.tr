@@ -2,16 +2,16 @@
 $date1  = "2025-09-01";
 $date2  = "2025-09-01";
 $name   = "Hizmet İşletmeleri İçin Özel Rezervasyon Motorları Geliştirme";
-$title  = "Hizmet İşletmeleri İçin Özel Rezervasyon Motorları Geliştirme | Çanakkale Web Tasarım";
-$desc1  = "Hizmet işletmeleri için özel rezervasyon motorları geliştirme rehberi. Çanakkale web yazılım çözümleri ile online rezervasyon süreçlerinizi optimize edin.";
-$desc2  = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
-$ogdesc = "Çanakkale web yazılım çözümleri ile hizmet işletmeleri için özelleştirilmiş rezervasyon motorları geliştirin ve müşteri deneyimini artırın.";
-$twdesc = "Çanakkale web yazılım hizmetleri ile online rezervasyon süreçlerini hızlandıracak özel rezervasyon motorları geliştirin.";
+$title  = "Özel Rezervasyon Motorları ile Hizmet İşletmelerini Güçlendirin | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile hizmet işletmeleri için özelleştirilmiş rezervasyon motorları geliştirin. Rezervasyon süreçlerini hızlandırın ve yönetimi kolaylaştırın.";
+$desc2  = "Müşteri deneyimini artıran modern rezervasyon sistemleri oluşturun. Online rezervasyon, ödeme ve yönetim süreçlerini tek platformda yönetin.";
+$ogdesc = "Hizmet işletmeleriniz için özel rezervasyon motorları tasarlayın ve optimize edin. Çözüm Cloud Çanakkale ile hızlı ve güvenilir çözümler geliştirin.";
+$twdesc = "Rezervasyon süreçlerinizi modernize edin! Özel rezervasyon motorları ile işletmenizi güçlendirin. Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "Web Yazılım, E-Ticaret";
 $lang   = "tr_TR";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/blog/hizmet-isletmeleri-icin-ozel-rezervasyon-motorlari-gelistirme.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/blog/hizmet-isletmeleri-icin-ozel-rezervasyon-motorlari-gelistirme";
 $alt    = "hizmet i̇şletmeleri i̇çin özel rezervasyon motorları geliştirme";
-$cat    = "Rezervasyon, Web Geliştirme";
 ?>
 
 <!DOCTYPE html>
@@ -53,7 +53,6 @@ $cat    = "Rezervasyon, Web Geliştirme";
 <div class="main-blog-wrap">
 
 <div class="single-blog-item wow move-up">
-
 <div class="post-info lg-blog-post-info">
 
 <div class="post-categories text-center"><a href="javascript:void(0);"><?php echo $cat; ?></a></div>
@@ -95,9 +94,10 @@ $cat    = "Rezervasyon, Web Geliştirme";
 <p>Hizmet işletmeleri için özel rezervasyon motorları, müşteri memnuniyetini artırır ve işletmelerin dijital dönüşümünü hızlandırır. Çanakkale web yazılım çözümleri ile işletmenize özel, güvenli ve performanslı rezervasyon sistemi geliştirerek online rezervasyon süreçlerinizi optimize edebilirsiniz.</p>
 
 </div>
-</div>
 
 </div>
+</div>
+
 </div>
 </div>
 

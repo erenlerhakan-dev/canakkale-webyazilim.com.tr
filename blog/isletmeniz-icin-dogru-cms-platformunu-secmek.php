@@ -2,16 +2,16 @@
 $date1  = "2025-07-25";
 $date2  = "2025-07-25";
 $name   = "İşletmeniz İçin Doğru CMS Platformunu Seçmek";
-$title  = "İşletmeniz İçin Doğru CMS Platformunu Seçmek | Çanakkale Web Tasarım";
-$desc1  = "Doğru CMS platformu seçimi rehberi. Çanakkale web yazılım çözümleri ile işletmeniz için en uygun içerik yönetim sistemini belirleyin ve verimli web siteleri oluşturun.";
-$desc2  = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
-$ogdesc = "Çanakkale web yazılım çözümleri ile işletmeniz için en uygun CMS platformunu seçin ve web sitenizi verimli ve kullanıcı dostu hale getirin.";
-$twdesc = "Çanakkale web yazılım hizmetleri ile işletmeniz için ideal CMS platformunu seçerek güçlü ve yönetilebilir web siteleri geliştirin.";
+$title  = "Doğru CMS Platformunu Seçmek: İşletmeler İçin Rehber | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile işletmeniz için en uygun CMS platformunu seçin. Yönetilebilir, güvenli ve ölçeklenebilir web çözümleri oluşturun.";
+$desc2  = "WordPress, Joomla, Drupal gibi CMS seçeneklerini değerlendirin. İşletmenize en uygun platformu belirleyerek verimli web siteleri geliştirin.";
+$ogdesc = "Doğru CMS platformunu seçerek web sitenizi optimize edin. Çözüm Cloud Çanakkale ile işletmeniz için ideal çözümü bulun.";
+$twdesc = "İşletmeniz için en uygun CMS hangisi? CMS platformlarını kıyaslayın ve doğru seçimi yapın. Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "Web Yazılım, CMS";
 $lang   = "tr_TR";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/blog/isletmeniz-icin-dogru-cms-platformunu-secmek.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/blog/isletmeniz-icin-dogru-cms-platformunu-secmek";
 $alt    = "i̇şletmeniz i̇çin doğru cms platformunu seçmek";
-$cat    = "CMS, Web Geliştirme";
 ?>
 
 <!DOCTYPE html>
@@ -53,7 +53,6 @@ $cat    = "CMS, Web Geliştirme";
 <div class="main-blog-wrap">
 
 <div class="single-blog-item wow move-up">
-
 <div class="post-info lg-blog-post-info">
 
 <div class="post-categories text-center"><a href="javascript:void(0);"><?php echo $cat; ?></a></div>
@@ -96,9 +95,10 @@ $cat    = "CMS, Web Geliştirme";
 <p>İşletmeniz için doğru CMS platformunu seçmek, yönetimi kolay, güvenli ve SEO uyumlu web siteleri oluşturmanın temelidir. Çanakkale web yazılım çözümleri ile ihtiyaçlarınıza uygun CMS platformunu belirleyerek, dijital varlığınızı güçlendirebilirsiniz.</p>
 
 </div>
-</div>
 
 </div>
+</div>
+
 </div>
 </div>
 

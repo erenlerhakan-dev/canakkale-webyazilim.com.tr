@@ -2,16 +2,16 @@
 $date1  = "2025-11-01";
 $date2  = "2025-11-01";
 $name   = "Türk İşletmeleri için Özel CRM Sistemlerinin Faydaları";
-$title  = "Türk İşletmeleri için Özel CRM Sistemlerinin Faydaları | Çanakkale Web Tasarım";
-$desc1  = "Türk işletmeleri için özel CRM yazılımının avantajlarını keşfedin. Müşteri yönetimi, satış takibi ve iş süreçlerini kolaylaştıran CRM çözümleri ile işletmenizi büyütün.";
-$desc2  = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri.";
-$ogdesc = "Özel CRM yazılımları ile müşteri ilişkilerinizi güçlendirin ve iş süreçlerinizi optimize edin.";
-$twdesc = "CRM yazılımları işletmeler için neden önemli? Özel CRM çözümlerinin avantajlarını öğrenin.";
+$title  = "Özel CRM Sistemlerinin Avantajları | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile işletmenize özel CRM sistemleri geliştirin. Müşteri yönetimini iyileştirin, satış süreçlerinizi optimize edin.";
+$desc2  = "Hazır çözümler yerine size özel CRM yazılımlarıyla verimliliği artırın. Müşteri ilişkilerini güçlendiren modern sistemleri keşfedin.";
+$ogdesc = "Özel CRM sistemleri ile müşteri yönetimini geliştirin. Çözüm Cloud Çanakkale ile işletmenize özel yazılım çözümleri oluşturun.";
+$twdesc = "CRM sisteminizi özelleştirin! İşletmenize özel çözümlerle müşteri ilişkilerinizi güçlendirin. Çözüm Cloud Çanakkale ile fark yaratın.";
+$cat    = "CRM, Web Yazılım";
 $lang   = "tr_TR";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari";
 $alt    = "türk i̇şletmeleri için özel crm sistemlerinin faydaları";
-$cat    = "CRM Yazılım, İş Yazılımları";
 ?>
 
 <!DOCTYPE html>
@@ -53,7 +53,6 @@ $cat    = "CRM Yazılım, İş Yazılımları";
 <div class="main-blog-wrap">
 
 <div class="single-blog-item wow move-up">
-
 <div class="post-info lg-blog-post-info">
 
 <div class="post-categories text-center"><a href="javascript:void(0);"><?php echo $cat; ?></a></div>
@@ -101,9 +100,10 @@ $cat    = "CRM Yazılım, İş Yazılımları";
 <p>Türk işletmeleri için özel CRM sistemleri, müşteri yönetimini güçlendiren ve iş süreçlerini daha verimli hale getiren önemli yazılım çözümleridir. Doğru şekilde uygulanan bir CRM sistemi işletmelerin satışlarını artırmasına, müşteri memnuniyetini yükseltmesine ve uzun vadeli başarı elde etmesine katkı sağlar.</p>
 
 </div>
-</div>
 
 </div>
+</div>
+
 </div>
 </div>
 

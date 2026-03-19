@@ -2,16 +2,16 @@
 $date1  = "2025-08-01";
 $date2  = "2025-08-01";
 $name   = "Modern Uygulamalar İçin Docker Konteynerizasyonu";
-$title  = "Modern Uygulamalar İçin Docker Konteynerizasyonu | Çanakkale Web Tasarım";
-$desc1  = "Docker konteynerizasyonu ile modern uygulamaları hızlı, taşınabilir ve ölçeklenebilir hale getirin. Çanakkale web yazılım çözümleri ile projelerinizi optimize edin.";
-$desc2  = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
-$ogdesc = "Çanakkale web yazılım çözümleri ile Docker konteynerizasyonu uygulayarak modern web uygulamalarınızı hızlı ve güvenli hale getirin.";
-$twdesc = "Çanakkale web yazılım hizmetleri ile Docker konteynerizasyonu kullanarak uygulamalarınızı taşınabilir ve ölçeklenebilir hale getirin.";
+$title  = "Docker ile Modern Uygulamalar İçin Konteynerizasyon | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile Docker konteynerizasyonunu öğrenin. Uygulamalarınızı taşınabilir, ölçeklenebilir ve yönetilebilir hale getirin.";
+$desc2  = "Modern yazılım geliştirmede Docker kullanarak dağıtımı kolaylaştırın. Konteyner tabanlı yapılar ile verimli ve güvenilir uygulamalar oluşturun.";
+$ogdesc = "Docker konteynerleri ile modern uygulamaları optimize edin. Çözüm Cloud Çanakkale ile hızlı, güvenli ve taşınabilir sistemler kurun.";
+$twdesc = "Uygulamalarınızı Docker ile konteynerize edin! Taşınabilir ve ölçeklenebilir yapılar için Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "DevOps, Web Yazılım";
 $lang   = "tr_TR";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/blog/modern-uygulamalar-icin-docker-konteynerizasyonu.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/blog/modern-uygulamalar-icin-docker-konteynerizasyonu";
 $alt    = "modern uygulamalar i̇çin docker konteynerizasyonu";
-$cat    = "Docker, DevOps, Web Geliştirme";
 ?>
 
 <!DOCTYPE html>
@@ -53,7 +53,6 @@ $cat    = "Docker, DevOps, Web Geliştirme";
 <div class="main-blog-wrap">
 
 <div class="single-blog-item wow move-up">
-
 <div class="post-info lg-blog-post-info">
 
 <div class="post-categories text-center"><a href="javascript:void(0);"><?php echo $cat; ?></a></div>
@@ -105,9 +104,10 @@ $cat    = "Docker, DevOps, Web Geliştirme";
 <p>Docker konteynerizasyonu, modern web uygulamalarının geliştirilmesi ve dağıtımı için kritik bir teknolojidir. Çanakkale web yazılım çözümleri ile Docker tabanlı çözümler kullanarak uygulamalarınızı güvenli, hızlı ve ölçeklenebilir bir şekilde yönetebilirsiniz.</p>
 
 </div>
-</div>
 
 </div>
+</div>
+
 </div>
 </div>
 

@@ -2,16 +2,16 @@
 $date1  = "2025-08-20";
 $date2  = "2025-08-20";
 $name   = "2026 İçin Gelişmiş SEO Optimizasyon Stratejileri";
-$title  = "2026 İçin Gelişmiş SEO Optimizasyon Stratejileri | Çanakkale Web Tasarım";
-$desc1  = "2026'da arama motoru görünürlüğünüzü artırın. Yapay zeka destekli içerik stratejilerinden teknik SEO güncellemelerine kadar en gelişmiş teknikleri keşfedin.";
-$desc2  = "Eski SEO taktiklerini unutun! 2026'nın değişen algoritmalarında rakiplerinizin önüne geçmenizi sağlayacak en yeni ve en etkili 5 optimizasyon stratejisi.";
-$ogdesc = "Çanakkale web yazılım çözümleri ile 2026 SEO trendleri ve gelişmiş optimizasyon stratejilerini uygulayın, web sitenizi görünür kılın.";
-$twdesc = "Çanakkale web yazılım hizmetleri ile 2026 SEO trendlerini uygulayarak web sitenizin görünürlüğünü artırın.";
+$title  = "2026 Gelişmiş SEO Stratejileri ile Web Sitenizi Güçlendirin | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile 2026’ya özel SEO optimizasyon stratejilerini öğrenin. Arama motoru görünürlüğünü artıran modern yöntemlerle sitenizi optimize edin.";
+$desc2  = "Anahtar kelime stratejileri, teknik SEO, içerik optimizasyonu ve kullanıcı deneyimi odaklı yaklaşımlarla web sitenizin performansını yükseltin.";
+$ogdesc = "2026 SEO stratejileri ile web sitenizin görünürlüğünü ve performansını artırın. Çözüm Cloud Çanakkale ile güncel optimizasyon yöntemlerini uygulayın.";
+$twdesc = "Web sitenizi 2026’ya hazırlayın! Gelişmiş SEO stratejileri ile arama motorlarında öne çıkın. Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "SEO, Web Yazılım";
 $lang   = "tr_TR";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/blog/2026-icin-gelismis-seo-optimizasyon-stratejileri.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/blog/2026-icin-gelismis-seo-optimizasyon-stratejileri";
 $alt    = "2026 i̇çin gelişmiş seo optimizasyon stratejileri";
-$cat    = "SEO, Web Geliştirme";
 ?>
 
 <!DOCTYPE html>
@@ -53,7 +53,6 @@ $cat    = "SEO, Web Geliştirme";
 <div class="main-blog-wrap">
 
 <div class="single-blog-item wow move-up">
-
 <div class="post-info lg-blog-post-info">
 
 <div class="post-categories text-center"><a href="javascript:void(0);"><?php echo $cat; ?></a></div>
@@ -93,9 +92,10 @@ $cat    = "SEO, Web Geliştirme";
 <p>2026 için gelişmiş SEO optimizasyon stratejileri, içerik kalitesi, teknik altyapı ve kullanıcı odaklı yaklaşımla birleştiğinde web sitenizin görünürlüğünü artırır. Çanakkale web yazılım çözümleri ile işletmenizin SEO performansını yükselterek dijital dünyada rekabette öne geçebilirsiniz.</p>
 
 </div>
-</div>
 
 </div>
+</div>
+
 </div>
 </div>
 

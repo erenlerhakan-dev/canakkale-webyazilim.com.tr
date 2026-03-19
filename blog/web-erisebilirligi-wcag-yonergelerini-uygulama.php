@@ -2,16 +2,16 @@
 $date1  = "2025-08-10";
 $date2  = "2025-08-10";
 $name   = "Web Erişebilirliği: WCAG Yönergelerini Uygulama";
-$title  = "Web Erişebilirliği: WCAG Yönergelerini Uygulama | Çanakkale Web Tasarım";
-$desc1  = "Web erişilebilirliği ve WCAG yönergeleri rehberi. Çanakkale web yazılım çözümleri ile herkes için kullanılabilir web siteleri oluşturun.";
-$desc2  = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
-$ogdesc = "Çanakkale web yazılım çözümleri ile WCAG yönergelerine uygun, erişilebilir web siteleri oluşturun ve kullanıcı deneyimini artırın.";
-$twdesc = "Çanakkale web yazılım hizmetleri ile WCAG standartlarına uygun, erişilebilir web siteleri geliştirin.";
+$title  = "WCAG Rehberi: Web Erişebilirliği Nasıl Sağlanır? | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile web sitenizi herkes için erişilebilir hale getirin. WCAG standartlarına uygun tasarım ve geliştirme yöntemlerini öğrenin.";
+$desc2  = "Erişilebilir web siteleri oluşturun. Görme ve işitme engelli kullanıcılar için uyumlu, kapsayıcı ve kullanıcı dostu deneyimler geliştirin.";
+$ogdesc = "WCAG yönergeleri ile web erişilebilirliğini artırın. Çözüm Cloud Çanakkale ile herkes için kullanılabilir web siteleri oluşturun.";
+$twdesc = "Web siteniz herkes için erişilebilir mi? WCAG standartlarını uygulayarak kapsayıcı deneyimler oluşturun. Çözüm Cloud Çanakkale ile tanışın.";
+$cat    = "Web Tasarım, Web Yazılım";
 $lang   = "tr_TR";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/blog/web-erisebilirligi-wcag-yonergelerini-uygulama.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/blog/web-erisebilirligi-wcag-yonergelerini-uygulama";
 $alt    = "web erişebilirliği: wcag yönergelerini uygulama";
-$cat    = "Web Erişebilirliği, UI/UX, Web Geliştirme";
 ?>
 
 <!DOCTYPE html>
@@ -53,7 +53,6 @@ $cat    = "Web Erişebilirliği, UI/UX, Web Geliştirme";
 <div class="main-blog-wrap">
 
 <div class="single-blog-item wow move-up">
-
 <div class="post-info lg-blog-post-info">
 
 <div class="post-categories text-center"><a href="javascript:void(0);"><?php echo $cat; ?></a></div>
@@ -91,9 +90,10 @@ $cat    = "Web Erişebilirliği, UI/UX, Web Geliştirme";
 <p>Web erişilebilirliği, modern web sitelerinin olmazsa olmazıdır. Çanakkale web yazılım çözümleri ile WCAG yönergelerini uygulayarak kullanıcı deneyimini iyileştirebilir, erişilebilir, güvenli ve SEO uyumlu web sitelerine sahip olabilirsiniz.</p>
 
 </div>
-</div>
 
 </div>
+</div>
+
 </div>
 </div>
 

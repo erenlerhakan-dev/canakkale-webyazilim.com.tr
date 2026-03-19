@@ -2,16 +2,16 @@
 $date1  = "2025-09-05";
 $date2  = "2025-09-05";
 $name   = "Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri";
-$title  = "Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri | Çanakkale Web Tasarım";
-$desc1  = "2026 yılında UI/UX tasarım trendlerini keşfedin. Çanakkale web yazılım çözümleri ile kullanıcı deneyimini artıracak modern tasarım stratejilerini öğrenin.";
-$desc2  = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
-$ogdesc = "UI/UX tasarım trendleri ile modern web deneyimleri oluşturun. Çanakkale web yazılım hizmetleri ile kullanıcı odaklı web siteleri geliştirin.";
-$twdesc = "Çanakkale web yazılım hizmetleri ile modern UI/UX tasarım trendlerini kullanarak kullanıcı deneyimini optimize edin.";
+$title  = "2026 UI/UX Tasarım Trendleri: Kullanıcı Deneyimini Geliştirin | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile modern UI/UX tasarım trendlerini öğrenin. Kullanıcı deneyimini artıran yenilikçi tasarım yaklaşımlarını keşfedin.";
+$desc2  = "Web ve mobil uygulamalarda kullanıcı odaklı tasarım anlayışını benimseyin. Etkili UI/UX trendleri ile etkileşimi ve memnuniyeti artırın.";
+$ogdesc = "Kullanıcı deneyimini geliştiren UI/UX trendlerini keşfedin. Çözüm Cloud Çanakkale ile modern ve etkili tasarımlar oluşturun.";
+$twdesc = "UI/UX trendlerini takip edin! Kullanıcı deneyimini güçlendiren tasarım yaklaşımları için Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "UI/UX, Web Tasarım";
 $lang   = "tr_TR";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri";
 $alt    = "kullanıcı deneyimini şekillendiren ui/ux tasarım trendleri";
-$cat    = "UI/UX, Web Tasarım";
 ?>
 
 <!DOCTYPE html>
@@ -53,7 +53,6 @@ $cat    = "UI/UX, Web Tasarım";
 <div class="main-blog-wrap">
 
 <div class="single-blog-item wow move-up">
-
 <div class="post-info lg-blog-post-info">
 
 <div class="post-categories text-center"><a href="javascript:void(0);"><?php echo $cat; ?></a></div>
@@ -93,9 +92,10 @@ $cat    = "UI/UX, Web Tasarım";
 <p>UI/UX tasarım trendlerini takip etmek, web sitelerinin başarısını doğrudan etkiler. Çanakkale web yazılım çözümleri ile minimal, etkileşimli, mobil öncelikli ve erişilebilir tasarımlar geliştirerek kullanıcı deneyimini artırabilirsiniz. Bu sayede hem müşteri memnuniyeti yükselir hem de dijital rekabette öne geçilir.</p>
 
 </div>
-</div>
 
 </div>
+</div>
+
 </div>
 </div>
 

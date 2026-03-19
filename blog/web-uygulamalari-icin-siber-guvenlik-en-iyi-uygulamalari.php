@@ -2,16 +2,16 @@
 $date1  = "2025-06-25";
 $date2  = "2025-06-25";
 $name   = "Web Uygulamaları İçin Siber Güvenlik En İyi Uygulamaları";
-$title  = "Web Uygulamaları İçin Siber Güvenlik En İyi Uygulamaları | Çanakkale Web Tasarım";
-$desc1  = "Modern web uygulamalarında veri sızıntılarını önleyin. SQL Injection, XSS ve CSRF gibi tehditlere karşı en güncel savunma mekanizmaları ve güvenli kodlama pratikleri.";
-$desc2  = "Kullanıcı verilerini korumak ve güven inşa etmek için siber güvenlikte 'en iyi uygulamalar'. 2026'nın yükselen tehditlerine karşı web sitenizi nasıl kale gibi sağlam tutarsınız?";
-$ogdesc = "Çanakkale web yazılım çözümleri ile web uygulamalarınız için siber güvenlik önlemlerini öğrenin ve uygulayın.";
-$twdesc = "Çanakkale web yazılım hizmetleri ile web uygulamalarınızı güvenli hale getirin ve siber saldırılara karşı koruyun.";
+$title  = "Web Uygulamaları İçin Siber Güvenlik Rehberi | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile web uygulamalarınızı güvence altına alın. XSS, SQL Injection ve veri ihlallerine karşı etkili güvenlik önlemlerini öğrenin.";
+$desc2  = "Modern siber tehditlere karşı web uygulamalarınızı koruyun. Güvenlik açıklarını azaltan en iyi uygulamalar ve koruma yöntemlerini keşfedin.";
+$ogdesc = "Web uygulamaları için siber güvenlik en iyi uygulamalarını öğrenin. Çözüm Cloud Çanakkale ile projelerinizi güvenli hale getirin.";
+$twdesc = "Web uygulamanız güvende mi? Siber tehditlere karşı en iyi güvenlik yöntemlerini keşfedin. Çözüm Cloud Çanakkale ile korunun.";
+$cat    = "Siber Güvenlik, Web Yazılım";
 $lang   = "tr_TR";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/blog/web-uygulamalari-icin-siber-guvenlik-en-iyi-uygulamalari.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/blog/web-uygulamalari-icin-siber-guvenlik-en-iyi-uygulamalari";
 $alt    = "web uygulamaları i̇çin siber güvenlik en i̇yi uygulamaları";
-$cat    = "Siber Güvenlik, Web Uygulamaları";
 ?>
 
 <!DOCTYPE html>
@@ -53,7 +53,6 @@ $cat    = "Siber Güvenlik, Web Uygulamaları";
 <div class="main-blog-wrap">
 
 <div class="single-blog-item wow move-up">
-
 <div class="post-info lg-blog-post-info">
 
 <div class="post-categories text-center"><a href="javascript:void(0);"><?php echo $cat; ?></a></div>
@@ -93,9 +92,10 @@ $cat    = "Siber Güvenlik, Web Uygulamaları";
 <p>Web uygulamalarının güvenliği, işletmelerin itibarını ve kullanıcı verilerini korumak için vazgeçilmezdir. <strong>Çanakkale web yazılım çözümleri</strong> ile güvenli, dayanıklı ve siber tehditlere karşı korumalı web uygulamaları geliştirerek dijital ortamda güvenle faaliyet gösterebilirsiniz.</p>
 
 </div>
-</div>
 
 </div>
+</div>
+
 </div>
 </div>
 

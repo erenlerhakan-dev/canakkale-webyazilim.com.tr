@@ -2,16 +2,16 @@
 $date1  = "2025-09-10";
 $date2  = "2025-09-10";
 $name   = "Python Django: Ölçeklenebilir Web Uygulamaları Oluşturma";
-$title  = "Python Django: Ölçeklenebilir Web Uygulamaları Oluşturma | Çanakkale Web Tasarım";
-$desc1  = "Python Django ile ölçeklenebilir web uygulamaları geliştirme rehberi. Çanakkale web yazılım çözümleri ile güvenli, hızlı ve performanslı projeler oluşturun.";
-$desc2  = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
-$ogdesc = "Django framework ile ölçeklenebilir ve güvenli web uygulamaları geliştirin. Çanakkale web yazılım hizmetleri ile modern projeler oluşturun.";
-$twdesc = "Çanakkale web yazılım çözümleri ile Django kullanarak ölçeklenebilir ve performanslı web uygulamaları geliştirin.";
+$title  = "Python Django ile Ölçeklenebilir Web Uygulamaları | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile Python Django kullanarak ölçeklenebilir web uygulamaları geliştirin. Güçlü ve sürdürülebilir projeler oluşturun.";
+$desc2  = "Django ile hızlı ve güvenilir web uygulamaları oluşturun. Yüksek trafikli sistemler için ölçeklenebilir mimari ve performans çözümleri sağlayın.";
+$ogdesc = "Python Django ile ölçeklenebilir web uygulamaları geliştirin. Çözüm Cloud Çanakkale ile performanslı ve güvenli sistemler oluşturun.";
+$twdesc = "Web uygulamalarınızı ölçeklendirin! Python Django ile güçlü ve sürdürülebilir projeler geliştirin. Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "Python, Web Yazılım";
 $lang   = "tr_TR";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/blog/python-django-olceklenebilir-web-uygulamalari-olusturma.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/blog/python-django-olceklenebilir-web-uygulamalari-olusturma";
 $alt    = "python django: ölçeklenebilir web uygulamaları oluşturma";
-$cat    = "Python, Django, Web Geliştirme";
 ?>
 
 <!DOCTYPE html>
@@ -53,7 +53,6 @@ $cat    = "Python, Django, Web Geliştirme";
 <div class="main-blog-wrap">
 
 <div class="single-blog-item wow move-up">
-
 <div class="post-info lg-blog-post-info">
 
 <div class="post-categories text-center"><a href="javascript:void(0);"><?php echo $cat; ?></a></div>
@@ -93,9 +92,10 @@ $cat    = "Python, Django, Web Geliştirme";
 <p>Python Django, ölçeklenebilir web uygulamaları geliştirmek için ideal bir platformdur. Çanakkale web yazılım hizmetleri ile Django kullanarak güvenli, performanslı ve özelleştirilebilir web çözümleri oluşturabilirsiniz. Bu sayede işletmenizin dijital varlığı güçlü ve geleceğe hazır olur.</p>
 
 </div>
-</div>
 
 </div>
+</div>
+
 </div>
 </div>
 

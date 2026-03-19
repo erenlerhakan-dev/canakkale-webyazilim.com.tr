@@ -2,16 +2,16 @@
 $date1  = "2025-07-20";
 $date2  = "2025-07-20";
 $name   = "JavaScript Framework Karşılaştırması: React, Vue, Angular, Svelte";
-$title  = "JavaScript Framework Karşılaştırması: React, Vue, Angular, Svelte | Çanakkale Web Tasarım";
-$desc1  = "React, Vue, Angular ve Svelte karşılaştırması rehberi. Çanakkale web yazılım çözümleri ile doğru JavaScript framework'ünü seçin ve modern web uygulamaları geliştirin.";
-$desc2  = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
-$ogdesc = "Çanakkale web yazılım çözümleri ile React, Vue, Angular ve Svelte framework'lerini karşılaştırın ve işletmeniz için en uygun çözümü seçin.";
-$twdesc = "Çanakkale web yazılım hizmetleri ile React, Vue, Angular ve Svelte framework'lerini karşılaştırın ve en uygun frontend çözümünü seçin.";
+$title  = "JavaScript Framework Karşılaştırması: React, Vue, Angular, Svelte | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile popüler JavaScript frameworklerini karşılaştırın. Projenize en uygun teknolojiyi seçerek verimli ve ölçeklenebilir web uygulamaları geliştirin.";
+$desc2  = "React, Vue, Angular ve Svelte’in avantaj ve dezavantajlarını keşfedin. Performans, topluluk desteği ve kullanım kolaylığı kriterlerine göre doğru framework’ü seçin.";
+$ogdesc = "JavaScript frameworklerini karşılaştırarak projeniz için ideal seçimi yapın. Çözüm Cloud Çanakkale ile doğru teknolojiyi seçin ve verimli uygulamalar geliştirin.";
+$twdesc = "React, Vue, Angular veya Svelte? JavaScript frameworklerini kıyaslayın ve projeniz için en uygun olanı belirleyin. Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "Frontend, Web Yazılım";
 $lang   = "tr_TR";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/blog/javascript-framework-karsilastirmasi-react-vue-angular-svelte.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/blog/javascript-framework-karsilastirmasi-react-vue-angular-svelte";
 $alt    = "javascript framework karşılaştırması: react, vue, angular, svelte";
-$cat    = "JavaScript, Frontend";
 ?>
 
 <!DOCTYPE html>
@@ -53,7 +53,6 @@ $cat    = "JavaScript, Frontend";
 <div class="main-blog-wrap">
 
 <div class="single-blog-item wow move-up">
-
 <div class="post-info lg-blog-post-info">
 
 <div class="post-categories text-center"><a href="javascript:void(0);"><?php echo $cat; ?></a></div>
@@ -99,9 +98,10 @@ $cat    = "JavaScript, Frontend";
 <p>JavaScript framework seçimi, projenizin ölçeği, performans gereksinimleri ve ekip becerilerine bağlıdır. Çanakkale web yazılım çözümleri ile React, Vue, Angular veya Svelte framework’lerinden işletmeniz için en uygun olanı seçerek modern ve performanslı web uygulamaları geliştirebilirsiniz.</p>
 
 </div>
-</div>
 
 </div>
+</div>
+
 </div>
 </div>
 

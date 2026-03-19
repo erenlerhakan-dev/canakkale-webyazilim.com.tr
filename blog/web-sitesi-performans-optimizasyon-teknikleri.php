@@ -2,16 +2,16 @@
 $date1  = "2025-06-20";
 $date2  = "2025-06-20";
 $name   = "Web Sitesi Performans Optimizasyon Teknikleri";
-$title  = "Web Sitesi Performans Optimizasyon Teknikleri | Çanakkale Web Tasarım";
-$desc1  = "Web sitesi performansını artırmak için etkili optimizasyon teknikleri. Çanakkale web yazılım çözümleri ile hızlı ve verimli web siteleri oluşturun.";
-$desc2  = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
-$ogdesc = "Çanakkale web yazılım çözümleri ile web sitenizi optimize edin, hızlandırın ve kullanıcı deneyimini artırın.";
-$twdesc = "Çanakkale web yazılım hizmetleri ile web sitenizi hızlandırın ve performans odaklı optimizasyon uygulayın.";
+$title  = "Web Sitesi Hızlandırma ve Performans Optimizasyonu | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile web sitenizin hızını artırın. Sayfa yükleme sürelerini düşüren performans optimizasyon tekniklerini keşfedin.";
+$desc2  = "Yavaş açılan sitelere veda edin. Cache, CDN ve kod optimizasyonu ile web sitenizi hızlandırarak kullanıcı deneyimini geliştirin.";
+$ogdesc = "Web sitesi performansını artırmanın en etkili yollarını öğrenin. Çözüm Cloud Çanakkale ile hızlı ve optimize edilmiş siteler oluşturun.";
+$twdesc = "Web siteniz yavaş mı? Performans optimizasyon teknikleriyle hızlandırın. Çözüm Cloud Çanakkale ile fark yaratın.";
+$cat    = "Web Performans, Web Yazılım";
 $lang   = "tr_TR";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/blog/web-sitesi-performans-optimizasyon-teknikleri.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/blog/web-sitesi-performans-optimizasyon-teknikleri";
 $alt    = "web sitesi performans optimizasyon teknikleri";
-$cat    = "Web Performans, Optimizasyon";
 ?>
 
 <!DOCTYPE html>
@@ -53,7 +53,6 @@ $cat    = "Web Performans, Optimizasyon";
 <div class="main-blog-wrap">
 
 <div class="single-blog-item wow move-up">
-
 <div class="post-info lg-blog-post-info">
 
 <div class="post-categories text-center"><a href="javascript:void(0);"><?php echo $cat; ?></a></div>
@@ -93,9 +92,10 @@ $cat    = "Web Performans, Optimizasyon";
 <p>Web sitesi performans optimizasyonu, kullanıcı memnuniyetini artırmak ve arama motorlarında öne çıkmak için kritik bir adımdır. <strong>Çanakkale web yazılım çözümleri</strong> ile web sitenizi hızlandırabilir, performans odaklı ve verimli bir dijital deneyim sunabilirsiniz.</p>
 
 </div>
-</div>
 
 </div>
+</div>
+
 </div>
 </div>
 

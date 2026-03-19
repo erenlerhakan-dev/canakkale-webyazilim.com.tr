@@ -2,16 +2,16 @@
 $date1  = "2025-06-10";
 $date2  = "2025-06-10";
 $name   = "İş Uygulamaları İçin Blockchain Teknolojisi";
-$title  = "İş Uygulamaları İçin Blockchain Teknolojisi | Çanakkale Web Tasarım";
-$desc1  = "İş uygulamalarında blockchain teknolojisi rehberi. Çanakkale web yazılım çözümleri ile güvenli, şeffaf ve izlenebilir iş süreçleri oluşturun.";
-$desc2  = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
-$ogdesc = "Çanakkale web yazılım çözümleri ile blockchain teknolojisini iş uygulamalarınıza entegre ederek güvenli ve şeffaf süreçler oluşturun.";
-$twdesc = "Çanakkale web yazılım hizmetleri ile blockchain teknolojisini iş süreçlerinize entegre ederek güvenlik ve şeffaflık sağlayın.";
+$title  = "Blockchain Teknolojisi ile İş Uygulamaları | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile iş uygulamalarınızda blockchain teknolojisinin avantajlarını keşfedin. Güvenli, şeffaf ve izlenebilir sistemler oluşturun.";
+$desc2  = "Blockchain ile veri güvenliğini artırın ve iş süreçlerinizi modernize edin. Akıllı sözleşmeler ve dağıtık defter teknolojileri ile verimliliği yükseltin.";
+$ogdesc = "Blockchain teknolojisi ile iş uygulamalarınızı güvenli ve şeffaf hale getirin. Çözüm Cloud Çanakkale ile modern çözümler geliştirin.";
+$twdesc = "İş uygulamalarınızda blockchain kullanın! Güvenli, şeffaf ve verimli sistemler için Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "Blockchain, Web Yazılım";
 $lang   = "tr_TR";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/blog/is-uygulamalari-icin-blockchain-teknolojisi.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/blog/modern-web-gelistirme-trendleri";
 $alt    = "i̇ş uygulamaları i̇çin blockchain teknolojisi";
-$cat    = "Blockchain, İş Uygulamaları";
 ?>
 
 <!DOCTYPE html>
@@ -53,7 +53,6 @@ $cat    = "Blockchain, İş Uygulamaları";
 <div class="main-blog-wrap">
 
 <div class="single-blog-item wow move-up">
-
 <div class="post-info lg-blog-post-info">
 
 <div class="post-categories text-center"><a href="javascript:void(0);"><?php echo $cat; ?></a></div>
@@ -106,9 +105,10 @@ $cat    = "Blockchain, İş Uygulamaları";
 <p>İş uygulamalarında blockchain teknolojisi kullanmak, güvenliği artırır, veri doğruluğunu sağlar ve iş süreçlerini daha şeffaf hale getirir. <strong>Çanakkale web yazılım çözümleri</strong> ile işletmenize özel blockchain uygulamaları geliştirerek dijital dönüşümünüzü güçlendirebilirsiniz.</p>
 
 </div>
-</div>
 
 </div>
+</div>
+
 </div>
 </div>
 

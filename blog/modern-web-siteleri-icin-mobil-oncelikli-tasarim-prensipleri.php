@@ -2,16 +2,16 @@
 $date1  = "2025-10-05";
 $date2  = "2025-10-05";
 $name   = "Modern Web Siteleri İçin Mobil Öncelikli Tasarım Prensipleri";
-$title  = "Modern Web Siteleri İçin Mobil Öncelikli Tasarım Prensipleri | Çanakkale Web Tasarım";
-$desc1  = "Modern web siteleri için mobil öncelikli tasarım prensiplerini öğrenin. Çanakkale web tasarım çözümleri ile kullanıcı deneyimini artırın ve SEO performansınızı yükseltin.";
-$desc2  = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
-$ogdesc = "Mobil öncelikli tasarım ile modern web sitelerinde kullanıcı deneyimini artırın ve performansı optimize edin.";
-$twdesc = "Çanakkale web tasarım hizmetleri ile mobil öncelikli web sitesi tasarım prensiplerini keşfedin.";
+$title  = "Mobil Öncelikli Tasarım Prensipleri | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile mobil öncelikli tasarım prensiplerini öğrenin. Kullanıcı deneyimini artıran modern ve duyarlı web siteleri geliştirin.";
+$desc2  = "Mobil cihazlar için optimize edilmiş web siteleri oluşturun. Tasarım ve kullanıcı deneyimini ön planda tutarak daha etkili projeler geliştirin.";
+$ogdesc = "Mobil öncelikli tasarım ile modern web sitelerini optimize edin. Çözüm Cloud Çanakkale ile kullanıcı dostu ve duyarlı tasarımlar oluşturun.";
+$twdesc = "Web siteniz mobil uyumlu mu? Mobil öncelikli tasarım prensipleri ile kullanıcı deneyimini geliştirin. Çözüm Cloud Çanakkale ile tanışın.";
+$cat    = "Web Tasarım, UX/UI";
 $lang   = "tr_TR";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/blog/modern-web-siteleri-icin-mobil-oncelikli-tasarim-prensipleri.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/blog/modern-web-siteleri-icin-mobil-oncelikli-tasarim-prensipleri";
 $alt    = "modern web siteleri i̇çin mobil öncelikli tasarım prensipleri";
-$cat    = "Web Tasarım, Mobil Tasarım";
 ?>
 
 <!DOCTYPE html>
@@ -53,7 +53,6 @@ $cat    = "Web Tasarım, Mobil Tasarım";
 <div class="main-blog-wrap">
 
 <div class="single-blog-item wow move-up">
-
 <div class="post-info lg-blog-post-info">
 
 <div class="post-categories text-center"><a href="javascript:void(0);"><?php echo $cat; ?></a></div>
@@ -95,9 +94,10 @@ $cat    = "Web Tasarım, Mobil Tasarım";
 <p>Modern web siteleri için mobil öncelikli tasarım, kullanıcı deneyimini artırmanın ve arama motorlarında başarılı olmanın anahtarıdır. Çanakkale’de web tasarım hizmeti sunan firmalar, bu prensipleri uygulayarak müşterilerinin dijital dünyadaki başarısını destekler. Hızlı, esnek ve kullanıcı dostu bir mobil tasarım, her web projesinin vazgeçilmez bir parçasıdır.</p>
 
 </div>
-</div>
 
 </div>
+</div>
+
 </div>
 </div>
 

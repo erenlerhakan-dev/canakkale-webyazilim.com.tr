@@ -2,16 +2,16 @@
 $date1  = "2025-09-15";
 $date2  = "2025-09-15";
 $name   = "İlerici Web Uygulamaları: Web Geliştirmenin Geleceği";
-$title  = "İlerici Web Uygulamaları: Web Geliştirmenin Geleceği | Çanakkale Web Tasarım";
-$desc1  = "İlerici web uygulamaları (Progressive Web Apps) ile modern web geliştirme trendlerini keşfedin. Çanakkale web yazılım çözümleri ile geleceğe uygun web uygulamaları oluşturun.";
-$desc2  = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
-$ogdesc = "İlerici Web Uygulamaları ile kullanıcı deneyimini artırın. Çanakkale web yazılım hizmetleri ile modern web uygulamalarınızı geleceğe taşıyın.";
-$twdesc = "Çanakkale web yazılım hizmetleri ile modern ve ilerici web uygulamaları geliştirin. Progressive Web Apps trendlerini öğrenin.";
+$title  = "İlerici Web Uygulamaları ve Web Geliştirmenin Geleceği | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile ilerici web uygulamalarının sunduğu yenilikleri keşfedin. Modern teknolojilerle kullanıcı deneyimini ve performansı artırın.";
+$desc2  = "Web geliştirmede geleceğin trendlerini takip edin. PWA, SPA ve modern frontend teknolojileri ile yüksek performanslı, etkileşimli web uygulamaları oluşturun.";
+$ogdesc = "İlerici web uygulamaları ile web geliştirmenin geleceğini yakalayın. Çözüm Cloud Çanakkale ile modern ve etkileşimli projeler geliştirin.";
+$twdesc = "Web uygulamalarınızı geleceğe taşıyın! İlerici teknolojiler ve modern geliştirme yaklaşımları için Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "Web Geliştirme, Web Yazılım";
 $lang   = "tr_TR";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/blog/ilerici-web-uygulamalari-web-gelistirmenin-gelecegi.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/blog/ilerici-web-uygulamalari-web-gelistirmenin-gelecegi";
 $alt    = "i̇lerici web uygulamaları: web geliştirmenin geleceği";
-$cat    = "Web Geliştirme, PWA";
 ?>
 
 <!DOCTYPE html>
@@ -53,7 +53,6 @@ $cat    = "Web Geliştirme, PWA";
 <div class="main-blog-wrap">
 
 <div class="single-blog-item wow move-up">
-
 <div class="post-info lg-blog-post-info">
 
 <div class="post-categories text-center"><a href="javascript:void(0);"><?php echo $cat; ?></a></div>
@@ -95,9 +94,10 @@ $cat    = "Web Geliştirme, PWA";
 <p>İlerici web uygulamaları, web geliştirme dünyasının geleceğini şekillendiriyor. Çanakkale web yazılım çözümleri ile işletmeler, PWA teknolojilerini kullanarak modern, hızlı ve kullanıcı odaklı web uygulamaları geliştirebilir. Bu sayede hem kullanıcı memnuniyeti artar hem de dijital rekabette öne geçilir.</p>
 
 </div>
-</div>
 
 </div>
+</div>
+
 </div>
 </div>
 

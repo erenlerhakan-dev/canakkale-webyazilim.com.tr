@@ -2,16 +2,16 @@
 $date1  = "2025-06-15";
 $date2  = "2025-06-15";
 $name   = "İş Uygulamaları İçin Yapay Zeka ve Makine Öğrenimi";
-$title  = "İş Uygulamaları İçin Yapay Zeka ve Makine Öğrenimi | Çanakkale Web Tasarım";
-$desc1  = "İş uygulamalarında yapay zeka ve makine öğrenimi kullanımı rehberi. Çanakkale web yazılım çözümleri ile işletmenizde verimlilik ve otomasyon sağlayın.";
-$desc2  = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
-$ogdesc = "Çanakkale web yazılım çözümleri ile iş uygulamalarınızda yapay zeka ve makine öğrenimi teknolojilerini kullanarak verimliliği artırın.";
-$twdesc = "Çanakkale web yazılım hizmetleri ile işletmenizde yapay zeka ve makine öğrenimi uygulamaları geliştirerek iş süreçlerini optimize edin.";
+$title  = "Yapay Zeka ve Makine Öğrenimi ile İş Uygulamaları | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile iş uygulamalarınızı yapay zeka ve makine öğrenimi ile güçlendirin. Verimliliği artıran ve süreçleri optimize eden çözümler geliştirin.";
+$desc2  = "Veri analizi ve otomasyon ile iş süreçlerinizi iyileştirin. Yapay zeka ve makine öğrenimi teknikleri ile modern ve akıllı uygulamalar oluşturun.";
+$ogdesc = "İş uygulamalarınızda yapay zeka ve makine öğrenimi kullanarak verimliliği artırın. Çözüm Cloud Çanakkale ile yenilikçi çözümler geliştirin.";
+$twdesc = "İş uygulamalarınızı akıllandırın! Yapay zeka ve makine öğrenimi ile süreçlerinizi optimize edin. Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "Yapay Zeka, Web Yazılım";
 $lang   = "tr_TR";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/blog/is-uygulamalari-icin-yapay-zeka-ve-makine-ogrenimi.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/blog/is-uygulamalari-icin-yapay-zeka-ve-makine-ogrenimi";
 $alt    = "i̇ş uygulamaları i̇çin yapay zeka ve makine öğrenimi";
-$cat    = "Yapay Zeka, Makine Öğrenimi, İş Uygulamaları";
 ?>
 
 <!DOCTYPE html>
@@ -53,7 +53,6 @@ $cat    = "Yapay Zeka, Makine Öğrenimi, İş Uygulamaları";
 <div class="main-blog-wrap">
 
 <div class="single-blog-item wow move-up">
-
 <div class="post-info lg-blog-post-info">
 
 <div class="post-categories text-center"><a href="javascript:void(0);"><?php echo $cat; ?></a></div>
@@ -100,9 +99,10 @@ $cat    = "Yapay Zeka, Makine Öğrenimi, İş Uygulamaları";
 <p>İş uygulamalarında yapay zeka ve makine öğrenimi kullanımı, işletmelerin verimliliğini artırır, daha iyi kararlar alınmasını sağlar ve rekabet avantajı kazandırır. <strong>Çanakkale web yazılım çözümleri</strong> ile AI ve ML uygulamalarını iş süreçlerinize entegre ederek dijital dönüşümünüzü hızlandırabilirsiniz.</p>
 
 </div>
-</div>
 
 </div>
+</div>
+
 </div>
 </div>
 

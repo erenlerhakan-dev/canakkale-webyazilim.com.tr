@@ -2,16 +2,16 @@
 $date1  = "2025-07-15";
 $date2  = "2025-07-15";
 $name   = "Büyüme İçin Veri Analitiği ve İş Zekası";
-$title  = "Büyüme İçin Veri Analitiği ve İş Zekası | Çanakkale Web Tasarım";
-$desc1  = "Veri analitiği ve iş zekası ile işletmenizin büyümesini hızlandırın. Çanakkale web yazılım çözümleri ile veriye dayalı kararlar alın ve rekabette öne geçin.";
-$desc2  = "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.";
-$ogdesc = "Çanakkale web yazılım çözümleri ile veri analitiği ve iş zekası uygulamaları ile işletmenizin büyümesini hızlandırın.";
-$twdesc = "Çanakkale web yazılım hizmetleri ile veri analitiği ve iş zekası kullanarak işletmenizi büyütün ve karar süreçlerinizi optimize edin.";
+$title  = "Veri Analitiği ve İş Zekası ile İşletme Büyümesi | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile veri analitiği ve iş zekası çözümlerini kullanarak işletmenizin büyümesini hızlandırın. Veriye dayalı kararlar alın.";
+$desc2  = "Satış, pazarlama ve operasyon süreçlerinizi optimize edin. İş zekası araçlarıyla performansı ölçün ve stratejik avantaj elde edin.";
+$ogdesc = "Veri analitiği ve iş zekası ile işletmenizin büyümesini destekleyin. Çözüm Cloud Çanakkale ile etkili ve verimli çözümler geliştirin.";
+$twdesc = "İşletmenizi büyütün! Veri analitiği ve iş zekası ile stratejik kararlar alın. Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "Veri Analitiği, İş Zekası";
 $lang   = "tr_TR";
 $img    = "https://www.canakkale-webyazilim.com.tr/images/blog/buyume-icin-veri-analitigi-ve-is-zekasi.webp";
 $url    = "https://www.canakkale-webyazilim.com.tr/blog/buyume-icin-veri-analitigi-ve-is-zekasi";
 $alt    = "büyüme i̇çin veri analitiği ve i̇ş zekası";
-$cat    = "Veri Analitiği, İş Zekası";
 ?>
 
 <!DOCTYPE html>
@@ -53,7 +53,6 @@ $cat    = "Veri Analitiği, İş Zekası";
 <div class="main-blog-wrap">
 
 <div class="single-blog-item wow move-up">
-
 <div class="post-info lg-blog-post-info">
 
 <div class="post-categories text-center"><a href="javascript:void(0);"><?php echo $cat; ?></a></div>
@@ -100,9 +99,10 @@ $cat    = "Veri Analitiği, İş Zekası";
 <p>Veri analitiği ve iş zekası, işletmelerin büyümesini hızlandırmak ve rekabet avantajı elde etmek için vazgeçilmez araçlardır. Çanakkale web yazılım çözümleri ile veri odaklı kararlar alarak, işletmenizin büyümesini sürdürülebilir ve etkili hale getirebilirsiniz.</p>
 
 </div>
-</div>
 
 </div>
+</div>
+
 </div>
 </div>
 
