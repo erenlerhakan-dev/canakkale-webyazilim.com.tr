@@ -65,6 +65,8 @@
 <li><p>Hizmet talepleri ve iletişim bilgileriniz</p></li>
 </ul>
 
+<br>
+
 <h5>2. Kişisel Verilerin İşlenme Amaçları</h5>
 <p>Toplanan kişisel veriler, aşağıdaki amaçlarla işlenmektedir:</p>
 
@@ -75,6 +77,8 @@
 <li><p>Pazarlama, tanıtım ve bilgilendirme faaliyetlerinin yürütülmesi</p></li>
 <li><p>Yasal yükümlülüklerin yerine getirilmesi</p></li>
 </ul>
+
+<br>
 
 <h5>3. Kişisel Verilerin Aktarılması</h5>
 <p>[Çözüm Cloud], kişisel verilerinizi; hizmet sağladığımız iş ortakları veya yasal yükümlülükler çerçevesinde üçüncü kişilerle paylaşabilir. Bu aktarım, <strong>KVKK</strong> ve ilgili mevzuata uygun olarak yapılmaktadır.</p>
@@ -90,6 +94,7 @@
 </ul>
 
 <p>Haklarınızı kullanmak için bizimle yukarıda belirtilen e-posta adresi veya telefon numarası üzerinden iletişime geçebilirsiniz. Talepleriniz, yasal süreler içerisinde değerlendirilecektir.</p>
+
 <h5>5. Veri Güvenliği</h5>
 
 <p>[Çözüm Cloud], kişisel verilerin güvenliğini sağlamak amacıyla teknik ve idari tedbirler almaktadır. Verileriniz, yetkisiz erişim, kayıp veya kötüye kullanıma karşı korunmaktadır.</p>
