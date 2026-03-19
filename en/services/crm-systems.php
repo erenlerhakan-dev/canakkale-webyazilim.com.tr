@@ -1,3 +1,27 @@
+<?php
+$name   = "CRM Sistemleri";
+$title  = "CRM Sistemleri ile Müşteri Yönetimi | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile CRM sistemlerini kullanarak müşteri ilişkilerinizi güçlendirin. Satış, pazarlama ve destek süreçlerini optimize edin.";
+$desc2  = "Kurumsal CRM çözümleri ile müşteri verilerini etkin yönetin. İş süreçlerini otomatikleştirerek verimliliği artırın ve müşteri memnuniyetini yükseltin.";
+$ogdesc = "CRM sistemleri ile işletmenizin müşteri yönetimini geliştirin. Çözüm Cloud Çanakkale ile verimli ve entegre çözümler oluşturun.";
+$twdesc = "CRM sistemleri ile müşteri ilişkilerinizi güçlendirin! Verimli ve etkili çözümler için Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "CRM, Web Yazılım";
+$lang   = "tr_TR";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/canakkale-crm-sistemleri.webp";
+$img2   = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/crm-sistemleri.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/crm-sistemleri";
+$keys   = "CRM sistemleri, müşteri ilişkileri yönetimi, CRM yazılımı, satış yönetimi sistemi, müşteri yönetim yazılımı";
+$alt    = "crm sistemleri";
+$q1     = "CRM sistemi nedir?";
+$q2     = "CRM yazılımı işletmelere ne kazandırır?";
+$q3     = "CRM sistemleri hangi sektörlerde kullanılır?";
+$q4     = "Bulut tabanlı CRM nedir?";
+$a1     = "CRM sistemi, işletmelerin müşteri ilişkilerini yönetmesini sağlayan yazılım çözümleridir. Bu sistemler müşteri bilgilerini saklar, satış süreçlerini takip eder ve müşteri deneyimini geliştirir.";
+$a2     = "CRM yazılımları müşteri verilerini merkezi bir sistemde toplar, satış ve pazarlama süreçlerini optimize eder ve müşteri memnuniyetini artırır.";
+$a3     = "CRM sistemleri e-ticaret, turizm, finans, sağlık, eğitim ve birçok farklı sektörde müşteri ilişkilerini yönetmek için kullanılmaktadır.";
+$a4     = "Bulut tabanlı CRM sistemleri internet üzerinden çalışan ve herhangi bir kurulum gerektirmeden kullanılabilen modern müşteri yönetim yazılımlarıdır.";
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="en" dir="ltr">
 

@@ -1,3 +1,27 @@
+<?php
+$name   = "B2B ve B2C Çözümleri";
+$title  = "B2B ve B2C Web Çözümleri | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile B2B ve B2C işletmeler için etkili web çözümleri geliştirin. Satış süreçlerini optimize eden modern platformlar oluşturun.";
+$desc2  = "B2B ve B2C projelerde kullanıcı deneyimini, ödeme sistemlerini ve veri entegrasyonunu optimize edin. İşletmenize özel çözümler tasarlayın.";
+$ogdesc = "B2B ve B2C çözümleri ile işletmenizi dijitalde güçlendirin. Çözüm Cloud Çanakkale ile modern ve verimli web uygulamaları geliştirin.";
+$twdesc = "B2B ve B2C projelerinizi güçlendirin! İşletmenize özel web çözümleri için Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "B2B, B2C";
+$lang   = "tr_TR";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/canakkale-b2b-ve-b2c-cozumleri.webp";
+$img2   = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/b2b-ve-b2c-cozumleri.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/b2b-ve-b2c-cozumleri";
+$keys   = "B2B çözümleri, B2C çözümleri, dijital ticaret platformu, e-ticaret yazılımı, B2B e-ticaret sistemi, B2C satış platformu";
+$alt    = "b2b ve b2c çözümleri";
+$q1     = "B2B çözümleri nedir?";
+$q2     = "B2C çözümleri nedir?";
+$q3     = "B2B ve B2C sistemleri arasındaki fark nedir?";
+$q4     = "B2B ve B2C yazılımları neden önemlidir?";
+$a1     = "B2B çözümleri, işletmelerin diğer işletmelerle dijital ortamda ticaret yapmasını sağlayan yazılım ve platform çözümleridir.";
+$a2     = "B2C çözümleri, işletmelerin ürün veya hizmetlerini doğrudan son kullanıcıya satmasını sağlayan e-ticaret ve dijital satış platformlarıdır.";
+$a3     = "B2B sistemleri işletmeler arası ticareti kapsarken B2C sistemleri doğrudan tüketicilere satış yapılmasını sağlar.";
+$a4     = "Bu yazılımlar satış süreçlerini dijitalleştirir, müşteri deneyimini artırır ve işletmelerin daha geniş pazarlara ulaşmasını sağlar.";
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="en" dir="ltr">
 

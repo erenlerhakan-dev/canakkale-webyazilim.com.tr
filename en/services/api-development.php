@@ -1,3 +1,27 @@
+<?php
+$name   = "API Geliştirme";
+$title  = "Modern API Geliştirme Rehberi | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile API geliştirme süreçlerini öğrenin. Güvenli, ölçeklenebilir ve verimli API çözümleri oluşturun.";
+$desc2  = "REST, GraphQL ve diğer modern API teknolojileri ile uygulamalarınızı güçlendirin. En iyi geliştirme pratikleri ile projelerinizi optimize edin.";
+$ogdesc = "API geliştirme ile uygulamalarınızı modern ve esnek hale getirin. Çözüm Cloud Çanakkale ile güvenli ve verimli API çözümleri geliştirin.";
+$twdesc = "API’nizi modern teknolojilerle geliştirin! Güvenli ve ölçeklenebilir çözümler için Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "API, Web Yazılım";
+$lang   = "tr_TR";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/canakkale-api-gelistirme.webp";
+$img2   = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/api-gelistirme.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/api-gelistirme";
+$keys   = "API geliştirme, REST API geliştirme, web API geliştirme, yazılım entegrasyonu, API servisleri, backend API geliştirme";
+$alt    = "api geliştirme";
+$q1     = "API geliştirme nedir?";
+$q2     = "REST API neden kullanılır?";
+$q3     = "API güvenliği nasıl sağlanır?";
+$q4     = "API entegrasyonu işletmelere ne kazandırır?";
+$a1     = "API geliştirme, farklı yazılım sistemlerinin birbiriyle iletişim kurmasını sağlayan arayüzlerin oluşturulması sürecidir.";
+$a2     = "REST API, hızlı, ölçeklenebilir ve esnek bir yapı sunduğu için modern web ve mobil uygulamalarda en çok tercih edilen API mimarisidir.";
+$a3     = "API güvenliği için kimlik doğrulama, yetkilendirme, veri şifreleme ve güvenli erişim protokolleri kullanılır.";
+$a4     = "API entegrasyonu sayesinde farklı yazılımlar arasında veri akışı sağlanır, süreçler otomatikleşir ve işletmeler daha verimli çalışabilir.";
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="en" dir="ltr">
 

@@ -1,3 +1,27 @@
+<?php
+$name   = "ERP Çözümleri";
+$title  = "ERP Çözümleri ile İş Süreçlerini Optimize Edin | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile ERP çözümleri kullanarak işletmenizin iş süreçlerini entegre edin. Finans, üretim ve lojistik süreçlerini optimize edin.";
+$desc2  = "Kurumsal kaynak planlaması ile verimliliği artırın. ERP sistemleri ile süreçlerinizi merkezi ve etkili şekilde yönetin.";
+$ogdesc = "ERP çözümleri ile işletmenizin süreçlerini daha verimli hale getirin. Çözüm Cloud Çanakkale ile modern ve entegre sistemler geliştirin.";
+$twdesc = "ERP çözümleri ile iş süreçlerinizi optimize edin! Kurumsal verimlilik için Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "ERP, Web Yazılım";
+$lang   = "tr_TR";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/canakkale-erp-cozumleri.webp";
+$img2   = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/erp-cozumleri.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/erp-cozumleri";
+$keys   = "ERP çözümleri, kurumsal yazılım, iş süreçleri yönetimi, üretim yönetimi, finans yönetimi, ERP sistemi";
+$alt    = "erp çözümleri";
+$q1     = "ERP nedir?";
+$q2     = "ERP çözümleri hangi süreçleri kapsar?";
+$q3     = "ERP çözümlerinin avantajları nelerdir?";
+$q4     = "ERP kurulum süreci nasıl işler?";
+$a1     = "ERP (Enterprise Resource Planning), işletmenizin tüm iş süreçlerini tek bir sistemde entegre eden yazılım çözümüdür.";
+$a2     = "Finans, insan kaynakları, üretim, lojistik, satış ve pazarlama süreçlerini kapsar ve süreçlerin dijitalleşmesini sağlar.";
+$a3     = "İş süreçlerinin hızlanması, veri bütünlüğü, maliyet optimizasyonu, daha iyi karar alma süreçleri ve merkezi yönetim sağlar.";
+$a4     = "Analiz ve planlama, yazılım yapılandırma, veri entegrasyonu, kullanıcı eğitimi, test ve yayına alma adımlarını içerir.";
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="en" dir="ltr">
 

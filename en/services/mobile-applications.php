@@ -1,3 +1,27 @@
+<?php
+$name   = "Mobil Uygulama Geliştirme";
+$title  = "Mobil Uygulama Geliştirme Çözümleri | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile mobil uygulamalar geliştirin. iOS ve Android için kullanıcı dostu, güvenli ve yüksek performanslı çözümler oluşturun.";
+$desc2  = "Native veya cross-platform mobil uygulama geliştirme seçenekleri ile projelerinizi hızlı ve verimli bir şekilde hayata geçirin.";
+$ogdesc = "Mobil uygulama geliştirme ile işletmenizi dijital dünyada güçlendirin. Çözüm Cloud Çanakkale ile modern ve ölçeklenebilir çözümler oluşturun.";
+$twdesc = "Mobil uygulamalarınızı modern teknolojilerle geliştirin! Güvenli ve etkili çözümler için Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "Mobil Geliştirme, Web Yazılım";
+$lang   = "tr_TR";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/canakkale-mobil-uygulamalar.webp";
+$img2   = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/mobil-uygulamalar.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/mobil-uygulamalar";
+$keys   = "mobil uygulama geliştirme, iOS uygulama, Android uygulama, özel mobil uygulama, kurumsal mobil uygulama, mobil yazılım geliştirme";
+$alt    = "mobil uygulama geliştirme";
+$q1     = "Mobil uygulama geliştirme nedir?";
+$q2     = "Hangi platformlar için geliştirme yapılır?";
+$q3     = "Mobil uygulama geliştirme avantajları nelerdir?";
+$q4     = "Geliştirme süreci nasıl işler?";
+$a1     = "Mobil uygulama geliştirme, iOS ve Android platformları için özel, performanslı ve kullanıcı dostu uygulamalar tasarlama ve geliştirme sürecidir.";
+$a2     = "iOS, Android ve gerektiğinde çapraz platform (cross-platform) teknolojileri ile mobil uygulamalar geliştirilir.";
+$a3     = "Kullanıcı deneyimi iyileşir, marka değeri artar, iş süreçleri dijitalleşir, veri toplama ve analiz daha etkin yapılabilir.";
+$a4     = "İhtiyaç analizi ve planlama, prototip ve tasarım, geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarından oluşur.";
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="en" dir="ltr">
 

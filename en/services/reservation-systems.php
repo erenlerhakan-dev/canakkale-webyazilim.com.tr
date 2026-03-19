@@ -1,3 +1,27 @@
+<?php
+$name   = "Rezervasyon Sistemleri";
+$title  = "Rezervasyon Sistemleri ile İşletmenizi Güçlendirin | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile işletmeniz için özelleştirilmiş rezervasyon sistemleri geliştirin. Rezervasyon süreçlerini hızlandırın ve yönetimi kolaylaştırın.";
+$desc2  = "Online rezervasyon, ödeme ve yönetim süreçlerini tek platformda yönetin. Müşteri deneyimini artıran modern ve güvenli rezervasyon çözümleri oluşturun.";
+$ogdesc = "Rezervasyon sistemleri ile işletmenizin süreçlerini optimize edin. Çözüm Cloud Çanakkale ile hızlı ve güvenilir rezervasyon çözümleri geliştirin.";
+$twdesc = "Rezervasyon süreçlerinizi modernize edin! Güvenli ve kullanıcı dostu rezervasyon sistemleri için Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "Web Yazılım, Rezervasyon";
+$lang   = "tr_TR";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/canakkale-rezervasyon-sistemleri.webp";
+$img2   = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/rezervasyon-sistemleri.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/rezervasyon-sistemleri";
+$keys   = "rezervasyon sistemi, online rezervasyon yazılımı, booking sistemi, randevu sistemi, tur rezervasyon sistemi, otel rezervasyon yazılımı";
+$alt    = "rezervasyon sistemleri";
+$q1     = "Rezervasyon sistemi nedir?";
+$q2     = "Online rezervasyon sistemi hangi sektörlerde kullanılır?";
+$q3     = "Rezervasyon yazılımı işletmelere ne kazandırır?";
+$q4     = "Online booking sistemi neden önemlidir?";
+$a1     = "Rezervasyon sistemi, müşterilerin internet üzerinden hizmet veya ürün için rezervasyon yapmasını sağlayan yazılım sistemidir.";
+$a2     = "Online rezervasyon sistemleri otel, turizm, restoran, araç kiralama, sağlık ve etkinlik organizasyonları gibi birçok sektörde kullanılmaktadır.";
+$a3     = "Rezervasyon yazılımları işletmelerin booking süreçlerini otomatikleştirir, müşteri deneyimini geliştirir ve rezervasyon yönetimini kolaylaştırır.";
+$a4     = "Online booking sistemi müşterilerin 7/24 rezervasyon yapmasını sağlar ve işletmelerin daha fazla müşteriye ulaşmasına yardımcı olur.";
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="en" dir="ltr">
 

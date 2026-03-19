@@ -1,3 +1,27 @@
+<?php
+$name   = "Teknik Danışmanlık Hizmetleri";
+$title  = "Teknik Danışmanlık Hizmetleri | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile server, hosting, yazılım ve web sitesi konularında profesyonel teknik danışmanlık alın. İşletmenize özel çözümler geliştirin.";
+$desc2  = "Altyapı, yazılım ve web projelerinizde doğru stratejileri belirleyin. Performans, güvenlik ve verimliliği artıran teknik danışmanlık hizmetleri sunuyoruz.";
+$ogdesc = "Server, hosting, yazılım ve web sitesi konularında teknik danışmanlık ile projelerinizi güçlendirin. Çözüm Cloud Çanakkale ile etkili çözümler oluşturun.";
+$twdesc = "Teknik danışmanlık ile projelerinizi optimize edin! Çözüm Cloud Çanakkale yanınızda, server ve web çözümleriniz için profesyonel destek sağlar.";
+$cat    = "Teknik Danışmanlık, Web Yazılım";
+$lang   = "tr_TR";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/canakkale-teknik-danismanlik.webp";
+$img2   = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/teknik-danismanlik.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/teknik-danismanlik";
+$keys   = "teknik danışmanlık, bilişim danışmanlığı, yazılım danışmanlığı, server yönetimi, hosting danışmanlığı, IT danışmanlık hizmetleri";
+$alt    = "teknik danışmanlık hizmetleri";
+$q1     = "Teknik danışmanlık nedir?";
+$q2     = "Server yönetimi danışmanlığı ne sağlar?";
+$q3     = "Hosting danışmanlığı neden önemlidir?";
+$q4     = "Yazılım danışmanlığı hangi konuları kapsar?";
+$a1     = "Teknik danışmanlık, işletmelerin yazılım, server altyapısı, hosting ve bilişim sistemlerini daha verimli kullanmaları için sunulan profesyonel destek ve yönlendirme hizmetidir.";
+$a2     = "Server yönetimi danışmanlığı sayesinde sunucu altyapısı güvenli, hızlı ve kesintisiz çalışacak şekilde optimize edilir.";
+$a3     = "Doğru hosting altyapısı web sitelerinin performansı, güvenliği ve SEO başarısı için kritik öneme sahiptir.";
+$a4     = "Yazılım danışmanlığı, sistem mimarisi, API entegrasyonları, performans optimizasyonu ve yazılım geliştirme stratejilerini kapsar.";
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="en" dir="ltr">
 

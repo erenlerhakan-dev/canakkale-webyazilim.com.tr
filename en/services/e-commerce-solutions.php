@@ -1,3 +1,27 @@
+<?php
+$name   = "E-Ticaret Çözümleri";
+$title  = "E-Ticaret Çözümleri ile İşinizi Dijitalde Büyütün | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile işletmenize özel e-ticaret çözümleri geliştirin. Online satış süreçlerini optimize edin ve verimli platformlar oluşturun.";
+$desc2  = "E-ticaret sitenizi güvenli, hızlı ve kullanıcı dostu hale getirin. Ödeme sistemleri, ürün yönetimi ve müşteri deneyimi odaklı çözümler sunun.";
+$ogdesc = "E-ticaret çözümleri ile işletmenizi dijitalde güçlendirin. Çözüm Cloud Çanakkale ile modern ve etkili online satış platformları oluşturun.";
+$twdesc = "E-ticaret sitenizi optimize edin! Güvenli ve kullanıcı dostu çözümler için Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "E-Ticaret, Web Yazılım";
+$lang   = "tr_TR";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/canakkale-e-ticaret-cozumleri.webp";
+$img2   = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/e-ticaret-cozumleri.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/e-ticaret-cozumleri";
+$keys   = "e-ticaret çözümleri, online mağaza, e-ticaret platformu, dijital mağaza yönetimi, e-ticaret sitesi, satış optimizasyonu";
+$alt    = "e-ticaret çözümleri";
+$q1     = "E-ticaret çözümleri nedir?";
+$q2     = "Hangi özellikler sunulur?";
+$q3     = "E-ticaret çözümlerinin avantajları nelerdir?";
+$q4     = "Kurulum süreci nasıl işler?";
+$a1     = "E-ticaret çözümleri, işletmenizin online satış yapabilmesi için gerekli web platformları, ödeme sistemleri ve satış yönetimi araçlarını kapsayan yazılım ve hizmetlerdir.";
+$a2     = "SEO uyumlu ürün sayfaları, ödeme entegrasyonu, stok ve sipariş yönetimi, raporlama, kullanıcı deneyimi optimizasyonu ve mobil uyumlu tasarım sunulur.";
+$a3     = "Online satışlarınızı artırır, süreçleri otomatikleştirir, müşteri deneyimini iyileştirir ve işletmenizin dijital görünürlüğünü yükseltir.";
+$a4     = "İhtiyaç analizi, tasarım ve prototip, platform geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarını içerir.";
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="en" dir="ltr">
 

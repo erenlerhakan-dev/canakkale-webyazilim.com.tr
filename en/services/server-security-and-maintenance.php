@@ -1,3 +1,27 @@
+<?php
+$name   = "Sunucu Güvenliği ve Bakımı";
+$title  = "Sunucu Güvenliği ve Bakımı Rehberi | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile sunucularınızın güvenliğini sağlayın ve düzenli bakım süreçlerini optimize edin. Kesintisiz ve güvenli sistemler kurun.";
+$desc2  = "Sunucu güvenliği, güncellemeler ve performans optimizasyonu ile sistemlerinizi koruyun. Olası saldırılara karşı önlemler alın ve güvenli altyapı sağlayın.";
+$ogdesc = "Sunucu güvenliği ve bakımı ile iş süreçlerinizi güvence altına alın. Çözüm Cloud Çanakkale ile güvenli ve yönetilebilir sunucu çözümleri geliştirin.";
+$twdesc = "Sunucularınızı güvenli ve sorunsuz çalışır hale getirin! Güvenlik ve bakım çözümleri için Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "Sunucu, Web Yazılım";
+$lang   = "tr_TR";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/canakkale-sunucu-guvenligi-ve-bakimi.webp";
+$img2   = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/sunucu-guvenligi-ve-bakimi.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/sunucu-guvenligi-ve-bakimi";
+$keys   = "sunucu güvenliği, server bakımı, server yönetimi, sunucu optimizasyonu, IT bakım hizmeti, sunucu güvenlik çözümleri";
+$alt    = "sunucu güvenliği ve bakımı";
+$q1     = "Sunucu güvenliği nedir?";
+$q2     = "Sunucu bakımı neden önemlidir?";
+$q3     = "Hangi hizmetleri sunuyorsunuz?";
+$q4     = "Sunucu bakımı süreci nasıl işler?";
+$a1     = "Sunucu güvenliği, sunucularınızın yetkisiz erişimlerden korunması, veri kaybının önlenmesi ve güvenli bir altyapının sağlanması için yapılan tüm önlemleri kapsar.";
+$a2     = "Sunucu bakımı, performansın yüksek tutulması, hataların önlenmesi, güvenlik açıklarının kapatılması ve kesintisiz hizmet sağlanması açısından kritik öneme sahiptir.";
+$a3     = "Sunucu güvenliği, yazılım ve donanım güncellemeleri, performans optimizasyonu, veri yedekleme, firewall yönetimi ve 7/24 teknik destek hizmetleri sunuyoruz.";
+$a4     = "Bakım süreci; sunucu analizi, güncellemelerin uygulanması, performans optimizasyonu, güvenlik önlemleri, düzenli testler ve raporlama adımlarını içerir.";
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="en" dir="ltr">
 

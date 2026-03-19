@@ -1,3 +1,27 @@
+<?php
+$name   = "Özel Yazılım Geliştirme";
+$title  = "Özel Yazılım Geliştirme Çözümleri | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile işletmenize özel yazılım çözümleri geliştirin. İş süreçlerinize uygun, güvenli ve ölçeklenebilir uygulamalar oluşturun.";
+$desc2  = "Kurumsal ve sektörel yazılım ihtiyaçlarınızı karşılayan özel çözümler sunun. Modern teknolojilerle verimli ve kullanıcı dostu yazılımlar geliştirin.";
+$ogdesc = "Özel yazılım geliştirme ile işletmenize uygun çözümler üretin. Çözüm Cloud Çanakkale ile modern ve etkili yazılım projeleri oluşturun.";
+$twdesc = "İşletmenize özel yazılım çözümleri geliştirin! Çözüm Cloud Çanakkale ile güvenli, ölçeklenebilir ve verimli projeler oluşturun.";
+$cat    = "Özel Yazılım, Web Yazılım";
+$lang   = "tr_TR";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/canakkale-ozel-yazilim-gelistirme.webp";
+$img2   = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/ozel-yazilim-gelistirme.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/ozel-yazilim-gelistirme";
+$keys   = "özel yazılım geliştirme, kurumsal yazılım çözümleri, işletmeye özel yazılım, yazılım geliştirme hizmeti, web tabanlı yazılım, yazılım danışmanlığı";
+$alt    = "özel yazılım geliştirme";
+$q1     = "Özel yazılım geliştirme nedir?";
+$q2     = "Özel yazılım geliştirme hangi avantajları sağlar?";
+$q3     = "Hangi sektörler özel yazılımdan faydalanabilir?";
+$q4     = "Özel yazılım geliştirme süreci nasıl işler?";
+$a1     = "Özel yazılım geliştirme, bir işletmenin ihtiyaçlarına özel olarak tasarlanan ve tamamen özelleştirilebilen yazılım çözümlerini ifade eder.";
+$a2     = "İş süreçlerine tam uyum, yüksek performans, güvenlik, ölçeklenebilirlik ve uzun vadede maliyet avantajı sağlar.";
+$a3     = "Kurumsal firmalar, turizm, e-ticaret, sağlık, eğitim ve hizmet sektörleri özel yazılımdan yararlanabilir.";
+$a4     = "İhtiyaç analizi ve proje planlama, sistem tasarımı, yazılım geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarını içerir.";
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="en" dir="ltr">
 

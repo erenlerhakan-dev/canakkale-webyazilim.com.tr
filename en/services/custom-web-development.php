@@ -1,3 +1,27 @@
+<?php
+$name   = "Özel Web Geliştirme";
+$title  = "Özel Web Geliştirme Çözümleri | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile işletmenize özel web geliştirme çözümleri oluşturun. İhtiyaçlarınıza uygun, güvenli ve ölçeklenebilir web siteleri tasarlayın.";
+$desc2  = "Kurumsal web siteleri, portallar ve özel web uygulamaları ile dijital varlığınızı güçlendirin. Modern teknolojilerle verimli ve kullanıcı dostu projeler geliştirin.";
+$ogdesc = "Özel web geliştirme ile işletmenize uygun çözümler tasarlayın. Çözüm Cloud Çanakkale ile modern ve etkili web projeleri oluşturun.";
+$twdesc = "Web sitenizi ve uygulamalarınızı işletmenize özel geliştirin! Çözüm Cloud Çanakkale ile güvenli ve ölçeklenebilir çözümler üretin.";
+$cat    = "Web Yazılım, Özel Yazılım";
+$lang   = "tr_TR";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/canakkale-ozel-web-gelistirme.webp";
+$img2   = "https://www.canakkale-webyazilim.com.tr/images/hizmetler/ozel-web-gelistirme.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/ozel-web-gelistirme";
+$keys   = "özel web geliştirme, web tasarım, web yazılım geliştirme, kurumsal web çözümleri, web sitesi geliştirme, web uygulaması geliştirme";
+$alt    = "özel web geliştirme";
+$q1     = "Özel web geliştirme nedir?";
+$q2     = "Özel web geliştirme hangi avantajları sağlar?";
+$q3     = "Hangi sektörlerde kullanılabilir?";
+$q4     = "Web geliştirme süreci nasıl işler?";
+$a1     = "Özel web geliştirme, bir işletme veya proje için tamamen özelleştirilmiş, modern ve performanslı web siteleri veya web uygulamaları geliştirme sürecidir.";
+$a2     = "İşletmenize özel tasarım, yüksek performans, SEO uyumluluğu, mobil uyumluluk ve ölçeklenebilirlik sağlar.";
+$a3     = "E-ticaret, kurumsal şirketler, turizm, sağlık, eğitim ve hizmet sektörleri başta olmak üzere tüm dijital projelerde kullanılabilir.";
+$a4     = "İhtiyaç analizi ve planlama, tasarım ve prototip, geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarını içerir.";
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="en" dir="ltr">
 
