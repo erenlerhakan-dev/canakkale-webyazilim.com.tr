@@ -49,7 +49,7 @@ $alt    = "mobil uygulama geliştirme: native vs cross-platform";
 </div>
 </div>
 
-<div class="col-lg-8 m-auto">
+<div class="col-lg-10 m-auto">
 <div class="main-blog-wrap">
 
 <div class="single-blog-item wow move-up">

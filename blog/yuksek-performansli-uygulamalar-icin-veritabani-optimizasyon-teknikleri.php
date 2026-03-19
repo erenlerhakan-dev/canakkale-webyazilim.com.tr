@@ -49,7 +49,7 @@ $alt    = "yüksek performanslı uygulamalar i̇çin veritabanı optimizasyon te
 </div>
 </div>
 
-<div class="col-lg-8 m-auto">
+<div class="col-lg-10 m-auto">
 <div class="main-blog-wrap">
 
 <div class="single-blog-item wow move-up">

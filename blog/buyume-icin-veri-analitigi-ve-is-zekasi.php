@@ -49,7 +49,7 @@ $alt    = "büyüme i̇çin veri analitiği ve i̇ş zekası";
 </div>
 </div>
 
-<div class="col-lg-8 m-auto">
+<div class="col-lg-10 m-auto">
 <div class="main-blog-wrap">
 
 <div class="single-blog-item wow move-up">
