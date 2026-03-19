@@ -4,7 +4,7 @@
 <meta property="og:url" content="<?php echo $url; ?>">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="<?php echo $lang; ?>">
-<meta property="og:site_name" content="Çanakkale Web Yazılım">
+<meta property="og:site_name" content="Canakkale Web Development">
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="<?php echo $title; ?>">

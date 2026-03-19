@@ -29,17 +29,17 @@
 <meta name="p:domain_verify" content=""/>
 <meta name="wot-verification" content=""/>
 
-<meta name="author" content="Çanakkale Web Yazılım https://www.canakkale-webyazilim.com.tr">
-<meta name="publisher" content="Çanakkale Web Yazılım https://www.canakkale-webyazilim.com.tr">
-<meta name="designer" content="Çanakkale Web Yazılım https://www.canakkale-webyazilim.com.tr">
+<meta name="author" content="Canakkale Web Development https://www.canakkale-webyazilim.com.tr">
+<meta name="publisher" content="Canakkale Web Development https://www.canakkale-webyazilim.com.tr">
+<meta name="designer" content="Canakkale Web Development https://www.canakkale-webyazilim.com.tr">
 <meta name="distribution" content="Global">
 <meta name="google" content="notranslate" />
 <meta name="googlebot" content="index, follow" />
 <meta name="robots" content="index, follow">
-<meta name="web_author" content="Çanakkale Web Yazılım https://www.canakkale-webyazilim.com.tr/en/">
+<meta name="web_author" content="Canakkale Web Development https://www.canakkale-webyazilim.com.tr/en/">
 <meta name="rating" content="General">
 <meta name="Revisit-after" content="1 Day">
-<meta name="copyright" content="Çanakkale Web Yazılım https://www.canakkale-webyazilim.com.tr/en/" />
+<meta name="copyright" content="Canakkale Web Development https://www.canakkale-webyazilim.com.tr/en/" />
 <meta name="content-language" content="en-US" />
 
 <link rel="canonical" href="<?php echo $_SERVER['HTTP_REFERER']; ?>">
