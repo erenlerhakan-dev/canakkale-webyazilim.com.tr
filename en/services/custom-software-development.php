@@ -97,7 +97,7 @@ $a4     = "The process includes needs analysis and project planning, system desi
 <div class="card-header" id="heading__10">
 <h5 class="mb-0 font-weight--bold">
 <button class="btn-link" data-bs-toggle="collapse" data-bs-target="#tab__10" aria-expanded="true" aria-controls="tab__10">
-Custom Software Development Nedir? <span>
+What is Custom Software Development? <span>
 <i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
@@ -105,7 +105,7 @@ Custom Software Development Nedir? <span>
 </div>
 <div id="tab__10" class="show" aria-labelledby="heading__10" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Custom Software Development, işletmenizin iş süreçlerine ve ihtiyaçlarına uygun olarak tasarlanmış, tamamen özelleştirilebilir yazılım çözümleridir. Standart paket yazılımlara göre daha performanslı ve güvenlidir.</p>
+<p>Custom Software Development refers to fully customizable software solutions designed to suit your business processes and needs. They are more performant and secure than standard packaged software.</p>
 </div>
 </div>
 </div>
@@ -114,7 +114,7 @@ Custom Software Development Nedir? <span>
 <div class="card-header" id="heading__11">
 <h5 class="mb-0">
 <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__11" aria-expanded="false" aria-controls="collapse__11">
-Avantajları Nelerdir?<span>
+What are the advantages?<span>
 <i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
@@ -122,7 +122,7 @@ Avantajları Nelerdir?<span>
 </div>
 <div id="collapse__11" class="collapse" aria-labelledby="heading__11" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Özel yazılım çözümleri, işletmenizin ihtiyaçlarına tam uyum sağlar, güvenlik ve performansı artırır, ölçeklenebilir yapısı ile büyüyen iş süreçlerine uyum sağlar ve uzun vadede maliyet avantajı sunar.</p>
+<p>Custom software solutions are perfectly suited to your business needs, enhance security and performance, adapt to growing business processes with their scalable structure, and offer cost advantages in the long run.</p>
 </div>
 </div>
 </div>
@@ -131,14 +131,14 @@ Avantajları Nelerdir?<span>
 <div class="card-header" id="heading__12">
 <h5 class="mb-0">
 <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__12" aria-expanded="false" aria-controls="collapse__12">
-Hangi Sektörlerde Kullanılır?<span><i class="fas fa-chevron-circle-down"></i>
+In which sectors is it used?<span><i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
 </h5>
 </div>
 <div id="collapse__12" class="collapse" aria-labelledby="heading__12" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Kurumsal firmalar, turizm, e-ticaret, sağlık, eğitim ve hizmet sektörleri Custom Software Development çözümlerinden yararlanabilir. İş süreçlerini dijitalleştirmek ve verimliliği artırmak isteyen tüm işletmeler için uygundur.</p>
+<p>Corporate firms, tourism, e-commerce, healthcare, education, and service sectors can benefit from Custom Software Development solutions. It is suitable for all businesses that want to digitize their business processes and increase efficiency.</p>
 </div>
 </div>
 </div>
@@ -147,14 +147,14 @@ Hangi Sektörlerde Kullanılır?<span><i class="fas fa-chevron-circle-down"></i>
 <div class="card-header" id="heading__13">
 <h5 class="mb-0">
 <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__13" aria-expanded="false" aria-controls="collapse__13">
-Geliştirme Süreci <span><i class="fas fa-chevron-circle-down"></i>
+Development Process<span><i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
 </h5>
 </div>
 <div id="collapse__13" class="collapse" aria-labelledby="heading__13" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Custom Software Development süreci; ihtiyaç analizi ve planlama, sistem tasarımı, yazılım geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarını içerir. Böylece işletmenize en uygun çözüm sağlanır.</p>
+<p>The Custom Software Development process includes the steps of needs analysis and planning, system design, software development, testing and quality control, deployment, and technical support. This ensures the most suitable solution for your business.</p>
 </div>
 </div>
 </div>

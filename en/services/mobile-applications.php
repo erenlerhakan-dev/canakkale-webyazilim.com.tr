@@ -97,7 +97,7 @@ $a4     = "The development process includes needs analysis and planning, prototy
 <div class="card-header" id="heading__10">
 <h5 class="mb-0 font-weight--bold">
 <button class="btn-link" data-bs-toggle="collapse" data-bs-target="#tab__10" aria-expanded="true" aria-controls="tab__10">
-Mobil Uygulama Geliştirme Nedir? <span>
+What is Mobile Application Development? <span>
 <i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
@@ -105,7 +105,7 @@ Mobil Uygulama Geliştirme Nedir? <span>
 </div>
 <div id="tab__10" class="show" aria-labelledby="heading__10" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Mobil uygulama geliştirme, işletmelere özel iOS ve Android platformları için tasarlanan performanslı ve kullanıcı dostu uygulamaları kapsar. Uygulamalar tamamen işletme ihtiyaçlarına göre optimize edilir.</p>
+<p>Mobile application development encompasses high-performance and user-friendly applications designed specifically for businesses on iOS and Android platforms. Applications are fully optimized to meet business needs.</p>
 </div>
 </div>
 </div>
@@ -114,7 +114,7 @@ Mobil Uygulama Geliştirme Nedir? <span>
 <div class="card-header" id="heading__11">
 <h5 class="mb-0">
 <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__11" aria-expanded="false" aria-controls="collapse__11">
-Avantajları Nelerdir?<span>
+What are the advantages?<span>
 <i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
@@ -122,7 +122,7 @@ Avantajları Nelerdir?<span>
 </div>
 <div id="collapse__11" class="collapse" aria-labelledby="heading__11" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Mobile Applications işletmenizin dijital görünürlüğünü artırır, kullanıcı deneyimini iyileştirir ve iş süreçlerini daha etkin yönetmenizi sağlar. Ayrıca veri toplama ve analiz süreçlerini kolaylaştırır.</p>
+<p>Mobile applications increase your business's digital visibility, improve user experience, and enable you to manage business processes more effectively. They also simplify data collection and analysis processes.</p>
 </div>
 </div>
 </div>
@@ -131,14 +131,14 @@ Avantajları Nelerdir?<span>
 <div class="card-header" id="heading__12">
 <h5 class="mb-0">
 <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__12" aria-expanded="false" aria-controls="collapse__12">
-Hangi Platformlar Desteklenir?<span><i class="fas fa-chevron-circle-down"></i>
+Which platforms are supported?<span><i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
 </h5>
 </div>
 <div id="collapse__12" class="collapse" aria-labelledby="heading__12" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Mobil uygulama geliştirme iOS, Android ve cross-platform çözümlerle sunulur. İhtiyaçlara göre native veya hibrit uygulamalar tasarlanabilir.</p>
+<p>Mobile application development is offered with iOS, Android, and cross-platform solutions. Native or hybrid applications can be designed according to needs.</p>
 </div>
 </div>
 </div>
@@ -147,14 +147,14 @@ Hangi Platformlar Desteklenir?<span><i class="fas fa-chevron-circle-down"></i>
 <div class="card-header" id="heading__13">
 <h5 class="mb-0">
 <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__13" aria-expanded="false" aria-controls="collapse__13">
-Geliştirme Süreci <span><i class="fas fa-chevron-circle-down"></i>
+Development Process <span><i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
 </h5>
 </div>
 <div id="collapse__13" class="collapse" aria-labelledby="heading__13" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Geliştirme süreci, analiz ve planlama, tasarım ve prototip, uygulama geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarını içerir. Böylece işletmenize uygun mobil çözüm sağlanır.</p>
+<p>The development process includes the steps of analysis and planning, design and prototyping, application development, testing and quality control, deployment, and technical support. This ensures a mobile solution tailored to your business.</p>
 </div>
 </div>
 </div>

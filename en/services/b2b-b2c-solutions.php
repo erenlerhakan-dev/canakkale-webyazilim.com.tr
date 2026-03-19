@@ -97,7 +97,7 @@ $a4     = "These software solutions digitize sales processes, enhance customer e
 <div class="card-header" id="heading__10">
 <h5 class="mb-0 font-weight--bold">
 <button class="btn-link" data-bs-toggle="collapse" data-bs-target="#tab__10" aria-expanded="true" aria-controls="tab__10">
-B2B Çözümleri Nedir? <span>
+What are B2B Solutions? <span>
 <i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
@@ -105,7 +105,7 @@ B2B Çözümleri Nedir? <span>
 </div>
 <div id="tab__10" class="show" aria-labelledby="heading__10" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>B2B (Business to Business) çözümleri, işletmelerin diğer işletmelerle dijital platformlar üzerinden ticaret yapmasını sağlayan yazılım ve sistemlerdir. B2B platformları sayesinde firmalar ürün kataloglarını yönetebilir, toplu sipariş süreçlerini kolaylaştırabilir ve iş ortaklarıyla hızlı veri alışverişi sağlayabilir.</p>
+<p>B2B (Business to Business) solutions are software and systems that enable businesses to conduct trade with other businesses through digital platforms. Thanks to B2B platforms, companies can manage their product catalogs, streamline bulk ordering processes, and facilitate rapid data exchange with business partners.</p>
 </div>
 </div>
 </div>
@@ -114,7 +114,7 @@ B2B Çözümleri Nedir? <span>
 <div class="card-header" id="heading__11">
 <h5 class="mb-0">
 <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__11" aria-expanded="false" aria-controls="collapse__11">
-B2C Çözümleri<span>
+B2C Solutions<span>
 <i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
@@ -122,7 +122,7 @@ B2C Çözümleri<span>
 </div>
 <div id="collapse__11" class="collapse" aria-labelledby="heading__11" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>B2C (Business to Consumer) çözümleri, işletmelerin ürün ve serviceni doğrudan son kullanıcılara sunmasını sağlayan dijital satış platformlarıdır. E-ticaret siteleri, mobil alışveriş uygulamaları ve online ödeme sistemleri B2C çözümlerinin önemli parçalarıdır.</p>
+<p>B2C (Business to Consumer) solutions are digital sales platforms that enable businesses to offer their products and services directly to end users. E-commerce websites, mobile shopping applications, and online payment systems are important components of B2C solutions.</p>
 </div>
 </div>
 </div>
@@ -131,14 +131,14 @@ B2C Çözümleri<span>
 <div class="card-header" id="heading__12">
 <h5 class="mb-0">
 <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__12" aria-expanded="false" aria-controls="collapse__12">
-B2B ve B2C Sistemlerinin Avantajları<span><i class="fas fa-chevron-circle-down"></i>
+Advantages of B2B and B2C Systems<span><i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
 </h5>
 </div>
 <div id="collapse__12" class="collapse" aria-labelledby="heading__12" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Dijital B2B ve B2C sistemleri sayesinde işletmeler satış süreçlerini otomatikleştirebilir, müşteri deneyimini geliştirebilir ve daha geniş pazarlara ulaşabilir. Online sipariş yönetimi, ödeme entegrasyonu ve veri analizi gibi özellikler işletmelere büyük avantaj sağlar.</p>
+<p>Digital B2B and B2C systems enable businesses to automate sales processes, improve customer experience, and reach wider markets. Features such as online order management, payment integration, and data analytics provide significant advantages to businesses.</p>
 </div>
 </div>
 </div>
@@ -147,14 +147,14 @@ B2B ve B2C Sistemlerinin Avantajları<span><i class="fas fa-chevron-circle-down"
 <div class="card-header" id="heading__13">
 <h5 class="mb-0">
 <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__13" aria-expanded="false" aria-controls="collapse__13">
-Dijital Ticarette Entegrasyon <span><i class="fas fa-chevron-circle-down"></i>
+Integration in Digital Commerce <span><i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
 </h5>
 </div>
 <div id="collapse__13" class="collapse" aria-labelledby="heading__13" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Modern B2B ve B2C platformları ERP, CRM ve ödeme sistemleri ile entegre çalışabilir. Bu entegrasyonlar sayesinde sipariş yönetimi, stok takibi ve müşteri ilişkileri tek bir platform üzerinden yönetilebilir ve iş süreçleri daha verimli hale gelir.</p>
+<p>Modern B2B and B2C platforms can integrate with ERP, CRM, and payment systems. These integrations allow order management, inventory tracking, and customer relations to be managed from a single platform, making business processes more efficient.</p>
 </div>
 </div>
 </div>

@@ -97,7 +97,7 @@ $a4     = "The implementation process includes needs analysis, design and protot
 <div class="card-header" id="heading__10">
 <h5 class="mb-0 font-weight--bold">
 <button class="btn-link" data-bs-toggle="collapse" data-bs-target="#tab__10" aria-expanded="true" aria-controls="tab__10">
-E-commerce SolutionsNedir? <span>
+What are E-commerce Solutions? <span>
 <i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
@@ -105,7 +105,7 @@ E-commerce SolutionsNedir? <span>
 </div>
 <div id="tab__10" class="show" aria-labelledby="heading__10" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>E-commerce Solutions, işletmenizin online satış yapabilmesi için gerekli platformları, ödeme sistemlerini ve satış yönetimi araçlarını kapsayan yazılım ve Servicesdir.</p>
+<p>E-commerce Solutions are software and services that encompass the platforms, payment systems, and sales management tools necessary for your business to conduct online sales.</p>
 </div>
 </div>
 </div>
@@ -114,7 +114,7 @@ E-commerce SolutionsNedir? <span>
 <div class="card-header" id="heading__11">
 <h5 class="mb-0">
 <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__11" aria-expanded="false" aria-controls="collapse__11">
-Avantajları Nelerdir?<span>
+What are the advantages?<span>
 <i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
@@ -122,7 +122,7 @@ Avantajları Nelerdir?<span>
 </div>
 <div id="collapse__11" class="collapse" aria-labelledby="heading__11" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>E-commerce Solutionsonline satışlarınızı artırır, iş süreçlerinizi otomatikleştirir, müşteri deneyimini iyileştirir ve işletmenizin dijital görünürlüğünü artırır.</p>
+<p>E-commerce Solutions increases your online sales, automates your business processes, improves customer experience, and enhances your business's digital visibility.</p>
 </div>
 </div>
 </div>
@@ -131,14 +131,14 @@ Avantajları Nelerdir?<span>
 <div class="card-header" id="heading__12">
 <h5 class="mb-0">
 <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__12" aria-expanded="false" aria-controls="collapse__12">
-Hangi Özellikler Sunulur?<span><i class="fas fa-chevron-circle-down"></i>
+What features are offered?<span><i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
 </h5>
 </div>
 <div id="collapse__12" class="collapse" aria-labelledby="heading__12" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>SEO uyumlu ürün sayfaları, ödeme entegrasyonu, stok ve sipariş yönetimi, raporlama, kullanıcı deneyimi optimizasyonu ve mobil uyumlu tasarım sunulur.</p>
+<p>SEO-friendly product pages, payment integration, inventory and order management, reporting, user experience optimization, and mobile-friendly design are offered.</p>
 </div>
 </div>
 </div>
@@ -147,14 +147,14 @@ Hangi Özellikler Sunulur?<span><i class="fas fa-chevron-circle-down"></i>
 <div class="card-header" id="heading__13">
 <h5 class="mb-0">
 <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__13" aria-expanded="false" aria-controls="collapse__13">
-Kurulum Süreci <span><i class="fas fa-chevron-circle-down"></i>
+Installation Process <span><i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
 </h5>
 </div>
 <div id="collapse__13" class="collapse" aria-labelledby="heading__13" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Kurulum süreci; ihtiyaç analizi, tasarım ve prototip, platform geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarını içerir.</p>
+<p>The installation process includes the following steps: needs analysis, design and prototyping, platform development, testing and quality control, deployment, and technical support.</p>
 </div>
 </div>
 </div>

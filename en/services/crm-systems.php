@@ -97,7 +97,7 @@ $a4     = "Cloud-based CRM systems are modern customer management software that 
 <div class="card-header" id="heading__10">
 <h5 class="mb-0 font-weight--bold">
 <button class="btn-link" data-bs-toggle="collapse" data-bs-target="#tab__10" aria-expanded="true" aria-controls="tab__10">
-CRM Sistemi Nedir? <span>
+What is a CRM System? <span>
 <i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
@@ -105,7 +105,7 @@ CRM Sistemi Nedir? <span>
 </div>
 <div id="tab__10" class="show" aria-labelledby="heading__10" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>CRM (Customer Relationship Management) sistemi, işletmelerin müşterileriyle olan ilişkilerini yönetmelerini sağlayan yazılım platformudur. CRM Systems müşteri verilerini merkezi bir veritabanında toplar, satış süreçlerini takip eder ve müşteri iletişimini kolaylaştırır.</p>
+<p>A CRM (Customer Relationship Management) system is a software platform that enables businesses to manage their relationships with customers. CRM systems collect customer data in a central database, track sales processes, and facilitate customer communication.</p>
 </div>
 </div>
 </div>
@@ -114,7 +114,7 @@ CRM Sistemi Nedir? <span>
 <div class="card-header" id="heading__11">
 <h5 class="mb-0">
 <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__11" aria-expanded="false" aria-controls="collapse__11">
-CRM Yazılımının Avantajları<span>
+Advantages of CRM Software<span>
 <i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
@@ -122,7 +122,7 @@ CRM Yazılımının Avantajları<span>
 </div>
 <div id="collapse__11" class="collapse" aria-labelledby="heading__11" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>CRM yazılımları müşteri verilerini organize ederek işletmelerin daha stratejik kararlar almasına yardımcı olur. Satış fırsatlarının takibi, müşteri taleplerinin yönetimi ve pazarlama kampanyalarının planlanması gibi süreçler CRM Systems sayesinde kolayca yönetilebilir.</p>
+<p>CRM software helps businesses make more strategic decisions by organizing customer data. Processes such as tracking sales opportunities, managing customer requests, and planning marketing campaigns can be easily managed with CRM systems.</p>
 </div>
 </div>
 </div>
@@ -131,14 +131,14 @@ CRM Yazılımının Avantajları<span>
 <div class="card-header" id="heading__12">
 <h5 class="mb-0">
 <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__12" aria-expanded="false" aria-controls="collapse__12">
-Bulut Tabanlı CRM Systems<span><i class="fas fa-chevron-circle-down"></i>
+Cloud-based CRM Systems<span><i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
 </h5>
 </div>
 <div id="collapse__12" class="collapse" aria-labelledby="heading__12" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Bulut tabanlı CRM Systems internet üzerinden erişilebilen modern yazılım çözümleridir. Bu sistemler herhangi bir kurulum gerektirmez ve farklı cihazlardan kolayca kullanılabilir. Bu sayede ekipler müşteri verilerine her yerden erişebilir.</p>
+<p>Cloud-based CRM systems are modern software solutions accessible over the internet. These systems require no installation and can be easily used from different devices. This allows teams to access customer data from anywhere.</p>
 </div>
 </div>
 </div>
@@ -147,14 +147,14 @@ Bulut Tabanlı CRM Systems<span><i class="fas fa-chevron-circle-down"></i>
 <div class="card-header" id="heading__13">
 <h5 class="mb-0">
 <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__13" aria-expanded="false" aria-controls="collapse__13">
-CRM Systems Neden Önemlidir? <span><i class="fas fa-chevron-circle-down"></i>
+Why are CRM Systems Important? <span><i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
 </h5>
 </div>
 <div id="collapse__13" class="collapse" aria-labelledby="heading__13" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>CRM Systems müşteri ilişkilerini güçlendirir, satış süreçlerini daha verimli hale getirir ve müşteri memnuniyetini artırır. Modern işletmeler için CRM çözümleri müşteri odaklı büyüme stratejilerinin temelini oluşturur.</p>
+<p>CRM systems strengthen customer relationships, make sales processes more efficient, and increase customer satisfaction. For modern businesses, CRM solutions form the foundation of customer-centric growth strategies.</p>
 </div>
 </div>
 </div>

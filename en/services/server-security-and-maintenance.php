@@ -97,7 +97,7 @@ $a4     = "The maintenance process includes server analysis, applying updates, p
 <div class="card-header" id="heading__10">
 <h5 class="mb-0 font-weight--bold">
 <button class="btn-link" data-bs-toggle="collapse" data-bs-target="#tab__10" aria-expanded="true" aria-controls="tab__10">
-Server Security and Maintenance Nedir? <span>
+What is Server Security and Maintenance? <span>
 <i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
@@ -105,7 +105,7 @@ Server Security and Maintenance Nedir? <span>
 </div>
 <div id="tab__10" class="show" aria-labelledby="heading__10" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Server Security and Maintenance, sunucularınızın performansını ve güvenliğini artırmak için yapılan önlemler ve düzenli bakım süreçlerini kapsar. Firewall yönetimi, veri yedekleme ve güncellemeler bu hizmetin bir parçasıdır.</p>
+<p>Server Security and Maintenance encompasses measures and regular maintenance processes to improve the performance and security of your servers. Firewall management, data backup, and updates are all part of this service.</p>
 </div>
 </div>
 </div>
@@ -114,7 +114,7 @@ Server Security and Maintenance Nedir? <span>
 <div class="card-header" id="heading__11">
 <h5 class="mb-0">
 <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__11" aria-expanded="false" aria-controls="collapse__11">
-Avantajları Nelerdir?<span>
+What are the advantages?<span>
 <i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
@@ -122,7 +122,7 @@ Avantajları Nelerdir?<span>
 </div>
 <div id="collapse__11" class="collapse" aria-labelledby="heading__11" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Sunucu bakımı ve güvenlik, kesintisiz hizmet, veri güvenliği, yüksek performans ve altyapı kontrolünü sağlar. Olası riskler önceden tespit edilerek gerekli önlemler alınır.</p>
+<p>Server maintenance and security ensure uninterrupted service, data security, high performance, and infrastructure control. Potential risks are identified in advance, and necessary precautions are taken.</p>
 </div>
 </div>
 </div>
@@ -131,14 +131,14 @@ Avantajları Nelerdir?<span>
 <div class="card-header" id="heading__12">
 <h5 class="mb-0">
 <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__12" aria-expanded="false" aria-controls="collapse__12">
-Hangi Services Sunulur?<span><i class="fas fa-chevron-circle-down"></i>
+What services are offered?<span><i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
 </h5>
 </div>
 <div id="collapse__12" class="collapse" aria-labelledby="heading__12" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Server bakımı service; güvenlik kontrolleri, yazılım ve donanım güncellemeleri, performans optimizasyonu, veri yedekleme ve 7/24 teknik destek içerir.</p>
+<p>Server maintenance service includes security checks, software and hardware updates, performance optimization, data backup, and 24/7 technical support.</p>
 </div>
 </div>
 </div>
@@ -147,14 +147,14 @@ Hangi Services Sunulur?<span><i class="fas fa-chevron-circle-down"></i>
 <div class="card-header" id="heading__13">
 <h5 class="mb-0">
 <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__13" aria-expanded="false" aria-controls="collapse__13">
-Bakım Süreci Nasıl İşler? <span><i class="fas fa-chevron-circle-down"></i>
+How does the maintenance process work? <span><i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
 </h5>
 </div>
 <div id="collapse__13" class="collapse" aria-labelledby="heading__13" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Bakım süreci, sunucu analizi, güvenlik önlemleri, performans optimizasyonu, düzenli testler ve raporlama adımlarını içerir. Böylece sunucularınız güvenli ve yüksek performanslı çalışır.</p>
+<p>The maintenance process includes server analysis, security measures, performance optimization, regular testing, and reporting steps. This ensures your servers operate securely and with high performance.</p>
 </div>
 </div>
 </div>

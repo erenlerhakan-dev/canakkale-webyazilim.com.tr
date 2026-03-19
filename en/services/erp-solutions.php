@@ -97,7 +97,7 @@ $a4     = "The implementation process includes analysis and planning, software c
 <div class="card-header" id="heading__10">
 <h5 class="mb-0 font-weight--bold">
 <button class="btn-link" data-bs-toggle="collapse" data-bs-target="#tab__10" aria-expanded="true" aria-controls="tab__10">
-ERP Nedir? <span>
+What is ERP? <span>
 <i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
@@ -105,7 +105,7 @@ ERP Nedir? <span>
 </div>
 <div id="tab__10" class="show" aria-labelledby="heading__10" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>ERP, işletmenizin tüm iş süreçlerini merkezi bir yazılım platformunda entegre eden çözümdür. Finans, üretim, lojistik ve insan kaynakları süreçlerinin dijitalleşmesini sağlar.</p>
+<p>ERP is a solution that integrates all business processes of your company into a central software platform. It enables the digitalization of finance, production, logistics, and human resources processes.</p>
 </div>
 </div>
 </div>
@@ -114,7 +114,7 @@ ERP Nedir? <span>
 <div class="card-header" id="heading__11">
 <h5 class="mb-0">
 <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__11" aria-expanded="false" aria-controls="collapse__11">
-Avantajları Nelerdir?<span>
+What are the advantages?<span>
 <i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
@@ -122,7 +122,7 @@ Avantajları Nelerdir?<span>
 </div>
 <div id="collapse__11" class="collapse" aria-labelledby="heading__11" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>ERP Solutions ile iş süreçleriniz daha hızlı, şeffaf ve verimli hale gelir. Veri bütünlüğü sağlanır, maliyetler optimize edilir ve karar alma süreçleri iyileştirilir.</p>
+<p>ERP Solutions make your business processes faster, more transparent, and more efficient. Data integrity is ensured, costs are optimized, and decision-making processes are improved.</p>
 </div>
 </div>
 </div>
@@ -131,14 +131,14 @@ Avantajları Nelerdir?<span>
 <div class="card-header" id="heading__12">
 <h5 class="mb-0">
 <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__12" aria-expanded="false" aria-controls="collapse__12">
-Hangi Süreçleri Kapsar?<span><i class="fas fa-chevron-circle-down"></i>
+What processes does it cover?<span><i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
 </h5>
 </div>
 <div id="collapse__12" class="collapse" aria-labelledby="heading__12" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>ERP Solutions; finans yönetimi, üretim yönetimi, lojistik, insan kaynakları, satış ve pazarlama süreçlerini kapsar ve tüm süreçlerin merkezi olarak yönetilmesini sağlar.</p>
+<p>ERP Solutions encompass financial management, production management, logistics, human resources, sales and marketing processes, and enable the centralized management of all these processes.</p>
 </div>
 </div>
 </div>
@@ -147,14 +147,14 @@ Hangi Süreçleri Kapsar?<span><i class="fas fa-chevron-circle-down"></i>
 <div class="card-header" id="heading__13">
 <h5 class="mb-0">
 <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__13" aria-expanded="false" aria-controls="collapse__13">
-Kurulum Süreci <span><i class="fas fa-chevron-circle-down"></i>
+Installation Process<span><i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
 </h5>
 </div>
 <div id="collapse__13" class="collapse" aria-labelledby="heading__13" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>ERP kurulumu; analiz ve planlama, yazılım yapılandırma, veri entegrasyonu, kullanıcı eğitimi, test ve yayına alma adımlarını içerir. Böylece işletmenize uygun merkezi yönetim sistemi sağlanır.</p>
+<p>ERP implementation includes analysis and planning, software configuration, data integration, user training, testing, and deployment steps. This provides a centralized management system suitable for your business.</p>
 </div>
 </div>
 </div>

@@ -97,7 +97,7 @@ $a4     = "An online booking system allows customers to make reservations 24/7 a
 <div class="card-header" id="heading__10">
 <h5 class="mb-0 font-weight--bold">
 <button class="btn-link" data-bs-toggle="collapse" data-bs-target="#tab__10" aria-expanded="true" aria-controls="tab__10">
-Rezervasyon Sistemi Nedir? <span>
+What is a Reservation System? <span>
 <i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
@@ -105,7 +105,7 @@ Rezervasyon Sistemi Nedir? <span>
 </div>
 <div id="tab__10" class="show" aria-labelledby="heading__10" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Rezervasyon sistemi, müşterilerin internet üzerinden hizmet veya ürün için rezervasyon yapmasını sağlayan bir yazılım altyapısıdır. Bu sistemler özellikle turizm, otel, restoran, araç kiralama ve etkinlik sektörlerinde yaygın olarak kullanılmaktadır.</p>
+<p>A reservation system is a software infrastructure that allows customers to make reservations for services or products online. These systems are widely used, especially in the tourism, hotel, restaurant, car rental, and events sectors.</p>
 </div>
 </div>
 </div>
@@ -114,7 +114,7 @@ Rezervasyon Sistemi Nedir? <span>
 <div class="card-header" id="heading__11">
 <h5 class="mb-0">
 <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__11" aria-expanded="false" aria-controls="collapse__11">
-Online Rezervasyon Yazılımı<span>
+Online Reservation Software<span>
 <i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
@@ -122,7 +122,7 @@ Online Rezervasyon Yazılımı<span>
 </div>
 <div id="collapse__11" class="collapse" aria-labelledby="heading__11" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Online rezervasyon yazılımları sayesinde müşteriler web sitesi veya mobil cihazlar üzerinden kolayca rezervasyon yapabilir. Bu sistemler otomatik takvim yönetimi, müşteri bildirimleri ve ödeme entegrasyonu gibi özellikler sunar.</p>
+<p>Online booking software allows customers to easily make reservations via websites or mobile devices. These systems offer features such as automatic calendar management, customer notifications, and payment integration.</p>
 </div>
 </div>
 </div>
@@ -131,14 +131,14 @@ Online Rezervasyon Yazılımı<span>
 <div class="card-header" id="heading__12">
 <h5 class="mb-0">
 <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__12" aria-expanded="false" aria-controls="collapse__12">
-Reservation Systemsnin Avantajları<span><i class="fas fa-chevron-circle-down"></i>
+Advantages of Reservation Systems<span><i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
 </h5>
 </div>
 <div id="collapse__12" class="collapse" aria-labelledby="heading__12" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Reservation Systems işletmelerin booking süreçlerini otomatikleştirir ve müşteri deneyimini geliştirir. Online rezervasyon sayesinde müşteriler 7/24 Servicese erişebilir ve işletmeler rezervasyonlarını daha kolay yönetebilir.</p>
+<p>Reservation Systems automate booking processes for businesses and improve customer experience. Online booking allows customers 24/7 access to the Services, and businesses can manage their reservations more easily.</p>
 </div>
 </div>
 </div>
@@ -147,14 +147,14 @@ Reservation Systemsnin Avantajları<span><i class="fas fa-chevron-circle-down"><
 <div class="card-header" id="heading__13">
 <h5 class="mb-0">
 <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__13" aria-expanded="false" aria-controls="collapse__13">
-Rezervasyon Yazılımı Hangi Sektörlerde Kullanılır? <span><i class="fas fa-chevron-circle-down"></i>
+In which sectors is reservation software used? <span><i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
 </h5>
 </div>
 <div id="collapse__13" class="collapse" aria-labelledby="heading__13" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Rezervasyon yazılımları oteller, turizm şirketleri, restoranlar, sağlık service, araç kiralama firmaları ve etkinlik organizasyonları gibi birçok sektörde kullanılmaktadır. Bu sistemler rezervasyon yönetimini kolaylaştırarak işletmelerin daha verimli çalışmasını sağlar.</p>
+<p>Reservation software is used in many sectors such as hotels, tourism companies, restaurants, healthcare services, car rental companies, and event organizers. These systems simplify reservation management, enabling businesses to operate more efficiently.</p>
 </div>
 </div>
 </div>

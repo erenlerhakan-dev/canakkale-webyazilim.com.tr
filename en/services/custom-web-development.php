@@ -97,7 +97,7 @@ $a4     = "The process includes needs analysis and planning, design and prototyp
 <div class="card-header" id="heading__10">
 <h5 class="mb-0 font-weight--bold">
 <button class="btn-link" data-bs-toggle="collapse" data-bs-target="#tab__10" aria-expanded="true" aria-controls="tab__10">
-Custom Web Development Nedir? <span>
+What is Custom Web Development? <span>
 <i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
@@ -105,7 +105,7 @@ Custom Web Development Nedir? <span>
 </div>
 <div id="tab__10" class="show" aria-labelledby="heading__10" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Custom Web Development, işletmenizin ihtiyaçlarına ve projelerinize özel, tamamen özelleştirilebilir web siteleri ve uygulamalar geliştirme sürecidir. Performans, güvenlik ve SEO odaklıdır.</p>
+<p>Custom Web Development is the process of developing fully customizable websites and applications tailored to your business needs and projects. It focuses on performance, security, and SEO.</p>
 </div>
 </div>
 </div>
@@ -114,7 +114,7 @@ Custom Web Development Nedir? <span>
 <div class="card-header" id="heading__11">
 <h5 class="mb-0">
 <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__11" aria-expanded="false" aria-controls="collapse__11">
-Avantajları Nelerdir?<span>
+What are the advantages?<span>
 <i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
@@ -122,7 +122,7 @@ Avantajları Nelerdir?<span>
 </div>
 <div id="collapse__11" class="collapse" aria-labelledby="heading__11" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Custom Web Development, tamamen kişiye veya kuruma özel tasarım ve işlevsellik sunar. Mobil uyumluluk, SEO optimizasyonu, yüksek hız ve güvenlik avantajları sağlar.</p>
+<p>Custom Web Development offers completely customized design and functionality for individuals or organizations. It provides advantages such as mobile compatibility, SEO optimization, high speed, and security.</p>
 </div>
 </div>
 </div>
@@ -131,14 +131,14 @@ Avantajları Nelerdir?<span>
 <div class="card-header" id="heading__12">
 <h5 class="mb-0">
 <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__12" aria-expanded="false" aria-controls="collapse__12">
-Hangi Sektörler Kullanabilir?<span><i class="fas fa-chevron-circle-down"></i>
+Which sectors can use it?<span><i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
 </h5>
 </div>
 <div id="collapse__12" class="collapse" aria-labelledby="heading__12" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>E-ticaret, kurumsal şirketler, turizm, sağlık, eğitim ve hizmet sektörleri başta olmak üzere tüm işletmeler Custom Web Development servicenden faydalanabilir.</p>
+<p>All businesses, especially those in e-commerce, corporate, tourism, healthcare, education, and service sectors, can benefit from our Custom Web Development service.</p>
 </div>
 </div>
 </div>
@@ -147,14 +147,14 @@ Hangi Sektörler Kullanabilir?<span><i class="fas fa-chevron-circle-down"></i>
 <div class="card-header" id="heading__13">
 <h5 class="mb-0">
 <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__13" aria-expanded="false" aria-controls="collapse__13">
-Geliştirme Süreci <span><i class="fas fa-chevron-circle-down"></i>
+Development Process<span><i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
 </h5>
 </div>
 <div id="collapse__13" class="collapse" aria-labelledby="heading__13" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Custom Web Development süreci; ihtiyaç analizi, tasarım ve prototip, geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarından oluşur. Böylece işletmenize en uygun web çözümü sağlanır.</p>
+<p>The Custom Web Development process consists of the following steps: needs analysis, design and prototyping, development, testing and quality control, deployment, and technical support. This ensures that the most suitable web solution for your business is provided.</p>
 </div>
 </div>
 </div>

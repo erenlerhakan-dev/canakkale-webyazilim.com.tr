@@ -97,7 +97,7 @@ $a4     = "Yes, fast-running web applications and websites are better evaluated 
 <div class="card-header" id="heading__10">
 <h5 class="mb-0 font-weight--bold">
 <button class="btn-link" data-bs-toggle="collapse" data-bs-target="#tab__10" aria-expanded="true" aria-controls="tab__10">
-Software Performance Optimization Nedir? <span>
+What is Software Performance Optimization? <span>
 <i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
@@ -105,7 +105,7 @@ Software Performance Optimization Nedir? <span>
 </div>
 <div id="tab__10" class="show" aria-labelledby="heading__10" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Software Performance Optimization, uygulamaların daha hızlı çalışmasını sağlamak için yapılan teknik iyileştirmeleri kapsar. Kod optimizasyonu, sistem mimarisi iyileştirmeleri ve veritabanı performans artırma çalışmaları bu sürecin önemli parçalarıdır.</p>
+<p>Software Performance Optimization encompasses technical improvements made to enable applications to run faster. Code optimization, system architecture improvements, and database performance enhancements are important parts of this process.</p>
 </div>
 </div>
 </div>
@@ -114,7 +114,7 @@ Software Performance Optimization Nedir? <span>
 <div class="card-header" id="heading__11">
 <h5 class="mb-0">
 <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__11" aria-expanded="false" aria-controls="collapse__11">
-Kod Optimizasyonu<span>
+Code Optimization<span>
 <i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
@@ -122,7 +122,7 @@ Kod Optimizasyonu<span>
 </div>
 <div id="collapse__11" class="collapse" aria-labelledby="heading__11" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Kod optimizasyonu, yazılımın daha az kaynak kullanarak daha hızlı çalışmasını sağlamak için yapılan geliştirmeleri ifade eder. Temiz kod yapısı, doğru algoritma seçimi ve gereksiz işlemlerin kaldırılması performansı önemli ölçüde artırır.</p>
+<p>Code optimization refers to improvements made to enable software to run faster using fewer resources. A clean code structure, the right algorithm selection, and the removal of unnecessary operations significantly improve performance.</p>
 </div>
 </div>
 </div>
@@ -131,14 +131,14 @@ Kod Optimizasyonu<span>
 <div class="card-header" id="heading__12">
 <h5 class="mb-0">
 <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__12" aria-expanded="false" aria-controls="collapse__12">
-Veritabanı Performans İyileştirme<span><i class="fas fa-chevron-circle-down"></i>
+Database Performance Improvement<span><i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
 </h5>
 </div>
 <div id="collapse__12" class="collapse" aria-labelledby="heading__12" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Veritabanı optimizasyonu, veri sorgularının daha hızlı çalışmasını sağlamak için yapılan teknik düzenlemeleri içerir. Doğru indeksleme, sorgu optimizasyonu ve veritabanı yapısının iyileştirilmesi uygulama performansını önemli ölçüde artırır.</p>
+<p>Database optimization involves technical adjustments made to ensure data queries run faster. Proper indexing, query optimization, and improved database structure significantly enhance application performance.</p>
 </div>
 </div>
 </div>
@@ -147,14 +147,14 @@ Veritabanı Performans İyileştirme<span><i class="fas fa-chevron-circle-down">
 <div class="card-header" id="heading__13">
 <h5 class="mb-0">
 <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__13" aria-expanded="false" aria-controls="collapse__13">
-Performans Optimizasyonunun Önemi <span><i class="fas fa-chevron-circle-down"></i>
+The Importance of Performance Optimization <span><i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
 </h5>
 </div>
 <div id="collapse__13" class="collapse" aria-labelledby="heading__13" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Performans optimizasyonu sayesinde yazılım sistemleri daha stabil çalışır ve kullanıcı deneyimi önemli ölçüde iyileşir. Hızlı çalışan uygulamalar kullanıcı memnuniyetini artırır ve web projelerinde SEO performansına da olumlu katkı sağlar.</p>
+<p>Thanks to performance optimization, software systems run more stably and the user experience improves significantly. Fast-running applications increase user satisfaction and also contribute positively to SEO performance in web projects.</p>
 </div>
 </div>
 </div>

@@ -97,7 +97,7 @@ $a4     = "Software consulting covers system architecture, API integrations, per
 <div class="card-header" id="heading__10">
 <h5 class="mb-0 font-weight--bold">
 <button class="btn-link" data-bs-toggle="collapse" data-bs-target="#tab__10" aria-expanded="true" aria-controls="tab__10">
-Technical Consulting Nedir? <span>
+What is Technical Consulting? <span>
 <i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
@@ -105,7 +105,7 @@ Technical Consulting Nedir? <span>
 </div>
 <div id="tab__10" class="show" aria-labelledby="heading__10" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Technical Consulting, işletmelerin bilişim altyapılarını doğru şekilde planlamaları ve yönetmeleri için sunulan profesyonel bir hizmettir. Bu hizmet kapsamında yazılım mimarisi, server altyapısı, hosting performansı ve sistem güvenliği gibi konular değerlendirilir.</p>
+<p>Technical Consulting is a professional service offered to help businesses properly plan and manage their IT infrastructure. This service includes evaluating aspects such as software architecture, server infrastructure, hosting performance, and system security.</p>
 </div>
 </div>
 </div>
@@ -114,7 +114,7 @@ Technical Consulting Nedir? <span>
 <div class="card-header" id="heading__11">
 <h5 class="mb-0">
 <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__11" aria-expanded="false" aria-controls="collapse__11">
-Yazılım Danışmanlığı<span>
+Software Consulting<span>
 <i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
@@ -122,7 +122,7 @@ Yazılım Danışmanlığı<span>
 </div>
 <div id="collapse__11" class="collapse" aria-labelledby="heading__11" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Yazılım danışmanlığı, projelerin doğru teknolojilerle geliştirilmesini sağlayan stratejik bir hizmettir. Sistem mimarisi planlama, API entegrasyonları, performans optimizasyonu ve yazılım güvenliği gibi konular bu danışmanlığın önemli parçalarıdır.</p>
+<p>Software consulting is a strategic service that ensures projects are developed with the right technologies. System architecture planning, API integrations, performance optimization, and software security are important components of this consulting.</p>
 </div>
 </div>
 </div>
@@ -131,14 +131,14 @@ Yazılım Danışmanlığı<span>
 <div class="card-header" id="heading__12">
 <h5 class="mb-0">
 <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__12" aria-expanded="false" aria-controls="collapse__12">
-Server ve Hosting Danışmanlığı<span><i class="fas fa-chevron-circle-down"></i>
+Server and Hosting Consulting<span><i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
 </h5>
 </div>
 <div id="collapse__12" class="collapse" aria-labelledby="heading__12" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Server ve hosting danışmanlığı, web siteleri ve uygulamaların yüksek performansla çalışması için gerekli altyapının oluşturulmasını sağlar. Doğru sunucu seçimi, güvenlik ayarları ve performans optimizasyonu bu hizmet kapsamında değerlendirilir.</p>
+<p>Server and hosting consulting ensures the creation of the necessary infrastructure for websites and applications to run with high performance. The right server selection, security settings, and performance optimization are all considered within this service.</p>
 </div>
 </div>
 </div>
@@ -147,14 +147,14 @@ Server ve Hosting Danışmanlığı<span><i class="fas fa-chevron-circle-down"><
 <div class="card-header" id="heading__13">
 <h5 class="mb-0">
 <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__13" aria-expanded="false" aria-controls="collapse__13">
-Bilişim Danışmanlığının Önemi <span><i class="fas fa-chevron-circle-down"></i>
+The Importance of IT Consulting <span><i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
 </h5>
 </div>
 <div id="collapse__13" class="collapse" aria-labelledby="heading__13" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Bilişim danışmanlığı, işletmelerin teknolojiyi daha verimli kullanmalarını sağlar. Doğru altyapı planlaması sayesinde sistem performansı artar, güvenlik riskleri azaltılır ve dijital dönüşüm süreçleri hızlanır.</p>
+<p>IT consulting enables businesses to use technology more efficiently. Through proper infrastructure planning, system performance improves, security risks are reduced, and digital transformation processes accelerate.</p>
 </div>
 </div>
 </div>
