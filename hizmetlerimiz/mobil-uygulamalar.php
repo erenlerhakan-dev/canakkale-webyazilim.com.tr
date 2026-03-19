@@ -1,33 +1,29 @@
+<?php
+$name   = "Mobil Uygulama Geliştirme";
+$title  = "Mobil Uygulama Geliştirme Çözümleri | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile mobil uygulamalar geliştirin. iOS ve Android için kullanıcı dostu, güvenli ve yüksek performanslı çözümler oluşturun.";
+$desc2  = "Native veya cross-platform mobil uygulama geliştirme seçenekleri ile projelerinizi hızlı ve verimli bir şekilde hayata geçirin.";
+$ogdesc = "Mobil uygulama geliştirme ile işletmenizi dijital dünyada güçlendirin. Çözüm Cloud Çanakkale ile modern ve ölçeklenebilir çözümler oluşturun.";
+$twdesc = "Mobil uygulamalarınızı modern teknolojilerle geliştirin! Güvenli ve etkili çözümler için Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "Mobil Geliştirme, Web Yazılım";
+$lang   = "tr_TR";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-mobil-uygulamalar.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/mobil-uygulamalar";
+$keys   = "mobil uygulama geliştirme, iOS uygulama, Android uygulama, özel mobil uygulama, kurumsal mobil uygulama, mobil yazılım geliştirme";
+$alt    = "mobil uygulama geliştirme";
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
-<title>Mobil Uygulama Geliştirme | iOS & Android Özel Uygulamalar</title>
-<meta name="description" content="Mobil uygulama geliştirme hizmetleri ile iOS ve Android platformları için işletmenize özel uygulamalar oluşturun. Performanslı, güvenli ve kullanıcı dostu mobil çözümler.">
-<meta name="keywords" content="mobil uygulama geliştirme, iOS uygulama, Android uygulama, özel mobil uygulama, kurumsal mobil uygulama, mobil yazılım geliştirme">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
+<meta name="keywords" content="<?php echo $keys; ?>">
 
 <?php include_once('../head_meta.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "BlogPosting",
- "headline": "Mobil Uygulama Geliştirme",
- "description": "iOS ve Android platformlarına özel mobil uygulama geliştirme hizmetleri ile işletmenize özel çözümler sunuyoruz.",
- "author": {
-   "@type": "Organization",
-   "name": "IT Solutions"
- },
- "publisher": {
-   "@type": "Organization",
-   "name": "IT Solutions"
- },
- "mainEntityOfPage": {
-   "@type": "WebPage",
-   "@id": "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/mobil-uygulama-gelistirme"
- }
-}
-</script>
+<?php include('schema.php'); ?>
 
 <script type="application/ld+json">
 {

@@ -1,33 +1,29 @@
+<?php
+$name   = "Sunucu Güvenliği ve Bakımı";
+$title  = "Sunucu Güvenliği ve Bakımı Rehberi | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile sunucularınızın güvenliğini sağlayın ve düzenli bakım süreçlerini optimize edin. Kesintisiz ve güvenli sistemler kurun.";
+$desc2  = "Sunucu güvenliği, güncellemeler ve performans optimizasyonu ile sistemlerinizi koruyun. Olası saldırılara karşı önlemler alın ve güvenli altyapı sağlayın.";
+$ogdesc = "Sunucu güvenliği ve bakımı ile iş süreçlerinizi güvence altına alın. Çözüm Cloud Çanakkale ile güvenli ve yönetilebilir sunucu çözümleri geliştirin.";
+$twdesc = "Sunucularınızı güvenli ve sorunsuz çalışır hale getirin! Güvenlik ve bakım çözümleri için Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "Sunucu, Web Yazılım";
+$lang   = "tr_TR";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-sunucu-guvenligi-ve-bakimi.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/sunucu-guvenligi-ve-bakimi";
+$keys   = "sunucu güvenliği, server bakımı, server yönetimi, sunucu optimizasyonu, IT bakım hizmeti, sunucu güvenlik çözümleri";
+$alt    = "sunucu güvenliği ve bakımı";
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
-<title>Sunucu Güvenliği ve Bakımı | Server Yönetimi ve Destek</title>
-<meta name="description" content="Sunucu güvenliği ve bakım hizmetleri ile sunucularınızı koruyun. Server yönetimi, performans optimizasyonu ve 7/24 teknik destek ile güvenli altyapılar oluşturun.">
-<meta name="keywords" content="sunucu güvenliği, server bakımı, server yönetimi, sunucu optimizasyonu, IT bakım hizmeti, sunucu güvenlik çözümleri">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
+<meta name="keywords" content="<?php echo $keys; ?>">
 
 <?php include_once('../head_meta.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "BlogPosting",
- "headline": "Sunucu Güvenliği ve Bakımı",
- "description": "Server güvenliği ve bakım hizmetleri ile sunucularınızın performansını ve güvenliğini artırın. 7/24 destek ile kesintisiz altyapı sağlayın.",
- "author": {
-   "@type": "Organization",
-   "name": "IT Solutions"
- },
- "publisher": {
-   "@type": "Organization",
-   "name": "IT Solutions"
- },
- "mainEntityOfPage": {
-   "@type": "WebPage",
-   "@id": "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/server-guvenlik-bakim"
- }
-}
-</script>
+<?php include('schema.php'); ?>
 
 <script type="application/ld+json">
 {

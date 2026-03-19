@@ -1,33 +1,29 @@
+<?php
+$name   = "Özel Web Geliştirme";
+$title  = "Özel Web Geliştirme Çözümleri | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile işletmenize özel web geliştirme çözümleri oluşturun. İhtiyaçlarınıza uygun, güvenli ve ölçeklenebilir web siteleri tasarlayın.";
+$desc2  = "Kurumsal web siteleri, portallar ve özel web uygulamaları ile dijital varlığınızı güçlendirin. Modern teknolojilerle verimli ve kullanıcı dostu projeler geliştirin.";
+$ogdesc = "Özel web geliştirme ile işletmenize uygun çözümler tasarlayın. Çözüm Cloud Çanakkale ile modern ve etkili web projeleri oluşturun.";
+$twdesc = "Web sitenizi ve uygulamalarınızı işletmenize özel geliştirin! Çözüm Cloud Çanakkale ile güvenli ve ölçeklenebilir çözümler üretin.";
+$cat    = "Web Yazılım, Özel Yazılım";
+$lang   = "tr_TR";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-ozel-web-gelistirme.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/ozel-web-gelistirme";
+$keys   = "özel web geliştirme, web tasarım, web yazılım geliştirme, kurumsal web çözümleri, web sitesi geliştirme, web uygulaması geliştirme";
+$alt    = "özel web geliştirme";
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
-<title>Özel Web Geliştirme | Kurumsal ve Kişiye Özel Web Çözümleri</title>
-<meta name="description" content="Özel web geliştirme hizmetleri ile işletmenize veya projenize özel web çözümleri oluşturun. Modern, hızlı ve SEO uyumlu web siteleri geliştirme hizmetleri.">
-<meta name="keywords" content="özel web geliştirme, web tasarım, web yazılım geliştirme, kurumsal web çözümleri, web sitesi geliştirme, web uygulaması geliştirme">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
+<meta name="keywords" content="<?php echo $keys; ?>">
 
 <?php include_once('../head_meta.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "BlogPosting",
- "headline": "Özel Web Geliştirme Hizmetleri",
- "description": "İşletmelere ve projelere özel web geliştirme çözümleri ile modern, hızlı ve ölçeklenebilir web siteleri oluşturun.",
- "author": {
-   "@type": "Organization",
-   "name": "IT Solutions"
- },
- "publisher": {
-   "@type": "Organization",
-   "name": "IT Solutions"
- },
- "mainEntityOfPage": {
-   "@type": "WebPage",
-   "@id": "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/ozel-web-gelistirme"
- }
-}
-</script>
+<?php include('schema.php'); ?>
 
 <script type="application/ld+json">
 {

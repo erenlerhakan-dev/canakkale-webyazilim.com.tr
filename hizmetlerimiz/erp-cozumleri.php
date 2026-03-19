@@ -1,33 +1,29 @@
+<?php
+$name   = "ERP Çözümleri";
+$title  = "ERP Çözümleri ile İş Süreçlerini Optimize Edin | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile ERP çözümleri kullanarak işletmenizin iş süreçlerini entegre edin. Finans, üretim ve lojistik süreçlerini optimize edin.";
+$desc2  = "Kurumsal kaynak planlaması ile verimliliği artırın. ERP sistemleri ile süreçlerinizi merkezi ve etkili şekilde yönetin.";
+$ogdesc = "ERP çözümleri ile işletmenizin süreçlerini daha verimli hale getirin. Çözüm Cloud Çanakkale ile modern ve entegre sistemler geliştirin.";
+$twdesc = "ERP çözümleri ile iş süreçlerinizi optimize edin! Kurumsal verimlilik için Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "ERP, Web Yazılım";
+$lang   = "tr_TR";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-erp-cozumleri.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/erp-cozumleri";
+$keys   = "ERP çözümleri, kurumsal yazılım, iş süreçleri yönetimi, üretim yönetimi, finans yönetimi, ERP sistemi";
+$alt    = "erp çözümleri";
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
-<title>ERP Çözümleri | Kurumsal İş Süreçleri Yönetimi</title>
-<meta name="description" content="ERP çözümleri ile işletmenizin tüm iş süreçlerini tek bir sistemde yönetin. Finans, insan kaynakları, üretim ve lojistik süreçlerini optimize edin.">
-<meta name="keywords" content="ERP çözümleri, kurumsal yazılım, iş süreçleri yönetimi, üretim yönetimi, finans yönetimi, ERP sistemi">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
+<meta name="keywords" content="<?php echo $keys; ?>">
 
 <?php include_once('../head_meta.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "BlogPosting",
- "headline": "ERP Çözümleri ile İş Süreçlerinizi Yönetin",
- "description": "Kurumsal ERP çözümleri ile finans, üretim, insan kaynakları ve lojistik süreçlerinizi tek bir sistemde yönetin.",
- "author": {
-   "@type": "Organization",
-   "name": "IT Solutions"
- },
- "publisher": {
-   "@type": "Organization",
-   "name": "IT Solutions"
- },
- "mainEntityOfPage": {
-   "@type": "WebPage",
-   "@id": "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/erp-cozumleri"
- }
-}
-</script>
+<?php include('schema.php'); ?>
 
 <script type="application/ld+json">
 {

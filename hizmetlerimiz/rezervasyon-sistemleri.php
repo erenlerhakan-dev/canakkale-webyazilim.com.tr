@@ -1,33 +1,29 @@
+<?php
+$name   = "Rezervasyon Sistemleri";
+$title  = "Rezervasyon Sistemleri ile İşletmenizi Güçlendirin | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile işletmeniz için özelleştirilmiş rezervasyon sistemleri geliştirin. Rezervasyon süreçlerini hızlandırın ve yönetimi kolaylaştırın.";
+$desc2  = "Online rezervasyon, ödeme ve yönetim süreçlerini tek platformda yönetin. Müşteri deneyimini artıran modern ve güvenli rezervasyon çözümleri oluşturun.";
+$ogdesc = "Rezervasyon sistemleri ile işletmenizin süreçlerini optimize edin. Çözüm Cloud Çanakkale ile hızlı ve güvenilir rezervasyon çözümleri geliştirin.";
+$twdesc = "Rezervasyon süreçlerinizi modernize edin! Güvenli ve kullanıcı dostu rezervasyon sistemleri için Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "Web Yazılım, Rezervasyon";
+$lang   = "tr_TR";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-rezervasyon-sistemleri.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/rezervasyon-sistemleri";
+$keys   = "rezervasyon sistemi, online rezervasyon yazılımı, booking sistemi, randevu sistemi, tur rezervasyon sistemi, otel rezervasyon yazılımı";
+$alt    = "rezervasyon sistemleri";
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
-<title>Rezervasyon Sistemleri | Online Rezervasyon Yazılımı ve Booking Çözümleri</title>
-<meta name="description" content="Rezervasyon sistemleri ile otel, tur, restoran ve hizmet sektörleri için online booking çözümleri geliştirin. Modern ve kullanıcı dostu rezervasyon yazılımı.">
-<meta name="keywords" content="rezervasyon sistemi, online rezervasyon yazılımı, booking sistemi, randevu sistemi, tur rezervasyon sistemi, otel rezervasyon yazılımı">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
+<meta name="keywords" content="<?php echo $keys; ?>">
 
 <?php include_once('../head_meta.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "BlogPosting",
- "headline": "Rezervasyon Sistemleri ve Online Booking Yazılımları",
- "description": "Rezervasyon sistemleri sayesinde işletmeler müşterilerinin online rezervasyon yapmasını sağlayabilir ve booking süreçlerini kolayca yönetebilir.",
- "author": {
- "@type": "Organization",
- "name": "Software Development Solutions"
- },
- "publisher": {
- "@type": "Organization",
- "name": "Software Development Solutions"
- },
- "mainEntityOfPage": {
- "@type": "WebPage",
- "@id": "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/rezervasyon-sistemleri"
- }
-}
-</script>
+<?php include('schema.php'); ?>
 
 <script type="application/ld+json">
 {

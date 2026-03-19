@@ -1,33 +1,29 @@
+<?php
+$name   = "E-Ticaret Çözümleri";
+$title  = "E-Ticaret Çözümleri ile İşinizi Dijitalde Büyütün | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile işletmenize özel e-ticaret çözümleri geliştirin. Online satış süreçlerini optimize edin ve verimli platformlar oluşturun.";
+$desc2  = "E-ticaret sitenizi güvenli, hızlı ve kullanıcı dostu hale getirin. Ödeme sistemleri, ürün yönetimi ve müşteri deneyimi odaklı çözümler sunun.";
+$ogdesc = "E-ticaret çözümleri ile işletmenizi dijitalde güçlendirin. Çözüm Cloud Çanakkale ile modern ve etkili online satış platformları oluşturun.";
+$twdesc = "E-ticaret sitenizi optimize edin! Güvenli ve kullanıcı dostu çözümler için Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "E-Ticaret, Web Yazılım";
+$lang   = "tr_TR";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-e-ticaret-cozumleri.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/e-ticaret-cozumleri";
+$keys   = "e-ticaret çözümleri, online mağaza, e-ticaret platformu, dijital mağaza yönetimi, e-ticaret sitesi, satış optimizasyonu";
+$alt    = "e-ticaret çözümleri";
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
-<title>E-Ticaret Çözümleri | Online Satış ve Dijital Mağaza Yönetimi</title>
-<meta name="description" content="E-ticaret çözümleri ile online mağazanızı kurun, satış süreçlerinizi yönetin ve dijital mağazanızı optimize edin. SEO uyumlu ve performanslı e-ticaret platformları.">
-<meta name="keywords" content="e-ticaret çözümleri, online mağaza, e-ticaret platformu, dijital mağaza yönetimi, e-ticaret sitesi, satış optimizasyonu">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
+<meta name="keywords" content="<?php echo $keys; ?>">
 
 <?php include_once('../head_meta.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "BlogPosting",
- "headline": "E-Ticaret Çözümleri ile Online Satışınızı Büyütün",
- "description": "Online satışlarınızı artırmak ve dijital mağazanızı optimize etmek için e-ticaret çözümleri sunuyoruz.",
- "author": {
-   "@type": "Organization",
-   "name": "IT Solutions"
- },
- "publisher": {
-   "@type": "Organization",
-   "name": "IT Solutions"
- },
- "mainEntityOfPage": {
-   "@type": "WebPage",
-   "@id": "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/e-ticaret-cozumleri"
- }
-}
-</script>
+<?php include('schema.php'); ?>
 
 <script type="application/ld+json">
 {

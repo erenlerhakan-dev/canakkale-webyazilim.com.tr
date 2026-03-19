@@ -1,33 +1,29 @@
+<?php
+$name   = "Yazılım Performans Optimizasyonu";
+$title  = "Yazılım Performans Optimizasyonu Teknikleri | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile yazılım projelerinizin performansını artırın. Kod, veritabanı ve altyapı optimizasyonları ile hızlı ve verimli uygulamalar geliştirin.";
+$desc2  = "Yavaş çalışan uygulamalara veda edin. Performans izleme, kod iyileştirme ve ölçeklenebilir mimari çözümleri ile yazılım süreçlerinizi optimize edin.";
+$ogdesc = "Yazılım performansını artıran teknikleri keşfedin. Çözüm Cloud Çanakkale ile hızlı, güvenli ve verimli uygulamalar oluşturun.";
+$twdesc = "Yazılım performansınızı yükseltin! Optimizasyon teknikleri ile uygulamalarınızı hızlandırın. Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "Yazılım, Web Yazılım";
+$lang   = "tr_TR";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-yazilim-performans-optimizasyonu.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/yazilim-performans-optimizasyonu";
+$keys   = "yazılım performans optimizasyonu, uygulama performansı, kod optimizasyonu, veritabanı optimizasyonu, yazılım hızlandırma";
+$alt    = "yazılım performans optimizasyonu";
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
-<title>Yazılım Performans Optimizasyonu | Hızlı ve Ölçeklenebilir Yazılım Çözümleri</title>
-<meta name="description" content="Yazılım performans optimizasyonu ile uygulamalarınızı hızlandırın. Kod optimizasyonu, veritabanı iyileştirme ve sistem performans artırma çözümleri.">
-<meta name="keywords" content="yazılım performans optimizasyonu, uygulama performansı, kod optimizasyonu, veritabanı optimizasyonu, yazılım hızlandırma">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
+<meta name="keywords" content="<?php echo $keys; ?>">
 
 <?php include_once('../head_meta.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "BlogPosting",
- "headline": "Yazılım Performans Optimizasyonu",
- "description": "Yazılım performans optimizasyonu sayesinde uygulamaların daha hızlı, güvenli ve ölçeklenebilir hale getirilmesi hakkında bilgiler.",
- "author": {
- "@type": "Organization",
- "name": "Software Development Solutions"
- },
- "publisher": {
- "@type": "Organization",
- "name": "Software Development Solutions"
- },
- "mainEntityOfPage": {
- "@type": "WebPage",
- "@id": "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/yazilim-performans-optimizasyonu"
- }
-}
-</script>
+<?php include('schema.php'); ?>
 
 <script type="application/ld+json">
 {

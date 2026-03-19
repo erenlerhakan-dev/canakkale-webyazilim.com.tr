@@ -1,33 +1,29 @@
+<?php
+$name   = "B2B ve B2C Çözümleri";
+$title  = "B2B ve B2C Web Çözümleri | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile B2B ve B2C işletmeler için etkili web çözümleri geliştirin. Satış süreçlerini optimize eden modern platformlar oluşturun.";
+$desc2  = "B2B ve B2C projelerde kullanıcı deneyimini, ödeme sistemlerini ve veri entegrasyonunu optimize edin. İşletmenize özel çözümler tasarlayın.";
+$ogdesc = "B2B ve B2C çözümleri ile işletmenizi dijitalde güçlendirin. Çözüm Cloud Çanakkale ile modern ve verimli web uygulamaları geliştirin.";
+$twdesc = "B2B ve B2C projelerinizi güçlendirin! İşletmenize özel web çözümleri için Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "B2B, B2C";
+$lang   = "tr_TR";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-b2b-ve-b2c-cozumleri.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/b2b-ve-b2c-cozumleri";
+$keys   = "B2B çözümleri, B2C çözümleri, dijital ticaret platformu, e-ticaret yazılımı, B2B e-ticaret sistemi, B2C satış platformu";
+$alt    = "b2b ve b2c çözümleri";
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
-<title>B2B ve B2C Çözümleri | Dijital İş Platformları ve Entegrasyon Hizmetleri</title>
-<meta name="description" content="B2B ve B2C çözümleri ile işletmenizi dijital dünyada büyütün. Kurumsal yazılım, e-ticaret ve entegrasyon sistemleri ile iş süreçlerinizi optimize edin.">
-<meta name="keywords" content="B2B çözümleri, B2C çözümleri, dijital ticaret platformu, e-ticaret yazılımı, B2B e-ticaret sistemi, B2C satış platformu">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
+<meta name="keywords" content="<?php echo $keys; ?>">
 
 <?php include_once('../head_meta.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "BlogPosting",
- "headline": "B2B ve B2C Çözümleri ile Dijital Ticaret",
- "description": "B2B ve B2C çözümleri sayesinde işletmelerin dijital satış süreçlerini geliştirmesi ve müşteri deneyimini artırması hakkında bilgiler.",
- "author": {
- "@type": "Organization",
- "name": "Digital Commerce Solutions"
- },
- "publisher": {
- "@type": "Organization",
- "name": "Digital Commerce Solutions"
- },
- "mainEntityOfPage": {
- "@type": "WebPage",
- "@id": "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/b2b-b2c-cozumleri"
- }
-}
-</script>
+<?php include('schema.php'); ?>
 
 <script type="application/ld+json">
 {

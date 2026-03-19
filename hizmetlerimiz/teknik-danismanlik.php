@@ -1,33 +1,29 @@
+<?php
+$name   = "Teknik Danışmanlık Hizmetleri";
+$title  = "Teknik Danışmanlık Hizmetleri | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile server, hosting, yazılım ve web sitesi konularında profesyonel teknik danışmanlık alın. İşletmenize özel çözümler geliştirin.";
+$desc2  = "Altyapı, yazılım ve web projelerinizde doğru stratejileri belirleyin. Performans, güvenlik ve verimliliği artıran teknik danışmanlık hizmetleri sunuyoruz.";
+$ogdesc = "Server, hosting, yazılım ve web sitesi konularında teknik danışmanlık ile projelerinizi güçlendirin. Çözüm Cloud Çanakkale ile etkili çözümler oluşturun.";
+$twdesc = "Teknik danışmanlık ile projelerinizi optimize edin! Çözüm Cloud Çanakkale yanınızda, server ve web çözümleriniz için profesyonel destek sağlar.";
+$cat    = "Teknik Danışmanlık, Web Yazılım";
+$lang   = "tr_TR";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-teknik-danismanlik.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/teknik-danismanlik";
+$keys   = "teknik danışmanlık, bilişim danışmanlığı, yazılım danışmanlığı, server yönetimi, hosting danışmanlığı, IT danışmanlık hizmetleri";
+$alt    = "teknik danışmanlık hizmetleri";
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
-<title>Teknik Danışmanlık Hizmetleri | Yazılım, Server ve Hosting Çözümleri</title>
-<meta name="description" content="Yazılım, server, hosting ve bilişim alanlarında profesyonel teknik danışmanlık hizmetleri. İşletmeniz için güvenli ve ölçeklenebilir IT çözümleri.">
-<meta name="keywords" content="teknik danışmanlık, bilişim danışmanlığı, yazılım danışmanlığı, server yönetimi, hosting danışmanlığı, IT danışmanlık hizmetleri">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
+<meta name="keywords" content="<?php echo $keys; ?>">
 
 <?php include_once('../head_meta.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "BlogPosting",
- "headline": "Teknik Danışmanlık Hizmetleri",
- "description": "Yazılım, server yönetimi, hosting altyapısı ve bilişim çözümleri için profesyonel teknik danışmanlık hizmetleri hakkında bilgiler.",
- "author": {
- "@type": "Organization",
- "name": "IT Consulting Services"
- },
- "publisher": {
- "@type": "Organization",
- "name": "IT Consulting Services"
- },
- "mainEntityOfPage": {
- "@type": "WebPage",
- "@id": "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/teknik-danismanlik"
- }
-}
-</script>
+<?php include('schema.php'); ?>
 
 <script type="application/ld+json">
 {

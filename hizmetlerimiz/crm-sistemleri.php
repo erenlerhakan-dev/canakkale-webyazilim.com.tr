@@ -1,33 +1,29 @@
+<?php
+$name   = "CRM Sistemleri";
+$title  = "CRM Sistemleri ile Müşteri Yönetimi | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile CRM sistemlerini kullanarak müşteri ilişkilerinizi güçlendirin. Satış, pazarlama ve destek süreçlerini optimize edin.";
+$desc2  = "Kurumsal CRM çözümleri ile müşteri verilerini etkin yönetin. İş süreçlerini otomatikleştirerek verimliliği artırın ve müşteri memnuniyetini yükseltin.";
+$ogdesc = "CRM sistemleri ile işletmenizin müşteri yönetimini geliştirin. Çözüm Cloud Çanakkale ile verimli ve entegre çözümler oluşturun.";
+$twdesc = "CRM sistemleri ile müşteri ilişkilerinizi güçlendirin! Verimli ve etkili çözümler için Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "CRM, Web Yazılım";
+$lang   = "tr_TR";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-crm-sistemleri.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/crm-sistemleri";
+$keys   = "CRM sistemleri, müşteri ilişkileri yönetimi, CRM yazılımı, satış yönetimi sistemi, müşteri yönetim yazılımı";
+$alt    = "crm sistemleri";
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
-<title>CRM Sistemleri | Müşteri İlişkileri Yönetimi Yazılım Çözümleri</title>
-<meta name="description" content="CRM sistemleri ile müşteri ilişkilerinizi yönetin, satış süreçlerinizi optimize edin ve işletmenizin verimliliğini artırın. Modern CRM yazılım çözümleri hakkında bilgi alın.">
-<meta name="keywords" content="CRM sistemleri, müşteri ilişkileri yönetimi, CRM yazılımı, satış yönetimi sistemi, müşteri yönetim yazılımı">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
+<meta name="keywords" content="<?php echo $keys; ?>">
 
 <?php include_once('../head_meta.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "BlogPosting",
- "headline": "CRM Sistemleri ile Müşteri İlişkileri Yönetimi",
- "description": "CRM sistemleri sayesinde işletmeler müşteri verilerini yönetebilir, satış süreçlerini optimize edebilir ve müşteri memnuniyetini artırabilir.",
- "author": {
- "@type": "Organization",
- "name": "Business Software Solutions"
- },
- "publisher": {
- "@type": "Organization",
- "name": "Business Software Solutions"
- },
- "mainEntityOfPage": {
- "@type": "WebPage",
- "@id": "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/crm-sistemleri"
- }
-}
-</script>
+<?php include('schema.php'); ?>
 
 <script type="application/ld+json">
 {

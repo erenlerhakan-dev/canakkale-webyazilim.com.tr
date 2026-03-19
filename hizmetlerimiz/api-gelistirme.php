@@ -1,33 +1,29 @@
+<?php
+$name   = "API Geliştirme";
+$title  = "Modern API Geliştirme Rehberi | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile API geliştirme süreçlerini öğrenin. Güvenli, ölçeklenebilir ve verimli API çözümleri oluşturun.";
+$desc2  = "REST, GraphQL ve diğer modern API teknolojileri ile uygulamalarınızı güçlendirin. En iyi geliştirme pratikleri ile projelerinizi optimize edin.";
+$ogdesc = "API geliştirme ile uygulamalarınızı modern ve esnek hale getirin. Çözüm Cloud Çanakkale ile güvenli ve verimli API çözümleri geliştirin.";
+$twdesc = "API’nizi modern teknolojilerle geliştirin! Güvenli ve ölçeklenebilir çözümler için Çözüm Cloud Çanakkale yanınızda.";
+$cat    = "API, Web Yazılım";
+$lang   = "tr_TR";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-api-gelistirme.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/api-gelistirme";
+$keys   = "API geliştirme, REST API geliştirme, web API geliştirme, yazılım entegrasyonu, API servisleri, backend API geliştirme";
+$alt    = "api geliştirme";
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
-<title>API Geliştirme Hizmetleri | Modern ve Güvenli API Çözümleri</title>
-<meta name="description" content="API geliştirme hizmetleri ile uygulamalarınızı entegre edin. Güvenli, hızlı ve ölçeklenebilir API çözümleri ile yazılım sistemlerinizi modern teknolojilerle güçlendirin.">
-<meta name="keywords" content="API geliştirme, REST API geliştirme, web API geliştirme, yazılım entegrasyonu, API servisleri, backend API geliştirme">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
+<meta name="keywords" content="<?php echo $keys; ?>">
 
 <?php include_once('../head_meta.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "BlogPosting",
- "headline": "API Geliştirme Hizmetleri ve Yazılım Entegrasyonu",
- "description": "API geliştirme hizmetleri ile farklı yazılım sistemlerini entegre ederek modern, güvenli ve ölçeklenebilir çözümler oluşturma hakkında bilgiler.",
- "author": {
- "@type": "Organization",
- "name": "Software Development Services"
- },
- "publisher": {
- "@type": "Organization",
- "name": "Software Development Services"
- },
- "mainEntityOfPage": {
- "@type": "WebPage",
- "@id": "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/api-gelistirme"
- }
-}
-</script>
+<?php include('schema.php'); ?>
 
 <script type="application/ld+json">
 {

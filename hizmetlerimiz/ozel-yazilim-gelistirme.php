@@ -1,33 +1,29 @@
+<?php
+$name   = "Özel Yazılım Geliştirme";
+$title  = "Özel Yazılım Geliştirme Çözümleri | Çözüm Cloud Çanakkale";
+$desc1  = "Çözüm Cloud Çanakkale ile işletmenize özel yazılım çözümleri geliştirin. İş süreçlerinize uygun, güvenli ve ölçeklenebilir uygulamalar oluşturun.";
+$desc2  = "Kurumsal ve sektörel yazılım ihtiyaçlarınızı karşılayan özel çözümler sunun. Modern teknolojilerle verimli ve kullanıcı dostu yazılımlar geliştirin.";
+$ogdesc = "Özel yazılım geliştirme ile işletmenize uygun çözümler üretin. Çözüm Cloud Çanakkale ile modern ve etkili yazılım projeleri oluşturun.";
+$twdesc = "İşletmenize özel yazılım çözümleri geliştirin! Çözüm Cloud Çanakkale ile güvenli, ölçeklenebilir ve verimli projeler oluşturun.";
+$cat    = "Özel Yazılım, Web Yazılım";
+$lang   = "tr_TR";
+$img    = "https://www.canakkale-webyazilim.com.tr/images/services/canakkale-ozel-yazilim-gelistirme.webp";
+$url    = "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/ozel-yazilim-gelistirme";
+$keys   = "özel yazılım geliştirme, kurumsal yazılım çözümleri, işletmeye özel yazılım, yazılım geliştirme hizmeti, web tabanlı yazılım, yazılım danışmanlığı";
+$alt    = "özel yazılım geliştirme";
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
-<title>Özel Yazılım Geliştirme | İşletmelere Özel Yazılım Çözümleri</title>
-<meta name="description" content="Özel yazılım geliştirme hizmetleri ile işletmenize özel, ölçeklenebilir ve güvenli yazılım çözümleri oluşturun. Web, mobil ve kurumsal yazılım geliştirme hakkında detaylı bilgi alın.">
-<meta name="keywords" content="özel yazılım geliştirme, kurumsal yazılım çözümleri, işletmeye özel yazılım, yazılım geliştirme hizmeti, web tabanlı yazılım, yazılım danışmanlığı">
+<title><?php echo $title; ?></title>
+<meta name="description" content="<?php echo $desc1; ?>">
+<meta name="keywords" content="<?php echo $keys; ?>">
 
 <?php include_once('../head_meta.php'); ?>
 
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "BlogPosting",
- "headline": "Özel Yazılım Geliştirme",
- "description": "Özel yazılım geliştirme ile işletmelere özel web, mobil ve kurumsal yazılım çözümleri oluşturabilirsiniz.",
- "author": {
-   "@type": "Organization",
-   "name": "IT Solutions"
- },
- "publisher": {
-   "@type": "Organization",
-   "name": "IT Solutions"
- },
- "mainEntityOfPage": {
-   "@type": "WebPage",
-   "@id": "https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/ozel-yazilim-gelistirme"
- }
-}
-</script>
+<?php include('schema.php'); ?>
 
 <script type="application/ld+json">
 {
