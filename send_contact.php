@@ -8,10 +8,10 @@ $filter = new SpamFilter();
 
 header("Content-type:text/html; charset=utf-8");
 
-$allowed_origin = 'canakkale-webyazilim.com.tr/iletisim.php';
-if ($_SERVER['HTTP_REFERER'] !== $allowed_origin) {
-echo "bok";  exit;
-}
+//$allowed_origin = 'https://www.canakkale-webyazilim.com.tr/iletisim.php';
+//if ($_SERVER['HTTP_REFERER'] !== $allowed_origin) {
+//echo "bok";  exit;
+//}
 
 if (!empty($_POST)) {
 
