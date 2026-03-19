@@ -9,7 +9,7 @@ $filter = new SpamFilter();
 
 header("Content-type:text/html; charset=utf-8");
 
-$allowed_origin = 'https://www.canakkale-webyazilim.com.tr/';
+$allowed_origin = 'https://www.canakkale-webyazilim.com.tr/index';
 if ($_SERVER['HTTP_REFERER'] !== $allowed_origin) {
 echo "nok";  exit;
 }
