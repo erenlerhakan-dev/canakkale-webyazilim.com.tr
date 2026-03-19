@@ -21,6 +21,7 @@
 <li><a href="https://www.canakkale-webyazilim.com.tr/hizmetler" class="hover-style-link">Hizmetler</a></li>
 <li><a href="https://www.canakkale-webyazilim.com.tr/blog/index" class="hover-style-link">Teknolojiler</a></li>
 <li><a href="https://www.canakkale-webyazilim.com.tr/iletisim" class="hover-style-link">İletişim</a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/kvkk" class="hover-style-link">KVKK</a></li>
 </ul>
 </div>
 

@@ -2,20 +2,21 @@
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
-<title>Çanakkale Web Yazılım - Profesyonel Web Geliştirme ve Yazılım Çözümleri</title>
-<meta name="description" content="Çanakkale Web Yazılım - Profesyonel Web Geliştirme ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Rezervasyon Sistemleri ve Laravel, React, Django ve daha fazlasıyla özel yazılım geliştirme.">
+<title>Hizmetlerimiz | Web Yazılım, Mobil Uygulama, Özel Yazılım | Çözüm Cloud Çanakkale</title>
+<meta name="description" content="Çözüm Cloud, web tasarım, mobil uygulama geliştirme, özel yazılım çözümleri ve bulut hizmetleri ile işletmenizin dijital dönüşümünü destekler.">
+<meta name="keywords" content="web tasarım, mobil uygulama, özel yazılım, bulut hizmetleri, Çanakkale yazılım">
 
 <?php include_once('head_meta.php'); ?>
 
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.canakkale-webyazilim.com.tr">
-<meta property="og:title" content="Çanakkale Web Yazılım - Profesyonel Web Geliştirme ve Yazılım Çözümleri">
-<meta property="og:description" content="Çanakkale Web Yazılım - Profesyonel Web Geliştirme ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Rezervasyon Sistemleri ve Laravel, React, Django ve daha fazlasıyla özel yazılım geliştirme.">
+<meta property="og:title" content="Hizmetlerimiz | Web Yazılım, Mobil Uygulama, Özel Yazılım | Çözüm Cloud Çanakkale">
+<meta property="og:description" content="Çözüm Cloud, web tasarım, mobil uygulama geliştirme, özel yazılım çözümleri ve bulut hizmetleri ile işletmenizin dijital dönüşümünü destekler.">
 <meta property="og:image" content="https://www.canakkale-webyazilim.com.tr/images/cozum-cloud-logo.png">
 
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Çanakkale Web Yazılım - Profesyonel Web Geliştirme ve Yazılım Çözümleri">
-<meta name="twitter:description" content="Çanakkale Web Yazılım - Profesyonel Web Geliştirme ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Rezervasyon Sistemleri ve Laravel, React, Django ve daha fazlasıyla özel yazılım geliştirme.">
+<meta name="twitter:title" content="Hizmetlerimiz | Web Yazılım, Mobil Uygulama, Özel Yazılım | Çözüm Cloud Çanakkale">
+<meta name="twitter:description" content="Çözüm Cloud, web tasarım, mobil uygulama geliştirme, özel yazılım çözümleri ve bulut hizmetleri ile işletmenizin dijital dönüşümünü destekler.">
 <meta name="twitter:image" content="https://www.canakkale-webyazilim.com.tr/images/cozum-cloud-logo.png">
 
 <script type="application/ld+json" data-rh="true">{"@context":"https://schema.org","@type":"LocalBusiness","name":"Çanakkale Web Yazılım","url":"https://canakkale-webyazilim.com.tr","logo":"https://www.canakkale-webyazilim.com.tr/logo.png","description":"Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri","address":{"@type":"PostalAddress","streetAddress":"Esenler Mh. Ahmet Piriştina Cd. No:19 Daire:17","addressLocality":"Çanakkale","postalCode":"17000","addressCountry":"TR"},"contactPoint":{"@type":"ContactPoint","telephone":"+90-534-792-2531","contactType":"customer service","email":"info@cozumcloud.com.tr"},"sameAs":["https://www.facebook.com/cozum.cloud/","https://x.com/cozumcloud","https://www.instagram.com/cozum.cloud/","https://www.linkedin.com/company/cozum-cloud"]}</script>
