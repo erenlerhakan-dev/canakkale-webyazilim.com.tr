@@ -57,6 +57,7 @@
 </div>
 
 <div class="footer-copyright-area section-space--pb_30">
+<h6 class="footer-widget__title mb-20">...</h6>
 <div class="container">
 <div class="row align-items-center">
 
