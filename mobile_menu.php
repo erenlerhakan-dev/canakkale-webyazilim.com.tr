@@ -31,20 +31,20 @@
 <li><a href="https://www.canakkale-webyazilim.com.tr/hakkimizda">Hakkımızda</a></li>
 
 <li class="has-children">
-<a href="/hizmetler">Hizmetler</a>
+<a href="https://www.canakkale-webyazilim.com.tr/hizmetler">Hizmetler</a>
 <ul class="sub-menu">
-<li><a href="/hizmetlerimiz/ozel-web-gelistirme"><span>Özel Web Geliştirme</span></a></li>
-<li><a href="/hizmetlerimiz/crm-sistemleri"><span>CRM Sistemleri</span></a></li>
-<li><a href="/hizmetlerimiz/erp-cozumleri"><span>ERP Çözümleri</span></a></li>
-<li><a href="/hizmetlerimiz/e-ticaret-cozumleri"><span>E-Ticaret Çözümleri</span></a></li>
-<li><a href="/hizmetlerimiz/mobil-uygulamalar"><span>Mobil Uygulamalar</span></a></li>
-<li><a href="/hizmetlerimiz/rezervasyon-sistemleri"><span>Rezervasyon Sistemleri</span></a></li>
-<li><a href="/hizmetlerimiz/ozel-yazilim-gelistirme"><span>Özel Yazılım Geliştirme</span></a></li>
-<li><a href="/hizmetlerimiz/b2b-ve-b2c-cozumleri"><span>B2B & B2C Çözümleri</span></a></li>
-<li><a href="/hizmetlerimiz/api-gelistirme"><span>API Geliştirme</span></a></li>
-<li><a href="/hizmetlerimiz/sunucu-guvenligi-ve-bakimi"><span>Sunucu Güvenliği ve Bakımı</span></a></li>
-<li><a href="/hizmetlerimiz/yazilim-performans-optimizasyonu"><span>Yazılım Performans Optimizasyonu</span></a></li>
-<li><a href="/hizmetlerimiz/teknik-danismanlik"><span>Teknik Danışmanlık</span></a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/ozel-web-gelistirme"><span>Özel Web Geliştirme</span></a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/crm-sistemleri"><span>CRM Sistemleri</span></a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/erp-cozumleri"><span>ERP Çözümleri</span></a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/e-ticaret-cozumleri"><span>E-Ticaret Çözümleri</span></a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/mobil-uygulamalar"><span>Mobil Uygulamalar</span></a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/rezervasyon-sistemleri"><span>Rezervasyon Sistemleri</span></a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/ozel-yazilim-gelistirme"><span>Özel Yazılım Geliştirme</span></a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/b2b-ve-b2c-cozumleri"><span>B2B & B2C Çözümleri</span></a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/api-gelistirme"><span>API Geliştirme</span></a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/sunucu-guvenligi-ve-bakimi"><span>Sunucu Güvenliği ve Bakımı</span></a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/yazilim-performans-optimizasyonu"><span>Yazılım Performans Optimizasyonu</span></a></li>
+<li><a href="https://www.canakkale-webyazilim.com.tr/hizmetlerimiz/teknik-danismanlik"><span>Teknik Danışmanlık</span></a></li>
 </ul>
 </li>
 

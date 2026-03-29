@@ -29,25 +29,25 @@
 <p class="text">Don't forget to get a quote from us for any software or IT support you need.</p>
 </div>
 
-<form id="contact-form" action="" method="post">
+<form id="request_form" method="post">
 <div class="contact-form__two">
 
 <div class="contact-inner contact-inner-home">
-<input name="con_name" type="text" placeholder="Name Surname *">
+<input name="_name" type="text" placeholder="Name Surname *">
 </div>
 
 <div class="contact-inner contact-inner-home">
-<input name="con_email" type="email" placeholder="E-mail *">
+<input name="_email" type="email" placeholder="E-mail *">
 </div>
 
 <div class="contact-inner contact-inner-home">
-<input name="con_email" type="text" placeholder="Phone *">
+<input name="_phone" type="text" placeholder="Phone *">
 </div>
 
 <div class="contact-select">
 <div class="form-item contact-inner contact-inner-home">
 <span class="inquiry">
-<select name="Visiting" class="nicesel">
+<select name="_serv" class="nicesel">
 <option disabled selected>Subject *</option>
 <option value="General">General</option>
 <option value="Custom Web Development">Custom Web Development</option>
@@ -68,11 +68,11 @@
 </div>
 
 <div class="contact-inner contact-inner-home contact-message">
-<textarea name="con_message" placeholder="Your request / message." style="height: 100px"></textarea>
+<textarea name="_message" placeholder="Your request / message." style="height: 100px"></textarea>
 </div>
 
 <div class="comment-submit-btn text-center">
-<button class="ht-btn ht-btn-md" type="submit">Send</button>
+<button class="ht-btn ht-btn-md" type="button" id="request_button">Send</button>
 <p class="form-messege"></p>
 </div>
 

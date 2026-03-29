@@ -14,17 +14,17 @@
 <div class="col-lg-6">
 <div class="contact-form-wrap">
 
-<form class="contact-form" id="contact-form-2" method="post">
+<form class="contact-form" id="request_form" method="post">
 <div class="contact-form__two">
 
 <div class="contact-input">
 
 <div class="contact-inner">
-<input name="con_name" type="text" placeholder="Name Surname *">
+<input name="_name" type="text" placeholder="Name Surname *">
 </div>
 
 <div class="contact-inner">
-<input name="con_email" type="email" placeholder="Email *">
+<input name="_email" type="email" placeholder="Email *">
 </div>
 
 </div>
@@ -32,13 +32,13 @@
 <div class="contact-input">
 
 <div class="contact-inner">
-<input name="con_name" type="text" placeholder="Phone *">
+<input name="_phone" type="text" placeholder="Phone *">
 </div>
 
 <div class="contact-select">
 <div class="form-item contact-inner">
 <span class="inquiry">
-<select name="Visiting" class="nicesel">
+<select name="_serv" class="nicesel">
 <option disabled selected>Subject *</option>
 <option value="General">General</option>
 <option value="Custom Web Development">Custom Web Development</option>
@@ -61,11 +61,11 @@
 </div>
 
 <div class="contact-inner contact-message">
-<textarea name="con_message" placeholder="Your request / message"></textarea>
+<textarea name="_message" placeholder="Your request / message"></textarea>
 </div>
 
 <div class="comment-submit-btn">
-<button class="ht-btn ht-btn-md" type="submit">Send</button>
+<button class="ht-btn ht-btn-md" type="button" id="request_button">Send</button>
 </div>
 
 </div>

@@ -61,6 +61,31 @@
 <?php include_once('../footer_scripts.php'); ?>
 
 <script>
+$("#request_button").click(function() {
+
+$.ajax({
+url: "/send_request",
+type: 'POST',
+data: $('#request_form').serialize(),
+success: function(response){ 
+if (response === "ok") { swal(" ", "Thank you. Your message has been sent. We will get back to you as soon as possible.", "success"); }
+$("#request_form")[0].reset();
+$("#request_button").attr("disabled", true);
+} 
+if (response === "name") { swal(" ", "Please enter your name.", "warning"); }
+if (response === "emailbad") { swal(" ", "Your email address is incorrect. Please check and try again.", "warning"); }
+if (response === "email") { swal(" ", "Please enter your email address.", "warning"); }
+if (response === "phone") { swal(" ", "Please enter your phone number.", "warning"); }
+if (response === "message") { swal(" ", "Please enter your message.", "warning"); }
+if (response === "message_short") { swal(" ", "Please write a more descriptive message.", "warning"); }
+if (response === "nok") { swal(" ", "An error occurred. Please refresh the page and try again.", "warning"); }
+if (response === "bad") { swal(" ", "An error occurred. Please refresh the page and try again.", "warning"); }
+});
+
+});
+</script>
+
+<script>
 $(document).ready(function() {
 $('.nicesel').niceSelect();
 });

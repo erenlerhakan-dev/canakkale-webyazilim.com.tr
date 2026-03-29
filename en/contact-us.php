@@ -4,6 +4,7 @@
 <head>
 <title>Çanakkale Web Development - Professional Web Development and Software Solutions</title>
 <meta name="description" content="Çanakkale Web Development - Professional Web Development and Software Solutions. Professional web development and software solutions in Canakkale, Türkiye. CRM, ERP, E-commerce, Reservation Systems and Custom Software Development with Laravel, React, Django and more.">
+<meta name="keywords" content="çözüm cloud, çanakkale yazılım firması, web geliştirme, teknoloji çözümleri, profesyonel yazılım">
 
 <?php include_once('head_meta.php'); ?>
 
@@ -48,7 +49,7 @@
 <div class="col-lg-6 col-lg-6">
 <div class="contact-form-wrap">
 
-<h4>Send us a message.</h4>
+<h4>Send us a message</h4>
 
 <form id="contact-form" method="post">
 
@@ -57,28 +58,27 @@
 <div class="contact-input">
 
 <div class="contact-inner">
-<input name="con_name" type="text" placeholder="Name Surname *" required>
+<input name="_name" type="text" placeholder="Name Surname *" required>
 </div>
 
 <div class="contact-inner">
-<input name="con_email" type="email" placeholder="E-mail *" required>
+<input name="_email" type="email" placeholder="E-mail *" required>
 </div>
 
 </div>
 
 <div class="contact-inner">
-<input name="con_name" type="text" placeholder="Phone *" required>
+<input name="_phone" type="text" placeholder="Phone *" required>
 </div>
 
 </div>
 
 <div class="contact-inner contact-message">
-<textarea name="con_message" placeholder="Message *" required></textarea>
+<textarea name="_message" placeholder="Message *" required></textarea>
 </div>
 
 <div class="submit-btn mt-20">
-<button class="ht-btn ht-btn-md" type="submit">Send</button>
-<p class="form-messege"></p>
+<button class="ht-btn ht-btn-md" type="button" id="contact_button">Send</button>
 </div>
 
 </form>
@@ -139,6 +139,31 @@
 <?php include_once('mobile_menu.php'); ?>
 
 <?php include_once('../footer_scripts.php'); ?>
+
+<script>
+$("#contact_button").click(function() {
+
+$.ajax({
+url: "/send_contact",
+type: 'POST',
+data: $('#contact_form').serialize(),
+success: function(response){ 
+if (response === "ok") { swal(" ", "Thank you. Your message has been sent. We will get back to you as soon as possible.", "success"); }
+$("#contact_form")[0].reset();
+$("#contact_button").attr("disabled", true);
+} 
+if (response === "name") { swal(" ", "Please enter your name.", "warning"); }
+if (response === "emailbad") { swal(" ", "Your email address is incorrect. Please check and try again.", "warning"); }
+if (response === "email") { swal(" ", "Please enter your email address.", "warning"); }
+if (response === "phone") { swal(" ", "Please enter your phone number.", "warning"); }
+if (response === "message") { swal(" ", "Please enter your message.", "warning"); }
+if (response === "message_short") { swal(" ", "Please write a more descriptive message.", "warning"); }
+if (response === "nok") { swal(" ", "An error occurred. Please refresh the page and try again.", "warning"); }
+if (response === "bad") { swal(" ", "An error occurred. Please refresh the page and try again.", "warning"); }
+});
+
+});
+</script>
 
 </body>
 
