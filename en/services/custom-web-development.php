@@ -69,7 +69,7 @@ $a4     = "The process includes needs analysis and planning, design and prototyp
 
 <div class="col-lg-4">
 <div class="modern-number-01">
-<h3 class="heading mt-30">>Customized Web Solutions <span class="text-color-primary"> for Your <br> Business</span></h3>
+<h3 class="heading mt-30">Customized Web Solutions <span class="text-color-primary"> for Your <br> Business</span></h3>
 </div>
 </div>
 
