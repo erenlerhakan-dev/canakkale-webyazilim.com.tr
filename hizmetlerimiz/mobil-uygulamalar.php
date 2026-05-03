@@ -186,6 +186,8 @@ Geliştirme Süreci <span><i class="fas fa-chevron-circle-down"></i>
 
 <?php include_once('../mobile_menu.php'); ?>
 
+<?php include_once('../cookie_modal.php'); ?>
+
 <?php include_once('../footer_scripts.php'); ?>
 
 </body>

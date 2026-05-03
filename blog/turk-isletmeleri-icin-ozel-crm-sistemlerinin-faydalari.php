@@ -124,6 +124,8 @@ $alt    = "türk i̇şletmeleri için özel crm sistemlerinin faydaları";
 
 <?php include_once('../mobile_menu.php'); ?>
 
+<?php include_once('../cookie_modal.php'); ?>
+
 <?php include_once('../footer_scripts.php'); ?>
 
 </body>

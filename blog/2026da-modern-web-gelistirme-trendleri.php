@@ -135,6 +135,8 @@ $alt    = "2026'da modern web geliştirme trendleri";
 
 <?php include_once('../mobile_menu.php'); ?>
 
+<?php include_once('../cookie_modal.php'); ?>
+
 <?php include_once('../footer_scripts.php'); ?>
 
 </body>
