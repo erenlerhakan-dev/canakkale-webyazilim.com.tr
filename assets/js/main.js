@@ -1034,33 +1034,7 @@
         delay: 10,
         time: 1000
     });
-   
-    /*===================================
-        Svg Icon Draw
-    ====================================*/ 
-    var $svgIconBox = $('.single-svg-icon-box');
-    $svgIconBox.each(function() {
-        var $this = $(this),
-            $svgIcon = $this.find('.svg-icon'),
-            $id = $svgIcon.attr('id'),
-            $icon = $svgIcon.data('svg-icon');
-        $('.svg-icon-container').each(function() { // Sizin kullandığınız class ismi neyse
-    var element = $(this).find('svg')[0]; // Konteyner içindeki SVG'yi bulur
-    
-    if (element) {
-        new Vivus(element, {
-            duration: 200,
-            type: 'delayed',
-            forceRender: false
-        });
-    } else {
-        console.warn("Vivus: SVG elemanı bulunamadı, atlanıyor.", this);
-    }
-});
-        $this.on('mouseenter', function () {
-            $vivus.reset().play();
-        });
-    });
+
     
     /*=====================================
     =          Countdown Time Circles     =
