@@ -24,8 +24,8 @@
 
 <p><?php echo $sitesettings['site_policy_box_footer']; ?></p>
 
-<button type="button" class="btn btn-primary btn-sm acceptcookies" style="float: right;" data-bs-dismiss="modal" onclick='$(".cookiealert").hide();'>Accept</button>
-<button type="button" class="btn btn-default btn-sm" style="float: right;" data-bs-dismiss="modal">Cancel</button>
+<button type="button" class="ht-btn ht-btn-xs acceptcookies" style="float: right;margin-left: 10px;" data-bs-dismiss="modal" onclick='$(".cookiealert").hide();'>Accept</button>
+<button type="button" class="ht-btn ht-btn-xs" style="float: right;" data-bs-dismiss="modal">Cancel</button>
 
 </div>
 
