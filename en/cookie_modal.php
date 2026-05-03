@@ -9,16 +9,16 @@
 <p>We use tools such as cookies to provide essential services and functionality on our site and to collect data about how you interact with our site and services.</p>
 
 <div class="form-group form-check">
-<input type="checkbox" class="form-check-input" id="exampleCheck1" checked="checked">
-<label class="form-check-label" for="exampleCheck1"><b>Technically Necessary Cookies and Technologies</b></label>
+<input type="checkbox" class="form-input" id="cookieCheck1" checked="checked">
+<label class="form-check-label" for="cookieCheck1"><b>Technically Necessary Cookies and Technologies</b></label>
 </div>
 <span style='display: block;margin-left: 25px;'>These cookies are essential for our website to be accessible, usable and function properly for you. Without these cookies, our website cannot function properly.</span>
 
 <br>
 
 <div class="form-group form-check">
-<input type="checkbox" class="form-check-input" id="exampleCheck2">
-<label class="form-check-label" for="exampleCheck2"><b>Analytical and Performance Cookies</b></label>
+<input type="checkbox" class="form-input" id="cookieCheck2">
+<label class="form-check-label" for="cookieCheck2"><b>Analytical and Performance Cookies</b></label>
 </div>
 <span style='display: block;margin-left: 25px;'>We are constantly working to improve the usability and performance of our website. For this reason, we use analysis technologies (cookies) to track and evaluate which functions and content on our website are used, how much they are used, and so that we can improve our website for you and provide you with a better experience.</span>
 
