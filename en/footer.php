@@ -92,3 +92,19 @@
 </div>
 
 </div>
+
+<div class="alert text-center cookiealert" role="alert">
+We use cookies to provide basic functionality on our site and to collect information about how visitors interact with our site. <a href="https://www.canakkale-webyazilim.com.tr/en/gdpr" target="_blank">Learn More</a>
+<br class="d-block d-sm-none">
+<span class="btn btn-success rounded-pill mx-1 mb-2 mb-md-0 acceptcookies">Accept</span>
+<span class="btn btn-primary rounded-pill mx-1 mb-2 mb-md-0" data-bs-toggle="modal" data-bs-target="#cookie_bildirim">Edit</span>
+</div>
+
+<div class="sol-alt-butonlar">
+<a href="tel:+90 534 792 25 31" class="icon-link telefon" title="Call Us">
+<i class="fas fa-phone"></i>
+</a>
+<a href="https://wa.me/905347922531" class="icon-link whatsapp" target="_blank" title="WhatsApp Message">
+<i class="fab fa-whatsapp"></i>
+</a>
+</div>
