@@ -25,7 +25,7 @@
 <p><?php echo $sitesettings['site_policy_box_footer']; ?></p>
 
 <button type="button" class="ht-btn ht-btn-xs acceptcookies" style="float: right;margin-left: 10px;" data-bs-dismiss="modal" onclick='$(".cookiealert").hide();'>Kabul Et</button>
-<button type="button" class="ht-btn ht-btn-xs" style="float: right;" data-bs-dismiss="modal">İptal Et</button>
+<button type="button" class="ht-btn btn--secondary ht-btn-xs" style="float: right;" data-bs-dismiss="modal">İptal Et</button>
 
 </div>
 
