@@ -92,3 +92,12 @@
 </div>
 
 </div>
+
+<div class="sol-alt-butonlar">
+<a href="tel:+90 534 792 25 31" class="icon-link telefon" title="Bizi Arayın">
+<i class="fas fa-phone"></i>
+</a>
+<a href="https://wa.me/905347922531" class="icon-link whatsapp" target="_blank" title="WhatsApp Mesaj Gönder">
+<i class="fab fa-whatsapp"></i>
+</a>
+</div>
