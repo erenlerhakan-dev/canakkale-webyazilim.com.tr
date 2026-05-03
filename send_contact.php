@@ -53,16 +53,16 @@ $mail->SMTPOptions = array(
                     )
                     );
 $mail->SMTPSecure  = "TSL";
-$mail->Host        = "smtppro.zoho.eu";
+$mail->Host        = "mail.cozum.cloud";
 $mail->Port        = 587;
-$mail->Username    = "info@cozumcloud.com.tr";
-$mail->Password    = "BEWH 09pX 3kDQ";
+$mail->Username    = "info@cozum.cloud";
+$mail->Password    = "XGanaGX878!";
 $mail->IsHTML(true);
-$mail->SetFrom("info@cozumcloud.com.tr", "Çözüm Cloud");
+$mail->SetFrom("info@cozum.cloud", "Çözüm Cloud");
 $mail->Subject     = $subject;
 $mail->MsgHTML($emailbodytext);
 
-$address = "info@cozumcloud.com.tr";
+$address = "info@cozum.cloud";
 
 $mail->AddAddress($address);
 
