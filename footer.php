@@ -67,6 +67,9 @@
 
 <ul class="list ht-social-networks solid-rounded-icon">
 <li class="item">
+<a href="//www.dmca.com/Protection/Status.aspx?ID=6817da86-85dd-4fc0-9424-2ef9e2819ffe" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120l.png?ID=6817da86-85dd-4fc0-9424-2ef9e2819ffe"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
+</li>
+<li class="item">
 <a href="https://x.com/cozumcloud" target="_blank" aria-label="Twitter" class="social-link hint--bounce hint--top hint--primary">
 <i class="fab fa-twitter link-icon"></i>
 </a>
@@ -84,33 +87,6 @@
 <li class="item">
 <a href="https://www.linkedin.com/company/cozum-cloud" target="_blank" aria-label="Linkedin" class="social-link hint--bounce hint--top hint--primary">
 <i class="fab fa-linkedin link-icon"></i>
-</a>
-</li>
-</ul>
-</div>
-
-</div>
-</div>
-</div>
-
-<div class="footer-copyright-area section-space--pb_30">
-<div class="container">
-<div class="row align-items-center">
-
-<div class="col-md-12 text-center text-md-center">
-
-<ul class="list ht-social-networks">
-<li class="item">
-<a href="//www.dmca.com/Protection/Status.aspx?ID=6817da86-85dd-4fc0-9424-2ef9e2819ffe" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120l.png?ID=6817da86-85dd-4fc0-9424-2ef9e2819ffe"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
-</li>
-<li class="item">
-<script async src='https://static.mywot.com/website_owners_badges/websiteOwnersBadge.js'></script>
-<a id='wot-badge0' class='wot-badge' href='https://www.mywot.com/scorecard/canakkale-webyazilim.com.tr?wot_badge=0_white' target='_blank' >
-<div class='wot-logo'></div>
-<div class='wot-shield'></div>
-<p class='wot-secured'>Verified Website</p>
-<div class='wot-vertical'></div>
-<p class='wot-report'>See Report</p>
 </a>
 </li>
 </ul>

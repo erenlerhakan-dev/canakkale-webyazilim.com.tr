@@ -65,6 +65,9 @@
 <div class="col-md-6 text-center text-md-end">
 <ul class="list ht-social-networks solid-rounded-icon">
 <li class="item">
+<a href="//www.dmca.com/Protection/Status.aspx?ID=6817da86-85dd-4fc0-9424-2ef9e2819ffe" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120l.png?ID=6817da86-85dd-4fc0-9424-2ef9e2819ffe"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
+</li>
+<li class="item">
 <a href="https://x.com/cozumcloud" target="_blank" aria-label="Twitter" class="social-link hint--bounce hint--top hint--primary">
 <i class="fab fa-twitter link-icon"></i>
 </a>
