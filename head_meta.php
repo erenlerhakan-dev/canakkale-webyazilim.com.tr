@@ -25,7 +25,7 @@
 <meta name="msvalidate.01" content="" />
 <meta name="yandex-verification" content="" />
 <meta name="wot-verification" content="e4bfd64367d3557ee6c6"/>
-<meta name="norton-safeweb-site-verification" content="" />
+<meta name="norton-safeweb-site-verification" content="WFTCKJBS4X7-9PJZBNDOGLPT4QS19DJZDX7-TS91FZM50ZRVYES0QCU6-BMK0H1NO5H8RRL750OSMIC0C5CRGRQ8S985KB1UEMM2YT97VLSV7QOTLK79N7LWUNBGM744" />
 <meta name='dmca-site-verification' content='U05FcGh1OHpyWHFKMnpyOVpXaHFFM096QTNVYkJtaE90RDNlZzZQQUs2ST01' />
 <meta name="p:domain_verify" content=""/>
 <meta name="wot-verification" content=""/>
