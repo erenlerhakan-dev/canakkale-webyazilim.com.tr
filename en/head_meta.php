@@ -13,6 +13,7 @@
 <link rel="stylesheet" href="/assets/css/plugins/animate.min.css">
 <link rel="stylesheet" href="/assets/css/style.css">
 <link rel="stylesheet" href="/assets/css/nice-select.css">
+<link rel="stylesheet" href="/assets/css/hakan.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.css">
 
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.canakkale-webyazilim.com.tr/images/cozum-cloud-logo.png">
@@ -21,13 +22,12 @@
 <link rel="apple-touch-icon-precomposed" href="https://www.canakkale-webyazilim.com.tr/images/cozum-cloud-logo.png">
 
 <meta name="google-site-verification" content="" />
-<meta name="msvalidate.01" content="" />
-<meta name="yandex-verification" content="" />
-<meta name="wot-verification" content=""/>
-<meta name="norton-safeweb-site-verification" content="" />
-<meta name='dmca-site-verification' content='' />
-<meta name="p:domain_verify" content=""/>
-<meta name="wot-verification" content=""/>
+<meta name="msvalidate.01" content="C3742B7D9F2B083B63595B129229BA05" />
+<meta name="yandex-verification" content="f2876324e772e1ba" />
+<meta name="wot-verification" content="e4bfd64367d3557ee6c6"/>
+<meta name="norton-safeweb-site-verification" content="WFTCKJBS4X7-9PJZBNDOGLPT4QS19DJZDX7-TS91FZM50ZRVYES0QCU6-BMK0H1NO5H8RRL750OSMIC0C5CRGRQ8S985KB1UEMM2YT97VLSV7QOTLK79N7LWUNBGM744" />
+<meta name='dmca-site-verification' content='U05FcGh1OHpyWHFKMnpyOVpXaHFFM096QTNVYkJtaE90RDNlZzZQQUs2ST01' />
+<meta name="p:domain_verify" content="ddd609931dd8c4840bc49f9fadcd5618"/>
 
 <meta name="author" content="Canakkale Web Development https://www.canakkale-webyazilim.com.tr">
 <meta name="publisher" content="Canakkale Web Development https://www.canakkale-webyazilim.com.tr">
@@ -43,3 +43,11 @@
 <meta name="content-language" content="en-US" />
 
 <link rel="canonical" href="<?php echo $_SERVER['HTTP_REFERER']; ?>">
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5C3NNFG53C"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-5C3NNFG53C');
+</script>
