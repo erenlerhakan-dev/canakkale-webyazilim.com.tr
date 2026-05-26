@@ -24,7 +24,7 @@
 <meta name="google-site-verification" content="" />
 <meta name="msvalidate.01" content="" />
 <meta name="yandex-verification" content="" />
-<meta name="wot-verification" content=""/>
+<meta name="wot-verification" content="e4bfd64367d3557ee6c6"/>
 <meta name="norton-safeweb-site-verification" content="" />
 <meta name='dmca-site-verification' content='U05FcGh1OHpyWHFKMnpyOVpXaHFFM096QTNVYkJtaE90RDNlZzZQQUs2ST01' />
 <meta name="p:domain_verify" content=""/>
