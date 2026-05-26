@@ -110,6 +110,7 @@
 <div class='wot-shield'></div>
 <p class='wot-secured'>Verified Website</p>
 <div class='wot-vertical'></div>
+<p class='wot-report'>See Report</p>
 </a>
 </li>
 </ul>
